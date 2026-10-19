@@ -71,3 +71,7 @@ Le domande d'esame dell'app devono essere originali: i materiali ufficiali servo
 per formato, tempi e pause.
 
 Componenti di terze parti del prototipo: vedi [app_prototype/vendor/LICENSES.md](app_prototype/vendor/LICENSES.md).
+
+## App iOS nativa
+
+Il progetto SwiftUI (iOS 17+) è in [ios/](ios/README.md). Apri `ios/Bubu.xcodeproj` con Xcode.

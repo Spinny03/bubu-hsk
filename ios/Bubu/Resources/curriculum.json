@@ -1,0 +1,4939 @@
+{
+  "version": "2025-11 / 2025-12",
+  "words": [
+    {
+      "id": 1,
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "category": "动",
+      "unit": 1,
+      "italian": "amare, voler bene",
+      "emoji": "❤️"
+    },
+    {
+      "id": 2,
+      "hanzi": "八",
+      "pinyin": "bā",
+      "category": "数",
+      "unit": 2,
+      "italian": "otto",
+      "emoji": "8️⃣"
+    },
+    {
+      "id": 3,
+      "hanzi": "爸爸",
+      "pinyin": "bàba",
+      "category": "名",
+      "unit": 1,
+      "italian": "papà, padre",
+      "emoji": "👨"
+    },
+    {
+      "id": 4,
+      "hanzi": "吧",
+      "pinyin": "ba",
+      "category": "助",
+      "unit": 6,
+      "italian": "particella: proposta, supposizione",
+      "emoji": ""
+    },
+    {
+      "id": 5,
+      "hanzi": "白天",
+      "pinyin": "báitiān",
+      "category": "名",
+      "unit": 2,
+      "italian": "giorno, di giorno",
+      "emoji": "🌞"
+    },
+    {
+      "id": 6,
+      "hanzi": "百",
+      "pinyin": "bǎi",
+      "category": "数",
+      "unit": 2,
+      "italian": "cento",
+      "emoji": "💯"
+    },
+    {
+      "id": 7,
+      "hanzi": "半",
+      "pinyin": "bàn",
+      "category": "数、（副）",
+      "unit": 2,
+      "italian": "metà, mezzo",
+      "emoji": "🌓"
+    },
+    {
+      "id": 8,
+      "hanzi": "包子",
+      "pinyin": "bāozi",
+      "category": "名",
+      "unit": 15,
+      "italian": "panino al vapore ripieno",
+      "emoji": "🥟"
+    },
+    {
+      "id": 9,
+      "hanzi": "杯子",
+      "pinyin": "bēizi",
+      "category": "名",
+      "unit": 3,
+      "italian": "bicchiere, tazza",
+      "emoji": "🥛"
+    },
+    {
+      "id": 10,
+      "hanzi": "本",
+      "pinyin": "běn",
+      "category": "量",
+      "unit": 3,
+      "italian": "classificatore per libri",
+      "emoji": "📚"
+    },
+    {
+      "id": 11,
+      "hanzi": "边",
+      "pinyin": "biān",
+      "category": "名、后缀",
+      "unit": 5,
+      "italian": "lato, bordo, parte",
+      "emoji": ""
+    },
+    {
+      "id": 12,
+      "hanzi": "病",
+      "pinyin": "bìng",
+      "category": "名、动",
+      "unit": 10,
+      "italian": "malattia; ammalarsi",
+      "emoji": "🤒"
+    },
+    {
+      "id": 13,
+      "hanzi": "不",
+      "pinyin": "bù",
+      "category": "副",
+      "unit": 1,
+      "italian": "non, no",
+      "emoji": "🚫"
+    },
+    {
+      "id": 14,
+      "hanzi": "不客气",
+      "pinyin": "bú kèqi",
+      "category": "",
+      "unit": 6,
+      "italian": "prego, non c'è di che",
+      "emoji": "🙏"
+    },
+    {
+      "id": 15,
+      "hanzi": "不要",
+      "pinyin": "búyào",
+      "category": "副",
+      "unit": 6,
+      "italian": "non (fare)!, non devi",
+      "emoji": "🚫"
+    },
+    {
+      "id": 16,
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "category": "名",
+      "unit": 7,
+      "italian": "piatto, pietanza; verdura",
+      "emoji": "🥬"
+    },
+    {
+      "id": 17,
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "category": "名",
+      "unit": 15,
+      "italian": "tè",
+      "emoji": "🍵"
+    },
+    {
+      "id": 18,
+      "hanzi": "唱",
+      "pinyin": "chàng",
+      "category": "动",
+      "unit": 11,
+      "italian": "cantare",
+      "emoji": "🎤"
+    },
+    {
+      "id": 19,
+      "hanzi": "超市",
+      "pinyin": "chāoshì",
+      "category": "名",
+      "unit": 9,
+      "italian": "supermercato",
+      "emoji": "🛒"
+    },
+    {
+      "id": 20,
+      "hanzi": "车",
+      "pinyin": "chē",
+      "category": "名",
+      "unit": 8,
+      "italian": "veicolo, auto (辆 liàng)",
+      "emoji": "🚗"
+    },
+    {
+      "id": 21,
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "category": "动",
+      "unit": 7,
+      "italian": "mangiare",
+      "emoji": "😋"
+    },
+    {
+      "id": 22,
+      "hanzi": "出租车",
+      "pinyin": "chūzūchē",
+      "category": "名",
+      "unit": 8,
+      "italian": "taxi (辆 liàng)",
+      "emoji": "🚕"
+    },
+    {
+      "id": 23,
+      "hanzi": "穿",
+      "pinyin": "chuān",
+      "category": "动",
+      "unit": 9,
+      "italian": "indossare, vestirsi",
+      "emoji": "👕"
+    },
+    {
+      "id": 24,
+      "hanzi": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "category": "",
+      "unit": 6,
+      "italian": "telefonare",
+      "emoji": "📞"
+    },
+    {
+      "id": 25,
+      "hanzi": "大",
+      "pinyin": "dà",
+      "category": "形",
+      "unit": 3,
+      "italian": "grande; più vecchio",
+      "emoji": "🐘"
+    },
+    {
+      "id": 26,
+      "hanzi": "大家",
+      "pinyin": "dàjiā",
+      "category": "代",
+      "unit": 1,
+      "italian": "tutti",
+      "emoji": "👥"
+    },
+    {
+      "id": 27,
+      "hanzi": "大学",
+      "pinyin": "dàxué",
+      "category": "名",
+      "unit": 12,
+      "italian": "università (所 suǒ)",
+      "emoji": "🎓"
+    },
+    {
+      "id": 28,
+      "hanzi": "大学生",
+      "pinyin": "dàxuéshēng",
+      "category": "名",
+      "unit": 12,
+      "italian": "studente universitario",
+      "emoji": "🎓"
+    },
+    {
+      "id": 29,
+      "hanzi": "到",
+      "pinyin": "dào",
+      "category": "动",
+      "unit": 8,
+      "italian": "arrivare; fino a",
+      "emoji": "🏁"
+    },
+    {
+      "id": 30,
+      "hanzi": "的",
+      "pinyin": "de",
+      "category": "助",
+      "unit": 1,
+      "italian": "particella: possesso, attributo",
+      "emoji": ""
+    },
+    {
+      "id": 31,
+      "hanzi": "第",
+      "pinyin": "dì",
+      "category": "前缀",
+      "unit": 2,
+      "italian": "prefisso per numeri ordinali",
+      "emoji": "🥇"
+    },
+    {
+      "id": 32,
+      "hanzi": "弟弟",
+      "pinyin": "dìdi",
+      "category": "名",
+      "unit": 1,
+      "italian": "fratello minore",
+      "emoji": "👦"
+    },
+    {
+      "id": 33,
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "category": "量、（名）",
+      "unit": 2,
+      "italian": "ora (dell'orologio); punto",
+      "emoji": "🕐"
+    },
+    {
+      "id": 34,
+      "hanzi": "店",
+      "pinyin": "diàn",
+      "category": "名",
+      "unit": 9,
+      "italian": "negozio",
+      "emoji": "🏪"
+    },
+    {
+      "id": 35,
+      "hanzi": "电话",
+      "pinyin": "diànhuà",
+      "category": "名",
+      "unit": 6,
+      "italian": "telefono; telefonata",
+      "emoji": "📞"
+    },
+    {
+      "id": 36,
+      "hanzi": "电脑",
+      "pinyin": "diànnǎo",
+      "category": "名",
+      "unit": 3,
+      "italian": "computer (台 tái)",
+      "emoji": "💻"
+    },
+    {
+      "id": 37,
+      "hanzi": "电视",
+      "pinyin": "diànshì",
+      "category": "名",
+      "unit": 11,
+      "italian": "televisione",
+      "emoji": "📺"
+    },
+    {
+      "id": 38,
+      "hanzi": "电影",
+      "pinyin": "diànyǐng",
+      "category": "名",
+      "unit": 11,
+      "italian": "film (部 bù)",
+      "emoji": "🎬"
+    },
+    {
+      "id": 39,
+      "hanzi": "电影院",
+      "pinyin": "diànyǐngyuàn",
+      "category": "名",
+      "unit": 11,
+      "italian": "cinema (sala)",
+      "emoji": "🎦"
+    },
+    {
+      "id": 40,
+      "hanzi": "东西",
+      "pinyin": "dōngxi",
+      "category": "名",
+      "unit": 3,
+      "italian": "cosa, roba (件 jiàn)",
+      "emoji": "📦"
+    },
+    {
+      "id": 41,
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "category": "副",
+      "unit": 13,
+      "italian": "tutti, tutto; già",
+      "emoji": ""
+    },
+    {
+      "id": 42,
+      "hanzi": "读",
+      "pinyin": "dú",
+      "category": "动",
+      "unit": 12,
+      "italian": "leggere (ad alta voce); studiare",
+      "emoji": "📖"
+    },
+    {
+      "id": 43,
+      "hanzi": "读书",
+      "pinyin": "dúshū",
+      "category": "动",
+      "unit": 12,
+      "italian": "leggere; studiare",
+      "emoji": "📖"
+    },
+    {
+      "id": 44,
+      "hanzi": "对",
+      "pinyin": "duì",
+      "category": "形、介、（动、量）",
+      "unit": 6,
+      "italian": "giusto, corretto; verso, a",
+      "emoji": "✅"
+    },
+    {
+      "id": 45,
+      "hanzi": "对不起",
+      "pinyin": "duìbuqǐ",
+      "category": "动",
+      "unit": 6,
+      "italian": "scusa, mi dispiace",
+      "emoji": "🙇"
+    },
+    {
+      "id": 46,
+      "hanzi": "多",
+      "pinyin": "duō",
+      "category": "形、动、代、（数、副）",
+      "unit": 2,
+      "italian": "molto, molti; quanto",
+      "emoji": ""
+    },
+    {
+      "id": 47,
+      "hanzi": "多少",
+      "pinyin": "duōshao",
+      "category": "代",
+      "unit": 2,
+      "italian": "quanto, quanti",
+      "emoji": "❓"
+    },
+    {
+      "id": 48,
+      "hanzi": "儿子",
+      "pinyin": "érzi",
+      "category": "名",
+      "unit": 1,
+      "italian": "figlio (maschio)",
+      "emoji": "👦"
+    },
+    {
+      "id": 49,
+      "hanzi": "二",
+      "pinyin": "èr",
+      "category": "数",
+      "unit": 2,
+      "italian": "due",
+      "emoji": "2️⃣"
+    },
+    {
+      "id": 50,
+      "hanzi": "饭",
+      "pinyin": "fàn",
+      "category": "名",
+      "unit": 7,
+      "italian": "riso cotto; pasto",
+      "emoji": "🍚"
+    },
+    {
+      "id": 51,
+      "hanzi": "饭店",
+      "pinyin": "fàndiàn",
+      "category": "名",
+      "unit": 7,
+      "italian": "ristorante; hotel (家 jiā)",
+      "emoji": "🏨"
+    },
+    {
+      "id": 52,
+      "hanzi": "房间",
+      "pinyin": "fángjiān",
+      "category": "名",
+      "unit": 5,
+      "italian": "stanza, camera (间 jiān)",
+      "emoji": "🚪"
+    },
+    {
+      "id": 53,
+      "hanzi": "非常",
+      "pinyin": "fēicháng",
+      "category": "副",
+      "unit": 4,
+      "italian": "molto, estremamente",
+      "emoji": ""
+    },
+    {
+      "id": 54,
+      "hanzi": "飞机",
+      "pinyin": "fēijī",
+      "category": "名",
+      "unit": 8,
+      "italian": "aereo (架 jià)",
+      "emoji": "✈️"
+    },
+    {
+      "id": 55,
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "category": "量、（动、名）",
+      "unit": 2,
+      "italian": "dividere; minuto; punto, voto",
+      "emoji": "➗"
+    },
+    {
+      "id": 56,
+      "hanzi": "分钟",
+      "pinyin": "fēnzhōng",
+      "category": "量",
+      "unit": 2,
+      "italian": "minuto",
+      "emoji": "⏱️"
+    },
+    {
+      "id": 57,
+      "hanzi": "高兴",
+      "pinyin": "gāoxìng",
+      "category": "形",
+      "unit": 6,
+      "italian": "contento, felice",
+      "emoji": "😄"
+    },
+    {
+      "id": 58,
+      "hanzi": "歌",
+      "pinyin": "gē",
+      "category": "名",
+      "unit": 11,
+      "italian": "canzone (首 shǒu)",
+      "emoji": "🎵"
+    },
+    {
+      "id": 59,
+      "hanzi": "哥哥",
+      "pinyin": "gēge",
+      "category": "名",
+      "unit": 1,
+      "italian": "fratello maggiore",
+      "emoji": "👦"
+    },
+    {
+      "id": 60,
+      "hanzi": "个",
+      "pinyin": "gè",
+      "category": "量",
+      "unit": 3,
+      "italian": "classificatore generico",
+      "emoji": ""
+    },
+    {
+      "id": 61,
+      "hanzi": "给",
+      "pinyin": "gěi",
+      "category": "动、（介）",
+      "unit": 6,
+      "italian": "dare; a, per",
+      "emoji": "🎁"
+    },
+    {
+      "id": 62,
+      "hanzi": "公司",
+      "pinyin": "gōngsī",
+      "category": "名",
+      "unit": 14,
+      "italian": "azienda, società (家 jiā)",
+      "emoji": "🏢"
+    },
+    {
+      "id": 63,
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "category": "动、名",
+      "unit": 14,
+      "italian": "lavoro; lavorare",
+      "emoji": "💼"
+    },
+    {
+      "id": 64,
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "category": "名",
+      "unit": 3,
+      "italian": "cane (只 zhǐ, 条 tiáo)",
+      "emoji": "🐕"
+    },
+    {
+      "id": 65,
+      "hanzi": "贵",
+      "pinyin": "guì",
+      "category": "形",
+      "unit": 9,
+      "italian": "caro, costoso",
+      "emoji": "💰"
+    },
+    {
+      "id": 66,
+      "hanzi": "国",
+      "pinyin": "guó",
+      "category": "名",
+      "unit": 1,
+      "italian": "paese, nazione",
+      "emoji": "🏳️"
+    },
+    {
+      "id": 67,
+      "hanzi": "还",
+      "pinyin": "hái",
+      "category": "副",
+      "unit": 13,
+      "italian": "ancora; anche",
+      "emoji": ""
+    },
+    {
+      "id": 68,
+      "hanzi": "孩子",
+      "pinyin": "háizi",
+      "category": "名",
+      "unit": 1,
+      "italian": "bambino; figlio",
+      "emoji": "🧒"
+    },
+    {
+      "id": 69,
+      "hanzi": "汉语",
+      "pinyin": "Hànyǔ",
+      "category": "名",
+      "unit": 1,
+      "italian": "lingua cinese",
+      "emoji": "🇨🇳"
+    },
+    {
+      "id": 70,
+      "hanzi": "汉字",
+      "pinyin": "Hànzì",
+      "category": "名",
+      "unit": 12,
+      "italian": "carattere cinese",
+      "emoji": "🀄"
+    },
+    {
+      "id": 71,
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "category": "形、（副）、（动）",
+      "unit": 3,
+      "italian": "buono, bene",
+      "emoji": "👍"
+    },
+    {
+      "id": 72,
+      "hanzi": "好吃",
+      "pinyin": "hǎochī",
+      "category": "形",
+      "unit": 7,
+      "italian": "buono (da mangiare)",
+      "emoji": "😋"
+    },
+    {
+      "id": 73,
+      "hanzi": "好看",
+      "pinyin": "hǎokàn",
+      "category": "形",
+      "unit": 11,
+      "italian": "bello (da vedere)",
+      "emoji": "😍"
+    },
+    {
+      "id": 74,
+      "hanzi": "好听",
+      "pinyin": "hǎotīng",
+      "category": "形",
+      "unit": 11,
+      "italian": "piacevole da ascoltare",
+      "emoji": "🎶"
+    },
+    {
+      "id": 75,
+      "hanzi": "好玩儿",
+      "pinyin": "hǎowánr",
+      "category": "形",
+      "unit": 11,
+      "italian": "divertente",
+      "emoji": "🎉"
+    },
+    {
+      "id": 76,
+      "hanzi": "号",
+      "pinyin": "hào",
+      "category": "名、量",
+      "unit": 2,
+      "italian": "numero; giorno del mese",
+      "emoji": "#️⃣"
+    },
+    {
+      "id": 77,
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "category": "动",
+      "unit": 7,
+      "italian": "bere",
+      "emoji": "🥤"
+    },
+    {
+      "id": 78,
+      "hanzi": "和",
+      "pinyin": "hé",
+      "category": "介、连",
+      "unit": 1,
+      "italian": "e, con",
+      "emoji": "➕"
+    },
+    {
+      "id": 79,
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "category": "副",
+      "unit": 4,
+      "italian": "molto",
+      "emoji": ""
+    },
+    {
+      "id": 80,
+      "hanzi": "后",
+      "pinyin": "hòu",
+      "category": "名",
+      "unit": 5,
+      "italian": "dietro; dopo",
+      "emoji": "🔙"
+    },
+    {
+      "id": 81,
+      "hanzi": "回",
+      "pinyin": "huí",
+      "category": "动、（量）",
+      "unit": 8,
+      "italian": "tornare; volta (class.)",
+      "emoji": "↩️"
+    },
+    {
+      "id": 82,
+      "hanzi": "会",
+      "pinyin": "huì",
+      "category": "动",
+      "unit": 1,
+      "italian": "sapere (fare); potere (è probabile)",
+      "emoji": ""
+    },
+    {
+      "id": 83,
+      "hanzi": "火车",
+      "pinyin": "huǒchē",
+      "category": "名",
+      "unit": 8,
+      "italian": "treno (列 liè)",
+      "emoji": "🚆"
+    },
+    {
+      "id": 84,
+      "hanzi": "鸡蛋",
+      "pinyin": "jīdàn",
+      "category": "名",
+      "unit": 7,
+      "italian": "uovo (di gallina)",
+      "emoji": "🥚"
+    },
+    {
+      "id": 85,
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "category": "代、数",
+      "unit": 2,
+      "italian": "quanti?; alcuni",
+      "emoji": "❓"
+    },
+    {
+      "id": 86,
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "category": "名、量、（后缀）",
+      "unit": 1,
+      "italian": "casa, famiglia",
+      "emoji": "🏠"
+    },
+    {
+      "id": 87,
+      "hanzi": "家人",
+      "pinyin": "jiārén",
+      "category": "名",
+      "unit": 1,
+      "italian": "familiare, famiglia",
+      "emoji": "👨‍👩‍👧"
+    },
+    {
+      "id": 88,
+      "hanzi": "见",
+      "pinyin": "jiàn",
+      "category": "动",
+      "unit": 6,
+      "italian": "vedere, incontrare",
+      "emoji": "👀"
+    },
+    {
+      "id": 89,
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "category": "量",
+      "unit": 3,
+      "italian": "classificatore: vestiti, faccende",
+      "emoji": ""
+    },
+    {
+      "id": 90,
+      "hanzi": "饺子",
+      "pinyin": "jiǎozi",
+      "category": "名",
+      "unit": 15,
+      "italian": "ravioli cinesi",
+      "emoji": "🥟"
+    },
+    {
+      "id": 91,
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "category": "动、（介）",
+      "unit": 1,
+      "italian": "chiamare; chiamarsi; gridare",
+      "emoji": "📣"
+    },
+    {
+      "id": 92,
+      "hanzi": "姐姐",
+      "pinyin": "jiějie",
+      "category": "名",
+      "unit": 1,
+      "italian": "sorella maggiore",
+      "emoji": "👧"
+    },
+    {
+      "id": 93,
+      "hanzi": "今年",
+      "pinyin": "jīnnián",
+      "category": "名",
+      "unit": 2,
+      "italian": "quest'anno",
+      "emoji": "📅"
+    },
+    {
+      "id": 94,
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "category": "名",
+      "unit": 2,
+      "italian": "oggi",
+      "emoji": "📅"
+    },
+    {
+      "id": 95,
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "category": "数",
+      "unit": 2,
+      "italian": "nove",
+      "emoji": "9️⃣"
+    },
+    {
+      "id": 96,
+      "hanzi": "觉得",
+      "pinyin": "juéde",
+      "category": "动",
+      "unit": 7,
+      "italian": "pensare, sentire, trovare",
+      "emoji": "🤔"
+    },
+    {
+      "id": 97,
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "category": "动",
+      "unit": 8,
+      "italian": "aprire; accendere; guidare",
+      "emoji": "🔓"
+    },
+    {
+      "id": 98,
+      "hanzi": "开车",
+      "pinyin": "kāichē",
+      "category": "动",
+      "unit": 8,
+      "italian": "guidare (un veicolo)",
+      "emoji": "🚗"
+    },
+    {
+      "id": 99,
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "category": "动",
+      "unit": 11,
+      "italian": "guardare, vedere; leggere",
+      "emoji": "👀"
+    },
+    {
+      "id": 100,
+      "hanzi": "看病",
+      "pinyin": "kànbìng",
+      "category": "动",
+      "unit": 10,
+      "italian": "andare dal medico; visitare",
+      "emoji": "🩺"
+    },
+    {
+      "id": 101,
+      "hanzi": "看见",
+      "pinyin": "kànjiàn",
+      "category": "动",
+      "unit": 11,
+      "italian": "vedere, scorgere",
+      "emoji": "👀"
+    },
+    {
+      "id": 102,
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "category": "动、形",
+      "unit": 6,
+      "italian": "potere, essere permesso",
+      "emoji": ""
+    },
+    {
+      "id": 103,
+      "hanzi": "课",
+      "pinyin": "kè",
+      "category": "名",
+      "unit": 12,
+      "italian": "lezione, corso (节 jié, 门 mén)",
+      "emoji": "📚"
+    },
+    {
+      "id": 104,
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "category": "名、量",
+      "unit": 1,
+      "italian": "bocca; class. per persone",
+      "emoji": "👄"
+    },
+    {
+      "id": 105,
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "category": "量",
+      "unit": 9,
+      "italian": "pezzo; yuan (colloquiale)",
+      "emoji": "💴"
+    },
+    {
+      "id": 106,
+      "hanzi": "来",
+      "pinyin": "lái",
+      "category": "动",
+      "unit": 8,
+      "italian": "venire",
+      "emoji": "👋"
+    },
+    {
+      "id": 107,
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "category": "名",
+      "unit": 13,
+      "italian": "insegnante, maestro",
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "id": 108,
+      "hanzi": "了",
+      "pinyin": "le",
+      "category": "助",
+      "unit": 4,
+      "italian": "particella: azione compiuta",
+      "emoji": ""
+    },
+    {
+      "id": 109,
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "category": "形",
+      "unit": 4,
+      "italian": "freddo",
+      "emoji": "🥶"
+    },
+    {
+      "id": 110,
+      "hanzi": "里",
+      "pinyin": "lǐ",
+      "category": "名",
+      "unit": 5,
+      "italian": "dentro, in",
+      "emoji": ""
+    },
+    {
+      "id": 111,
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "category": "数",
+      "unit": 2,
+      "italian": "due (con classificatori)",
+      "emoji": "✌️"
+    },
+    {
+      "id": 112,
+      "hanzi": "零",
+      "pinyin": "líng",
+      "category": "数",
+      "unit": 2,
+      "italian": "zero",
+      "emoji": "0️⃣"
+    },
+    {
+      "id": 113,
+      "hanzi": "六",
+      "pinyin": "liù",
+      "category": "数",
+      "unit": 2,
+      "italian": "sei",
+      "emoji": "6️⃣"
+    },
+    {
+      "id": 114,
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "category": "名",
+      "unit": 1,
+      "italian": "mamma, madre",
+      "emoji": "👩"
+    },
+    {
+      "id": 115,
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "category": "助",
+      "unit": 1,
+      "italian": "particella interrogativa",
+      "emoji": "❓"
+    },
+    {
+      "id": 116,
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "category": "动",
+      "unit": 9,
+      "italian": "comprare",
+      "emoji": "🛒"
+    },
+    {
+      "id": 117,
+      "hanzi": "卖",
+      "pinyin": "mài",
+      "category": "动",
+      "unit": 9,
+      "italian": "vendere",
+      "emoji": "🏷️"
+    },
+    {
+      "id": 118,
+      "hanzi": "忙",
+      "pinyin": "máng",
+      "category": "形、动",
+      "unit": 14,
+      "italian": "occupato, indaffarato",
+      "emoji": "🏃"
+    },
+    {
+      "id": 119,
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "category": "名",
+      "unit": 3,
+      "italian": "gatto (只 zhǐ)",
+      "emoji": "🐱"
+    },
+    {
+      "id": 120,
+      "hanzi": "没关系",
+      "pinyin": "méi guānxi",
+      "category": "",
+      "unit": 6,
+      "italian": "non importa, non fa niente",
+      "emoji": "👌"
+    },
+    {
+      "id": 121,
+      "hanzi": "没事",
+      "pinyin": "méishì",
+      "category": "动",
+      "unit": 6,
+      "italian": "non è niente, tranquillo",
+      "emoji": ""
+    },
+    {
+      "id": 122,
+      "hanzi": "没有",
+      "pinyin": "méiyǒu",
+      "category": "动、副",
+      "unit": 1,
+      "italian": "non avere; non esserci",
+      "emoji": "🚫"
+    },
+    {
+      "id": 123,
+      "hanzi": "妹妹",
+      "pinyin": "mèimei",
+      "category": "名",
+      "unit": 1,
+      "italian": "sorella minore",
+      "emoji": "👧"
+    },
+    {
+      "id": 124,
+      "hanzi": "们",
+      "pinyin": "men",
+      "category": "后缀",
+      "unit": 1,
+      "italian": "suffisso plurale (persone)",
+      "emoji": "👥"
+    },
+    {
+      "id": 125,
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "category": "名",
+      "unit": 7,
+      "italian": "riso cotto (碗 wǎn)",
+      "emoji": "🍚"
+    },
+    {
+      "id": 126,
+      "hanzi": "面包",
+      "pinyin": "miànbāo",
+      "category": "名",
+      "unit": 7,
+      "italian": "pane",
+      "emoji": "🍞"
+    },
+    {
+      "id": 127,
+      "hanzi": "面条儿",
+      "pinyin": "miàntiáor",
+      "category": "名",
+      "unit": 15,
+      "italian": "spaghetti cinesi, noodles",
+      "emoji": "🍜"
+    },
+    {
+      "id": 128,
+      "hanzi": "明年",
+      "pinyin": "míngnián",
+      "category": "名",
+      "unit": 2,
+      "italian": "l'anno prossimo",
+      "emoji": "📅"
+    },
+    {
+      "id": 129,
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "category": "名",
+      "unit": 2,
+      "italian": "domani",
+      "emoji": "📅"
+    },
+    {
+      "id": 130,
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "category": "名",
+      "unit": 1,
+      "italian": "nome",
+      "emoji": "🏷️"
+    },
+    {
+      "id": 131,
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "category": "代",
+      "unit": 1,
+      "italian": "quale?, dove?",
+      "emoji": "❓"
+    },
+    {
+      "id": 132,
+      "hanzi": "哪个",
+      "pinyin": "nǎge",
+      "category": "代",
+      "unit": 3,
+      "italian": "quale",
+      "emoji": ""
+    },
+    {
+      "id": 133,
+      "hanzi": "哪里",
+      "pinyin": "nǎlǐ",
+      "category": "代",
+      "unit": 5,
+      "italian": "dove",
+      "emoji": ""
+    },
+    {
+      "id": 134,
+      "hanzi": "哪儿",
+      "pinyin": "nǎr",
+      "category": "代",
+      "unit": 5,
+      "italian": "dove?",
+      "emoji": "📍"
+    },
+    {
+      "id": 135,
+      "hanzi": "哪些",
+      "pinyin": "nǎxiē",
+      "category": "代",
+      "unit": 3,
+      "italian": "quali?",
+      "emoji": "❓"
+    },
+    {
+      "id": 136,
+      "hanzi": "那",
+      "pinyin": "nà",
+      "category": "代、（连）",
+      "unit": 3,
+      "italian": "quello, quella; allora",
+      "emoji": "👉"
+    },
+    {
+      "id": 137,
+      "hanzi": "那边",
+      "pinyin": "nàbiān",
+      "category": "代",
+      "unit": 5,
+      "italian": "là, da quella parte",
+      "emoji": "👉"
+    },
+    {
+      "id": 138,
+      "hanzi": "那个",
+      "pinyin": "nàge",
+      "category": "代",
+      "unit": 3,
+      "italian": "quello, quella",
+      "emoji": ""
+    },
+    {
+      "id": 139,
+      "hanzi": "那里",
+      "pinyin": "nàlǐ",
+      "category": "代",
+      "unit": 5,
+      "italian": "lì, là",
+      "emoji": ""
+    },
+    {
+      "id": 140,
+      "hanzi": "那儿",
+      "pinyin": "nàr",
+      "category": "代",
+      "unit": 5,
+      "italian": "là, lì",
+      "emoji": "👉"
+    },
+    {
+      "id": 141,
+      "hanzi": "那些",
+      "pinyin": "nàxiē",
+      "category": "代",
+      "unit": 3,
+      "italian": "quelli, quelle",
+      "emoji": "👉"
+    },
+    {
+      "id": 142,
+      "hanzi": "男",
+      "pinyin": "nán",
+      "category": "形",
+      "unit": 1,
+      "italian": "maschio, maschile",
+      "emoji": "♂️"
+    },
+    {
+      "id": 143,
+      "hanzi": "男朋友",
+      "pinyin": "nánpéngyou",
+      "category": "名",
+      "unit": 1,
+      "italian": "fidanzato, ragazzo",
+      "emoji": "💑"
+    },
+    {
+      "id": 144,
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "category": "助",
+      "unit": 1,
+      "italian": "particella: «e...?», enfasi",
+      "emoji": ""
+    },
+    {
+      "id": 145,
+      "hanzi": "能",
+      "pinyin": "néng",
+      "category": "动",
+      "unit": 6,
+      "italian": "potere, essere in grado di",
+      "emoji": "💪"
+    },
+    {
+      "id": 146,
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "category": "代",
+      "unit": 1,
+      "italian": "tu",
+      "emoji": "🫵"
+    },
+    {
+      "id": 147,
+      "hanzi": "你好",
+      "pinyin": "nǐ hǎo",
+      "category": "",
+      "unit": 1,
+      "italian": "ciao, buongiorno",
+      "emoji": "👋"
+    },
+    {
+      "id": 148,
+      "hanzi": "你们",
+      "pinyin": "nǐmen",
+      "category": "代",
+      "unit": 1,
+      "italian": "voi",
+      "emoji": "👥"
+    },
+    {
+      "id": 149,
+      "hanzi": "年",
+      "pinyin": "nián",
+      "category": "名、量",
+      "unit": 2,
+      "italian": "anno",
+      "emoji": "📅"
+    },
+    {
+      "id": 150,
+      "hanzi": "您",
+      "pinyin": "nín",
+      "category": "代",
+      "unit": 1,
+      "italian": "Lei (forma di cortesia)",
+      "emoji": "🙇"
+    },
+    {
+      "id": 151,
+      "hanzi": "牛奶",
+      "pinyin": "niúnǎi",
+      "category": "名",
+      "unit": 7,
+      "italian": "latte (di mucca)",
+      "emoji": "🥛"
+    },
+    {
+      "id": 152,
+      "hanzi": "女",
+      "pinyin": "nǚ",
+      "category": "形",
+      "unit": 1,
+      "italian": "femmina, femminile",
+      "emoji": "♀️"
+    },
+    {
+      "id": 153,
+      "hanzi": "女儿",
+      "pinyin": "nǚ’ér",
+      "category": "名",
+      "unit": 1,
+      "italian": "figlia",
+      "emoji": "👧"
+    },
+    {
+      "id": 154,
+      "hanzi": "女朋友",
+      "pinyin": "nǚpéngyou",
+      "category": "名",
+      "unit": 1,
+      "italian": "fidanzata, ragazza",
+      "emoji": "💑"
+    },
+    {
+      "id": 155,
+      "hanzi": "女士",
+      "pinyin": "nǚshì",
+      "category": "名",
+      "unit": 1,
+      "italian": "signora (titolo di cortesia)",
+      "emoji": "👩"
+    },
+    {
+      "id": 156,
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "category": "名",
+      "unit": 1,
+      "italian": "amico",
+      "emoji": "🤝"
+    },
+    {
+      "id": 157,
+      "hanzi": "便宜",
+      "pinyin": "piányi",
+      "category": "形",
+      "unit": 9,
+      "italian": "economico, a buon prezzo",
+      "emoji": "🏷️"
+    },
+    {
+      "id": 158,
+      "hanzi": "漂亮",
+      "pinyin": "piàoliang",
+      "category": "形",
+      "unit": 5,
+      "italian": "bello, carino",
+      "emoji": "✨"
+    },
+    {
+      "id": 159,
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "category": "名",
+      "unit": 7,
+      "italian": "mela",
+      "emoji": "🍎"
+    },
+    {
+      "id": 160,
+      "hanzi": "七",
+      "pinyin": "qī",
+      "category": "数",
+      "unit": 2,
+      "italian": "sette",
+      "emoji": "7️⃣"
+    },
+    {
+      "id": 161,
+      "hanzi": "起床",
+      "pinyin": "qǐchuáng",
+      "category": "动",
+      "unit": 10,
+      "italian": "alzarsi dal letto",
+      "emoji": "🛏️"
+    },
+    {
+      "id": 162,
+      "hanzi": "千",
+      "pinyin": "qiān",
+      "category": "数",
+      "unit": 2,
+      "italian": "mille",
+      "emoji": ""
+    },
+    {
+      "id": 163,
+      "hanzi": "前",
+      "pinyin": "qián",
+      "category": "名",
+      "unit": 5,
+      "italian": "davanti; prima",
+      "emoji": ""
+    },
+    {
+      "id": 164,
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "category": "名",
+      "unit": 9,
+      "italian": "soldi, denaro",
+      "emoji": "💰"
+    },
+    {
+      "id": 165,
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "category": "动",
+      "unit": 6,
+      "italian": "per favore; invitare, chiedere",
+      "emoji": "🙏"
+    },
+    {
+      "id": 166,
+      "hanzi": "请问",
+      "pinyin": "qǐngwèn",
+      "category": "动",
+      "unit": 6,
+      "italian": "scusi, posso chiedere...?",
+      "emoji": "🙋"
+    },
+    {
+      "id": 167,
+      "hanzi": "去",
+      "pinyin": "qù",
+      "category": "动",
+      "unit": 8,
+      "italian": "andare",
+      "emoji": "🚶"
+    },
+    {
+      "id": 168,
+      "hanzi": "去年",
+      "pinyin": "qùnián",
+      "category": "名",
+      "unit": 2,
+      "italian": "l'anno scorso",
+      "emoji": "📅"
+    },
+    {
+      "id": 169,
+      "hanzi": "热",
+      "pinyin": "rè",
+      "category": "形",
+      "unit": 4,
+      "italian": "caldo; riscaldare",
+      "emoji": "🥵"
+    },
+    {
+      "id": 170,
+      "hanzi": "人",
+      "pinyin": "rén",
+      "category": "名",
+      "unit": 1,
+      "italian": "persona, gente",
+      "emoji": "🧑"
+    },
+    {
+      "id": 171,
+      "hanzi": "认识",
+      "pinyin": "rènshi",
+      "category": "动",
+      "unit": 1,
+      "italian": "conoscere (qualcuno)",
+      "emoji": "🤝"
+    },
+    {
+      "id": 172,
+      "hanzi": "日",
+      "pinyin": "rì",
+      "category": "量、（名）",
+      "unit": 2,
+      "italian": "giorno; sole",
+      "emoji": "☀️"
+    },
+    {
+      "id": 173,
+      "hanzi": "三",
+      "pinyin": "sān",
+      "category": "数",
+      "unit": 2,
+      "italian": "tre",
+      "emoji": "3️⃣"
+    },
+    {
+      "id": 174,
+      "hanzi": "商店",
+      "pinyin": "shāngdiàn",
+      "category": "名",
+      "unit": 9,
+      "italian": "negozio (家 jiā)",
+      "emoji": "🏪"
+    },
+    {
+      "id": 175,
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "category": "名、动",
+      "unit": 5,
+      "italian": "sopra; salire; precedente",
+      "emoji": "⬆️"
+    },
+    {
+      "id": 176,
+      "hanzi": "上班",
+      "pinyin": "shàngbān",
+      "category": "动",
+      "unit": 14,
+      "italian": "andare al lavoro",
+      "emoji": "💼"
+    },
+    {
+      "id": 177,
+      "hanzi": "上课",
+      "pinyin": "shàngkè",
+      "category": "动",
+      "unit": 13,
+      "italian": "andare a lezione, fare lezione",
+      "emoji": "🏫"
+    },
+    {
+      "id": 178,
+      "hanzi": "上午",
+      "pinyin": "shàngwǔ",
+      "category": "名",
+      "unit": 2,
+      "italian": "mattina",
+      "emoji": "🌅"
+    },
+    {
+      "id": 179,
+      "hanzi": "上学",
+      "pinyin": "shàngxué",
+      "category": "动",
+      "unit": 13,
+      "italian": "andare a scuola",
+      "emoji": "🎒"
+    },
+    {
+      "id": 180,
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "category": "形、动",
+      "unit": 3,
+      "italian": "poco, pochi; mancare",
+      "emoji": "🤏"
+    },
+    {
+      "id": 181,
+      "hanzi": "谁",
+      "pinyin": "shéi/shuí",
+      "category": "代",
+      "unit": 1,
+      "italian": "chi?",
+      "emoji": "❓"
+    },
+    {
+      "id": 182,
+      "hanzi": "什么",
+      "pinyin": "shénme",
+      "category": "代",
+      "unit": 1,
+      "italian": "che cosa?; qualcosa",
+      "emoji": "❓"
+    },
+    {
+      "id": 183,
+      "hanzi": "生病",
+      "pinyin": "shēngbìng",
+      "category": "动",
+      "unit": 10,
+      "italian": "ammalarsi",
+      "emoji": "🤒"
+    },
+    {
+      "id": 184,
+      "hanzi": "十",
+      "pinyin": "shí",
+      "category": "数",
+      "unit": 2,
+      "italian": "dieci",
+      "emoji": "🔟"
+    },
+    {
+      "id": 185,
+      "hanzi": "时候",
+      "pinyin": "shíhou",
+      "category": "名",
+      "unit": 2,
+      "italian": "momento, quando",
+      "emoji": "🕒"
+    },
+    {
+      "id": 186,
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "category": "名",
+      "unit": 2,
+      "italian": "tempo",
+      "emoji": "⏳"
+    },
+    {
+      "id": 187,
+      "hanzi": "事",
+      "pinyin": "shì",
+      "category": "名",
+      "unit": 14,
+      "italian": "faccenda, cosa (件 jiàn)",
+      "emoji": ""
+    },
+    {
+      "id": 188,
+      "hanzi": "是",
+      "pinyin": "shì",
+      "category": "动",
+      "unit": 1,
+      "italian": "essere; sì",
+      "emoji": "✅"
+    },
+    {
+      "id": 189,
+      "hanzi": "手机",
+      "pinyin": "shǒujī",
+      "category": "名",
+      "unit": 3,
+      "italian": "cellulare (部 bù)",
+      "emoji": "📱"
+    },
+    {
+      "id": 190,
+      "hanzi": "书",
+      "pinyin": "shū",
+      "category": "名",
+      "unit": 3,
+      "italian": "libro (本 běn)",
+      "emoji": "📖"
+    },
+    {
+      "id": 191,
+      "hanzi": "书店",
+      "pinyin": "shūdiàn",
+      "category": "名",
+      "unit": 9,
+      "italian": "libreria (negozio) (家 jiā)",
+      "emoji": "📚"
+    },
+    {
+      "id": 192,
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "category": "名",
+      "unit": 7,
+      "italian": "acqua",
+      "emoji": "💧"
+    },
+    {
+      "id": 193,
+      "hanzi": "水果",
+      "pinyin": "shuǐguǒ",
+      "category": "名",
+      "unit": 7,
+      "italian": "frutta",
+      "emoji": "🍇"
+    },
+    {
+      "id": 194,
+      "hanzi": "睡",
+      "pinyin": "shuì",
+      "category": "动",
+      "unit": 10,
+      "italian": "dormire",
+      "emoji": "😴"
+    },
+    {
+      "id": 195,
+      "hanzi": "睡觉",
+      "pinyin": "shuìjiào",
+      "category": "动",
+      "unit": 10,
+      "italian": "dormire, andare a letto",
+      "emoji": "😴"
+    },
+    {
+      "id": 196,
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "category": "动",
+      "unit": 12,
+      "italian": "dire, parlare",
+      "emoji": "🗣️"
+    },
+    {
+      "id": 197,
+      "hanzi": "说话",
+      "pinyin": "shuōhuà",
+      "category": "动",
+      "unit": 12,
+      "italian": "parlare",
+      "emoji": "🗣️"
+    },
+    {
+      "id": 198,
+      "hanzi": "四",
+      "pinyin": "sì",
+      "category": "数",
+      "unit": 2,
+      "italian": "quattro",
+      "emoji": "4️⃣"
+    },
+    {
+      "id": 199,
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "category": "量",
+      "unit": 1,
+      "italian": "anni (di età)",
+      "emoji": "🎂"
+    },
+    {
+      "id": 200,
+      "hanzi": "他",
+      "pinyin": "tā",
+      "category": "代",
+      "unit": 1,
+      "italian": "lui",
+      "emoji": "👨"
+    },
+    {
+      "id": 201,
+      "hanzi": "它",
+      "pinyin": "tā",
+      "category": "代",
+      "unit": 3,
+      "italian": "esso, essa (cose, animali)",
+      "emoji": ""
+    },
+    {
+      "id": 202,
+      "hanzi": "她",
+      "pinyin": "tā",
+      "category": "代",
+      "unit": 1,
+      "italian": "lei",
+      "emoji": "👩"
+    },
+    {
+      "id": 203,
+      "hanzi": "他们",
+      "pinyin": "tāmen",
+      "category": "代",
+      "unit": 1,
+      "italian": "loro (maschile o misto)",
+      "emoji": "👥"
+    },
+    {
+      "id": 204,
+      "hanzi": "它们",
+      "pinyin": "tāmen",
+      "category": "代",
+      "unit": 3,
+      "italian": "essi, esse (cose, animali)",
+      "emoji": ""
+    },
+    {
+      "id": 205,
+      "hanzi": "她们",
+      "pinyin": "tāmen",
+      "category": "代",
+      "unit": 1,
+      "italian": "loro (femminile)",
+      "emoji": "👭"
+    },
+    {
+      "id": 206,
+      "hanzi": "太",
+      "pinyin": "tài",
+      "category": "副",
+      "unit": 4,
+      "italian": "troppo; molto",
+      "emoji": ""
+    },
+    {
+      "id": 207,
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "category": "名、量",
+      "unit": 2,
+      "italian": "giorno; cielo",
+      "emoji": ""
+    },
+    {
+      "id": 208,
+      "hanzi": "天气",
+      "pinyin": "tiānqì",
+      "category": "名",
+      "unit": 4,
+      "italian": "tempo (meteo)",
+      "emoji": "⛅"
+    },
+    {
+      "id": 209,
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "category": "动",
+      "unit": 11,
+      "italian": "ascoltare, sentire",
+      "emoji": "👂"
+    },
+    {
+      "id": 210,
+      "hanzi": "听见",
+      "pinyin": "tīngjiàn",
+      "category": "动",
+      "unit": 11,
+      "italian": "sentire, udire",
+      "emoji": "👂"
+    },
+    {
+      "id": 211,
+      "hanzi": "同学",
+      "pinyin": "tóngxué",
+      "category": "名",
+      "unit": 13,
+      "italian": "compagno di scuola",
+      "emoji": "🧑‍🎓"
+    },
+    {
+      "id": 212,
+      "hanzi": "外",
+      "pinyin": "wài",
+      "category": "名",
+      "unit": 5,
+      "italian": "fuori, esterno; straniero",
+      "emoji": ""
+    },
+    {
+      "id": 213,
+      "hanzi": "外边",
+      "pinyin": "wàibian",
+      "category": "名",
+      "unit": 5,
+      "italian": "fuori, esterno",
+      "emoji": ""
+    },
+    {
+      "id": 214,
+      "hanzi": "玩",
+      "pinyin": "wán",
+      "category": "动",
+      "unit": 11,
+      "italian": "giocare, divertirsi",
+      "emoji": ""
+    },
+    {
+      "id": 215,
+      "hanzi": "晚",
+      "pinyin": "wǎn",
+      "category": "形",
+      "unit": 2,
+      "italian": "sera; tardi",
+      "emoji": "🌙"
+    },
+    {
+      "id": 216,
+      "hanzi": "晚饭",
+      "pinyin": "wǎnfàn",
+      "category": "名",
+      "unit": 7,
+      "italian": "cena (顿 dùn)",
+      "emoji": "🍽️"
+    },
+    {
+      "id": 217,
+      "hanzi": "晚上",
+      "pinyin": "wǎnshang",
+      "category": "名",
+      "unit": 2,
+      "italian": "sera, di sera",
+      "emoji": "🌙"
+    },
+    {
+      "id": 218,
+      "hanzi": "喂",
+      "pinyin": "wèi",
+      "category": "叹",
+      "unit": 6,
+      "italian": "pronto? (al telefono); ehi",
+      "emoji": "📞"
+    },
+    {
+      "id": 219,
+      "hanzi": "问",
+      "pinyin": "wèn",
+      "category": "动",
+      "unit": 12,
+      "italian": "chiedere, domandare",
+      "emoji": "🙋"
+    },
+    {
+      "id": 220,
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "category": "名",
+      "unit": 12,
+      "italian": "domanda, problema",
+      "emoji": "❓"
+    },
+    {
+      "id": 221,
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "category": "代",
+      "unit": 1,
+      "italian": "io, me",
+      "emoji": ""
+    },
+    {
+      "id": 222,
+      "hanzi": "我们",
+      "pinyin": "wǒmen",
+      "category": "代",
+      "unit": 1,
+      "italian": "noi",
+      "emoji": "👥"
+    },
+    {
+      "id": 223,
+      "hanzi": "五",
+      "pinyin": "wǔ",
+      "category": "数",
+      "unit": 2,
+      "italian": "cinque",
+      "emoji": "5️⃣"
+    },
+    {
+      "id": 224,
+      "hanzi": "午饭",
+      "pinyin": "wǔfàn",
+      "category": "名",
+      "unit": 7,
+      "italian": "pranzo (顿 dùn)",
+      "emoji": "🍱"
+    },
+    {
+      "id": 225,
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "category": "动",
+      "unit": 1,
+      "italian": "piacere, amare",
+      "emoji": "❤️"
+    },
+    {
+      "id": 226,
+      "hanzi": "下",
+      "pinyin": "xià",
+      "category": "名、动、量",
+      "unit": 5,
+      "italian": "sotto; scendere; prossimo",
+      "emoji": "⬇️"
+    },
+    {
+      "id": 227,
+      "hanzi": "下雨",
+      "pinyin": "xià yǔ",
+      "category": "",
+      "unit": 4,
+      "italian": "piovere",
+      "emoji": "🌧️"
+    },
+    {
+      "id": 228,
+      "hanzi": "下班",
+      "pinyin": "xiàbān",
+      "category": "动",
+      "unit": 14,
+      "italian": "finire di lavorare",
+      "emoji": "🏠"
+    },
+    {
+      "id": 229,
+      "hanzi": "下课",
+      "pinyin": "xiàkè",
+      "category": "动",
+      "unit": 13,
+      "italian": "finire la lezione",
+      "emoji": "🔔"
+    },
+    {
+      "id": 230,
+      "hanzi": "下午",
+      "pinyin": "xiàwǔ",
+      "category": "名",
+      "unit": 2,
+      "italian": "pomeriggio",
+      "emoji": "🕒"
+    },
+    {
+      "id": 231,
+      "hanzi": "先生",
+      "pinyin": "xiānsheng",
+      "category": "名",
+      "unit": 1,
+      "italian": "signore; marito",
+      "emoji": "🤵"
+    },
+    {
+      "id": 232,
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "category": "名",
+      "unit": 2,
+      "italian": "ora, adesso",
+      "emoji": "⏱️"
+    },
+    {
+      "id": 233,
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "category": "动",
+      "unit": 6,
+      "italian": "pensare; volere; sentire la mancanza",
+      "emoji": "🤔"
+    },
+    {
+      "id": 234,
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "category": "形、前缀",
+      "unit": 3,
+      "italian": "piccolo",
+      "emoji": "🤏"
+    },
+    {
+      "id": 235,
+      "hanzi": "小朋友",
+      "pinyin": "xiǎopéngyǒu",
+      "category": "名",
+      "unit": 13,
+      "italian": "bambino, bimbo",
+      "emoji": "🧒"
+    },
+    {
+      "id": 236,
+      "hanzi": "小时",
+      "pinyin": "xiǎoshí",
+      "category": "名",
+      "unit": 2,
+      "italian": "ora (durata)",
+      "emoji": "🕐"
+    },
+    {
+      "id": 237,
+      "hanzi": "小学",
+      "pinyin": "xiǎoxué",
+      "category": "名",
+      "unit": 12,
+      "italian": "scuola elementare",
+      "emoji": "🏫"
+    },
+    {
+      "id": 238,
+      "hanzi": "小学生",
+      "pinyin": "xiǎoxuéshēng",
+      "category": "名",
+      "unit": 12,
+      "italian": "alunno delle elementari",
+      "emoji": "🎒"
+    },
+    {
+      "id": 239,
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "category": "量",
+      "unit": 3,
+      "italian": "alcuni, un po' (cl.)",
+      "emoji": ""
+    },
+    {
+      "id": 240,
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "category": "动",
+      "unit": 12,
+      "italian": "scrivere",
+      "emoji": "✍️"
+    },
+    {
+      "id": 241,
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "category": "动",
+      "unit": 6,
+      "italian": "grazie, ringraziare",
+      "emoji": "🙏"
+    },
+    {
+      "id": 242,
+      "hanzi": "新",
+      "pinyin": "xīn",
+      "category": "形",
+      "unit": 3,
+      "italian": "nuovo",
+      "emoji": "🆕"
+    },
+    {
+      "id": 243,
+      "hanzi": "星期",
+      "pinyin": "xīngqī",
+      "category": "名",
+      "unit": 2,
+      "italian": "settimana",
+      "emoji": "📅"
+    },
+    {
+      "id": 244,
+      "hanzi": "星期日",
+      "pinyin": "xīngqīrì",
+      "category": "名",
+      "unit": 2,
+      "italian": "domenica",
+      "emoji": "📅"
+    },
+    {
+      "id": 245,
+      "hanzi": "星期天",
+      "pinyin": "xīngqītiān",
+      "category": "名",
+      "unit": 2,
+      "italian": "domenica",
+      "emoji": "📅"
+    },
+    {
+      "id": 246,
+      "hanzi": "休息",
+      "pinyin": "xiūxi",
+      "category": "动",
+      "unit": 10,
+      "italian": "riposare; riposo",
+      "emoji": "🛋️"
+    },
+    {
+      "id": 247,
+      "hanzi": "学",
+      "pinyin": "xué",
+      "category": "动",
+      "unit": 12,
+      "italian": "studiare, imparare",
+      "emoji": "📖"
+    },
+    {
+      "id": 248,
+      "hanzi": "学生",
+      "pinyin": "xuéshēng",
+      "category": "名",
+      "unit": 12,
+      "italian": "studente",
+      "emoji": "🧑‍🎓"
+    },
+    {
+      "id": 249,
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "category": "动",
+      "unit": 12,
+      "italian": "studiare, imparare",
+      "emoji": "📚"
+    },
+    {
+      "id": 250,
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "category": "名",
+      "unit": 13,
+      "italian": "scuola (所 suǒ)",
+      "emoji": "🏫"
+    },
+    {
+      "id": 251,
+      "hanzi": "雪",
+      "pinyin": "xuě",
+      "category": "名",
+      "unit": 4,
+      "italian": "neve",
+      "emoji": "❄️"
+    },
+    {
+      "id": 252,
+      "hanzi": "要",
+      "pinyin": "yào",
+      "category": "动",
+      "unit": 6,
+      "italian": "volere; dovere; stare per",
+      "emoji": ""
+    },
+    {
+      "id": 253,
+      "hanzi": "也",
+      "pinyin": "yě",
+      "category": "副",
+      "unit": 1,
+      "italian": "anche",
+      "emoji": ""
+    },
+    {
+      "id": 254,
+      "hanzi": "一",
+      "pinyin": "yī",
+      "category": "数",
+      "unit": 2,
+      "italian": "uno",
+      "emoji": "1️⃣"
+    },
+    {
+      "id": 255,
+      "hanzi": "衣服",
+      "pinyin": "yīfu",
+      "category": "名",
+      "unit": 9,
+      "italian": "vestiti (件 jiàn)",
+      "emoji": "👕"
+    },
+    {
+      "id": 256,
+      "hanzi": "医生",
+      "pinyin": "yīshēng",
+      "category": "名",
+      "unit": 10,
+      "italian": "medico (位 wèi)",
+      "emoji": "🧑‍⚕️"
+    },
+    {
+      "id": 257,
+      "hanzi": "医院",
+      "pinyin": "yīyuàn",
+      "category": "名",
+      "unit": 10,
+      "italian": "ospedale (家 jiā)",
+      "emoji": "🏥"
+    },
+    {
+      "id": 258,
+      "hanzi": "一半",
+      "pinyin": "yíbàn",
+      "category": "数",
+      "unit": 2,
+      "italian": "metà",
+      "emoji": "🌗"
+    },
+    {
+      "id": 259,
+      "hanzi": "一下",
+      "pinyin": "yíxià",
+      "category": "数量、（副）",
+      "unit": 6,
+      "italian": "un attimo, un po' (dopo il verbo)",
+      "emoji": ""
+    },
+    {
+      "id": 260,
+      "hanzi": "椅子",
+      "pinyin": "yǐzi",
+      "category": "名",
+      "unit": 3,
+      "italian": "sedia (把 bǎ)",
+      "emoji": "🪑"
+    },
+    {
+      "id": 261,
+      "hanzi": "一点儿",
+      "pinyin": "yìdiǎnr",
+      "category": "数量",
+      "unit": 4,
+      "italian": "un po'",
+      "emoji": "🤏"
+    },
+    {
+      "id": 262,
+      "hanzi": "一些",
+      "pinyin": "yìxiē",
+      "category": "数量",
+      "unit": 3,
+      "italian": "alcuni, un po'",
+      "emoji": ""
+    },
+    {
+      "id": 263,
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "category": "动",
+      "unit": 1,
+      "italian": "avere; esserci",
+      "emoji": ""
+    },
+    {
+      "id": 264,
+      "hanzi": "有的",
+      "pinyin": "yǒude",
+      "category": "代",
+      "unit": 3,
+      "italian": "alcuni, certi",
+      "emoji": ""
+    },
+    {
+      "id": 265,
+      "hanzi": "有点儿",
+      "pinyin": "yǒudiǎnr",
+      "category": "副",
+      "unit": 4,
+      "italian": "un po', alquanto",
+      "emoji": "🤏"
+    },
+    {
+      "id": 266,
+      "hanzi": "有些",
+      "pinyin": "yǒuxiē",
+      "category": "代、（副）",
+      "unit": 3,
+      "italian": "alcuni; un po'",
+      "emoji": ""
+    },
+    {
+      "id": 267,
+      "hanzi": "雨",
+      "pinyin": "yǔ",
+      "category": "名",
+      "unit": 4,
+      "italian": "pioggia (场 chǎng)",
+      "emoji": "☔"
+    },
+    {
+      "id": 268,
+      "hanzi": "元",
+      "pinyin": "yuán",
+      "category": "量",
+      "unit": 9,
+      "italian": "yuan (unità monetaria)",
+      "emoji": "💴"
+    },
+    {
+      "id": 269,
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "category": "名",
+      "unit": 2,
+      "italian": "mese; luna",
+      "emoji": "🌕"
+    },
+    {
+      "id": 270,
+      "hanzi": "再",
+      "pinyin": "zài",
+      "category": "副",
+      "unit": 6,
+      "italian": "di nuovo, ancora; poi",
+      "emoji": "🔁"
+    },
+    {
+      "id": 271,
+      "hanzi": "在",
+      "pinyin": "zài",
+      "category": "动、介、副",
+      "unit": 5,
+      "italian": "essere (in un luogo); in, a",
+      "emoji": "📍"
+    },
+    {
+      "id": 272,
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "category": "动",
+      "unit": 6,
+      "italian": "arrivederci",
+      "emoji": "👋"
+    },
+    {
+      "id": 273,
+      "hanzi": "早",
+      "pinyin": "zǎo",
+      "category": "形",
+      "unit": 6,
+      "italian": "presto; buongiorno!",
+      "emoji": "🌅"
+    },
+    {
+      "id": 274,
+      "hanzi": "早饭",
+      "pinyin": "zǎofàn",
+      "category": "名",
+      "unit": 7,
+      "italian": "colazione (顿 dùn)",
+      "emoji": "🍳"
+    },
+    {
+      "id": 275,
+      "hanzi": "早上",
+      "pinyin": "zǎoshang",
+      "category": "名",
+      "unit": 2,
+      "italian": "mattina (presto)",
+      "emoji": "🌅"
+    },
+    {
+      "id": 276,
+      "hanzi": "怎么",
+      "pinyin": "zěnme",
+      "category": "代",
+      "unit": 8,
+      "italian": "come?, perché?",
+      "emoji": "❓"
+    },
+    {
+      "id": 277,
+      "hanzi": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "category": "代",
+      "unit": 4,
+      "italian": "come? come va? che ne dici?",
+      "emoji": "🤔"
+    },
+    {
+      "id": 278,
+      "hanzi": "找",
+      "pinyin": "zhǎo",
+      "category": "动",
+      "unit": 8,
+      "italian": "cercare",
+      "emoji": "🔍"
+    },
+    {
+      "id": 279,
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "category": "代",
+      "unit": 3,
+      "italian": "questo, questa",
+      "emoji": "👇"
+    },
+    {
+      "id": 280,
+      "hanzi": "这边",
+      "pinyin": "zhèbiān",
+      "category": "代",
+      "unit": 5,
+      "italian": "da questa parte, qui",
+      "emoji": "👇"
+    },
+    {
+      "id": 281,
+      "hanzi": "这个",
+      "pinyin": "zhège",
+      "category": "代",
+      "unit": 3,
+      "italian": "questo, questa",
+      "emoji": ""
+    },
+    {
+      "id": 282,
+      "hanzi": "这里",
+      "pinyin": "zhèlǐ",
+      "category": "代",
+      "unit": 5,
+      "italian": "qui",
+      "emoji": ""
+    },
+    {
+      "id": 283,
+      "hanzi": "这儿",
+      "pinyin": "zhèr",
+      "category": "代",
+      "unit": 5,
+      "italian": "qui, qua",
+      "emoji": "👇"
+    },
+    {
+      "id": 284,
+      "hanzi": "这些",
+      "pinyin": "zhèxiē",
+      "category": "代",
+      "unit": 3,
+      "italian": "questi, queste",
+      "emoji": "👇"
+    },
+    {
+      "id": 285,
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "category": "副、（形）",
+      "unit": 4,
+      "italian": "vero; davvero",
+      "emoji": ""
+    },
+    {
+      "id": 286,
+      "hanzi": "正在",
+      "pinyin": "zhèngzài",
+      "category": "副",
+      "unit": 11,
+      "italian": "stare facendo (azione in corso)",
+      "emoji": ""
+    },
+    {
+      "id": 287,
+      "hanzi": "只",
+      "pinyin": "zhī",
+      "category": "量",
+      "unit": 3,
+      "italian": "classificatore: animali, uno di un paio",
+      "emoji": ""
+    },
+    {
+      "id": 288,
+      "hanzi": "知道",
+      "pinyin": "zhīdào",
+      "category": "动",
+      "unit": 12,
+      "italian": "sapere",
+      "emoji": "💡"
+    },
+    {
+      "id": 289,
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "category": "名",
+      "unit": 1,
+      "italian": "Cina",
+      "emoji": "🇨🇳"
+    },
+    {
+      "id": 290,
+      "hanzi": "中文",
+      "pinyin": "Zhōngwén",
+      "category": "名",
+      "unit": 1,
+      "italian": "lingua cinese",
+      "emoji": "🇨🇳"
+    },
+    {
+      "id": 291,
+      "hanzi": "中午",
+      "pinyin": "zhōngwǔ",
+      "category": "名",
+      "unit": 2,
+      "italian": "mezzogiorno",
+      "emoji": "🕛"
+    },
+    {
+      "id": 292,
+      "hanzi": "中学",
+      "pinyin": "zhōngxué",
+      "category": "名",
+      "unit": 12,
+      "italian": "scuola media e superiore",
+      "emoji": "🏫"
+    },
+    {
+      "id": 293,
+      "hanzi": "中学生",
+      "pinyin": "zhōngxuéshēng",
+      "category": "名",
+      "unit": 12,
+      "italian": "studente delle medie/superiori",
+      "emoji": "🧑‍🎓"
+    },
+    {
+      "id": 294,
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "category": "动",
+      "unit": 5,
+      "italian": "abitare, alloggiare",
+      "emoji": "🏠"
+    },
+    {
+      "id": 295,
+      "hanzi": "桌子",
+      "pinyin": "zhuōzi",
+      "category": "名",
+      "unit": 3,
+      "italian": "tavolo, scrivania (张 zhāng)",
+      "emoji": ""
+    },
+    {
+      "id": 296,
+      "hanzi": "字",
+      "pinyin": "zì",
+      "category": "名",
+      "unit": 12,
+      "italian": "carattere (cinese), parola",
+      "emoji": ""
+    },
+    {
+      "id": 297,
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "category": "名",
+      "unit": 2,
+      "italian": "ieri",
+      "emoji": "📅"
+    },
+    {
+      "id": 298,
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "category": "动",
+      "unit": 8,
+      "italian": "sedersi; prendere (un mezzo)",
+      "emoji": "🪑"
+    },
+    {
+      "id": 299,
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "category": "动",
+      "unit": 7,
+      "italian": "fare",
+      "emoji": "🛠️"
+    },
+    {
+      "id": 300,
+      "hanzi": "做饭",
+      "pinyin": "zuò fàn",
+      "category": "",
+      "unit": 7,
+      "italian": "cucinare, preparare da mangiare",
+      "emoji": "🍳"
+    }
+  ],
+  "units": [
+    {
+      "id": 1,
+      "title": "Presentarsi",
+      "hanzi": "问答个人基本信息",
+      "pinyin": "wèndá gèrén jīběn xìnxī",
+      "goals": [
+        "Dire nome, nazionalità ed età",
+        "Parlare della famiglia e degli amici",
+        "Dire cosa ti piace e cosa sai fare"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Date, orari e numeri",
+      "hanzi": "问答事件信息",
+      "pinyin": "wèndá shìjiàn xìnxī",
+      "goals": [
+        "Dire data e ora",
+        "Dare un numero di telefono",
+        "Dire dove e quando succede qualcosa"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Gli oggetti",
+      "hanzi": "问答物品信息",
+      "pinyin": "wèndá wùpǐn xìnxī",
+      "goals": [
+        "Nominare oggetti di casa e di scuola",
+        "Dire quanti sono, se grandi o piccoli",
+        "Dire di chi è un oggetto"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Il tempo atmosferico",
+      "hanzi": "问答天气",
+      "pinyin": "wèndá tiānqì",
+      "goals": [
+        "Chiedere che tempo fa",
+        "Dire se fa caldo o freddo, se piove o nevica"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Luoghi e ambienti",
+      "hanzi": "问答环境信息",
+      "pinyin": "wèndá huánjìng xìnxī",
+      "goals": [
+        "Descrivere un luogo: grande, piccolo, bello",
+        "Dire dove si trova qualcosa"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Saluti e cortesia",
+      "hanzi": "日常言语交往",
+      "pinyin": "rìcháng yányǔ jiāowǎng",
+      "goals": [
+        "Salutare, ringraziare, scusarsi",
+        "Fare una richiesta semplice",
+        "Rispondere al telefono"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Cibo e gusti",
+      "hanzi": "问答饮食喜好",
+      "pinyin": "wèndá yǐnshí xǐhào",
+      "goals": [
+        "Dire cosa ti piace mangiare e bere",
+        "Ordinare al ristorante, parlare dei pasti"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Spostamenti",
+      "hanzi": "问答出行信息",
+      "pinyin": "wèndá chūxíng xìnxī",
+      "goals": [
+        "Dire come vai al lavoro o a scuola",
+        "Chiedere la strada"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Fare acquisti",
+      "hanzi": "问答商品信息",
+      "pinyin": "wèndá shāngpǐn xìnxī",
+      "goals": [
+        "Chiedere il prezzo",
+        "Dire cosa vuoi comprare"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Salute",
+      "hanzi": "告知生病、探病",
+      "pinyin": "gàozhī shēngbìng, tànbìng",
+      "goals": [
+        "Dire che stai male",
+        "Augurare a qualcuno di riposarsi"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Tempo libero",
+      "hanzi": "交流休闲活动",
+      "pinyin": "jiāoliú xiūxián huódòng",
+      "goals": [
+        "Parlare di hobby: leggere, cantare, guardare film"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Lo studio",
+      "hanzi": "介绍学习情况",
+      "pinyin": "jièshào xuéxí qíngkuàng",
+      "goals": [
+        "Dire cosa studi e dove",
+        "Leggere un orario delle lezioni"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "La scuola e il doposcuola",
+      "hanzi": "交流学校情况、课后活动",
+      "pinyin": "jiāoliú xuéxiào qíngkuàng, kèhòu huódòng",
+      "goals": [
+        "Parlare di insegnanti e compagni",
+        "Dire cosa fai dopo le lezioni"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Il lavoro",
+      "hanzi": "交流工作信息",
+      "pinyin": "jiāoliú gōngzuò xìnxī",
+      "goals": [
+        "Dire che lavoro fai, dove e quando"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "La cucina cinese",
+      "hanzi": "问答中国传统饮食",
+      "pinyin": "wèndá Zhōngguó chuántǒng yǐnshí",
+      "goals": [
+        "Parlare di 包子 bāo zi, 饺子 jiǎo zi, 面条儿 miàn tiáo ér e tè",
+        "Leggere un menù semplice"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "爱",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "writing": true
+    },
+    {
+      "id": "八",
+      "hanzi": "八",
+      "pinyin": "bā",
+      "writing": true
+    },
+    {
+      "id": "爸",
+      "hanzi": "爸",
+      "pinyin": "bà",
+      "writing": true
+    },
+    {
+      "id": "吧",
+      "hanzi": "吧",
+      "pinyin": "ba",
+      "writing": false
+    },
+    {
+      "id": "白",
+      "hanzi": "白",
+      "pinyin": "bái",
+      "writing": false
+    },
+    {
+      "id": "百",
+      "hanzi": "百",
+      "pinyin": "bǎi",
+      "writing": true
+    },
+    {
+      "id": "班",
+      "hanzi": "班",
+      "pinyin": "bān",
+      "writing": false
+    },
+    {
+      "id": "半",
+      "hanzi": "半",
+      "pinyin": "bàn",
+      "writing": true
+    },
+    {
+      "id": "包",
+      "hanzi": "包",
+      "pinyin": "bāo",
+      "writing": false
+    },
+    {
+      "id": "杯",
+      "hanzi": "杯",
+      "pinyin": "bēi",
+      "writing": false
+    },
+    {
+      "id": "本",
+      "hanzi": "本",
+      "pinyin": "běn",
+      "writing": false
+    },
+    {
+      "id": "边",
+      "hanzi": "边",
+      "pinyin": "biān",
+      "writing": true
+    },
+    {
+      "id": "便",
+      "hanzi": "便",
+      "pinyin": "pián",
+      "writing": false
+    },
+    {
+      "id": "病",
+      "hanzi": "病",
+      "pinyin": "bìng",
+      "writing": false
+    },
+    {
+      "id": "不",
+      "hanzi": "不",
+      "pinyin": "bù",
+      "writing": true
+    },
+    {
+      "id": "菜",
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "writing": false
+    },
+    {
+      "id": "茶",
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "writing": true
+    },
+    {
+      "id": "常",
+      "hanzi": "常",
+      "pinyin": "cháng",
+      "writing": false
+    },
+    {
+      "id": "唱",
+      "hanzi": "唱",
+      "pinyin": "chàng",
+      "writing": false
+    },
+    {
+      "id": "超",
+      "hanzi": "超",
+      "pinyin": "chāo",
+      "writing": false
+    },
+    {
+      "id": "车",
+      "hanzi": "车",
+      "pinyin": "chē",
+      "writing": false
+    },
+    {
+      "id": "吃",
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "writing": false
+    },
+    {
+      "id": "出",
+      "hanzi": "出",
+      "pinyin": "chū",
+      "writing": false
+    },
+    {
+      "id": "穿",
+      "hanzi": "穿",
+      "pinyin": "chuān",
+      "writing": false
+    },
+    {
+      "id": "床",
+      "hanzi": "床",
+      "pinyin": "chuáng",
+      "writing": false
+    },
+    {
+      "id": "打",
+      "hanzi": "打",
+      "pinyin": "dǎ",
+      "writing": true
+    },
+    {
+      "id": "大",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "writing": true
+    },
+    {
+      "id": "蛋",
+      "hanzi": "蛋",
+      "pinyin": "dàn",
+      "writing": false
+    },
+    {
+      "id": "到",
+      "hanzi": "到",
+      "pinyin": "dào",
+      "writing": false
+    },
+    {
+      "id": "道",
+      "hanzi": "道",
+      "pinyin": "dào",
+      "writing": false
+    },
+    {
+      "id": "得",
+      "hanzi": "得",
+      "pinyin": "de",
+      "writing": false
+    },
+    {
+      "id": "的",
+      "hanzi": "的",
+      "pinyin": "de",
+      "writing": true
+    },
+    {
+      "id": "弟",
+      "hanzi": "弟",
+      "pinyin": "dì",
+      "writing": false
+    },
+    {
+      "id": "第",
+      "hanzi": "第",
+      "pinyin": "dì",
+      "writing": false
+    },
+    {
+      "id": "点",
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "writing": true
+    },
+    {
+      "id": "电",
+      "hanzi": "电",
+      "pinyin": "diàn",
+      "writing": false
+    },
+    {
+      "id": "东",
+      "hanzi": "东",
+      "pinyin": "dōng",
+      "writing": false
+    },
+    {
+      "id": "都",
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "writing": false
+    },
+    {
+      "id": "读",
+      "hanzi": "读",
+      "pinyin": "dú",
+      "writing": false
+    },
+    {
+      "id": "对",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "writing": true
+    },
+    {
+      "id": "多",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "writing": true
+    },
+    {
+      "id": "儿",
+      "hanzi": "儿",
+      "pinyin": "ér",
+      "writing": true
+    },
+    {
+      "id": "二",
+      "hanzi": "二",
+      "pinyin": "èr",
+      "writing": true
+    },
+    {
+      "id": "饭",
+      "hanzi": "饭",
+      "pinyin": "fàn",
+      "writing": false
+    },
+    {
+      "id": "房",
+      "hanzi": "房",
+      "pinyin": "fáng",
+      "writing": false
+    },
+    {
+      "id": "飞",
+      "hanzi": "飞",
+      "pinyin": "fēi",
+      "writing": false
+    },
+    {
+      "id": "非",
+      "hanzi": "非",
+      "pinyin": "fēi",
+      "writing": false
+    },
+    {
+      "id": "分",
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "writing": true
+    },
+    {
+      "id": "服",
+      "hanzi": "服",
+      "pinyin": "fu",
+      "writing": false
+    },
+    {
+      "id": "高",
+      "hanzi": "高",
+      "pinyin": "gāo",
+      "writing": false
+    },
+    {
+      "id": "哥",
+      "hanzi": "哥",
+      "pinyin": "gē",
+      "writing": true
+    },
+    {
+      "id": "歌",
+      "hanzi": "歌",
+      "pinyin": "gē",
+      "writing": false
+    },
+    {
+      "id": "个",
+      "hanzi": "个",
+      "pinyin": "gè",
+      "writing": true
+    },
+    {
+      "id": "给",
+      "hanzi": "给",
+      "pinyin": "gěi",
+      "writing": false
+    },
+    {
+      "id": "工",
+      "hanzi": "工",
+      "pinyin": "gōng",
+      "writing": true
+    },
+    {
+      "id": "公",
+      "hanzi": "公",
+      "pinyin": "gōng",
+      "writing": false
+    },
+    {
+      "id": "狗",
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "writing": false
+    },
+    {
+      "id": "关",
+      "hanzi": "关",
+      "pinyin": "guān",
+      "writing": false
+    },
+    {
+      "id": "贵",
+      "hanzi": "贵",
+      "pinyin": "guì",
+      "writing": false
+    },
+    {
+      "id": "国",
+      "hanzi": "国",
+      "pinyin": "guó",
+      "writing": true
+    },
+    {
+      "id": "果",
+      "hanzi": "果",
+      "pinyin": "guǒ",
+      "writing": false
+    },
+    {
+      "id": "还",
+      "hanzi": "还",
+      "pinyin": "hái",
+      "writing": true
+    },
+    {
+      "id": "孩",
+      "hanzi": "孩",
+      "pinyin": "hái",
+      "writing": false
+    },
+    {
+      "id": "汉",
+      "hanzi": "汉",
+      "pinyin": "hàn",
+      "writing": true
+    },
+    {
+      "id": "好",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "writing": true
+    },
+    {
+      "id": "号",
+      "hanzi": "号",
+      "pinyin": "hào",
+      "writing": false
+    },
+    {
+      "id": "喝",
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "writing": false
+    },
+    {
+      "id": "和",
+      "hanzi": "和",
+      "pinyin": "hé",
+      "writing": true
+    },
+    {
+      "id": "很",
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "writing": true
+    },
+    {
+      "id": "后",
+      "hanzi": "后",
+      "pinyin": "hòu",
+      "writing": true
+    },
+    {
+      "id": "候",
+      "hanzi": "候",
+      "pinyin": "hou",
+      "writing": false
+    },
+    {
+      "id": "话",
+      "hanzi": "话",
+      "pinyin": "huà",
+      "writing": false
+    },
+    {
+      "id": "欢",
+      "hanzi": "欢",
+      "pinyin": "huan",
+      "writing": false
+    },
+    {
+      "id": "回",
+      "hanzi": "回",
+      "pinyin": "huí",
+      "writing": false
+    },
+    {
+      "id": "会",
+      "hanzi": "会",
+      "pinyin": "huì",
+      "writing": true
+    },
+    {
+      "id": "火",
+      "hanzi": "火",
+      "pinyin": "huǒ",
+      "writing": false
+    },
+    {
+      "id": "机",
+      "hanzi": "机",
+      "pinyin": "jī",
+      "writing": false
+    },
+    {
+      "id": "鸡",
+      "hanzi": "鸡",
+      "pinyin": "jī",
+      "writing": false
+    },
+    {
+      "id": "几",
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "writing": true
+    },
+    {
+      "id": "家",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "writing": true
+    },
+    {
+      "id": "间",
+      "hanzi": "间",
+      "pinyin": "jiān",
+      "writing": true
+    },
+    {
+      "id": "见",
+      "hanzi": "见",
+      "pinyin": "jiàn",
+      "writing": false
+    },
+    {
+      "id": "件",
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "writing": false
+    },
+    {
+      "id": "叫",
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "writing": true
+    },
+    {
+      "id": "姐",
+      "hanzi": "姐",
+      "pinyin": "jiě",
+      "writing": true
+    },
+    {
+      "id": "今",
+      "hanzi": "今",
+      "pinyin": "jīn",
+      "writing": true
+    },
+    {
+      "id": "九",
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "writing": true
+    },
+    {
+      "id": "觉",
+      "hanzi": "觉",
+      "pinyin": "jué",
+      "writing": false
+    },
+    {
+      "id": "开",
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "writing": false
+    },
+    {
+      "id": "看",
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "writing": false
+    },
+    {
+      "id": "可",
+      "hanzi": "可",
+      "pinyin": "kě",
+      "writing": true
+    },
+    {
+      "id": "客",
+      "hanzi": "客",
+      "pinyin": "kè",
+      "writing": false
+    },
+    {
+      "id": "课",
+      "hanzi": "课",
+      "pinyin": "kè",
+      "writing": false
+    },
+    {
+      "id": "口",
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "writing": true
+    },
+    {
+      "id": "块",
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "writing": false
+    },
+    {
+      "id": "来",
+      "hanzi": "来",
+      "pinyin": "lái",
+      "writing": true
+    },
+    {
+      "id": "老",
+      "hanzi": "老",
+      "pinyin": "lǎo",
+      "writing": false
+    },
+    {
+      "id": "了",
+      "hanzi": "了",
+      "pinyin": "le",
+      "writing": true
+    },
+    {
+      "id": "冷",
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "writing": false
+    },
+    {
+      "id": "里",
+      "hanzi": "里",
+      "pinyin": "lǐ",
+      "writing": false
+    },
+    {
+      "id": "两",
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "writing": true
+    },
+    {
+      "id": "亮",
+      "hanzi": "亮",
+      "pinyin": "liang",
+      "writing": false
+    },
+    {
+      "id": "零",
+      "hanzi": "零",
+      "pinyin": "líng",
+      "writing": false
+    },
+    {
+      "id": "六",
+      "hanzi": "六",
+      "pinyin": "liù",
+      "writing": true
+    },
+    {
+      "id": "妈",
+      "hanzi": "妈",
+      "pinyin": "mā",
+      "writing": true
+    },
+    {
+      "id": "吗",
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "writing": true
+    },
+    {
+      "id": "买",
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "writing": false
+    },
+    {
+      "id": "卖",
+      "hanzi": "卖",
+      "pinyin": "mài",
+      "writing": false
+    },
+    {
+      "id": "忙",
+      "hanzi": "忙",
+      "pinyin": "máng",
+      "writing": false
+    },
+    {
+      "id": "猫",
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "writing": false
+    },
+    {
+      "id": "么",
+      "hanzi": "么",
+      "pinyin": "me",
+      "writing": true
+    },
+    {
+      "id": "没",
+      "hanzi": "没",
+      "pinyin": "méi",
+      "writing": true
+    },
+    {
+      "id": "妹",
+      "hanzi": "妹",
+      "pinyin": "mèi",
+      "writing": false
+    },
+    {
+      "id": "们",
+      "hanzi": "们",
+      "pinyin": "men",
+      "writing": true
+    },
+    {
+      "id": "米",
+      "hanzi": "米",
+      "pinyin": "mǐ",
+      "writing": false
+    },
+    {
+      "id": "面",
+      "hanzi": "面",
+      "pinyin": "miàn",
+      "writing": false
+    },
+    {
+      "id": "名",
+      "hanzi": "名",
+      "pinyin": "míng",
+      "writing": true
+    },
+    {
+      "id": "明",
+      "hanzi": "明",
+      "pinyin": "míng",
+      "writing": false
+    },
+    {
+      "id": "哪",
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "writing": false
+    },
+    {
+      "id": "那",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "writing": true
+    },
+    {
+      "id": "奶",
+      "hanzi": "奶",
+      "pinyin": "nǎi",
+      "writing": false
+    },
+    {
+      "id": "男",
+      "hanzi": "男",
+      "pinyin": "nán",
+      "writing": true
+    },
+    {
+      "id": "脑",
+      "hanzi": "脑",
+      "pinyin": "nǎo",
+      "writing": false
+    },
+    {
+      "id": "呢",
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "writing": false
+    },
+    {
+      "id": "能",
+      "hanzi": "能",
+      "pinyin": "néng",
+      "writing": false
+    },
+    {
+      "id": "你",
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "writing": true
+    },
+    {
+      "id": "年",
+      "hanzi": "年",
+      "pinyin": "nián",
+      "writing": true
+    },
+    {
+      "id": "您",
+      "hanzi": "您",
+      "pinyin": "nín",
+      "writing": false
+    },
+    {
+      "id": "牛",
+      "hanzi": "牛",
+      "pinyin": "niú",
+      "writing": false
+    },
+    {
+      "id": "女",
+      "hanzi": "女",
+      "pinyin": "nǚ",
+      "writing": true
+    },
+    {
+      "id": "朋",
+      "hanzi": "朋",
+      "pinyin": "péng",
+      "writing": false
+    },
+    {
+      "id": "漂",
+      "hanzi": "漂",
+      "pinyin": "piào",
+      "writing": false
+    },
+    {
+      "id": "苹",
+      "hanzi": "苹",
+      "pinyin": "píng",
+      "writing": false
+    },
+    {
+      "id": "七",
+      "hanzi": "七",
+      "pinyin": "qī",
+      "writing": true
+    },
+    {
+      "id": "期",
+      "hanzi": "期",
+      "pinyin": "qī",
+      "writing": false
+    },
+    {
+      "id": "起",
+      "hanzi": "起",
+      "pinyin": "qǐ",
+      "writing": false
+    },
+    {
+      "id": "气",
+      "hanzi": "气",
+      "pinyin": "qì",
+      "writing": false
+    },
+    {
+      "id": "千",
+      "hanzi": "千",
+      "pinyin": "qiān",
+      "writing": false
+    },
+    {
+      "id": "前",
+      "hanzi": "前",
+      "pinyin": "qián",
+      "writing": false
+    },
+    {
+      "id": "钱",
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "writing": false
+    },
+    {
+      "id": "请",
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "writing": false
+    },
+    {
+      "id": "去",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "writing": true
+    },
+    {
+      "id": "热",
+      "hanzi": "热",
+      "pinyin": "rè",
+      "writing": false
+    },
+    {
+      "id": "人",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "writing": true
+    },
+    {
+      "id": "认",
+      "hanzi": "认",
+      "pinyin": "rèn",
+      "writing": false
+    },
+    {
+      "id": "日",
+      "hanzi": "日",
+      "pinyin": "rì",
+      "writing": true
+    },
+    {
+      "id": "三",
+      "hanzi": "三",
+      "pinyin": "sān",
+      "writing": true
+    },
+    {
+      "id": "商",
+      "hanzi": "商",
+      "pinyin": "shāng",
+      "writing": false
+    },
+    {
+      "id": "上",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "writing": true
+    },
+    {
+      "id": "少",
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "writing": true
+    },
+    {
+      "id": "谁",
+      "hanzi": "谁",
+      "pinyin": "shuí",
+      "writing": false
+    },
+    {
+      "id": "什",
+      "hanzi": "什",
+      "pinyin": "shén",
+      "writing": true
+    },
+    {
+      "id": "生",
+      "hanzi": "生",
+      "pinyin": "shēng",
+      "writing": true
+    },
+    {
+      "id": "师",
+      "hanzi": "师",
+      "pinyin": "shī",
+      "writing": false
+    },
+    {
+      "id": "十",
+      "hanzi": "十",
+      "pinyin": "shí",
+      "writing": true
+    },
+    {
+      "id": "时",
+      "hanzi": "时",
+      "pinyin": "shí",
+      "writing": true
+    },
+    {
+      "id": "识",
+      "hanzi": "识",
+      "pinyin": "shi",
+      "writing": false
+    },
+    {
+      "id": "士",
+      "hanzi": "士",
+      "pinyin": "shì",
+      "writing": false
+    },
+    {
+      "id": "市",
+      "hanzi": "市",
+      "pinyin": "shì",
+      "writing": false
+    },
+    {
+      "id": "事",
+      "hanzi": "事",
+      "pinyin": "shì",
+      "writing": false
+    },
+    {
+      "id": "视",
+      "hanzi": "视",
+      "pinyin": "shì",
+      "writing": false
+    },
+    {
+      "id": "是",
+      "hanzi": "是",
+      "pinyin": "shì",
+      "writing": true
+    },
+    {
+      "id": "手",
+      "hanzi": "手",
+      "pinyin": "shǒu",
+      "writing": false
+    },
+    {
+      "id": "书",
+      "hanzi": "书",
+      "pinyin": "shū",
+      "writing": true
+    },
+    {
+      "id": "水",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "writing": false
+    },
+    {
+      "id": "睡",
+      "hanzi": "睡",
+      "pinyin": "shuì",
+      "writing": false
+    },
+    {
+      "id": "说",
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "writing": true
+    },
+    {
+      "id": "司",
+      "hanzi": "司",
+      "pinyin": "sī",
+      "writing": false
+    },
+    {
+      "id": "四",
+      "hanzi": "四",
+      "pinyin": "sì",
+      "writing": true
+    },
+    {
+      "id": "岁",
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "writing": true
+    },
+    {
+      "id": "他",
+      "hanzi": "他",
+      "pinyin": "tā",
+      "writing": true
+    },
+    {
+      "id": "它",
+      "hanzi": "它",
+      "pinyin": "tā",
+      "writing": false
+    },
+    {
+      "id": "她",
+      "hanzi": "她",
+      "pinyin": "tā",
+      "writing": true
+    },
+    {
+      "id": "太",
+      "hanzi": "太",
+      "pinyin": "tài",
+      "writing": false
+    },
+    {
+      "id": "题",
+      "hanzi": "题",
+      "pinyin": "tí",
+      "writing": false
+    },
+    {
+      "id": "天",
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "writing": true
+    },
+    {
+      "id": "条",
+      "hanzi": "条",
+      "pinyin": "tiáo",
+      "writing": false
+    },
+    {
+      "id": "听",
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "writing": false
+    },
+    {
+      "id": "同",
+      "hanzi": "同",
+      "pinyin": "tóng",
+      "writing": true
+    },
+    {
+      "id": "外",
+      "hanzi": "外",
+      "pinyin": "wài",
+      "writing": false
+    },
+    {
+      "id": "玩",
+      "hanzi": "玩",
+      "pinyin": "wán",
+      "writing": false
+    },
+    {
+      "id": "晚",
+      "hanzi": "晚",
+      "pinyin": "wǎn",
+      "writing": false
+    },
+    {
+      "id": "喂",
+      "hanzi": "喂",
+      "pinyin": "wèi",
+      "writing": false
+    },
+    {
+      "id": "文",
+      "hanzi": "文",
+      "pinyin": "wén",
+      "writing": true
+    },
+    {
+      "id": "问",
+      "hanzi": "问",
+      "pinyin": "wèn",
+      "writing": false
+    },
+    {
+      "id": "我",
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "writing": true
+    },
+    {
+      "id": "五",
+      "hanzi": "五",
+      "pinyin": "wǔ",
+      "writing": true
+    },
+    {
+      "id": "午",
+      "hanzi": "午",
+      "pinyin": "wǔ",
+      "writing": true
+    },
+    {
+      "id": "西",
+      "hanzi": "西",
+      "pinyin": "xi",
+      "writing": false
+    },
+    {
+      "id": "息",
+      "hanzi": "息",
+      "pinyin": "xi",
+      "writing": false
+    },
+    {
+      "id": "习",
+      "hanzi": "习",
+      "pinyin": "xí",
+      "writing": true
+    },
+    {
+      "id": "喜",
+      "hanzi": "喜",
+      "pinyin": "xǐ",
+      "writing": false
+    },
+    {
+      "id": "系",
+      "hanzi": "系",
+      "pinyin": "xi",
+      "writing": false
+    },
+    {
+      "id": "下",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "writing": true
+    },
+    {
+      "id": "先",
+      "hanzi": "先",
+      "pinyin": "xiān",
+      "writing": false
+    },
+    {
+      "id": "现",
+      "hanzi": "现",
+      "pinyin": "xiàn",
+      "writing": true
+    },
+    {
+      "id": "想",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "writing": false
+    },
+    {
+      "id": "小",
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "writing": true
+    },
+    {
+      "id": "校",
+      "hanzi": "校",
+      "pinyin": "xiào",
+      "writing": false
+    },
+    {
+      "id": "些",
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "writing": false
+    },
+    {
+      "id": "写",
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "writing": true
+    },
+    {
+      "id": "谢",
+      "hanzi": "谢",
+      "pinyin": "xiè",
+      "writing": false
+    },
+    {
+      "id": "新",
+      "hanzi": "新",
+      "pinyin": "xīn",
+      "writing": false
+    },
+    {
+      "id": "星",
+      "hanzi": "星",
+      "pinyin": "xīng",
+      "writing": false
+    },
+    {
+      "id": "兴",
+      "hanzi": "兴",
+      "pinyin": "xìng",
+      "writing": false
+    },
+    {
+      "id": "休",
+      "hanzi": "休",
+      "pinyin": "xiū",
+      "writing": false
+    },
+    {
+      "id": "学",
+      "hanzi": "学",
+      "pinyin": "xué",
+      "writing": true
+    },
+    {
+      "id": "雪",
+      "hanzi": "雪",
+      "pinyin": "xuě",
+      "writing": false
+    },
+    {
+      "id": "样",
+      "hanzi": "样",
+      "pinyin": "yàng",
+      "writing": false
+    },
+    {
+      "id": "要",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "writing": true
+    },
+    {
+      "id": "也",
+      "hanzi": "也",
+      "pinyin": "yě",
+      "writing": true
+    },
+    {
+      "id": "一",
+      "hanzi": "一",
+      "pinyin": "yī",
+      "writing": true
+    },
+    {
+      "id": "衣",
+      "hanzi": "衣",
+      "pinyin": "yī",
+      "writing": false
+    },
+    {
+      "id": "医",
+      "hanzi": "医",
+      "pinyin": "yī",
+      "writing": false
+    },
+    {
+      "id": "宜",
+      "hanzi": "宜",
+      "pinyin": "yi",
+      "writing": false
+    },
+    {
+      "id": "以",
+      "hanzi": "以",
+      "pinyin": "yǐ",
+      "writing": true
+    },
+    {
+      "id": "椅",
+      "hanzi": "椅",
+      "pinyin": "yǐ",
+      "writing": false
+    },
+    {
+      "id": "影",
+      "hanzi": "影",
+      "pinyin": "yǐng",
+      "writing": false
+    },
+    {
+      "id": "友",
+      "hanzi": "友",
+      "pinyin": "you",
+      "writing": false
+    },
+    {
+      "id": "有",
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "writing": true
+    },
+    {
+      "id": "雨",
+      "hanzi": "雨",
+      "pinyin": "yǔ",
+      "writing": false
+    },
+    {
+      "id": "语",
+      "hanzi": "语",
+      "pinyin": "yǔ",
+      "writing": true
+    },
+    {
+      "id": "元",
+      "hanzi": "元",
+      "pinyin": "yuán",
+      "writing": false
+    },
+    {
+      "id": "院",
+      "hanzi": "院",
+      "pinyin": "yuàn",
+      "writing": false
+    },
+    {
+      "id": "月",
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "writing": true
+    },
+    {
+      "id": "再",
+      "hanzi": "再",
+      "pinyin": "zài",
+      "writing": false
+    },
+    {
+      "id": "在",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "writing": true
+    },
+    {
+      "id": "早",
+      "hanzi": "早",
+      "pinyin": "zǎo",
+      "writing": false
+    },
+    {
+      "id": "怎",
+      "hanzi": "怎",
+      "pinyin": "zěn",
+      "writing": false
+    },
+    {
+      "id": "找",
+      "hanzi": "找",
+      "pinyin": "zhǎo",
+      "writing": false
+    },
+    {
+      "id": "这",
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "writing": true
+    },
+    {
+      "id": "真",
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "writing": false
+    },
+    {
+      "id": "正",
+      "hanzi": "正",
+      "pinyin": "zhèng",
+      "writing": false
+    },
+    {
+      "id": "知",
+      "hanzi": "知",
+      "pinyin": "zhī",
+      "writing": false
+    },
+    {
+      "id": "只",
+      "hanzi": "只",
+      "pinyin": "zhī",
+      "writing": false
+    },
+    {
+      "id": "中",
+      "hanzi": "中",
+      "pinyin": "zhōng",
+      "writing": true
+    },
+    {
+      "id": "钟",
+      "hanzi": "钟",
+      "pinyin": "zhōng",
+      "writing": false
+    },
+    {
+      "id": "住",
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "writing": false
+    },
+    {
+      "id": "桌",
+      "hanzi": "桌",
+      "pinyin": "zhuō",
+      "writing": false
+    },
+    {
+      "id": "子",
+      "hanzi": "子",
+      "pinyin": "zi",
+      "writing": true
+    },
+    {
+      "id": "字",
+      "hanzi": "字",
+      "pinyin": "zì",
+      "writing": true
+    },
+    {
+      "id": "租",
+      "hanzi": "租",
+      "pinyin": "zū",
+      "writing": false
+    },
+    {
+      "id": "昨",
+      "hanzi": "昨",
+      "pinyin": "zuó",
+      "writing": false
+    },
+    {
+      "id": "作",
+      "hanzi": "作",
+      "pinyin": "zuò",
+      "writing": true
+    },
+    {
+      "id": "坐",
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "writing": false
+    },
+    {
+      "id": "做",
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "writing": false
+    }
+  ],
+  "writingCharacters": [
+    {
+      "id": "爱",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "writing": true
+    },
+    {
+      "id": "八",
+      "hanzi": "八",
+      "pinyin": "bā",
+      "writing": true
+    },
+    {
+      "id": "爸",
+      "hanzi": "爸",
+      "pinyin": "bà",
+      "writing": true
+    },
+    {
+      "id": "百",
+      "hanzi": "百",
+      "pinyin": "bǎi",
+      "writing": true
+    },
+    {
+      "id": "半",
+      "hanzi": "半",
+      "pinyin": "bàn",
+      "writing": true
+    },
+    {
+      "id": "比",
+      "hanzi": "比",
+      "pinyin": "bǐ",
+      "writing": true
+    },
+    {
+      "id": "边",
+      "hanzi": "边",
+      "pinyin": "biān",
+      "writing": true
+    },
+    {
+      "id": "不",
+      "hanzi": "不",
+      "pinyin": "bù",
+      "writing": true
+    },
+    {
+      "id": "茶",
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "writing": true
+    },
+    {
+      "id": "打",
+      "hanzi": "打",
+      "pinyin": "dǎ",
+      "writing": true
+    },
+    {
+      "id": "大",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "writing": true
+    },
+    {
+      "id": "地",
+      "hanzi": "地",
+      "pinyin": "dì",
+      "writing": true
+    },
+    {
+      "id": "的",
+      "hanzi": "的",
+      "pinyin": "de",
+      "writing": true
+    },
+    {
+      "id": "点",
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "writing": true
+    },
+    {
+      "id": "对",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "writing": true
+    },
+    {
+      "id": "多",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "writing": true
+    },
+    {
+      "id": "儿",
+      "hanzi": "儿",
+      "pinyin": "ér",
+      "writing": true
+    },
+    {
+      "id": "二",
+      "hanzi": "二",
+      "pinyin": "èr",
+      "writing": true
+    },
+    {
+      "id": "分",
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "writing": true
+    },
+    {
+      "id": "哥",
+      "hanzi": "哥",
+      "pinyin": "gē",
+      "writing": true
+    },
+    {
+      "id": "个",
+      "hanzi": "个",
+      "pinyin": "gè",
+      "writing": true
+    },
+    {
+      "id": "工",
+      "hanzi": "工",
+      "pinyin": "gōng",
+      "writing": true
+    },
+    {
+      "id": "口",
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "writing": true
+    },
+    {
+      "id": "国",
+      "hanzi": "国",
+      "pinyin": "guó",
+      "writing": true
+    },
+    {
+      "id": "过",
+      "hanzi": "过",
+      "pinyin": "guò",
+      "writing": true
+    },
+    {
+      "id": "还",
+      "hanzi": "还",
+      "pinyin": "hái",
+      "writing": true
+    },
+    {
+      "id": "汉",
+      "hanzi": "汉",
+      "pinyin": "hàn",
+      "writing": true
+    },
+    {
+      "id": "好",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "writing": true
+    },
+    {
+      "id": "和",
+      "hanzi": "和",
+      "pinyin": "hé",
+      "writing": true
+    },
+    {
+      "id": "很",
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "writing": true
+    },
+    {
+      "id": "后",
+      "hanzi": "后",
+      "pinyin": "hòu",
+      "writing": true
+    },
+    {
+      "id": "会",
+      "hanzi": "会",
+      "pinyin": "huì",
+      "writing": true
+    },
+    {
+      "id": "几",
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "writing": true
+    },
+    {
+      "id": "家",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "writing": true
+    },
+    {
+      "id": "间",
+      "hanzi": "间",
+      "pinyin": "jiān",
+      "writing": true
+    },
+    {
+      "id": "叫",
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "writing": true
+    },
+    {
+      "id": "姐",
+      "hanzi": "姐",
+      "pinyin": "jiě",
+      "writing": true
+    },
+    {
+      "id": "今",
+      "hanzi": "今",
+      "pinyin": "jīn",
+      "writing": true
+    },
+    {
+      "id": "男",
+      "hanzi": "男",
+      "pinyin": "nán",
+      "writing": true
+    },
+    {
+      "id": "九",
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "writing": true
+    },
+    {
+      "id": "可",
+      "hanzi": "可",
+      "pinyin": "kě",
+      "writing": true
+    },
+    {
+      "id": "来",
+      "hanzi": "来",
+      "pinyin": "lái",
+      "writing": true
+    },
+    {
+      "id": "了",
+      "hanzi": "了",
+      "pinyin": "le",
+      "writing": true
+    },
+    {
+      "id": "两",
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "writing": true
+    },
+    {
+      "id": "六",
+      "hanzi": "六",
+      "pinyin": "liù",
+      "writing": true
+    },
+    {
+      "id": "妈",
+      "hanzi": "妈",
+      "pinyin": "mā",
+      "writing": true
+    },
+    {
+      "id": "吗",
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "writing": true
+    },
+    {
+      "id": "么",
+      "hanzi": "么",
+      "pinyin": "me",
+      "writing": true
+    },
+    {
+      "id": "没",
+      "hanzi": "没",
+      "pinyin": "méi",
+      "writing": true
+    },
+    {
+      "id": "们",
+      "hanzi": "们",
+      "pinyin": "men",
+      "writing": true
+    },
+    {
+      "id": "名",
+      "hanzi": "名",
+      "pinyin": "míng",
+      "writing": true
+    },
+    {
+      "id": "那",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "writing": true
+    },
+    {
+      "id": "你",
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "writing": true
+    },
+    {
+      "id": "年",
+      "hanzi": "年",
+      "pinyin": "nián",
+      "writing": true
+    },
+    {
+      "id": "七",
+      "hanzi": "七",
+      "pinyin": "qī",
+      "writing": true
+    },
+    {
+      "id": "去",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "writing": true
+    },
+    {
+      "id": "人",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "writing": true
+    },
+    {
+      "id": "日",
+      "hanzi": "日",
+      "pinyin": "rì",
+      "writing": true
+    },
+    {
+      "id": "三",
+      "hanzi": "三",
+      "pinyin": "sān",
+      "writing": true
+    },
+    {
+      "id": "少",
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "writing": true
+    },
+    {
+      "id": "上",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "writing": true
+    },
+    {
+      "id": "什",
+      "hanzi": "什",
+      "pinyin": "shén",
+      "writing": true
+    },
+    {
+      "id": "生",
+      "hanzi": "生",
+      "pinyin": "shēng",
+      "writing": true
+    },
+    {
+      "id": "十",
+      "hanzi": "十",
+      "pinyin": "shí",
+      "writing": true
+    },
+    {
+      "id": "时",
+      "hanzi": "时",
+      "pinyin": "shí",
+      "writing": true
+    },
+    {
+      "id": "是",
+      "hanzi": "是",
+      "pinyin": "shì",
+      "writing": true
+    },
+    {
+      "id": "书",
+      "hanzi": "书",
+      "pinyin": "shū",
+      "writing": true
+    },
+    {
+      "id": "说",
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "writing": true
+    },
+    {
+      "id": "四",
+      "hanzi": "四",
+      "pinyin": "sì",
+      "writing": true
+    },
+    {
+      "id": "岁",
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "writing": true
+    },
+    {
+      "id": "他",
+      "hanzi": "他",
+      "pinyin": "tā",
+      "writing": true
+    },
+    {
+      "id": "她",
+      "hanzi": "她",
+      "pinyin": "tā",
+      "writing": true
+    },
+    {
+      "id": "天",
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "writing": true
+    },
+    {
+      "id": "同",
+      "hanzi": "同",
+      "pinyin": "tóng",
+      "writing": true
+    },
+    {
+      "id": "为",
+      "hanzi": "为",
+      "pinyin": "wèi",
+      "writing": true
+    },
+    {
+      "id": "文",
+      "hanzi": "文",
+      "pinyin": "wén",
+      "writing": true
+    },
+    {
+      "id": "我",
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "writing": true
+    },
+    {
+      "id": "五",
+      "hanzi": "五",
+      "pinyin": "wǔ",
+      "writing": true
+    },
+    {
+      "id": "午",
+      "hanzi": "午",
+      "pinyin": "wǔ",
+      "writing": true
+    },
+    {
+      "id": "习",
+      "hanzi": "习",
+      "pinyin": "xí",
+      "writing": true
+    },
+    {
+      "id": "下",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "writing": true
+    },
+    {
+      "id": "小",
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "writing": true
+    },
+    {
+      "id": "现",
+      "hanzi": "现",
+      "pinyin": "xiàn",
+      "writing": true
+    },
+    {
+      "id": "写",
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "writing": true
+    },
+    {
+      "id": "学",
+      "hanzi": "学",
+      "pinyin": "xué",
+      "writing": true
+    },
+    {
+      "id": "要",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "writing": true
+    },
+    {
+      "id": "也",
+      "hanzi": "也",
+      "pinyin": "yě",
+      "writing": true
+    },
+    {
+      "id": "一",
+      "hanzi": "一",
+      "pinyin": "yī",
+      "writing": true
+    },
+    {
+      "id": "以",
+      "hanzi": "以",
+      "pinyin": "yǐ",
+      "writing": true
+    },
+    {
+      "id": "有",
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "writing": true
+    },
+    {
+      "id": "语",
+      "hanzi": "语",
+      "pinyin": "yǔ",
+      "writing": true
+    },
+    {
+      "id": "月",
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "writing": true
+    },
+    {
+      "id": "在",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "writing": true
+    },
+    {
+      "id": "长",
+      "hanzi": "长",
+      "pinyin": "zhǎng",
+      "writing": true
+    },
+    {
+      "id": "这",
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "writing": true
+    },
+    {
+      "id": "中",
+      "hanzi": "中",
+      "pinyin": "zhōng",
+      "writing": true
+    },
+    {
+      "id": "子",
+      "hanzi": "子",
+      "pinyin": "zi",
+      "writing": true
+    },
+    {
+      "id": "女",
+      "hanzi": "女",
+      "pinyin": "nǚ",
+      "writing": true
+    },
+    {
+      "id": "字",
+      "hanzi": "字",
+      "pinyin": "zì",
+      "writing": true
+    },
+    {
+      "id": "作",
+      "hanzi": "作",
+      "pinyin": "zuò",
+      "writing": true
+    }
+  ]
+}

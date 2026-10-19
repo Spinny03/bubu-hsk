@@ -14,3 +14,10 @@ hsk2025/ufficiale/
 vocab/.emoji/
 hsk/input/
 cheatsheet_v1/
+
+# build iOS e dati utente Xcode
+ios/build/
+*.xcuserstate
+xcuserdata/
+*.xcresult/
+.DS_Store
