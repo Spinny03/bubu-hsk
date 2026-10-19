@@ -36,6 +36,11 @@ final class NavigationTests: XCTestCase {
         app.buttons.matching(NSPredicate(format: "label CONTAINS %@", "70 righe")).firstMatch.tap()
         XCTAssertTrue(app.navigationBars["Grammatica"].waitForExistence(timeout: 5))
         capture("07-grammatica")
+        app.cells.element(boundBy:1).tap()
+        for _ in 0..<20 { if app.buttons["grammar-quiz"].isHittable { break }; app.swipeUp() }
+        app.buttons["grammar-quiz"].tap()
+        XCTAssertTrue(app.staticTexts["Quale significato esprime questa frase?"].waitForExistence(timeout:5))
+        XCTAssertFalse(app.buttons["answer-1"].exists, "La grammatica non deve mostrare una parola con lo stesso ID numerico")
     }
     func testExamModes() {
         let app=XCUIApplication();app.launchArguments=["--uitesting"];app.launch()
@@ -59,7 +64,42 @@ final class NavigationTests: XCTestCase {
         XCTAssertFalse(app.otherElements["exam-feedback"].exists)
         capture("11-simulazione")
     }
+    func testPracticeModulesAndNoFooter() {
+        let app=XCUIApplication();app.launchArguments=["--uitesting"];app.launch()
+        XCTAssertFalse(app.staticTexts.matching(NSPredicate(format:"label CONTAINS %@","Non affiliata")).firstMatch.exists)
+        capture("12-home-senza-footer")
+        app.buttons["level-1"].tap()
+        capture("13-livello-senza-footer")
+        openModule(app,"tone-practice")
+        XCTAssertTrue(app.navigationBars["Pronuncia e toni"].waitForExistence(timeout:5))
+        capture("14-pronuncia")
+        app.navigationBars.buttons.firstMatch.tap()
+        openModule(app,"writing-practice")
+        XCTAssertTrue(app.navigationBars["Scrittura · 100 caratteri"].waitForExistence(timeout:5))
+        app.cells.element(boundBy:1).tap()
+        XCTAssertTrue(app.buttons["Anima"].waitForExistence(timeout:5))
+        app.buttons["Anima"].tap()
+        capture("15-scrittura")
+        app.navigationBars.buttons.firstMatch.tap();app.navigationBars.buttons.firstMatch.tap()
+        openModule(app,"reading-practice")
+        XCTAssertTrue(app.navigationBars["Lettura graduata"].waitForExistence(timeout:5))
+        app.cells.element(boundBy:1).tap()
+        XCTAssertTrue(app.navigationBars["Unità 1"].waitForExistence(timeout:5))
+        capture("16-lettura")
+        app.navigationBars.buttons.firstMatch.tap();app.navigationBars.buttons.firstMatch.tap()
+        openModule(app,"oral-practice")
+        XCTAssertTrue(app.navigationBars["Pratica orale"].waitForExistence(timeout:5))
+        capture("17-orale")
+        app.tabBars.buttons["Il mio piano"].tap()
+        app.swipeUp()
+        capture("18-fonti-nel-piano")
+    }
+    func openModule(_ app:XCUIApplication,_ id:String) {
+        for _ in 0..<6 {if app.buttons[id].isHittable{break};app.swipeUp()}
+        app.buttons[id].tap()
+    }
     func capture(_ name: String) {
+        Thread.sleep(forTimeInterval:0.6) // Completa la transizione prima di esportare l'immagine.
         let a = XCTAttachment(screenshot: XCUIScreen.main.screenshot()); a.name = name; a.lifetime = .keepAlways; add(a)
     }
 }

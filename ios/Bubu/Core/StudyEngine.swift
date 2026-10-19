@@ -19,7 +19,7 @@ enum StudyEngine {
         entry.schedulerData = try JSONEncoder().encode(next)
         entry.due = next.due
         // Le ripetizioni immediate aiutano a imparare, ma non dimostrano ricordo a distanza.
-        if correct && (previous.lastReview == nil || now.timeIntervalSince(previous.lastReview!) >= 20*3600) {
+        if correct && (previous.lastReview == nil || (now.timeIntervalSince(previous.lastReview!) >= 20*3600 && !Calendar.current.isDate(previous.lastReview!, inSameDayAs: now))) {
             entry.successes += 1
         }
         entry.lastCorrect = correct
@@ -29,7 +29,7 @@ enum StudyEngine {
     }
     static func queue(cards: [StudyCard], words: [Word], unit: Int? = nil, now: Date = .now) -> [ReviewItem] {
         let ids = Set(words.filter { unit == nil || $0.unit == unit }.map { String($0.id) })
-        let due = cards.filter { $0.due <= now && (unit == nil || ids.contains($0.contentID)) }
+        let due = cards.filter { $0.due <= now && (unit == nil || (["meaning", "audio", "pinyin"].contains($0.kind) && ids.contains($0.contentID))) }
             .sorted { $0.due < $1.due }.map { ReviewItem(contentID: $0.contentID, kind: $0.kind) }
         let existing = Set(cards.map(\.key))
         let fresh = words.filter { ids.contains(String($0.id)) }.flatMap { w in
