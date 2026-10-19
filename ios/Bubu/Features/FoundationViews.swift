@@ -18,6 +18,7 @@ struct HomeView: View {
     let content: Curriculum
     @Query private var cards: [StudyCard]
     @AppStorage("placementDone") private var placementDone = false
+    var dueCount: Int { cards.filter { $0.due <= .now }.count }
     var body: some View {
         Page {
             HStack(alignment: .firstTextBaseline) {
@@ -31,7 +32,7 @@ struct HomeView: View {
                 VStack(alignment: .leading, spacing: 10) {
                     Label("IL RIPASSO DI OGGI", systemImage: "arrow.clockwise").font(.caption.bold())
                     HStack {
-                        Text(cards.filter { $0.due <= .now }.isEmpty ? "Comincia da qui" : "\(cards.filter { $0.due <= .now }.count) carte pronte").font(.title2.bold())
+                        Text(dueCount == 0 ? "Comincia da qui" : (dueCount == 1 ? "1 carta pronta" : "\(dueCount) carte pronte")).font(.title2.bold())
                         Spacer(); Image(systemName: "arrow.right.circle.fill").font(.title)
                     }
                     Text("Un solo ripasso per parole e abilità.").font(.subheadline)
@@ -229,7 +230,7 @@ struct ReviewLanding: View {
         Page {
             Text("Un ripasso,\ntutte le tue abilità.").font(.system(.largeTitle, design: .serif).bold())
             Panel {
-                Text(due.isEmpty ? "Puoi imparare qualcosa di nuovo" : "\(due.count) carte da riprendere").font(.title2.bold())
+                Text(due.isEmpty ? "Puoi imparare qualcosa di nuovo" : (due.count == 1 ? "1 carta da riprendere" : "\(due.count) carte da riprendere")).font(.title2.bold())
                 Text("Parole, ascolto, pinyin, caratteri e grammatica. Le scadenze seguono quello che ricordi davvero.").foregroundStyle(.secondary)
                 NavigationLink { StudySessionView(content: content, initialQueue: StudyEngine.queue(cards: cards, words: content.words)) } label: { Label(due.isEmpty ? "Inizia a studiare" : "Inizia il ripasso", systemImage: "play.fill") }.buttonStyle(.borderedProminent).foregroundStyle(.white).accessibilityIdentifier("start-review")
             }
