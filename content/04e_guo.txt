@@ -1,0 +1,149 @@
+# La particella 过
+
+La particella aspettuale 过 guo (in tono neutro) segue direttamente il verbo e presenta un'azione come un'esperienza: qualcosa che è avvenuto almeno una volta in un momento passato, di solito non precisato, e che ora fa parte del vissuto del soggetto. In italiano la rendiamo spesso con il passato prossimo accompagnato da «già», «mai», «una volta», «mi è capitato di».
+
+## 过 e l'esperienza
+
+= S + V + 过 (+ O)
+
+ex: 我去**过**中国。 | Wǒ qù **guo** Zhōngguó. | Sono stato in Cina.
+ex: 他学**过**日语。 | Tā xué **guo** Rìyǔ. | Ha studiato giapponese. (in passato)
+ex: 我见**过**那位作家。 | Wǒ jiàn **guo** nà wèi zuòjiā. | Ho conosciuto quello scrittore.
+ex: 这本书我看**过**。 | Zhè běn shū wǒ kàn **guo**. | Questo libro l'ho già letto.
+ex: 小王在意大利工作**过**两年。 | Xiǎo Wáng zài Yìdàlì gōngzuò **guo** liǎng nián. | Xiao Wang ha lavorato in Italia per due anni. (in passato)
+ex: 他当**过**兵。 | Tā dāng **guo** bīng. | Ha fatto il servizio militare.
+
+过 implica che l'azione o lo stato appartiene al passato e non continua nel presente. Per questo 他结过婚 non significa «è sposato», ma «è stato sposato» (e ora non lo è più).
+
+ex: 他结**过**婚。 | Tā jié **guo** hūn. | È stato sposato.
+ex: 她小时候胖**过**。 | Tā xiǎo shíhou pàng **guo**. | Da piccola è stata grassottella per un periodo.
+ex: 我也年轻**过**。 | Wǒ yě niánqīng **guo**. | Anch'io sono stato giovane.
+
+### La negazione: 没(有) + V + 过
+
+L'esperienza si nega con 没(有). A differenza di 了, che scompare nella frase negativa, 过 resta.
+
+= S + 没(有) + V + 过 (+ O)
+
+ex: 我**没**去**过**中国。 | Wǒ **méi** qù **guo** Zhōngguó. | Non sono mai stato in Cina.
+ex: 马可**没有**吃**过**北京烤鸭。 | Mǎkě **méiyǒu** chī **guo** Běijīng kǎoyā. | Marco non ha mai mangiato l'anatra laccata alla pechinese.
+ex: 这种水果我**没**见**过**。 | Zhè zhǒng shuǐguǒ wǒ **méi** jiàn **guo**. | Questo tipo di frutta non l'ho mai visto.
+
+no: 我不去过中国。 | Wǒ bú qù guo Zhōngguó. | Errato: 过 si nega con 没(有), non con 不.
+ex: 我没去过中国。 | Wǒ méi qù guo Zhōngguó. | Non sono mai stato in Cina.
+
+! Attenzione alla differenza: 我没去 «non ci sono andato» (quella volta) e 我没去过 «non ci sono mai stato».
+
+### 从来没(有)……过 = «mai»
+
+Per rafforzare la negazione dell'esperienza si usa 从来 cónglái davanti a 没(有).
+
+= S + 从来没(有) + V + 过 (+ O)
+
+ex: 我**从来没**坐**过**飞机。 | Wǒ **cónglái méi** zuò **guo** fēijī. | Non ho mai preso l'aereo.
+ex: 他**从来没有**迟到**过**。 | Tā **cónglái méiyǒu** chídào **guo**. | Non è mai arrivato in ritardo.
+ex: 我**从来没**听说**过**这件事。 | Wǒ **cónglái méi** tīngshuō **guo** zhè jiàn shì. | Non ho mai sentito parlare di questa faccenda.
+
+! Non confondete 从来没……过 («mai», riferito all'esperienza passata) con 从来不 («mai», riferito a un'abitudine o a un principio, senza 过): 他从来不喝酒。«Non beve mai alcolici.» / 他从来没喝过酒。«Non ha mai bevuto alcolici in vita sua.»
+
+### 曾经……过
+
+L'avverbio 曾经 céngjīng «in passato, una volta» rafforza l'idea di esperienza ed è più frequente nella lingua scritta. La forma negativa è 没(有)……过; nello scritto formale si trovano anche 不曾 e 未曾.
+
+= S + 曾经 + V + 过 (+ O)
+
+ex: 他**曾经**在上海住**过**三年。 | Tā **céngjīng** zài Shànghǎi zhù **guo** sān nián. | In passato ha abitato a Shanghai per tre anni.
+ex: 我**曾经**想**过**放弃。 | Wǒ **céngjīng** xiǎng **guo** fàngqì. | A un certo punto ho pensato di rinunciare.
+ex: 这里**曾经**发生**过**一次大地震。 | Zhèlǐ **céngjīng** fāshēng **guo** yí cì dà dìzhèn. | Qui c'è stato una volta un grande terremoto.
+
+### Le domande
+
+= V + 过 + O + 吗？
+= V + 过 + O + 没有？
+= 有没有 + V + 过 + O？
+
+ex: 你去**过**长城**吗**？ | Nǐ qù **guo** Chángchéng **ma**? | Sei mai stato sulla Grande Muraglia?
+ex: 你学**过**汉语**没有**？ | Nǐ xué **guo** Hànyǔ **méiyǒu**? | Hai mai studiato cinese?
+ex: 你**有没有**看**过**这部电影？ | Nǐ **yǒu méiyǒu** kàn **guo** zhè bù diànyǐng? | Hai mai visto questo film?
+ex: A：你去过上海吗？B：去**过**。/ **没**去**过**。 | A: Nǐ qù guo Shànghǎi ma? B: Qù **guo**. / **Méi** qù **guo**. | A: Sei mai stato a Shanghai? B: Sì. / No, mai.
+
+### Con la frequenza
+
+过 si combina spesso con un complemento di frequenza, che indica quante volte si è fatta l'esperienza (vedi il capitolo «I complementi di quantità»). Un nome comune o di luogo può stare prima o dopo il numero di volte; un pronome sta sempre prima.
+
+ex: 我去**过**两次。 | Wǒ qù **guo** liǎng cì. | Ci sono stato due volte.
+ex: 我去**过**两次北京。 | Wǒ qù **guo** liǎng cì Běijīng. | Sono stato a Pechino due volte.
+ex: 我去**过**北京两次。 | Wǒ qù **guo** Běijīng liǎng cì. | Sono stato a Pechino due volte.
+ex: 我只见**过**他一次。 | Wǒ zhǐ jiàn **guo** tā yí cì. | L'ho visto solo una volta.
+
+## 过 di completamento
+
+过 può anche indicare semplicemente che un'azione è terminata, con un valore vicino a quello del complemento 完 («finire»). Si usa soprattutto con azioni abituali o previste (mangiare, lavarsi, chiedere, vedere un medico…), può essere seguito da 了 e si può riferire anche al futuro. In questo uso 过 si pronuncia talvolta con il quarto tono, guò.
+
+= S + V + 过 + O + 了
+= V₁ + 过 + O + (就) + V₂
+
+ex: 我已经吃**过**饭**了**。 | Wǒ yǐjīng chī **guo** fàn **le**. | Ho già mangiato.
+ex: 你洗**过**手**了**吗？ | Nǐ xǐ **guo** shǒu **le** ma? | Ti sei già lavato le mani?
+ex: 这件事我已经问**过**他**了**，他说不知道。 | Zhè jiàn shì wǒ yǐjīng wèn **guo** tā **le**, tā shuō bù zhīdào. | Gliel'ho già chiesto, dice che non lo sa.
+ex: 明天吃**过**早饭我们就出发。 | Míngtiān chī **guo** zǎofàn wǒmen jiù chūfā. | Domani, dopo colazione, partiamo subito.
+
+| 过 esperienziale | 过 di completamento |
+| esperienza: almeno una volta | azione terminata (≈ 完) |
+| non è seguito da 了 | spesso è seguito da 了 |
+| solo per il passato | anche per il futuro |
+| 我吃过北京烤鸭。 | 我吃过饭了。 |
+
+no: 我去过了中国。 | Wǒ qù guo le Zhōngguó. | Errato: il 过 dell'esperienza non è seguito da 了.
+ex: 我去**过**中国。 | Wǒ qù **guo** Zhōngguó. | Sono stato in Cina.
+
+## 过 e 了 a confronto
+
+过 presenta l'azione come un'esperienza conclusa i cui effetti non perdurano; 了 presenta l'azione come compiuta, e il suo risultato può essere ancora valido.
+
+ex: 他去**过**北京。 | Tā qù **guo** Běijīng. | È stato a Pechino. (ci è stato e ora non è più là)
+ex: 他去北京**了**。 | Tā qù Běijīng **le**. | È andato a Pechino. (ora è là, o è in viaggio)
+ex: 我学**过**法语，可是都忘了。 | Wǒ xué **guo** Fǎyǔ, kěshì dōu wàng le. | Ho studiato francese, ma l'ho dimenticato tutto.
+ex: 她穿**过**这条裙子。 | Tā chuān **guo** zhè tiáo qúnzi. | Questa gonna l'ha già indossata (una volta).
+ex: 她穿**了**一条新裙子。 | Tā chuān **le** yì tiáo xīn qúnzi. | Si è messa una gonna nuova.
+
+Con una durata il contrasto è ancora più netto:
+
+ex: 我在北京住**过**三年。 | Wǒ zài Běijīng zhù **guo** sān nián. | Ho abitato a Pechino per tre anni. (esperienza passata, ora vivo altrove)
+ex: 我在北京住**了**三年。 | Wǒ zài Běijīng zhù **le** sān nián. | Ho abitato a Pechino per tre anni. (periodo concluso, nel racconto)
+ex: 我在北京住**了**三年**了**。 | Wǒ zài Běijīng zhù **le** sān nián **le**. | Abito a Pechino da tre anni. (e ci abito ancora)
+
+| Caratteristica | V + 过 | V + 了 |
+| Valore | esperienza | azione compiuta |
+| Effetto nel presente | non perdura | può perdurare |
+| Riferimento temporale | passato indefinito | anche preciso, o futuro |
+| Negazione | 没 + V + 过 | 没 + V (senza 了) |
+| Avverbi tipici | 曾经, 从来没, 以前 | 已经, 刚才, 昨天 |
+
+## 过 con i verbi separabili e i complementi
+
+### I verbi separabili
+
+Nei verbi separabili (离合词 líhécí), formati da un verbo e dal suo oggetto, 过 si inserisce tra le due parti, subito dopo l'elemento verbale.
+
+no: 我们见面过。 | Wǒmen jiànmiàn guo. | Errato: 过 si inserisce tra le due parti del verbo separabile.
+ex: 我们见**过**面。 | Wǒmen jiàn **guo** miàn. | Ci siamo già visti.
+ex: 我今天已经洗**过**澡了。 | Wǒ jīntiān yǐjīng xǐ **guo** zǎo le. | Oggi ho già fatto la doccia.
+ex: 他留**过**学。 | Tā liú **guo** xué. | Ha studiato all'estero.
+ex: 她帮**过**我的忙。 | Tā bāng **guo** wǒ de máng. | Mi ha aiutato. (una volta, in passato)
+ex: 我上**过**他的当。 | Wǒ shàng **guo** tā de dàng. | Mi sono già fatto ingannare da lui.
+
+### Con un complemento di frequenza
+
+Il complemento di frequenza si colloca tra 过 e l'oggetto; nei verbi separabili, tra 过 e la parte nominale.
+
+ex: 我吃**过**一次北京烤鸭。 | Wǒ chī **guo** yí cì Běijīng kǎoyā. | Ho mangiato l'anatra laccata una volta.
+ex: 我们只见**过**两次面。 | Wǒmen zhǐ jiàn **guo** liǎng cì miàn. | Ci siamo visti solo due volte.
+ex: 他来**过**三次电话。 | Tā lái **guo** sān cì diànhuà. | Ha telefonato tre volte.
+
+### Con i complementi di risultato e di direzione
+
+Se il verbo ha un complemento di risultato o di direzione, 过 segue il complemento.
+
+ex: 他走了以后，再也没回来**过**。 | Tā zǒu le yǐhòu, zài yě méi huílai **guo**. | Da quando se n'è andato, non è più tornato.
+ex: 我从来没见到**过**这么大的雪。 | Wǒ cónglái méi jiàndào **guo** zhème dà de xuě. | Non ho mai visto una nevicata così forte.

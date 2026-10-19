@@ -1,0 +1,144 @@
+## Il complemento di frequenza (动量补语)
+
+Il complemento di frequenza (动量补语 dòngliàng bǔyǔ) indica quante volte si compie un'azione. È formato da un numerale e da un classificatore verbale (动量词 dòngliàngcí) e segue il verbo, con 了 o 过 se l'azione è compiuta o vissuta.
+
+= S + V + (了 / 过) + Num + CL verbale
+
+| Classificatore | Uso | Esempio |
+| 次 cì | volta (il più generico) | 去过两次 |
+| 遍 biàn | volta, dall'inizio alla fine | 看了三遍 |
+| 回 huí | volta (colloquiale) | 来过一回 |
+| 下 xià | azione breve, colpo | 敲了三下 |
+| 趟 tàng | viaggio di andata e ritorno | 去了一趟 |
+| 顿 dùn | pasti, rimproveri, botte | 吃了一顿, 骂了一顿 |
+| 场 cháng | eventi con un loro svolgimento | 下了一场雨, 哭了一场 |
+
+ex: 这个电影我看了**三遍**。 | Zhège diànyǐng wǒ kàn le **sān biàn**. | Questo film l'ho visto tre volte (dall'inizio alla fine).
+ex: 请再说**一遍**。 | Qǐng zài shuō **yí biàn**. | Ripeti, per favore.
+ex: 他敲了**三下**门。 | Tā qiāo le **sān xià** mén. | Ha bussato tre volte alla porta.
+ex: 我明天要去**一趟**上海。 | Wǒ míngtiān yào qù **yí tàng** Shànghǎi. | Domani devo fare un salto a Shanghai.
+ex: 老板批评了他**一顿**。 | Lǎobǎn pīpíng le tā **yí dùn**. | Il capo gli ha fatto una bella ramanzina.
+ex: 昨天下了**一场**大雨。 | Zuótiān xià le **yì cháng** dà yǔ. | Ieri c'è stato un forte acquazzone.
+ex: 她大哭了**一场**。 | Tā dà kū le **yì cháng**. | Si è fatta un bel pianto.
+
+! 次 e 遍 non sono equivalenti: 我看了三次 indica tre occasioni distinte, 我看了三遍 tre letture o visioni complete, dall'inizio alla fine. 场 si legge cháng con eventi come la pioggia, una malattia, un pianto; si legge chǎng con spettacoli e partite (看了一场电影, 一场比赛).
+
+### Con un oggetto nominale
+
+Con un nome comune l'oggetto segue di solito il complemento di frequenza; con un nome di luogo o di persona sono possibili entrambe le posizioni.
+
+= S + V + 了 / 过 + Num + CL + O
+= S + V + 了 / 过 + O (luogo, persona) + Num + CL
+
+ex: 我去**过两次**北京。 | Wǒ qù **guo liǎng cì** Běijīng. | Sono stato a Pechino due volte.
+ex: 我去**过**北京**两次**。 | Wǒ qù **guo** Běijīng **liǎng cì**. | Sono stato a Pechino due volte.
+ex: 我吃**过一次**北京烤鸭。 | Wǒ chī **guo yí cì** Běijīng kǎoyā. | Ho mangiato l'anatra laccata una volta.
+ex: 我把课文读**了三遍**。 | Wǒ bǎ kèwén dú **le sān biàn**. | Ho letto il testo tre volte.
+
+### Con un oggetto pronominale
+
+Un pronome personale si colloca sempre prima del complemento di frequenza.
+
+= S + V + 了 / 过 + Pronome + Num + CL
+
+ex: 我见**过**他**两次**。 | Wǒ jiàn **guo** tā **liǎng cì**. | L'ho visto due volte.
+ex: 我找**过**你**三次**，你都不在。 | Wǒ zhǎo **guo** nǐ **sān cì**, nǐ dōu bú zài. | Ti ho cercato tre volte, ma non c'eri mai.
+ex: 我去问**了**她**一下**。 | Wǒ qù wèn **le** tā **yíxià**. | Sono andato a chiederglielo.
+
+no: 我见过两次他。 | Wǒ jiàn guo liǎng cì tā. | Errato: il pronome oggetto precede il complemento di frequenza.
+ex: 我见**过**他**两次**。 | Wǒ jiàn **guo** tā **liǎng cì**. | L'ho visto due volte.
+
+### Con i verbi separabili
+
+Nei verbi separabili il complemento di frequenza si inserisce tra l'elemento verbale e la parte nominale.
+
+ex: 我们只见**过一次**面。 | Wǒmen zhǐ jiàn **guo yí cì** miàn. | Ci siamo visti solo una volta.
+ex: 我已经给他打**了三次**电话**了**。 | Wǒ yǐjīng gěi tā dǎ **le sān cì** diànhuà **le**. | Gli ho già telefonato tre volte.
+
+### 一下
+
+V + 一下 yíxià indica un'azione breve o fatta «un attimo» e rende la frase più cortese e informale, con un valore vicino alla reduplicazione del verbo (看看; vedi il capitolo «Il verbo»).
+
+= V + 一下 (+ O)
+
+ex: 请你**等一下**。 | Qǐng nǐ **děng yíxià**. | Aspetta un attimo, per favore.
+ex: 我来**介绍一下**，这是我的朋友马可。 | Wǒ lái **jièshào yíxià**, zhè shì wǒ de péngyou Mǎkě. | Ti presento: questo è il mio amico Marco.
+ex: 你**看一下**这个文件。 | Nǐ **kàn yíxià** zhège wénjiàn. | Dai un'occhiata a questo documento.
+ex: 能不能**帮我一下**？ | Néng bu néng **bāng wǒ yíxià**? | Puoi darmi una mano?
+
+### Parti del corpo e strumenti come classificatori
+
+Alcuni nomi di parti del corpo o di strumenti si usano come classificatori verbali temporanei: 一眼 «uno sguardo», 一脚 «un calcio», 一口 «un morso, un sorso», 一拳 «un pugno», 一刀 «un colpo di coltello».
+
+ex: 他**看了**我**一眼**。 | Tā **kàn le** wǒ **yì yǎn**. | Mi ha lanciato un'occhiata.
+ex: 他**踢了**我**一脚**。 | Tā **tī le** wǒ **yì jiǎo**. | Mi ha dato un calcio.
+ex: 小狗**咬了**他**一口**。 | Xiǎo gǒu **yǎo le** tā **yì kǒu**. | Il cagnolino gli ha dato un morso.
+ex: 他只**喝了一口**就不喝了。 | Tā zhǐ **hē le yì kǒu** jiù bù hē le. | Ne ha bevuto solo un sorso e poi ha smesso.
+
+### Le domande
+
+ex: 你去过**几次**长城？ | Nǐ qù guo **jǐ cì** Chángchéng? | Quante volte sei stato sulla Grande Muraglia?
+ex: 这本书你看了**几遍**？ | Zhè běn shū nǐ kàn le **jǐ biàn**? | Quante volte hai letto questo libro?
+
+## Il complemento di quantità differenziale
+
+Dopo un aggettivo (o un verbo che indica un cambiamento) una quantità indica di quanto qualcosa è cambiato o di quanto differisce da qualcos'altro. È molto frequente nelle frasi comparative con 比 (vedi il capitolo «Le frasi comparative»).
+
+= S + Agg + quantità
+= S + Agg / V + 了 + quantità
+= S + 比 + N + Agg + quantità
+
+ex: 他比我**高三公分**。 | Tā bǐ wǒ **gāo sān gōngfēn**. | È tre centimetri più alto di me.
+ex: 苹果**贵了两块钱**。 | Píngguǒ **guì le liǎng kuài qián**. | Le mele sono aumentate di due yuan.
+ex: 放假的时候我**胖了五公斤**。 | Fàngjià de shíhou wǒ **pàng le wǔ gōngjīn**. | Durante le vacanze sono ingrassato di cinque chili.
+ex: 我的表**慢五分钟**。 | Wǒ de biǎo **màn wǔ fēnzhōng**. | Il mio orologio va indietro di cinque minuti.
+ex: 这条裤子**长了一点儿**。 | Zhè tiáo kùzi **cháng le yìdiǎnr**. | Questi pantaloni sono un po' troppo lunghi.
+ex: 吃了药以后，我**好多了**。 | Chī le yào yǐhòu, wǒ **hǎo duō le**. | Dopo aver preso la medicina, sto molto meglio.
+ex: 今天比昨天**冷一点儿**。 | Jīntiān bǐ zuótiān **lěng yìdiǎnr**. | Oggi fa un po' più freddo di ieri.
+
+Con 早, 晚, 多, 少 davanti al verbo, la quantità dopo il verbo indica di quanto si anticipa, si ritarda, si aumenta o si diminuisce l'azione:
+
+ex: 明天请大家**早来十分钟**。 | Míngtiān qǐng dàjiā **zǎo lái shí fēnzhōng**. | Domani venite tutti dieci minuti prima, per favore.
+ex: 你**晚到了**半个小时。 | Nǐ **wǎn dào le** bàn ge xiǎoshí. | Sei arrivato con mezz'ora di ritardo.
+ex: 你应该**多吃一点儿**蔬菜。 | Nǐ yīnggāi **duō chī yìdiǎnr** shūcài. | Dovresti mangiare un po' più di verdura.
+ex: 你**少喝点儿**酒吧。 | Nǐ **shǎo hē diǎnr** jiǔ ba. | Bevi un po' meno alcol.
+
+no: 他比我三公分高。 | Tā bǐ wǒ sān gōngfēn gāo. | Errato: la differenza va dopo l'aggettivo.
+ex: 他比我**高三公分**。 | Tā bǐ wǒ **gāo sān gōngfēn**. | È tre centimetri più alto di me.
+
+no: 这件衣服一点儿贵。 | Zhè jiàn yīfu yìdiǎnr guì. | Errato: 一点儿 segue l'aggettivo; per «un po' troppo» si usa 有点儿 davanti.
+ex: 这件衣服**有点儿**贵。 | Zhè jiàn yīfu **yǒudiǎnr** guì. | Questo vestito è un po' caro. (giudizio negativo)
+ex: 这件衣服比那件贵**一点儿**。 | Zhè jiàn yīfu bǐ nà jiàn guì **yìdiǎnr**. | Questo vestito è un po' più caro di quello. (confronto)
+
+## L'ordine degli elementi dopo il verbo
+
+La tabella riassume le posizioni di 了, degli oggetti e dei complementi studiati in questa parte del libro. Tutti gli esempi sono corretti.
+
+| Elementi | Ordine | Esempio |
+| 了 + oggetto quantificato | V + 了 + Num + CL + O | 我买了三本书。 |
+| complemento di risultato | V + C + 了 + O | 我看完了那本书。 |
+| complemento di direzione + luogo | V + C₁ + Luogo + 来 / 去 | 他走进教室来了。 |
+| complemento di direzione + cosa | V + C₁ + O + 来 / 去 | 他拿出一本书来。 |
+| complemento di grado + oggetto | (V +) O + V + 得 + Agg | 他汉语说得很好。 |
+| complemento potenziale + oggetto | V + 得 / 不 + C + O | 我听不懂他的话。 |
+| durata + nome | V + 了 + durata + (的) + O | 我学了两年(的)汉语。 |
+| durata + pronome | V + 了 + Pron + durata | 我等了他一个小时。 |
+| tempo trascorso da un evento | V + O + durata + 了 | 他来中国三年了。 |
+| frequenza + nome | V + 过 + Num + CL + O | 我去过两次北京。 |
+| frequenza + pronome | V + 过 + Pron + Num + CL | 我见过他两次。 |
+| V + 在 / 到 / 给 / 成 | V + 在 / 到 / 给 / 成 + O | 他住在北京。 |
+
+Alcune regole generali:
+
+- 了₁ e 过 seguono immediatamente il verbo o, se c'è, il complemento di risultato o di direzione;
+- un verbo è seguito di norma da un solo complemento: se occorre esprimere un oggetto e un complemento di grado o di durata, si ricorre alla ripetizione del verbo o all'anteposizione dell'oggetto;
+- i pronomi personali oggetto precedono la durata e la frequenza;
+- gli oggetti di luogo precedono sempre 来 / 去;
+- con oggetti determinati e complementi complessi si usa volentieri la costruzione con 把 (vedi il capitolo «La costruzione con 把»).
+
+ex: 我昨天在图书馆看**了三个小时**（**的**）书。 | Wǒ zuótiān zài túshūguǎn kàn **le sān ge xiǎoshí** (**de**) shū. | Ieri ho letto per tre ore in biblioteca.
+ex: 我看这本书看**了三天**才看完。 | Wǒ kàn zhè běn shū kàn **le sān tiān** cái kànwán. | Ci ho messo tre giorni a finire di leggere questo libro.
+ex: 我已经给他打**了三次**电话**了**，他都没接。 | Wǒ yǐjīng gěi tā dǎ **le sān cì** diànhuà **le**, tā dōu méi jiē. | Gli ho già telefonato tre volte, ma non ha mai risposto.
+ex: 我们在那家饭馆儿吃**过两次**饭。 | Wǒmen zài nà jiā fànguǎnr chī **guo liǎng cì** fàn. | In quel ristorante abbiamo mangiato due volte.
+ex: 他把书**放在**桌子上**了**。 | Tā bǎ shū **fàng zài** zhuōzi shang **le**. | Ha messo il libro sul tavolo.
+ex: 他**拿出**手机**来**看了**一眼**。 | Tā **ná chū** shǒujī **lai** kàn le **yì yǎn**. | Ha tirato fuori il cellulare e gli ha dato un'occhiata.

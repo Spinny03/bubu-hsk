@@ -1,0 +1,147 @@
+# Il complemento di grado
+
+Il complemento di grado (程度补语 chéngdù bǔyǔ, detto anche complemento di stato o di modo, 情态补语 qíngtài bǔyǔ) segue il verbo, collegato dalla particella strutturale 得 de, e descrive o valuta il modo in cui un'azione si svolge abitualmente o si è svolta: «corre veloce», «ha dormito bene», «parla cinese in modo fluente». Con gli aggettivi indica invece l'intensità di una qualità: «caldissimo», «stanco morto». Per la particella 得 vedi anche il capitolo «Le particelle strutturali 的, 地, 得».
+
+## V + 得 + Agg
+
+= S + V + 得 + (Avv) + Agg
+
+ex: 他跑**得**很快。 | Tā pǎo **de** hěn kuài. | Corre molto veloce.
+ex: 你说**得**对。 | Nǐ shuō **de** duì. | Hai ragione. (lett. parli in modo giusto)
+ex: 玛丽亚写汉字写**得**非常漂亮。 | Mǎlìyà xiě Hànzì xiě **de** fēicháng piàoliang. | Maria scrive i caratteri cinesi in modo bellissimo.
+ex: 昨天晚上我睡**得**很好。 | Zuótiān wǎnshang wǒ shuì **de** hěn hǎo. | Ieri notte ho dormito molto bene.
+ex: 他来**得**太晚了。 | Tā lái **de** tài wǎn le. | È arrivato troppo tardi.
+ex: 你今天起**得**真早！ | Nǐ jīntiān qǐ **de** zhēn zǎo! | Oggi ti sei alzato davvero presto!
+ex: 时间过**得**真快。 | Shíjiān guò **de** zhēn kuài. | Il tempo passa davvero in fretta.
+
+### 很 e gli altri avverbi
+
+Come nel predicato aggettivale, l'aggettivo del complemento è normalmente preceduto da 很 o da un altro avverbio di grado (非常, 真, 太……了, 比较, 特别). L'aggettivo da solo suona come un confronto o una contrapposizione.
+
+ex: 他跑**得**快，我跑**得**慢。 | Tā pǎo **de** kuài, wǒ pǎo **de** màn. | Lui corre veloce, io lento.
+
+### Niente 了 dopo il verbo
+
+Il complemento di grado descrive e valuta: anche quando si riferisce al passato, non vuole 了 dopo il verbo.
+
+no: 他昨天跑了得很快。 | Tā zuótiān pǎo le de hěn kuài. | Errato: nel complemento di grado non si usa 了 dopo il verbo.
+ex: 他昨天跑**得**很快。 | Tā zuótiān pǎo **de** hěn kuài. | Ieri ha corso molto veloce.
+
+### La negazione
+
+La negazione 不 non va davanti al verbo, ma davanti all'aggettivo, dopo 得.
+
+= S + V + 得 + 不 + Agg
+
+no: 他不跑得快。 | Tā bù pǎo de kuài. | Errato: la negazione va dopo 得.
+ex: 他跑**得不**快。 | Tā pǎo **de bú** kuài. | Non corre veloce.
+ex: 我这次考**得不**太好。 | Wǒ zhè cì kǎo **de bú** tài hǎo. | Questa volta l'esame non mi è andato molto bene.
+ex: 他说**得不**清楚。 | Tā shuō **de bù** qīngchu. | Non si esprime in modo chiaro.
+
+### Le domande
+
+= S + V + 得 + Agg + 不 + Agg？
+= S + V + 得 + 怎么样？
+= S + V + 得 + (Avv) + Agg + 吗？
+
+ex: 他跑**得**快不快？ | Tā pǎo **de** kuài bu kuài? | Corre veloce?
+ex: 你昨天睡**得**怎么样？ | Nǐ zuótiān shuì **de** zěnmeyàng? | Come hai dormito ieri?
+ex: 我说**得**对吗？ | Wǒ shuō **de** duì ma? | Ho detto bene? / Ho ragione?
+
+! Nella forma affermativa il complemento di grado può confondersi con il complemento potenziale: 他跑得快 «corre veloce» / «riesce a correre veloce». La presenza di 很 e la forma negativa tolgono ogni dubbio: 跑得不快 «non corre veloce» (grado), 跑不快 «non riesce a correre veloce» (potenziale; vedi il capitolo «Il complemento potenziale»).
+
+## Il complemento di grado con l'oggetto
+
+得 deve seguire direttamente il verbo. Se il verbo ha un oggetto, quindi, 得 non può collocarsi dopo l'oggetto: si ripete il verbo, oppure si sposta l'oggetto prima del verbo (dopo il soggetto o all'inizio della frase).
+
+= S + V + O + V + 得 + Agg
+= S + O + V + 得 + Agg
+= O + S + V + 得 + Agg
+
+ex: 他说汉语说**得**很流利。 | Tā shuō Hànyǔ shuō **de** hěn liúlì. | Parla cinese molto fluentemente.
+ex: 他汉语说**得**很流利。 | Tā Hànyǔ shuō **de** hěn liúlì. | Parla cinese molto fluentemente.
+ex: 汉语他说**得**很流利。 | Hànyǔ tā shuō **de** hěn liúlì. | Il cinese lo parla molto fluentemente.
+ex: 她做菜做**得**特别好吃。 | Tā zuò cài zuò **de** tèbié hǎochī. | Cucina in modo squisito.
+ex: 你开车开**得**太快了。 | Nǐ kāichē kāi **de** tài kuài le. | Guidi troppo veloce.
+
+no: 他说汉语得很好。 | Tā shuō Hànyǔ de hěn hǎo. | Errato: 得 deve seguire direttamente il verbo.
+no: 他说得汉语很好。 | Tā shuō de Hànyǔ hěn hǎo. | Errato: l'oggetto non si inserisce tra 得 e il complemento.
+ex: 他汉语说**得**很好。 | Tā Hànyǔ shuō **de** hěn hǎo. | Parla bene il cinese.
+
+! Esiste un'espressione fissa che sembra contraddire questa regola: 他说得一口流利的汉语。«Parla un cinese fluente.» Qui l'oggetto quantificato con 一口 segue 得; si tratta di una formula, usata soprattutto per le lingue, che non va estesa ad altri casi.
+
+### I verbi separabili
+
+I verbi separabili si comportano allo stesso modo: si ripete l'elemento verbale oppure si antepone la parte nominale.
+
+ex: 他唱歌唱**得**很好。 | Tā chànggē chàng **de** hěn hǎo. | Canta molto bene.
+ex: 他歌唱**得**很好。 | Tā gē chàng **de** hěn hǎo. | Canta molto bene.
+ex: 她跳舞跳**得**非常好看。 | Tā tiàowǔ tiào **de** fēicháng hǎokàn. | Balla benissimo.
+ex: 你游泳游**得**怎么样？ | Nǐ yóuyǒng yóu **de** zěnmeyàng? | Come nuoti?
+ex: 他每天睡觉睡**得**很晚。 | Tā měi tiān shuìjiào shuì **de** hěn wǎn. | Ogni giorno va a dormire molto tardi.
+
+no: 他唱歌得很好。 | Tā chànggē de hěn hǎo. | Errato: 得 deve seguire l'elemento verbale 唱.
+ex: 他唱歌唱**得**很好。 | Tā chànggē chàng **de** hěn hǎo. | Canta molto bene.
+
+## Complementi di grado con frasi ed espressioni fisse
+
+### V / Agg + 得 + frase
+
+Dopo 得 può comparire un'intera frase, che descrive la conseguenza o il grado estremo di un'azione o di uno stato: «così… che…», «al punto di…».
+
+= S + V / Agg + 得 + frase
+
+ex: 我累**得**站不起来了。 | Wǒ lèi **de** zhàn bu qǐlái le. | Sono così stanco che non riesco ad alzarmi.
+ex: 孩子们高兴**得**跳了起来。 | Háizimen gāoxìng **de** tiào le qilai. | I bambini hanno fatto un salto di gioia.
+ex: 他最近忙**得**没有时间吃饭。 | Tā zuìjìn máng **de** méiyǒu shíjiān chī fàn. | Ultimamente è così impegnato che non ha tempo di mangiare.
+ex: 我们笑**得**肚子都疼了。 | Wǒmen xiào **de** dùzi dōu téng le. | Abbiamo riso tanto da farci venire il mal di pancia.
+ex: 她急**得**哭了起来。 | Tā jí **de** kū le qilai. | Era così agitata che si è messa a piangere.
+ex: 他讲**得**大家都笑了。 | Tā jiǎng **de** dàjiā dōu xiào le. | Ha raccontato in un modo che tutti si sono messi a ridere.
+
+### Agg + 得 + 很 / 多 / 要命 / 不得了 / 不行 / 厉害
+
+Alcune espressioni fisse dopo 得 indicano un grado molto alto. 得多 si usa nei confronti (vedi il capitolo «Le frasi comparative»); 要命, 不得了, 不行 e 厉害 sono colloquiali e spesso enfatici.
+
+ex: 今天热**得很**。 | Jīntiān rè **de hěn**. | Oggi fa un caldo tremendo.
+ex: 他比我高**得多**。 | Tā bǐ wǒ gāo **de duō**. | È molto più alto di me.
+ex: 我饿**得要命**。 | Wǒ è **de yàomìng**. | Ho una fame da morire.
+ex: 她高兴**得不得了**。 | Tā gāoxìng **de bùdéliǎo**. | È felicissima.
+ex: 走了一天，我累**得不行**。 | Zǒu le yì tiān, wǒ lèi **de bùxíng**. | Dopo aver camminato tutto il giorno, sono distrutto.
+ex: 我头疼**得厉害**。 | Wǒ tóu téng **de lìhai**. | Ho un mal di testa terribile.
+
+### Agg + 极了 / 死了 / 坏了 / 透了
+
+Senza 得, alcuni elementi seguiti da 了 indicano un grado estremo. 极了 è neutro e si usa con qualità positive e negative; 死了 e 坏了 sono colloquiali e frequenti con stati fisici ed emozioni; 透了 si usa per lo più con qualità negative.
+
+ex: 这个主意好**极了**！ | Zhège zhǔyi hǎo **jí le**! | È un'idea fantastica!
+ex: 我累**死了**！ | Wǒ lèi **sǐ le**! | Sono stanco morto!
+ex: 今天热**死了**。 | Jīntiān rè **sǐ le**. | Oggi si muore di caldo.
+ex: 听到这个消息，他高兴**坏了**。 | Tīngdào zhège xiāoxi, tā gāoxìng **huài le**. | Sentita la notizia, era felice da impazzire.
+ex: 孩子饿**坏了**。 | Háizi è **huài le**. | Il bambino è affamatissimo.
+ex: 今天的天气糟**透了**。 | Jīntiān de tiānqì zāo **tòu le**. | Oggi il tempo è un disastro.
+
+no: 这个菜很好吃极了。 | Zhège cài hěn hǎochī jí le. | Errato: con 极了 non si usa 很.
+ex: 这个菜好吃**极了**。 | Zhège cài hǎochī **jí le**. | Questo piatto è buonissimo.
+
+## Complemento di grado e avverbiale a confronto
+
+Un aggettivo può precedere il verbo come avverbiale (状语 zhuàngyǔ), spesso con 地 de, oppure seguirlo come complemento di grado con 得. Le due costruzioni non sono equivalenti:
+
+- l'avverbiale descrive il modo in cui si svolge un'azione specifica, spesso in una narrazione, oppure il modo in cui si chiede di farla;
+- il complemento di grado valuta o giudica il risultato di un'azione, o una qualità abituale del soggetto.
+
+ex: 他**很快地**跑了过去。 | Tā **hěn kuài de** pǎo le guoqu. | È corso via velocemente.
+ex: 他跑**得很快**。 | Tā pǎo **de hěn kuài**. | Corre veloce. (è un corridore veloce)
+ex: 他**认真地**做着练习。 | Tā **rènzhēn de** zuò zhe liànxí. | Sta facendo gli esercizi con impegno.
+ex: 他学习**得很认真**。 | Tā xuéxí **de hěn rènzhēn**. | Studia con grande serietà. (è il giudizio su di lui)
+ex: 她**高兴地**笑了。 | Tā **gāoxìng de** xiào le. | Ha sorriso felice.
+ex: 她笑**得很高兴**。 | Tā xiào **de hěn gāoxìng**. | Rideva di gusto.
+ex: 请你**慢慢地**说。 | Qǐng nǐ **mànmàn de** shuō. | Per favore, parla lentamente.
+
+| Caratteristica | Avverbiale (Agg + 地 + V) | Complemento di grado (V + 得 + Agg) |
+| Posizione | prima del verbo | dopo il verbo |
+| Funzione | modo di svolgimento | valutazione, giudizio |
+| Uso tipico | narrazione, richieste | abitudini, azioni concluse |
+| Esempio | 他高兴地笑了。 | 他笑得很高兴。 |
+
+! Per chi parla italiano, una buona prova è la domanda a cui risponde la frase. «Come l'ha fatto, in quel momento?» → avverbiale. «Com'è andata? Com'è lui nel farlo?» → complemento di grado: 他汉语说得怎么样？«Come parla il cinese?» 说得很好。«Lo parla bene.»

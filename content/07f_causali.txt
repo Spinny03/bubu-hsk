@@ -1,0 +1,177 @@
+# Frasi causali, ipotetiche e condizionali
+
+Questo capitolo tratta le frasi che esprimono una relazione di causa ed effetto (因果复句 yīnguǒ fùjù), un'ipotesi (假设复句 jiǎshè fùjù) o una condizione (条件复句 tiáojiàn fùjù). In tutte, la proposizione subordinata (causa, ipotesi, condizione) precede normalmente la principale (vedi il capitolo «Le frasi complesse: principi generali»).
+
+## Causa ed effetto
+
+### 因为……所以……
+
+= 因为 + causa，所以 + effetto
+= S + 因为 + causa，所以 + effetto
+
+因为 yīnwèi («perché, siccome») introduce la causa; 所以 suǒyǐ («perciò, quindi») introduce l'effetto. La coppia completa è corretta, ma nel parlato si usa spesso solo uno dei due elementi. 因为 può stare prima o dopo il soggetto; 所以, come tutte le congiunzioni della seconda proposizione, sta prima del soggetto.
+
+ex: **因为**我感冒了，**所以**今天没去上班。 | **Yīnwèi** wǒ gǎnmào le, **suǒyǐ** jīntiān méi qù shàng bān. | Siccome ho il raffreddore, oggi non sono andato al lavoro.
+ex: 他**因为**工作忙，**所以**很少回家。 | Tā **yīnwèi** gōngzuò máng, **suǒyǐ** hěn shǎo huí jiā. | Per via del lavoro torna a casa di rado.
+ex: **因为**路上堵车，我迟到了半个小时。 | **Yīnwèi** lùshang dǔ chē, wǒ chídào le bàn ge xiǎoshí. | A causa del traffico sono arrivato con mezz'ora di ritardo.
+ex: 今天是周末，**所以**人特别多。 | Jīntiān shì zhōumò, **suǒyǐ** rén tèbié duō. | Oggi è fine settimana, perciò c'è moltissima gente.
+ex: A：你为什么学汉语？B：**因为**我对中国文化很感兴趣。 | A: Nǐ wèi shénme xué Hànyǔ? B: **Yīnwèi** wǒ duì Zhōngguó wénhuà hěn gǎn xìngqù. | A: Perché studi cinese? B: Perché mi interessa molto la cultura cinese.
+
+! 因为 può reggere anche un semplice nome, con valore di preposizione: 因为这件事，他们吵了一架 «Per questa faccenda hanno litigato».
+! L'italiano «perché» esprime sia la causa sia il fine («Te lo dico perché tu lo sappia»). In cinese la causa si esprime con 因为, il fine con 为了 o 好 (vedi il capitolo «Frasi finali, temporali e altre strutture correlative»).
+
+no: 我病了，为了这个我没去。 | Wǒ bìng le, wèile zhège wǒ méi qù. | Errato: 为了 indica il fine, non la causa.
+ex: 我病了，**所以**没去。 | Wǒ bìng le, **suǒyǐ** méi qù. | Ero malato, per questo non ci sono andato.
+
+### 由于……(因此/因而/所以)
+
+由于 yóuyú («a causa di, dato che») ha lo stesso valore di 因为 ma è più formale e frequente nello scritto. Nella principale può avere 所以, 因此 yīncǐ o 因而 yīn'ér. Come 因为, può reggere anche un sintagma nominale.
+
+= 由于 + causa，(因此/因而/所以) + effetto
+
+ex: **由于**天气原因，航班被取消了。 | **Yóuyú** tiānqì yuányīn, hángbān bèi qǔxiāo le. | A causa del maltempo, il volo è stato cancellato.
+ex: **由于**准备充分，**因此**会议开得很成功。 | **Yóuyú** zhǔnbèi chōngfèn, **yīncǐ** huìyì kāi de hěn chénggōng. | Grazie all'accurata preparazione, la riunione è riuscita molto bene.
+ex: **由于**他长期坚持锻炼，**所以**身体一直很好。 | **Yóuyú** tā chángqī jiānchí duànliàn, **suǒyǐ** shēntǐ yìzhí hěn hǎo. | Siccome fa esercizio regolarmente da molto tempo, gode sempre di ottima salute.
+
+! 因此 e 因而 si abbinano a 由于, ma normalmente non a 因为: si dice 由于……因此……, mentre con 因为 si usa 所以.
+! 由于 non si pospone alla principale: invece di ……，由于…… si dice ……，是由于…… oppure ……，因为…….
+
+no: 航班取消了，由于天气不好。 | Hángbān qǔxiāo le, yóuyú tiānqì bù hǎo. | Errato: 由于 non introduce una causa posposta.
+ex: 航班取消了，**是由于**天气不好。 | Hángbān qǔxiāo le, **shì yóuyú** tiānqì bù hǎo. | Se il volo è stato cancellato, è a causa del maltempo.
+
+### 既然……就/也/还……
+
+既然 jìrán («dal momento che, visto che») presenta una causa **già nota** e accettata dagli interlocutori; la principale ne trae una conclusione, spesso sotto forma di consiglio, proposta, decisione o domanda. I correlativi sono 就, 也, 还 e, all'inizio della principale, 那(么).
+
+= 既然 + causa nota，(那) + S + 就/也/还 + conclusione
+
+ex: **既然**你不舒服，**就**早点儿回家休息吧。 | **Jìrán** nǐ bù shūfu, **jiù** zǎo diǎnr huí jiā xiūxi ba. | Visto che non stai bene, torna a casa presto a riposarti.
+ex: **既然**来了，**就**多住几天吧。 | **Jìrán** lái le, **jiù** duō zhù jǐ tiān ba. | Visto che sei venuto, fermati qualche giorno in più.
+ex: 你**既然**知道错了，**就**应该改。 | Nǐ **jìrán** zhīdao cuò le, **jiù** yīnggāi gǎi. | Dal momento che sai di aver sbagliato, devi correggerti.
+ex: **既然**大家都同意，那我**也**没意见了。 | **Jìrán** dàjiā dōu tóngyì, nà wǒ **yě** méi yìjiàn le. | Visto che tutti sono d'accordo, allora non ho obiezioni neanch'io.
+ex: **既然**你这么喜欢，**还**犹豫什么？ | **Jìrán** nǐ zhème xǐhuan, **hái** yóuyù shénme? | Visto che ti piace così tanto, che cosa aspetti?
+
+no: 既然下雨了，所以比赛取消了。 | Jìrán xià yǔ le, suǒyǐ bǐsài qǔxiāo le. | Errato: 既然 non si abbina a 所以; la principale esprime una conclusione, non una semplice constatazione.
+ex: **既然**下雨了，比赛**就**取消吧。 | **Jìrán** xià yǔ le, bǐsài **jiù** qǔxiāo ba. | Visto che piove, annulliamo la partita.
+
+### 之所以……是因为……
+
+之所以 zhīsuǒyǐ presenta prima l'effetto, come fatto noto, e poi la causa, che diventa così l'informazione in rilievo («se…, è perché…»). È tipico dello stile scritto e formale; il suo equivalente parlato è ……，是因为…….
+
+= S + 之所以 + effetto，是因为/是由于 + causa
+
+ex: 他**之所以**成功，**是因为**他从来不放弃。 | Tā **zhīsuǒyǐ** chénggōng, **shì yīnwèi** tā cónglái bú fàngqì. | Se ha avuto successo, è perché non si è mai arreso.
+ex: 我**之所以**选择这个专业，**是因为**它跟我的兴趣有关。 | Wǒ **zhīsuǒyǐ** xuǎnzé zhège zhuānyè, **shì yīnwèi** tā gēn wǒ de xìngqù yǒuguān. | Ho scelto questo corso di laurea perché è legato ai miei interessi.
+ex: 这本书**之所以**受欢迎，**是由于**它的语言通俗易懂。 | Zhè běn shū **zhīsuǒyǐ** shòu huānyíng, **shì yóuyú** tā de yǔyán tōngsú yìdǒng. | Questo libro ha successo perché è scritto in una lingua semplice e comprensibile.
+ex: 他没来，**是因为**孩子病了。 | Tā méi lái, **shì yīnwèi** háizi bìng le. | Se non è venuto, è perché il figlio è malato.
+
+### I connettivi di conseguenza
+
+Oltre a 所以, l'effetto può essere introdotto da diversi connettivi, che aprono la seconda proposizione.
+
+| Parola | Valore | Registro |
+| 因此 yīncǐ | perciò, di conseguenza | neutro, scritto |
+| 因而 yīn'ér | quindi, pertanto | scritto |
+| 以致 yǐzhì | tanto che (conseguenza negativa) | scritto |
+| 从而 cóng'ér | così da, in tal modo | scritto |
+| 于是 yúshì | e così (nella narrazione) | neutro |
+| 可见 kějiàn | se ne deduce che, si vede che | neutro |
+
+ex: 他每天练习口语，**因此**进步很快。 | Tā měi tiān liànxí kǒuyǔ, **yīncǐ** jìnbù hěn kuài. | Si esercita ogni giorno nella conversazione, perciò fa rapidi progressi.
+ex: 这个地区交通不便，**因而**经济发展比较慢。 | Zhège dìqū jiāotōng bú biàn, **yīn'ér** jīngjì fāzhǎn bǐjiào màn. | Questa zona è mal collegata, quindi l'economia si sviluppa piuttosto lentamente.
+ex: 他开车时一直看手机，**以致**发生了交通事故。 | Tā kāi chē shí yìzhí kàn shǒujī, **yǐzhì** fāshēng le jiāotōng shìgù. | Guidando guardava continuamente il cellulare, tanto che ha avuto un incidente.
+ex: 公司改进了技术，**从而**提高了产品质量。 | Gōngsī gǎijìn le jìshù, **cóng'ér** tígāo le chǎnpǐn zhìliàng. | L'azienda ha perfezionato la tecnologia, migliorando così la qualità dei prodotti.
+ex: 他发现钱包丢了，**于是**马上去报了警。 | Tā fāxiàn qiánbāo diū le, **yúshì** mǎshàng qù bào le jǐng. | Si è accorto di aver perso il portafoglio e così è andato subito a sporgere denuncia.
+ex: 他连这么简单的题都做错了，**可见**根本没认真复习。 | Tā lián zhème jiǎndān de tí dōu zuòcuò le, **kějiàn** gēnběn méi rènzhēn fùxí. | Ha sbagliato persino un esercizio così semplice: si vede che non ha ripassato seriamente.
+
+! 以致 introduce una conseguenza negativa e non voluta; 从而 un risultato (spesso positivo) ottenuto attraverso l'azione precedente. 因此, a differenza di 所以, può stare anche dopo il soggetto: 他因此受到了表扬 «Per questo è stato elogiato».
+
+### 难怪 e 怪不得
+
+难怪 nánguài e 怪不得 guàibude («non c'è da stupirsi che…, ecco perché…») esprimono che il parlante ha appena capito la causa di un fatto. La proposizione con la causa può precedere o seguire; spesso è introdotta da 原来 yuánlái («ecco, si scopre che»).
+
+ex: 外面下雪了，**难怪**这么冷。 | Wàimiàn xià xuě le, **nánguài** zhème lěng. | Fuori nevica: ecco perché fa così freddo.
+ex: **怪不得**他汉语说得这么好，原来他在中国住了十年。 | **Guàibude** tā Hànyǔ shuō de zhème hǎo, yuánlái tā zài Zhōngguó zhù le shí nián. | Non c'è da stupirsi che parli così bene il cinese: ha vissuto in Cina per dieci anni.
+ex: A：小李生病了。B：**难怪**今天没来上课。 | A: Xiǎo Lǐ shēng bìng le. B: **Nánguài** jīntiān méi lái shàng kè. | A: Xiao Li è malato. B: Ecco perché oggi non è venuto a lezione.
+
+### 因为, 由于 o 既然?
+
+| Aspetto | 因为 | 由于 | 既然 |
+| registro | neutro, parlato | formale, scritto | neutro |
+| la causa | nuova o nota | nuova o nota | già nota e accettata |
+| correlativo | 所以 | 因此, 因而, 所以 | 就, 也, 还, 那(么) |
+| la principale | constatazione | constatazione | consiglio, decisione, domanda |
+| posposizione | sì: ……，因为…… | solo ……，是由于…… | no |
+
+## L'ipotesi
+
+### Le congiunzioni ipotetiche
+
+= 如果/要是/假如 + (S) + … + (的话)，(那么) + S + 就 + …
+
+La proposizione ipotetica è introdotta da una congiunzione e può terminare con 的话 dehuà; la principale può cominciare con 那么 nàme o 那 nà («allora») e contiene spesso l'avverbio 就 dopo il soggetto. 就 si omette facilmente quando la principale è una domanda o contiene un verbo modale.
+
+| Congiunzione | Registro | Osservazioni |
+| 如果 rúguǒ | neutro | la più comune |
+| 要是 yàoshi | parlato | molto frequente nel parlato |
+| 假如 jiǎrú | neutro, scritto | ipotesi anche irreali |
+| 假使 jiǎshǐ | scritto | |
+| 假设 jiǎshè | formale | anche «supponiamo che» |
+| 倘若 tǎngruò | scritto letterario | |
+| 万一 wànyī | neutro | evento improbabile e indesiderato |
+
+ex: **如果**你有时间，我们**就**一起去吧。 | **Rúguǒ** nǐ yǒu shíjiān, wǒmen **jiù** yìqǐ qù ba. | Se hai tempo, andiamoci insieme.
+ex: **要是**明天下雨**的话**，我们**就**不去了。 | **Yàoshi** míngtiān xià yǔ **dehuà**, wǒmen **jiù** bú qù le. | Se domani piove, non ci andiamo.
+ex: **如果**你不同意，**那么**我们再商量商量。 | **Rúguǒ** nǐ bù tóngyì, **nàme** wǒmen zài shāngliang shāngliang. | Se non sei d'accordo, allora ne riparliamo.
+ex: **假如**我是你，我**就**接受这份工作。 | **Jiǎrú** wǒ shì nǐ, wǒ **jiù** jiēshòu zhè fèn gōngzuò. | Se fossi in te, accetterei questo lavoro.
+ex: **假如**明天是世界末日，你想做什么？ | **Jiǎrú** míngtiān shì shìjiè mòrì, nǐ xiǎng zuò shénme? | Se domani fosse la fine del mondo, che cosa vorresti fare?
+ex: **假设**这个方案失败了，我们还有别的办法吗？ | **Jiǎshè** zhège fāng'àn shībài le, wǒmen hái yǒu bié de bànfǎ ma? | Supponiamo che questo piano fallisca: abbiamo un'alternativa?
+ex: **假使**没有大家的支持，这项工作是不可能完成的。 | **Jiǎshǐ** méiyǒu dàjiā de zhīchí, zhè xiàng gōngzuò shì bù kěnéng wánchéng de. | Senza il sostegno di tutti, questo lavoro non si sarebbe potuto portare a termine.
+
+! Il cinese non ha né congiuntivo né condizionale. La stessa frase può corrispondere a un'ipotesi reale o irreale: 如果我有钱，我就买这辆车 significa sia «Se ho i soldi, compro questa macchina» sia «Se avessi i soldi, comprerei questa macchina». Decide il contesto.
+
+### ……的话
+
+的话 dehuà, posto alla fine della proposizione ipotetica, basta da solo a segnare l'ipotesi, senza 如果. È molto frequente nel parlato; può anche rafforzare una congiunzione (如果……的话).
+
+= (S) + … + 的话，(S) + 就 + …
+
+ex: 你不舒服**的话**，就早点儿回去吧。 | Nǐ bù shūfu **dehuà**, jiù zǎo diǎnr huíqu ba. | Se non ti senti bene, torna pure a casa presto.
+ex: 有问题**的话**，随时给我打电话。 | Yǒu wèntí **dehuà**, suíshí gěi wǒ dǎ diànhuà. | Se ci sono problemi, chiamami quando vuoi.
+ex: 可以**的话**，我想明天再来。 | Kěyǐ **dehuà**, wǒ xiǎng míngtiān zài lái. | Se è possibile, vorrei tornare domani.
+ex: A：我们去看电影吧。B：你想去**的话**，我陪你去。 | A: Wǒmen qù kàn diànyǐng ba. B: Nǐ xiǎng qù **dehuà**, wǒ péi nǐ qù. | A: Andiamo al cinema? B: Se ci vuoi andare, ti accompagno.
+
+### 要不是……(就)……
+
+要不是 yàobúshì («se non fosse/fosse stato per…») introduce un fatto **reale** e immagina che cosa sarebbe successo senza di esso: è un'ipotesi controfattuale. Può reggere una proposizione o un semplice nome. Nella principale compaiono spesso 就……了, 早就……了 o 可能, 恐怕.
+
+= 要不是 + fatto reale，S + (早)就 + … + 了
+
+ex: **要不是**你帮我，我**早就**迷路了。 | **Yàobúshì** nǐ bāng wǒ, wǒ **zǎo jiù** mí lù le. | Se non mi avessi aiutato tu, mi sarei perso da un pezzo.
+ex: **要不是**下大雨，我们**就**去爬山了。 | **Yàobúshì** xià dà yǔ, wǒmen **jiù** qù pá shān le. | Se non fosse stato per la pioggia, saremmo andati in montagna.
+ex: **要不是**他提醒我，我**就**忘了。 | **Yàobúshì** tā tíxǐng wǒ, wǒ **jiù** wàng le. | Se lui non me l'avesse ricordato, me ne sarei dimenticato.
+ex: **要不是**堵车，我们**早就**到了。 | **Yàobúshì** dǔ chē, wǒmen **zǎo jiù** dào le. | Se non fosse stato per il traffico, saremmo arrivati da un pezzo.
+ex: **要不是**你，我真不知道怎么办。 | **Yàobúshì** nǐ, wǒ zhēn bù zhīdao zěnme bàn. | Se non fosse per te, non saprei proprio come fare.
+
+! Il fatto introdotto da 要不是 è affermato, non negato: 要不是你帮我 presuppone che tu mi abbia effettivamente aiutato. Non va aggiunta un'altra negazione nella subordinata.
+
+### L'ipotesi irreale nel passato
+
+Per l'ipotesi irreale riferita al passato («se avessi…, avrei…») il cinese usa la normale struttura ipotetica e segnala l'irrealtà con elementi lessicali e con 了: 早就……了 («già da tempo»), 就不会……了 («non sarebbe successo»), ……就好了 («magari…», per esprimere rimpianto).
+
+ex: **如果**你早点儿告诉我，我**就不会**犯这个错误**了**。 | **Rúguǒ** nǐ zǎo diǎnr gàosu wǒ, wǒ **jiù bú huì** fàn zhège cuòwù **le**. | Se me l'avessi detto prima, non avrei commesso questo errore.
+ex: **如果**当时听了妈妈的话，我**早就**毕业**了**。 | **Rúguǒ** dāngshí tīng le māma de huà, wǒ **zǎo jiù** bì yè **le**. | Se allora avessi dato retta alla mamma, mi sarei laureato da tempo.
+ex: **如果**没有你的帮助，我们**就**不会成功。 | **Rúguǒ** méiyǒu nǐ de bāngzhù, wǒmen **jiù** bú huì chénggōng. | Senza il tuo aiuto non ce l'avremmo fatta.
+ex: **要是**昨天带了伞**就好了**。 | **Yàoshi** zuótiān dài le sǎn **jiù hǎo le**. | Se solo ieri avessi portato l'ombrello!
+
+### 万一
+
+万一 wànyī («nel caso che, se per caso») introduce un'ipotesi **improbabile e indesiderata**; la principale indica di solito una precauzione o una soluzione. Come nome significa «imprevisto»: 以防万一 yǐ fáng wànyī «per ogni evenienza».
+
+ex: **万一**下雨，比赛**就**改到下周。 | **Wànyī** xià yǔ, bǐsài **jiù** gǎi dào xià zhōu. | Nel caso piovesse, la partita sarà spostata alla settimana prossima.
+ex: 多带点儿钱吧，**万一**不够呢？ | Duō dài diǎnr qián ba, **wànyī** bú gòu ne? | Porta un po' di soldi in più: e se non bastassero?
+ex: **万一**你迷路了，就给我打电话。 | **Wànyī** nǐ mí lù le, jiù gěi wǒ dǎ diànhuà. | Se per caso ti perdessi, telefonami.
+ex: 带上雨衣吧，以防**万一**。 | Dài shang yǔyī ba, yǐ fáng **wànyī**. | Prendi l'impermeabile, per ogni evenienza.
+
+no: 万一我中了大奖，我就去环游世界。 | Wànyī wǒ zhòng le dàjiǎng, wǒ jiù qù huányóu shìjiè. | Poco naturale: 万一 si usa di norma per eventi indesiderati.
+ex: **要是**我中了大奖，我**就**去环游世界。 | **Yàoshi** wǒ zhòng le dàjiǎng, wǒ **jiù** qù huányóu shìjiè. | Se vincessi il primo premio, farei il giro del mondo.

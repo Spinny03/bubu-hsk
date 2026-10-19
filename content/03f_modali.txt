@@ -1,0 +1,173 @@
+# I verbi modali
+
+I verbi modali (能愿动词 néngyuàn dòngcí, detti anche 助动词 zhùdòngcí «verbi ausiliari») esprimono capacità, possibilità, permesso, volontà, necessità e obbligo: corrispondono più o meno agli italiani «potere», «sapere», «volere», «dovere». La corrispondenza però non è mai uno a uno: «potere», per esempio, si traduce con 会, 能 o 可以 a seconda della fonte della possibilità.
+
+## Caratteristiche dei verbi modali (能愿动词)
+
+| Modale | Pinyin | Significato principale |
+| 会 | huì | sapere (abilità appresa); probabilità |
+| 能 | néng | potere (capacità, circostanze) |
+| 可以 | kěyǐ | potere (permesso, possibilità) |
+| 要 | yào | volere; dovere; stare per |
+| 想 | xiǎng | volere, avere voglia di |
+| 应该 | yīnggāi | dovere (opportunità, consiglio) |
+| 得 | děi | dovere (necessità pratica) |
+| 必须 | bìxū | dovere (obbligo assoluto) |
+| 愿意 | yuànyì | essere disposto a |
+| 敢 | gǎn | osare |
+| 肯 | kěn | acconsentire a |
+| 可能 | kěnéng | potere (eventualità), forse |
+
+### La posizione
+
+Il verbo modale precede il verbo principale. Se ci sono un avverbio o un complemento preposizionale, l'avverbio precede il modale e il complemento preposizionale lo segue.
+
+= S + Modale + V (+ O)
+= S + Avv + Modale + Prep + N + V (+ O)
+
+ex: 我**会**说汉语。 | Wǒ **huì** shuō Hànyǔ. | So parlare cinese.
+ex: 你**可以**在这儿等我。 | Nǐ **kěyǐ** zài zhèr děng wǒ. | Puoi aspettarmi qui.
+ex: 我**想**跟你谈谈。 | Wǒ **xiǎng** gēn nǐ tántan. | Vorrei parlarti un momento.
+ex: 我们也**应该**给他打个电话。 | Wǒmen yě **yīnggāi** gěi tā dǎ ge diànhuà. | Anche noi dovremmo fargli una telefonata.
+
+no: 我跟你想谈谈。 | Wǒ gēn nǐ xiǎng tántan. | Errato: il modale precede il complemento preposizionale.
+ex: 我**想**跟你谈谈。 | Wǒ **xiǎng** gēn nǐ tántan. | Vorrei parlarti un momento.
+
+Nelle risposte brevi il modale si usa da solo, senza ripetere il verbo principale.
+
+ex: A：你**会**游泳吗？B：**会**。 | A: Nǐ **huì** yóuyǒng ma? B: **Huì**. | A: Sai nuotare? B: Sì.
+ex: A：我**可以**进来吗？B：**可以**，请进。 | A: Wǒ **kěyǐ** jìnlai ma? B: **Kěyǐ**, qǐng jìn. | A: Posso entrare? B: Certo, prego.
+
+### Niente particelle aspettuali, reduplicazione o complementi
+
+I modali non prendono 了, 着, 过, non si reduplicano e non reggono complementi. Il 了 di fine frase, che indica un cambiamento di situazione, è invece possibile.
+
+no: 我会了游泳。 | Wǒ huì le yóuyǒng. | Errato: i modali non prendono 了.
+ex: 我**会**游泳**了**。 | Wǒ **huì** yóuyǒng **le**. | Adesso so nuotare. (cambiamento di situazione)
+
+### La negazione
+
+I modali si negano con 不. Solo alcuni (能, 敢, 想) ammettono 没 per indicare che nel passato qualcosa non si è realizzato (vedi il capitolo «La negazione»).
+
+ex: 我**不会**游泳。 | Wǒ **bú huì** yóuyǒng. | Non so nuotare.
+ex: 昨天我**没能**去。 | Zuótiān wǒ **méi néng** qù. | Ieri non sono riuscito ad andarci.
+ex: 我**没敢**告诉他。 | Wǒ **méi gǎn** gàosu tā. | Non ho avuto il coraggio di dirglielo.
+
+no: 我没会游泳。 | Wǒ méi huì yóuyǒng. | Errato: 会 si nega con 不.
+ex: 我**不会**游泳。 | Wǒ **bú huì** yóuyǒng. | Non so nuotare.
+
+### Le domande
+
+Si usa 吗 oppure la forma affermativa-negativa del modale (non del verbo principale).
+
+ex: 你**能不能**帮我一下？ | Nǐ **néng bu néng** bāng wǒ yíxià? | Puoi aiutarmi un attimo?
+ex: 他**会不会**来？ | Tā **huì bu huì** lái? | Verrà?
+ex: 我**可不可以**用一下你的电脑？ | Wǒ **kě bu kěyǐ** yòng yíxià nǐ de diànnǎo? | Posso usare un attimo il tuo computer?
+ex: 你**想不想**去？ | Nǐ **xiǎng bu xiǎng** qù? | Ti va di andare?
+
+no: 你能帮不帮我？ | Nǐ néng bāng bu bāng wǒ? | Errato: la forma affermativa-negativa si applica al modale.
+ex: 你**能不能**帮我？ | Nǐ **néng bu néng** bāng wǒ? | Puoi aiutarmi?
+
+### Modali con avverbi di grado
+
+Alcuni modali, come i verbi psicologici, accettano gli avverbi di grado: 很想 «avere molta voglia di», 很愿意 «essere ben disposto a», 很会 «essere bravo a», 很能 «essere capace di fare molto», 很可能 «è molto probabile».
+
+ex: 她**很会**做饭。 | Tā **hěn huì** zuò fàn. | È bravissima a cucinare.
+ex: 他**很能**吃。 | Tā **hěn néng** chī. | Mangia tantissimo. (lett. è molto capace di mangiare)
+ex: 我**很想**去，可是没时间。 | Wǒ **hěn xiǎng** qù, kěshì méi shíjiān. | Ci andrei molto volentieri, ma non ho tempo.
+
+### 会, 要, 想 come verbi pieni
+
+会, 要 e 想 possono anche essere verbi pieni con un oggetto nominale: 会 «conoscere (una lingua, un'abilità)», 要 «volere, chiedere», 想 «sentire la mancanza di».
+
+ex: 我**会**汉语。 | Wǒ **huì** Hànyǔ. | So il cinese.
+ex: 我**要**一杯咖啡。 | Wǒ **yào** yì bēi kāfēi. | Prendo un caffè.
+ex: 我**想**妈妈了。 | Wǒ **xiǎng** māma le. | Mi manca la mamma.
+
+## 会, 能, 可以
+
+Tutti e tre possono tradurre «potere», e 会 traduce anche «sapere». La scelta dipende dalla fonte della possibilità: un'abilità appresa (会), una capacità fisica o le circostanze (能), un permesso (可以).
+
+### 会
+
+- Abilità appresa con lo studio o l'esercizio («sapere fare»).
+- Probabilità, previsione sul futuro, spesso con 的 a fine frase per rafforzare la certezza.
+- Tendenza o comportamento abituale.
+- 很会 + V: «essere bravo a».
+
+ex: 我**会**说三种语言。 | Wǒ **huì** shuō sān zhǒng yǔyán. | So parlare tre lingue.
+ex: 你**会**开车吗？ | Nǐ **huì** kāichē ma? | Sai guidare?
+ex: 我女儿已经**会**写自己的名字了。 | Wǒ nǚ'ér yǐjīng **huì** xiě zìjǐ de míngzi le. | Mia figlia sa già scrivere il suo nome.
+ex: 明天**会**下雨吗？ | Míngtiān **huì** xià yǔ ma? | Domani pioverà?
+ex: 别担心，他一定**会**来的。 | Bié dānxīn, tā yídìng **huì** lái de. | Non preoccuparti, verrà di sicuro.
+ex: 你这样做，他**会**生气的。 | Nǐ zhèyàng zuò, tā **huì** shēngqì de. | Se fai così, si arrabbierà.
+ex: 我**不会**忘记你的。 | Wǒ **bú huì** wàngjì nǐ de. | Non ti dimenticherò.
+ex: 每次来北京，他都**会**去看看老朋友。 | Měi cì lái Běijīng, tā dōu **huì** qù kànkan lǎo péngyou. | Ogni volta che viene a Pechino, va sempre a trovare i vecchi amici.
+ex: 他**很会**说话。 | Tā **hěn huì** shuōhuà. | Ci sa fare con le parole.
+
+no: 明天能下雨。 | Míngtiān néng xià yǔ. | Errato: per una previsione si usa 会.
+ex: 明天**会**下雨。 | Míngtiān **huì** xià yǔ. | Domani pioverà.
+
+### 能
+
+- Capacità fisica o naturale.
+- Raggiungimento di un certo livello o di una certa quantità.
+- Possibilità dovuta alle circostanze.
+- Capacità recuperata dopo un impedimento.
+- Permesso, soprattutto nelle domande e al negativo (come 可以).
+
+ex: 他一口气**能**游两千米。 | Tā yìkǒuqì **néng** yóu liǎngqiān mǐ. | Riesce a nuotare duemila metri senza fermarsi.
+ex: 他**能**吃五碗饭。 | Tā **néng** chī wǔ wǎn fàn. | È capace di mangiare cinque ciotole di riso.
+ex: 这辆车**能**坐七个人。 | Zhè liàng chē **néng** zuò qī ge rén. | Quest'auto può portare sette persone.
+ex: 她一分钟**能**打一百个字。 | Tā yì fēnzhōng **néng** dǎ yìbǎi ge zì. | Riesce a digitare cento caratteri al minuto.
+ex: 我明天有事，**不能**来了。 | Wǒ míngtiān yǒu shì, **bù néng** lái le. | Domani ho un impegno, non posso venire.
+ex: 他的腿好了，又**能**踢足球了。 | Tā de tuǐ hǎo le, yòu **néng** tī zúqiú le. | La sua gamba è guarita e può di nuovo giocare a calcio.
+ex: 这儿**能**停车吗？ | Zhèr **néng** tíngchē ma? | Si può parcheggiare qui?
+ex: 这儿**不能**抽烟。 | Zhèr **bù néng** chōuyān. | Qui non si può fumare.
+
+### 可以
+
+- Permesso.
+- Possibilità oggettiva («è possibile, si può»).
+- Suggerimento («potresti…»).
+- Valere la pena; come aggettivo, 还可以 significa «passabile, non male».
+
+ex: 我**可以**进来吗？ | Wǒ **kěyǐ** jìnlai ma? | Posso entrare?
+ex: 你**可以**走了。 | Nǐ **kěyǐ** zǒu le. | Puoi andare.
+ex: 这个房间**可以**住四个人。 | Zhège fángjiān **kěyǐ** zhù sì ge rén. | Questa stanza può ospitare quattro persone.
+ex: 从这儿**可以**看到长城。 | Cóng zhèr **kěyǐ** kàndào Chángchéng. | Da qui si può vedere la Grande Muraglia.
+ex: 你**可以**试试。 | Nǐ **kěyǐ** shìshi. | Puoi provare.
+ex: 你**可以**问问李老师。 | Nǐ **kěyǐ** wènwen Lǐ lǎoshī. | Potresti chiedere al professor Li.
+ex: 这本书**可以**看看。 | Zhè běn shū **kěyǐ** kànkan. | Questo libro merita una lettura.
+ex: 这个电影**还可以**。 | Zhège diànyǐng **hái kěyǐ**. | Questo film non è male.
+
+### Le negazioni e le risposte
+
+- 不会: «non sapere (fare)» oppure «non succederà».
+- 不能: «non potere» (impossibilità, circostanze) e divieto, nell'uso più comune.
+- 不可以: divieto, più categorico; non si usa per l'impossibilità.
+- Alla richiesta di permesso con 可以 o 能 si risponde affermativamente con 可以 (o 行), negativamente di solito con 不行 bù xíng, più naturale di 不可以.
+
+ex: A：我**可以**用一下你的电脑吗？B：对不起，**不行**。 | A: Wǒ **kěyǐ** yòng yíxià nǐ de diànnǎo ma? B: Duìbuqǐ, **bù xíng**. | A: Posso usare un attimo il tuo computer? B: Mi dispiace, no.
+ex: A：我**能**在这儿拍照吗？B：**不行**，这儿**不能**拍照。 | A: Wǒ **néng** zài zhèr pāizhào ma? B: **Bù xíng**, zhèr **bù néng** pāizhào. | A: Posso fare foto qui? B: No, qui non si possono fare foto.
+ex: 你**不可以**这样跟老师说话！ | Nǐ **bù kěyǐ** zhèyàng gēn lǎoshī shuōhuà! | Non puoi parlare così all'insegnante!
+ex: 考试的时候**不能**用手机。 | Kǎoshì de shíhou **bù néng** yòng shǒujī. | Durante l'esame non si può usare il cellulare.
+
+no: 我感冒了，不可以去上课。 | Wǒ gǎnmào le, bù kěyǐ qù shàngkè. | Errato: 不可以 indica un divieto, non un impedimento.
+ex: 我感冒了，**不能**去上课。 | Wǒ gǎnmào le, **bù néng** qù shàngkè. | Ho il raffreddore, non posso andare a lezione.
+
+### Confronto
+
+| Significato | 会 | 能 | 可以 |
+| abilità appresa | 我会游泳。 | (livello) 我能游一千米。 | — |
+| capacità fisica, quantità | — | 他能吃五碗饭。 | — |
+| circostanze | — | 明天我能来。 | 明天我可以来。 |
+| permesso | — | 我能进来吗？ | 我可以进来吗？ |
+| probabilità, previsione | 明天会下雨。 | — | — |
+| suggerimento | — | — | 你可以试试。 |
+
+ex: 我**会**游泳，可是今天感冒了，**不能**游。 | Wǒ **huì** yóuyǒng, kěshì jīntiān gǎnmào le, **bù néng** yóu. | So nuotare, ma oggi ho il raffreddore e non posso.
+ex: 他**会**开车，但是喝了酒，**不能**开。 | Tā **huì** kāichē, dànshì hē le jiǔ, **bù néng** kāi. | Sa guidare, ma ha bevuto e non può guidare.
+ex: 我**会**游泳，一次**能**游一千米。 | Wǒ **huì** yóuyǒng, yí cì **néng** yóu yìqiān mǐ. | So nuotare e riesco a fare mille metri di fila.
+ex: 他病好了，**能**上班了。 | Tā bìng hǎo le, **néng** shàngbān le. | È guarito e può tornare al lavoro.
+ex: 明天我**可以**陪你去，后天就**不能**了。 | Míngtiān wǒ **kěyǐ** péi nǐ qù, hòutiān jiù **bù néng** le. | Domani posso accompagnarti, dopodomani invece no.

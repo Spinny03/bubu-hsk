@@ -1,0 +1,232 @@
+## I pronomi interrogativi
+
+I pronomi interrogativi servono a formare le domande aperte, quelle che chiedono un'informazione precisa (chi, che cosa, dove, quando…). Qui ne vediamo forma e significato; la costruzione delle domande in generale è trattata nel capitolo «Le frasi interrogative».
+
+| Pronome | Pinyin | Significato | Esempio |
+| 谁 | shéi / shuí | chi | 他是谁？ |
+| 什么 | shénme | che cosa; che, quale (+ N) | 你买什么？ |
+| 哪 + CL | nǎ (něi) | quale | 你要哪本？ |
+| 哪儿 / 哪里 | nǎr / nǎli | dove | 你去哪儿？ |
+| 几 + CL | jǐ | quanti (numero piccolo) | 你有几个孩子？ |
+| 多少 | duōshao | quanto, quanti | 这个多少钱？ |
+| 怎么 | zěnme | come; come mai | 怎么走？ |
+| 怎么样 | zěnmeyàng | com'è; che ne dici | 他怎么样？ |
+| 为什么 | wèi shénme | perché | 你为什么不去？ |
+| 什么时候 | shénme shíhou | quando | 你什么时候来？ |
+| 多 + Agg | duō | quanto (misura, grado) | 你多高？ |
+| 多久 | duō jiǔ | quanto tempo | 你学了多久？ |
+| 干什么 / 干吗 | gàn shénme / gànmá | che cosa fare; perché | 你干吗去？ |
+
+### La posizione: nessuna inversione
+In cinese il pronome interrogativo occupa **la stessa posizione che avrà la risposta**: non si sposta all'inizio della frase come in italiano e l'ordine delle parole non cambia. Per rispondere basta sostituire il pronome con l'informazione richiesta.
+
+= Domanda: S + V + Pron. interr.
+= Risposta: S + V + O
+
+ex: A：你去**哪儿**？B：我去**银行**。 | A: Nǐ qù **nǎr**? B: Wǒ qù **yínháng**. | A: Dove vai? B: Vado in banca. (lett. tu andare dove?)
+ex: A：**谁**是你们的老师？B：**李老师**是我们的老师。 | A: **Shéi** shì nǐmen de lǎoshī? B: **Lǐ lǎoshī** shì wǒmen de lǎoshī. | A: Chi è il vostro insegnante? B: È il professor Li.
+ex: A：你**什么时候**回来？B：我**下个月**回来。 | A: Nǐ **shénme shíhou** huílai? B: Wǒ **xià ge yuè** huílai. | A: Quando torni? B: Torno il mese prossimo.
+
+no: 哪儿你去？ | Nǎr nǐ qù? | Errato: il pronome interrogativo non si sposta all'inizio della frase.
+ex: 你去**哪儿**？ | Nǐ qù **nǎr**? | Dove vai?
+no: 你叫什么名字吗？ | Nǐ jiào shénme míngzi ma? | Errato: a una domanda con pronome interrogativo non si aggiunge 吗.
+ex: 你叫**什么**名字？ | Nǐ jiào **shénme** míngzi? | Come ti chiami?
+
+### 谁
+谁 «chi» si pronuncia shéi nel parlato e shuí in una lettura più formale. Può essere soggetto, oggetto o, con 的, possessore.
+
+ex: **谁**来了？ | **Shéi** lái le? | Chi è arrivato?
+ex: 你找**谁**？ | Nǐ zhǎo **shéi**? | Chi cerchi?
+ex: 这是**谁的**手机？ | Zhè shì **shéi de** shǒujī? | Di chi è questo cellulare?
+ex: 你在跟**谁**说话？ | Nǐ zài gēn **shéi** shuō huà? | Con chi stai parlando?
+
+! 你是谁？ può suonare brusco. Al telefono o con sconosciuti è più cortese 请问，您是哪位？ Qǐngwèn, nín shì nǎ wèi? «Scusi, con chi parlo?».
+
+### 什么
+什么 shénme significa «che cosa» quando è usato da solo e «che, quale, che tipo di» quando precede direttamente un nome (senza classificatore).
+
+ex: 你买了**什么**？ | Nǐ mǎi le **shénme**? | Che cosa hai comprato?
+ex: 这是**什么**？ | Zhè shì **shénme**? | Che cos'è questo?
+ex: 你喜欢**什么颜色**？ | Nǐ xǐhuan **shénme yánsè**? | Che colore ti piace?
+ex: 他是你**什么人**？ | Tā shì nǐ **shénme rén**? | Che rapporto hai con lui? (lett. lui è tuo che persona)
+
+### 哪 + classificatore
+哪 nǎ (nel parlato anche něi) significa «quale» e chiede di scegliere tra elementi di un insieme. Come 这 e 那, richiede un classificatore, salvo con i nomi che fungono da unità (哪年, 哪天, 哪国).
+
+= 哪 + (Num) + CL + N
+
+ex: 你要**哪个**？ | Nǐ yào **nǎge**? | Quale vuoi?
+ex: 你是**哪国**人？ | Nǐ shì **nǎ guó** rén? | Di che nazionalità sei?
+ex: **哪位**是王经理？ | **Nǎ wèi** shì Wáng jīnglǐ? | Chi di voi è il direttore Wang?
+ex: 你**哪天**有空？ | Nǐ **nǎ tiān** yǒu kòng? | Che giorno sei libero?
+ex: 你想看**什么**书？ | Nǐ xiǎng kàn **shénme** shū? | Che libri vuoi leggere? (che genere di libri)
+ex: 你想看**哪本**书？ | Nǐ xiǎng kàn **nǎ běn** shū? | Quale libro (tra questi) vuoi leggere?
+
+### 哪儿 e 哪里
+哪儿 nǎr e 哪里 nǎli significano «dove»; si combinano con 在, 从, 到, 去 come ogni parola di luogo.
+
+ex: 洗手间在**哪儿**？ | Xǐshǒujiān zài **nǎr**? | Dov'è il bagno?
+ex: 你是从**哪儿**来的？ | Nǐ shì cóng **nǎr** lái de? | Da dove vieni?
+ex: 你在**哪里**工作？ | Nǐ zài **nǎli** gōngzuò? | Dove lavori?
+
+### 几 e 多少
+Entrambi significano «quanti», ma con differenze importanti:
+- 几 jǐ si usa quando ci si aspetta un numero piccolo (di solito inferiore a dieci) e richiede sempre il classificatore; si usa inoltre in espressioni fisse come 几点, 几号, 几月, 星期几, indipendentemente dal numero atteso;
+- 多少 duōshao si usa per qualsiasi quantità, spesso grande o del tutto ignota; il classificatore è facoltativo. È d'obbligo per prezzi, numeri di telefono e di stanza.
+
+= 几 + CL + N
+= 多少 + (CL) + N
+
+ex: 你家有**几口**人？ | Nǐ jiā yǒu **jǐ kǒu** rén? | Quante persone ci sono nella tua famiglia?
+ex: 你有**几个**孩子？ | Nǐ yǒu **jǐ ge** háizi? | Quanti figli hai?
+ex: 现在**几点**？ | Xiànzài **jǐ diǎn**? | Che ore sono?
+ex: 今天**几号**？ | Jīntiān **jǐ hào**? | Quanti ne abbiamo oggi?
+ex: 你们学校有**多少**学生？ | Nǐmen xuéxiào yǒu **duōshao** xuésheng? | Quanti studenti ha la vostra scuola?
+ex: 这件衣服**多少**钱？ | Zhè jiàn yīfu **duōshao** qián? | Quanto costa questo vestito?
+ex: 你的电话号码是**多少**？ | Nǐ de diànhuà hàomǎ shì **duōshao**? | Qual è il tuo numero di telefono?
+
+no: 你有几孩子？ | Nǐ yǒu jǐ háizi? | Errato: dopo 几 il classificatore è obbligatorio.
+ex: 你有几**个**孩子？ | Nǐ yǒu jǐ **ge** háizi? | Quanti figli hai?
+
+| Aspetto | 几 jǐ | 多少 duōshao |
+| quantità attesa | piccola (di solito < 10) | qualsiasi, spesso grande |
+| classificatore | obbligatorio | facoltativo |
+| espressioni fisse | 几点, 几号, 几月, 星期几 | 多少钱, 号码是多少 |
+| con 十, 百, 千 | 十几, 几十, 几百 | — |
+
+### 怎么
+怎么 zěnme ha due valori principali:
+- **modo** («come, in che modo»): 怎么 + V;
+- **causa**, con sfumatura di sorpresa o di rimprovero («come mai»): 怎么 + (不 / 没) + V, oppure 怎么 + V + 了.
+
+L'espressione 怎么了？ significa «che cos'è successo? che cos'hai?».
+
+ex: 去火车站**怎么**走？ | Qù huǒchēzhàn **zěnme** zǒu? | Come si arriva alla stazione?
+ex: 这个字**怎么**写？ | Zhège zì **zěnme** xiě? | Come si scrive questo carattere?
+ex: 我们**怎么**去？坐地铁还是打车？ | Wǒmen **zěnme** qù? Zuò dìtiě háishi dǎ chē? | Come ci andiamo? In metropolitana o in taxi?
+ex: 你**怎么**不去？ | Nǐ **zěnme** bú qù? | Come mai non ci vai?
+ex: 他**怎么**还没来？ | Tā **zěnme** hái méi lái? | Come mai non è ancora arrivato?
+ex: 你**怎么**了？ | Nǐ **zěnme** le? | Che cos'hai?
+ex: **怎么**办？ | **Zěnme** bàn? | Come facciamo? / E adesso?
+
+Si confrontino queste due domande, che differiscono solo per la particella finale:
+
+ex: A：你**怎么**来的？B：坐地铁来的。 | A: Nǐ **zěnme** lái de? B: Zuò dìtiě lái de. | A: Come sei venuto? B: In metropolitana. (modo; vedi il capitolo «La costruzione 是……的»)
+ex: 你**怎么**来了？ | Nǐ **zěnme** lái le? | Come mai sei qui? (sorpresa)
+
+! 怎么 con valore causale esprime soprattutto sorpresa o disappunto; per chiedere il motivo in modo neutro si usa 为什么.
+
+### 怎么样
+怎么样 zěnmeyàng chiede un giudizio o una valutazione («com'è? come va?») e, alla fine di una proposta, significa «che ne dici?». La variante 怎样 zěnyàng è più scritta.
+
+ex: 你最近**怎么样**？ | Nǐ zuìjìn **zěnmeyàng**? | Come stai ultimamente?
+ex: 那个饭馆的菜**怎么样**？ | Nàge fànguǎn de cài **zěnmeyàng**? | Com'è la cucina di quel ristorante?
+ex: 你觉得这件衣服**怎么样**？ | Nǐ juéde zhè jiàn yīfu **zěnmeyàng**? | Che te ne pare di questo vestito?
+ex: 我们明天去爬山，**怎么样**？ | Wǒmen míngtiān qù pá shān, **zěnmeyàng**? | Domani andiamo in montagna, che ne dici?
+
+### 为什么
+为什么 wèi shénme chiede la causa in modo neutro. Nella risposta si usa 因为 yīnwèi «perché» (vedi il capitolo «Frasi causali, ipotetiche e condizionali»).
+
+ex: 你**为什么**学汉语？ | Nǐ **wèi shénme** xué Hànyǔ? | Perché studi cinese?
+ex: A：他**为什么**没来？B：因为他病了。 | A: Tā **wèi shénme** méi lái? B: Yīnwèi tā bìng le. | A: Perché non è venuto? B: Perché è malato.
+
+! L'italiano *perché* serve sia per la domanda sia per la risposta; in cinese si usano due parole diverse: 为什么 nella domanda, 因为 nella risposta.
+
+### 什么时候
+什么时候 shénme shíhou significa «quando» e, come ogni espressione di tempo, precede il verbo. Per chiedere l'ora precisa si usa 几点.
+
+ex: 你**什么时候**有空？ | Nǐ **shénme shíhou** yǒu kòng? | Quando sei libero?
+ex: 电影**什么时候**开始？ | Diànyǐng **shénme shíhou** kāishǐ? | Quando comincia il film?
+
+no: 你来什么时候？ | Nǐ lái shénme shíhou? | Errato: 什么时候 precede il verbo.
+ex: 你**什么时候**来？ | Nǐ **shénme shíhou** lái? | Quando vieni?
+
+### 多 + aggettivo e 多久
+多 duō seguito da un aggettivo di misura (大, 高, 长, 远, 重…) chiede «quanto»; 多久 duō jiǔ e 多长时间 duō cháng shíjiān chiedono la durata. I dettagli sono nel capitolo «Le frasi interrogative».
+
+ex: 你**多**高？ | Nǐ **duō** gāo? | Quanto sei alto?
+ex: 你妹妹今年**多**大？ | Nǐ mèimei jīnnián **duō** dà? | Quanti anni ha tua sorella?
+ex: 你来中国**多久**了？ | Nǐ lái Zhōngguó **duō jiǔ** le? | Da quanto tempo sei in Cina?
+ex: 从这儿到机场要**多长时间**？ | Cóng zhèr dào jīchǎng yào **duō cháng shíjiān**? | Quanto ci vuole da qui all'aeroporto?
+
+### 干什么 e 干吗
+干什么 gàn shénme significa «che cosa fare» e anche «a che scopo, perché». 干吗 gànmá è la sua variante colloquiale. Sono espressioni familiari, che possono suonare brusche: in contesti formali si preferisce 为什么.
+
+ex: 你在**干什么**？ | Nǐ zài **gàn shénme**? | Che cosa stai facendo?
+ex: 你周末**干什么**？ | Nǐ zhōumò **gàn shénme**? | Che cosa fai nel fine settimana?
+ex: 你**干吗**不早说？ | Nǐ **gànmá** bù zǎo shuō? | Perché non l'hai detto prima?
+ex: 你买这么多菜**干什么**？ | Nǐ mǎi zhème duō cài **gàn shénme**? | Che te ne fai di tutta questa verdura?
+
+## Uso indefinito e generalizzante dei pronomi interrogativi
+
+I pronomi interrogativi non servono solo a fare domande. In determinate strutture assumono un valore **generalizzante** («chiunque, tutto, ovunque» oppure «nessuno, niente, da nessuna parte») o **indefinito** («qualcuno, qualcosa, da qualche parte»).
+
+### Pronome interrogativo + 都 / 也: «tutti», «nessuno»
+Seguito da 都 dōu o 也 yě, il pronome interrogativo indica la totalità; nella frase negativa equivale a «nessuno, niente, mai». Il pronome deve stare **prima** di 都 / 也 e del verbo: se è oggetto, va quindi anticipato.
+
+= Pron. interr. + 都 + V  («chiunque, tutto, ovunque»)
+= Pron. interr. + 都 / 也 + 不 / 没 + V  («nessuno, niente, da nessuna parte»)
+
+ex: **谁都**知道这件事。 | **Shéi dōu** zhīdao zhè jiàn shì. | Lo sanno tutti. (lett. chiunque sa questa cosa)
+ex: 他**什么都**吃。 | Tā **shénme dōu** chī. | Mangia di tutto.
+ex: 我**什么也**不想吃。 | Wǒ **shénme yě** bù xiǎng chī. | Non ho voglia di mangiare niente.
+ex: 周末我**哪儿都**不去。 | Zhōumò wǒ **nǎr dōu** bú qù. | Nel fine settimana non vado da nessuna parte.
+ex: 我**怎么也**睡不着。 | Wǒ **zěnme yě** shuì bu zháo. | Non riesco a dormire in nessun modo.
+ex: **谁也**没说话。 | **Shéi yě** méi shuō huà. | Nessuno ha detto una parola.
+ex: 你**什么时候**来**都**可以。 | Nǐ **shénme shíhou** lái **dōu** kěyǐ. | Puoi venire quando vuoi.
+ex: 这几本书**哪本都**很好。 | Zhè jǐ běn shū **nǎ běn dōu** hěn hǎo. | Questi libri sono tutti buoni, uno vale l'altro.
+
+no: 我不想吃什么都。 | Wǒ bù xiǎng chī shénme dōu. | Errato: il pronome con 都 / 也 va prima del verbo.
+ex: 我**什么都**不想吃。 | Wǒ **shénme dōu** bù xiǎng chī. | Non voglio mangiare niente.
+
+! 也 si usa soprattutto nelle frasi negative; 都 sia nelle affermative sia nelle negative.
+! L'italiano usa la doppia negazione (*non* voglio *niente*); in cinese c'è una sola negazione, 不 o 没, preceduta dal pronome con 都 / 也.
+
+### Valore indefinito: «qualcosa», «qualcuno», «da qualche parte»
+Nelle domande con 吗, nelle frasi negative, nelle ipotesi e dopo parole come 好像 hǎoxiàng «sembra» o 可能 kěnéng «forse», il pronome interrogativo perde il valore di domanda e diventa indefinito.
+
+ex: 你想吃**什么**？ | Nǐ xiǎng chī **shénme**? | Che cosa vuoi mangiare?
+ex: 你想吃点儿**什么**吗？ | Nǐ xiǎng chī diǎnr **shénme** ma? | Vuoi mangiare qualcosa?
+ex: 有**什么**问题吗？ | Yǒu **shénme** wèntí ma? | Ci sono domande? (lett. c'è qualche problema?)
+ex: 周末你去**哪儿**玩儿了吗？ | Zhōumò nǐ qù **nǎr** wánr le ma? | Nel fine settimana sei andato da qualche parte?
+ex: 好像有**谁**来过。 | Hǎoxiàng yǒu **shéi** lái guo. | Sembra che sia passato qualcuno.
+ex: 我们**什么时候**一起吃个饭吧。 | Wǒmen **shénme shíhou** yìqǐ chī ge fàn ba. | Prima o poi mangiamo insieme.
+ex: 我不想买**什么**，只是看看。 | Wǒ bù xiǎng mǎi **shénme**, zhǐshì kànkan. | Non voglio comprare niente di particolare, do solo un'occhiata.
+
+! 我不想买什么 «non voglio comprare niente di speciale» è più attenuato di 我什么都不想买 «non voglio comprare assolutamente niente».
+
+### 什么的
+Alla fine di un elenco, 什么的 shénme de significa «eccetera, e cose del genere». È colloquiale; nello scritto si usa 等 děng o 等等 děngděng.
+
+ex: 我买了苹果、香蕉、葡萄**什么的**。 | Wǒ mǎi le píngguǒ, xiāngjiāo, pútao **shénme de**. | Ho comprato mele, banane, uva e cose così.
+ex: 周末我喜欢看电影、听音乐**什么的**。 | Zhōumò wǒ xǐhuan kàn diànyǐng, tīng yīnyuè **shénme de**. | Nel fine settimana mi piace guardare film, ascoltare musica e cose del genere.
+
+### Le strutture correlative
+Lo stesso pronome interrogativo ripetuto in due proposizioni consecutive indica che le due proposizioni si riferiscono alla stessa persona, cosa, luogo o modo: «chi… (quello)…», «quello che…», «dove…, lì…». Nella seconda proposizione compare spesso 就 jiù.
+
+= 谁 + V……，谁 + V……
+= S + V + 什么，(S) + 就 + V + 什么
+= 哪儿……，就……哪儿……
+= 怎么 + V……，就 + 怎么 + V
+
+ex: **谁**想去**谁**去。 | **Shéi** xiǎng qù **shéi** qù. | Chi vuole andarci, ci vada.
+ex: **谁**先到，**谁**买票。 | **Shéi** xiān dào, **shéi** mǎi piào. | Chi arriva per primo compra i biglietti.
+ex: 你想吃**什么**就吃**什么**。 | Nǐ xiǎng chī **shénme** jiù chī **shénme**. | Mangia quello che vuoi.
+ex: **哪儿**便宜，我们就去**哪儿**买。 | **Nǎr** piányi, wǒmen jiù qù **nǎr** mǎi. | Andiamo a comprare dove costa meno.
+ex: 你想**怎么**做就**怎么**做。 | Nǐ xiǎng **zěnme** zuò jiù **zěnme** zuò. | Fai come preferisci.
+ex: 你要**多少**就拿**多少**。 | Nǐ yào **duōshao** jiù ná **duōshao**. | Prendine quanto ne vuoi.
+
+### 不怎么 e 没什么
+- 不怎么 + V / Agg significa «non molto, non granché»; 不怎么样 vuol dire «non un granché, mediocre».
+- 没什么 è una risposta di cortesia («di niente, non fa niente»); seguito da un nome o da un aggettivo significa «non c'è niente di…»; 没什么好 + V + 的 significa «non c'è niente da…».
+
+ex: 我**不怎么**喜欢吃辣的。 | Wǒ **bù zěnme** xǐhuan chī là de. | Il piccante non mi piace molto.
+ex: 他**不怎么**说话。 | Tā **bù zěnme** shuō huà. | Non parla molto.
+ex: 这个电影**不怎么样**。 | Zhège diànyǐng **bù zěnmeyàng**. | Questo film non è un granché.
+ex: A：谢谢你！B：**没什么**。 | A: Xièxie nǐ! B: **Méi shénme**. | A: Grazie! B: Di niente.
+ex: A：对不起！B：**没什么**。 | A: Duìbuqǐ! B: **Méi shénme**. | A: Scusa! B: Non fa niente.
+ex: 这个问题**没什么**难的。 | Zhège wèntí **méi shénme** nán de. | Questo problema non ha niente di difficile.
+ex: 今天**没什么**事。 | Jīntiān **méi shénme** shì. | Oggi non ho niente di particolare da fare.
+ex: **没什么**好说的。 | **Méi shénme** hǎo shuō de. | Non c'è niente da dire.
+
+! In tono polemico, 什么 dopo un verbo o un aggettivo serve a respingere ciò che ha detto l'interlocutore: 贵什么！ Guì shénme! «Ma quale caro!»; 你笑什么？ Nǐ xiào shénme? «Che hai da ridere?».

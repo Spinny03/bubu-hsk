@@ -1,0 +1,100 @@
+## La progressione
+
+Nelle frasi progressive la seconda proposizione aggiunge qualcosa di più forte, di più ampio o di più inatteso rispetto alla prima: «non solo…, ma anche…», «persino…», «figuriamoci…».
+
+### 不但/不仅/不光/不只……而且/还/也……
+
+È la struttura progressiva fondamentale («non solo…, ma anche…»). Nella prima proposizione compare 不但 búdàn (neutro), 不仅 bùjǐn (più formale, frequente nello scritto), 不光 bùguāng o 不只 bùzhǐ (parlato); nella seconda compaiono la congiunzione 而且 érqiě e/o gli avverbi 还 hái, 也 yě (anche combinati: 而且还, 而且也).
+
+La posizione di 不但 dipende dal soggetto:
+
+- **stesso soggetto**: il soggetto compare una volta sola, all'inizio, e 不但 lo segue;
+- **soggetti diversi**: 不但 precede il primo soggetto e 而且 precede il secondo; 也/还 seguono il secondo soggetto.
+
+= S + 不但 + …，而且 + (还/也) + …   (stesso soggetto)
+= 不但 + S₁ + …，而且 + S₂ + 也/还 + …   (soggetti diversi)
+
+ex: 他**不但**会说汉语，**而且**说得很流利。 | Tā **búdàn** huì shuō Hànyǔ, **érqiě** shuō de hěn liúlì. | Non solo sa parlare cinese, ma lo parla anche in modo molto scorrevole.
+ex: 这家店的菜**不仅**好吃，**而且**很便宜。 | Zhè jiā diàn de cài **bùjǐn** hǎochī, **érqiě** hěn piányi. | I piatti di questo locale non solo sono buoni, ma anche economici.
+ex: 她**不光**会弹钢琴，**还**会拉小提琴。 | Tā **bùguāng** huì tán gāngqín, **hái** huì lā xiǎotíqín. | Non solo sa suonare il pianoforte, ma anche il violino.
+ex: 马可**不只**去过北京，**也**去过西安。 | Mǎkě **bùzhǐ** qù guo Běijīng, **yě** qù guo Xī'ān. | Marco non è stato solo a Pechino, ma anche a Xi'an.
+ex: **不但**他会说，**而且**他妹妹**也**会说。 | **Búdàn** tā huì shuō, **érqiě** tā mèimei **yě** huì shuō. | Non solo lo sa parlare lui, ma anche sua sorella.
+ex: **不仅**学生喜欢这位老师，**而且**家长**也**很信任她。 | **Bùjǐn** xuésheng xǐhuan zhè wèi lǎoshī, **érqiě** jiāzhǎng **yě** hěn xìnrèn tā. | Non solo gli studenti amano questa insegnante, ma anche i genitori si fidano molto di lei.
+
+no: 不但他会说汉语，而且会说日语。 | Búdàn tā huì shuō Hànyǔ, érqiě huì shuō Rìyǔ. | Errato: con lo stesso soggetto 不但 va dopo il soggetto.
+ex: 他**不但**会说汉语，**而且**会说日语。 | Tā **búdàn** huì shuō Hànyǔ, **érqiě** huì shuō Rìyǔ. | Non solo sa parlare cinese, ma anche giapponese.
+no: 他不但会说汉语，而且他妹妹也会说。 | Tā búdàn huì shuō Hànyǔ, érqiě tā mèimei yě huì shuō. | Errato: con soggetti diversi 不但 va prima del primo soggetto.
+ex: **不但**他会说汉语，**而且**他妹妹**也**会说。 | **Búdàn** tā huì shuō Hànyǔ, **érqiě** tā mèimei **yě** huì shuō. | Non solo lui sa parlare cinese, ma anche sua sorella.
+no: 他不但聪明，他而且很努力。 | Tā búdàn cōngming, tā érqiě hěn nǔlì. | Errato: 而且 è una congiunzione e apre la proposizione.
+ex: 他**不但**聪明，**而且**很努力。 | Tā **búdàn** cōngming, **érqiě** hěn nǔlì. | Non solo è intelligente, ma è anche molto diligente.
+
+! La seconda proposizione deve rappresentare un «passo in più» rispetto alla prima. Se i due elementi sono semplicemente accostati, si usa la coordinazione (也, 又……又……).
+! Con la negazione: 他不但不帮忙，还添乱 «Non solo non aiuta, ma crea pure confusione». Per il valore «non solo non…, ma anzi…» si usa la struttura con 反而, qui sotto.
+
+### 不但不/没……反而……
+
+= S + 不但 + 不/没 + V/Agg，反而 + …
+
+La struttura indica che è avvenuto il contrario di quanto ci si aspettava («non solo non…, ma anzi…», «invece di…, …»). 反而 fǎn'ér («al contrario») è un avverbio: se la seconda proposizione ha un soggetto, 反而 lo segue.
+
+ex: 吃了药，他的病**不但没**好，**反而**更严重了。 | Chī le yào, tā de bìng **búdàn méi** hǎo, **fǎn'ér** gèng yánzhòng le. | Dopo aver preso la medicina, la sua malattia non solo non è migliorata, ma anzi si è aggravata.
+ex: 我帮了他，他**不但不**感谢我，**反而**怪我。 | Wǒ bāng le tā, tā **búdàn bù** gǎnxiè wǒ, **fǎn'ér** guài wǒ. | L'ho aiutato e lui, invece di ringraziarmi, mi ha dato la colpa.
+ex: 风**不但没**停，**反而**越刮越大了。 | Fēng **búdàn méi** tíng, **fǎn'ér** yuè guā yuè dà le. | Il vento non solo non si è calmato, ma anzi soffia sempre più forte.
+ex: 这样做**不但不**能解决问题，**反而**会让问题更复杂。 | Zhèyàng zuò **búdàn bù** néng jiějué wèntí, **fǎn'ér** huì ràng wèntí gèng fùzá. | Facendo così non solo non si risolve il problema, ma anzi lo si complica.
+
+no: 他不但没生气，而且很高兴。 | Tā búdàn méi shēng qì, érqiě hěn gāoxìng. | Errato: dopo una prima proposizione negativa, il rovesciamento dell'aspettativa si esprime con 反而.
+ex: 他**不但没**生气，**反而**很高兴。 | Tā **búdàn méi** shēng qì, **fǎn'ér** hěn gāoxìng. | Non solo non si è arrabbiato, ma anzi era contentissimo.
+
+### 甚至(于)
+
+甚至 shènzhì (formale anche 甚至于 shènzhìyú) introduce il caso estremo di una serie («persino, addirittura, perfino»). Può precedere un nome o un intero predicato e si combina spesso con 都/也 o con 还.
+
+ex: 他忙得**甚至**没时间吃饭。 | Tā máng de **shènzhì** méi shíjiān chī fàn. | È così impegnato che non ha nemmeno il tempo di mangiare.
+ex: 这首歌大人喜欢，孩子喜欢，**甚至**老人**也**喜欢。 | Zhè shǒu gē dàren xǐhuan, háizi xǐhuan, **shènzhì** lǎorén **yě** xǐhuan. | Questa canzone piace agli adulti, ai bambini e persino agli anziani.
+ex: 他不但不道歉，**甚至**还骂人。 | Tā búdàn bú dào qiàn, **shènzhì** hái mà rén. | Non solo non si è scusato, ma si è messo persino a insultare.
+ex: 这道题太难了，**甚至于**老师**都**做不出来。 | Zhè dào tí tài nán le, **shènzhìyú** lǎoshī **dōu** zuò bu chūlái. | Questo esercizio è troppo difficile: neppure l'insegnante riesce a risolverlo.
+
+### 何况 e 更何况
+
+何况 hékuàng (rafforzato: 更何况 gèng hékuàng) introduce un caso che vale **a maggior ragione** («tanto più…», «figuriamoci…»). La prima proposizione presenta un caso meno ovvio, spesso con 都, 也 o con il formale 尚且 shàngqiě («perfino»); la seconda ha spesso tono retorico e termina con 呢.
+
+= A + 都/也/尚且 + …，(更)何况 + B (呢)？
+
+ex: 这么简单的问题，孩子**都**会回答，**何况**大人呢？ | Zhème jiǎndān de wèntí, háizi **dōu** huì huídá, **hékuàng** dàren ne? | A una domanda così semplice sa rispondere perfino un bambino, figuriamoci un adulto!
+ex: 平时去机场**都**要一个小时，**更何况**现在是下班时间。 | Píngshí qù jīchǎng **dōu** yào yí ge xiǎoshí, **gèng hékuàng** xiànzài shì xià bān shíjiān. | Di solito per andare all'aeroporto ci vuole già un'ora, tanto più adesso che è l'ora di punta.
+ex: 专家**尚且**弄不清楚，**何况**我们这些外行呢？ | Zhuānjiā **shàngqiě** nòng bu qīngchu, **hékuàng** wǒmen zhèxiē wàiháng ne? | Se non ci capiscono niente nemmeno gli esperti, figuriamoci noi profani!
+
+### 更不用说 e 别说……连……也/都……
+
+更不用说 gèng bú yòng shuō («per non parlare di…», «tanto meno…») segue una prima proposizione che descrive già un caso difficile o estremo. 别说……连……也/都…… bié shuō… lián… yě/dōu… («altro che…: neppure…») rovescia l'ordine: prima si cita il caso più impegnativo, poi si dice che non si verifica nemmeno quello più semplice. Su 连……都/也…… vedi il capitolo «L'enfasi».
+
+= A……，更不用说 + B + 了
+= 别说 + B (了)，(S) + 连 + A + 也/都 + …
+
+ex: 他连自己的名字都写不好，**更不用说**写文章了。 | Tā lián zìjǐ de míngzi dōu xiě bu hǎo, **gèng bú yòng shuō** xiě wénzhāng le. | Non sa scrivere bene neanche il proprio nome, per non parlare di scrivere un testo.
+ex: 这里冬天也很暖和，**更不用说**夏天了。 | Zhèli dōngtiān yě hěn nuǎnhuo, **gèng bú yòng shuō** xiàtiān le. | Qui fa caldo anche d'inverno, figuriamoci d'estate.
+ex: **别说**汉字了，他**连**拼音**都**不会。 | **Bié shuō** Hànzì le, tā **lián** pīnyīn **dōu** bú huì. | Altro che i caratteri: non conosce neppure il pinyin.
+ex: **别说**一个星期，我**连**一天**也**等不了。 | **Bié shuō** yí ge xīngqī, wǒ **lián** yì tiān **yě** děng bu liǎo. | Altro che una settimana: non posso aspettare neanche un giorno.
+
+### 况且 e 并且
+
+- **况且** kuàngqiě («e poi, oltretutto») aggiunge un'ulteriore ragione a sostegno di quanto si è detto; non ha il tono retorico di 何况.
+- **并且** bìngqiě («e inoltre») unisce verbi e proposizioni con valore di aggiunta; è più formale di 而且. Nello scritto si usa anche la forma ridotta 并 + V.
+
+ex: 天这么晚了，**况且**还下着雨，你就别走了。 | Tiān zhème wǎn le, **kuàngqiě** hái xià zhe yǔ, nǐ jiù bié zǒu le. | È così tardi, e poi sta anche piovendo: non andartene.
+ex: 这件衣服太贵了，**况且**我也不太喜欢这个颜色。 | Zhè jiàn yīfu tài guì le, **kuàngqiě** wǒ yě bú tài xǐhuan zhège yánsè. | Questo vestito è troppo caro, e poi il colore non mi piace molto.
+ex: 他通过了考试，**并且**拿到了奖学金。 | Tā tōngguò le kǎoshì, **bìngqiě** nádào le jiǎngxuéjīn. | Ha superato l'esame e inoltre ha ottenuto una borsa di studio.
+ex: 会议讨论**并**通过了这个计划。 | Huìyì tǎolùn **bìng** tōngguò le zhège jìhuà. | La riunione ha discusso e approvato il piano.
+
+### Riepilogo
+
+| Parola | Significato | Registro |
+| 而且 | e per di più | neutro |
+| 并且 / 并 | e inoltre | formale, scritto |
+| 甚至(于) | persino, addirittura | neutro / formale |
+| 何况 / 更何况 | tanto più, figuriamoci | neutro, retorico |
+| 尚且……何况…… | perfino A…, figuriamoci B | scritto |
+| 更不用说 | per non parlare di | parlato |
+| 别说……连……都/也 | altro che A, neppure B | parlato |
+| 况且 | e poi, oltretutto | neutro |
+| 不但不……反而…… | non solo non…, ma anzi | neutro |

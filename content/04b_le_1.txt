@@ -1,0 +1,136 @@
+# La particella 了
+
+了 le è la particella più frequente e, per chi studia il cinese, la più insidiosa. In realtà dietro la stessa forma si nascondono due particelle diverse:
+
+- 了₁, particella aspettuale (动态助词 dòngtài zhùcí), che segue direttamente il verbo e presenta l'azione come compiuta;
+- 了₂, particella modale (语气助词 yǔqì zhùcí), che chiude la frase e segnala un cambiamento di situazione o una situazione nuova rispetto a prima.
+
+= S + V + 了₁ + O
+= S + V + O + 了₂
+
+Quando il verbo si trova in fondo alla frase, le due particelle coincidono in un unico 了 (他走了。«Se n'è andato.»): vedi la sezione «了₁ e 了₂ insieme».
+
+## 了 dopo il verbo: azione compiuta (了₁)
+
+了₁ si colloca subito dopo il verbo (o dopo il verbo con il suo complemento) e presenta l'azione come realizzata, conclusa, «delimitata». Non è un segno di passato: indica che, nel momento a cui ci si riferisce, l'azione è compiuta. Nelle frasi isolate, 了₁ suona naturale soprattutto quando l'oggetto è quantificato (numerale + classificatore) o determinato da un attributo o da un dimostrativo.
+
+= S + V + 了 + Num + CL + O
+= S + V + 了 + Attributo + O
+
+ex: 我买**了**三本书。 | Wǒ mǎi **le** sān běn shū. | Ho comprato tre libri.
+ex: 我看**了**那部电影。 | Wǒ kàn **le** nà bù diànyǐng. | Ho visto quel film.
+ex: 玛丽亚喝**了**一杯咖啡。 | Mǎlìyà hē **le** yì bēi kāfēi. | Maria ha bevuto un caffè.
+ex: 他昨天写**了**一封很长的信。 | Tā zuótiān xiě **le** yì fēng hěn cháng de xìn. | Ieri ha scritto una lettera molto lunga.
+ex: 我们参观**了**故宫和天安门。 | Wǒmen cānguān **le** Gùgōng hé Tiān'ānmén. | Abbiamo visitato la Città Proibita e Tian'anmen.
+ex: 李老师给我们介绍**了**几本好书。 | Lǐ lǎoshī gěi wǒmen jièshào **le** jǐ běn hǎo shū. | Il professor Li ci ha consigliato alcuni buoni libri.
+
+### Con l'oggetto «nudo» la frase resta in sospeso
+
+Se l'oggetto è un semplice nome, senza numerale né altri determinanti, una frase con 了₁ dà l'impressione di non essere finita: chi ascolta si aspetta un seguito. Ci sono tre soluzioni: quantificare l'oggetto, continuare con un'altra frase, oppure spostare 了 in fondo (了₂).
+
+no: 我买了书。 | Wǒ mǎi le shū. | Frase incompleta: con un oggetto semplice la frase resta in sospeso.
+ex: 我买**了**一本书。 | Wǒ mǎi **le** yì běn shū. | Ho comprato un libro.
+ex: 我买**了**书就回家。 | Wǒ mǎi **le** shū jiù huí jiā. | Dopo aver comprato i libri torno a casa.
+ex: 我买**了**书就回家**了**。 | Wǒ mǎi **le** shū jiù huí jiā **le**. | Ho comprato i libri e sono subito tornato a casa.
+ex: 我买书**了**。 | Wǒ mǎi shū **le**. | Ho comprato dei libri. (lo comunico come fatto avvenuto)
+
+### 了₁ con durata e frequenza
+
+了₁ si usa molto spesso con un complemento di durata o di frequenza, che «misura» l'azione e la rende compiuta (vedi il capitolo «I complementi di quantità»).
+
+= S + V + 了 + durata / frequenza
+
+ex: 我等**了**半个小时。 | Wǒ děng **le** bàn ge xiǎoshí. | Ho aspettato mezz'ora.
+ex: 他在中国住**了**三年。 | Tā zài Zhōngguó zhù **le** sān nián. | Ha vissuto in Cina per tre anni.
+ex: 这个电影我看**了**两遍。 | Zhège diànyǐng wǒ kàn **le** liǎng biàn. | Questo film l'ho visto due volte.
+ex: 昨天我们在家休息**了**一天。 | Zuótiān wǒmen zài jiā xiūxi **le** yì tiān. | Ieri siamo rimasti a casa a riposarci tutto il giorno.
+
+### 了₁ con i complementi
+
+Se il verbo è seguito da un complemento di risultato o di direzione, 了 va dopo il complemento, mai tra il verbo e il complemento.
+
+no: 我做了完作业就去打球。 | Wǒ zuò le wán zuòyè jiù qù dǎ qiú. | Errato: 了 non si inserisce tra verbo e complemento.
+ex: 我做完**了**作业就去打球。 | Wǒ zuòwán **le** zuòyè jiù qù dǎ qiú. | Finiti i compiti, vado a giocare a pallone.
+ex: 他拿出**了**一张照片。 | Tā ná chū **le** yì zhāng zhàopiàn. | Ha tirato fuori una fotografia.
+
+### 了₁ nelle sequenze di azioni future o ipotetiche
+
+In una sequenza di due azioni, 了₁ sul primo verbo indica che la prima azione sarà compiuta prima che inizi la seconda: «dopo aver…», «appena…». La frase può riferirsi al futuro, a un'ipotesi o a un'abitudine: è la prova più chiara che 了 non è un segno di passato. Spesso il secondo verbo è introdotto da 就 jiù o 再 zài.
+
+= V₁ + 了 + (O) + (就 / 再) + V₂
+
+ex: **明天**下**了**课我去找你。 | **Míngtiān** xià **le** kè wǒ qù zhǎo nǐ. | Domani, finita la lezione, vengo da te.
+ex: 你吃**了**饭再走吧。 | Nǐ chī **le** fàn zài zǒu ba. | Mangia prima di andare via. (lett. mangiato, poi vai)
+ex: 我到**了**机场就给你发短信。 | Wǒ dào **le** jīchǎng jiù gěi nǐ fā duǎnxìn. | Appena arrivo all'aeroporto ti mando un messaggio.
+ex: 你看**了**就知道了。 | Nǐ kàn **le** jiù zhīdao le. | Quando l'avrai visto, capirai.
+ex: 他每天吃**了**早饭就去上班。 | Tā měi tiān chī **le** zǎofàn jiù qù shàngbān. | Ogni giorno, appena fatta colazione, va al lavoro.
+
+! 了₁ non è obbligatorio con ogni azione passata: si usa quando il parlante presenta l'azione come un evento compiuto e delimitato. Una frase passata che descrive abitudini, stati o lo sfondo di un racconto ne fa di solito a meno (vedi «Quando non si usa 了»).
+
+## 了 a fine frase: cambiamento di situazione (了₂)
+
+了₂ chiude la frase e comunica che la situazione descritta è nuova, diversa da prima, oppure rilevante per il momento presente. Spesso in italiano corrisponde a «ormai», «adesso», «già», «è diventato», o semplicemente a un presente o a un passato prossimo pronunciati con il tono di chi annuncia una novità.
+
+= S + V (+ O) + 了
+= S + Agg + 了
+= S + 是 + N + 了
+
+ex: 下雨**了**。 | Xià yǔ **le**. | Si è messo a piovere. (prima non pioveva)
+ex: 我饿**了**。 | Wǒ è **le**. | Mi è venuta fame.
+ex: 他是大学生**了**。 | Tā shì dàxuéshēng **le**. | Ormai è uno studente universitario.
+ex: 我不想去**了**。 | Wǒ bù xiǎng qù **le**. | Non ho più voglia di andarci.
+ex: 天黑**了**，我们回家吧。 | Tiān hēi **le**, wǒmen huí jiā ba. | Si è fatto buio, torniamo a casa.
+ex: 春天到**了**，花都开**了**。 | Chūntiān dào **le**, huā dōu kāi **le**. | È arrivata la primavera, i fiori sono tutti sbocciati.
+
+### Confermare che qualcosa è avvenuto
+
+Con un verbo d'azione, 了₂ comunica che il fatto è avvenuto, come informazione nuova per chi ascolta. È la forma più naturale per rispondere a domande del tipo «l'hai fatto?».
+
+ex: A：你吃饭了吗？B：我吃饭**了**。 | A: Nǐ chī fàn le ma? B: Wǒ chī fàn **le**. | A: Hai mangiato? B: Sì, ho mangiato.
+ex: 他去银行**了**，一会儿就回来。 | Tā qù yínháng **le**, yíhuìr jiù huílai. | È andato in banca, torna tra poco.
+ex: 我给妈妈打电话**了**。 | Wǒ gěi māma dǎ diànhuà **le**. | Ho telefonato alla mamma.
+
+! La situazione «nuova» può anche essere imminente: 我走了！ significa «Io vado!», detto al momento di andarsene; 吃饭了！ significa «A tavola!». In questi casi 了₂ annuncia il passaggio a una nuova situazione che sta per iniziare.
+
+### Con aggettivi, nomi e numeri
+
+了₂ si usa anche con predicati aggettivali, nominali e numerali per indicare che si è raggiunto un nuovo stato, un nuovo momento o una nuova età.
+
+ex: 我二十岁**了**。 | Wǒ èrshí suì **le**. | Ho (ormai) vent'anni.
+ex: 现在十点**了**。 | Xiànzài shí diǎn **le**. | Sono (già) le dieci.
+ex: 已经十二月**了**。 | Yǐjīng shí'èr yuè **le**. | Siamo già a dicembre.
+ex: 你的汉语好多**了**。 | Nǐ de Hànyǔ hǎo duō **le**. | Il tuo cinese è migliorato molto.
+ex: 苹果红**了**。 | Píngguǒ hóng **le**. | Le mele sono diventate rosse (sono mature).
+
+Con i verbi modali, 了₂ segnala una capacità o una possibilità nuova:
+
+ex: 我会游泳**了**。 | Wǒ huì yóuyǒng **le**. | Adesso so nuotare.
+ex: 你可以走**了**。 | Nǐ kěyǐ zǒu **le**. | Adesso puoi andare.
+ex: 孩子能自己走路**了**。 | Háizi néng zìjǐ zǒulù **le**. | Il bambino ormai riesce a camminare da solo.
+
+! Con un aggettivo che indica una misura (大, 小, 长, 短, 贵…), 了₂ può esprimere uno scostamento da ciò che serve, cioè «troppo»: 这双鞋小了。«Queste scarpe sono (troppo) piccole.» Spesso si aggiunge 一点儿: 这件衣服大了一点儿。«Questo vestito è un po' troppo grande.»
+
+### 不……了 = «non più»
+
+Con la negazione 不, 了₂ indica che un'azione, un'abitudine o uno stato è cessato, oppure che si è cambiato idea.
+
+= S + 不 + V / Agg + 了
+
+ex: 我**不**抽烟**了**。 | Wǒ **bù** chōuyān **le**. | Non fumo più.
+ex: 雨**不**下**了**。 | Yǔ **bú** xià **le**. | Ha smesso di piovere.
+ex: 他**不**是我的男朋友**了**。 | Tā **bú** shì wǒ de nánpéngyou **le**. | Non è più il mio ragazzo.
+ex: 吃了药以后，我的头**不**疼**了**。 | Chī le yào yǐhòu, wǒ de tóu **bù** téng **le**. | Dopo aver preso la medicina, la testa non mi fa più male.
+ex: 太晚了，我**不**去**了**。 | Tài wǎn le, wǒ **bú** qù **le**. | È troppo tardi, non ci vado più.
+
+### 没有……了 = «non c'è più»
+
+Con 没有 (o 没) seguito da un nome, 了₂ indica che qualcosa è finito o non c'è più.
+
+= (Luogo / S) + 没(有) + N + 了
+
+ex: 冰箱里**没有**牛奶**了**。 | Bīngxiāng li **méiyǒu** niúnǎi **le**. | In frigo non c'è più latte.
+ex: 我**没**钱**了**。 | Wǒ **méi** qián **le**. | Sono rimasto senza soldi.
+ex: **没有**时间**了**，快走吧！ | **Méiyǒu** shíjiān **le**, kuài zǒu ba! | Non c'è più tempo, sbrighiamoci!
+ex: 票**没有了**。 | Piào **méiyǒu le**. | I biglietti sono finiti.
+
+! Non confondete 没有……了 («non c'è più», con un nome) con 没(有) + verbo, che nega un'azione compiuta e non vuole 了 (我没去 «non ci sono andato»): vedi «La negazione: 没(有)».

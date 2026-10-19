@@ -1,0 +1,178 @@
+## I cambiamenti tonali
+
+Nella catena parlata alcuni toni cambiano a contatto con quelli vicini. Questi cambiamenti (变调 biàndiào) sono regolari e riguardano soprattutto il terzo tono e le parole 一 yī «uno» e 不 bù «non».
+
+### Il cambiamento del terzo tono
+
+Quando due terzi toni si susseguono, il primo si pronuncia come un secondo tono.
+
+= 3° + 3° → 2° + 3°
+
+Come si è detto in «Come usare questa guida», nel pinyin di questo libro il cambiamento non è segnato: si scrive il tono originale e si pronuncia il tono modificato.
+
+| Carattere | Si scrive | Si pronuncia | Significato |
+| 你好 | nǐ hǎo | ní hǎo | ciao |
+| 很好 | hěn hǎo | hén hǎo | molto bene |
+| 可以 | kěyǐ | kéyǐ | potere |
+| 水果 | shuǐguǒ | shuíguǒ | frutta |
+| 所以 | suǒyǐ | suóyǐ | perciò |
+| 手表 | shǒubiǎo | shóubiǎo | orologio da polso |
+
+Il cambiamento avviene anche tra parole diverse, se sono pronunciate senza pausa:
+ex: 我买。 | Wǒ mǎi. | Lo compro io. (si pronuncia *wó mǎi*)
+ex: 我很忙。 | Wǒ hěn máng. | Sono molto occupato. (*wó hěn máng*)
+
+### Sequenze di tre o più terzi toni
+
+Con tre terzi toni consecutivi il risultato dipende da come le sillabe si raggruppano per significato:
+- se le prime due sillabe formano un'unità, come in (展览)馆, le prime due diventano secondo tono: 2° + 2° + 3°;
+- se sono le ultime due a formare un'unità, come in 我(很好), la prima sillaba resta un terzo tono basso e la seconda diventa secondo tono: 3° + 2° + 3°; nel parlato rapido, però, anche la prima tende a diventare un secondo tono.
+
+| Esempio | Struttura | Pronuncia |
+| 展览馆 zhǎnlǎnguǎn «sala espositiva» | (展览) + 馆 | zhán lán guǎn |
+| 洗脸水 xǐliǎnshuǐ «acqua per lavarsi il viso» | (洗脸) + 水 | xí lián shuǐ |
+| 我很好 wǒ hěn hǎo «sto bene» | 我 + (很好) | wǒ hén hǎo, wó hén hǎo |
+| 小老虎 xiǎo lǎohǔ «tigrotto» | 小 + (老虎) | xiǎo láo hǔ, xiáo láo hǔ |
+
+Nelle sequenze più lunghe la frase si divide in gruppi ritmici di due o tre sillabe e la regola si applica all'interno di ciascun gruppo:
+ex: 我也很好。 | Wǒ yě hěn hǎo. | Anch'io sto bene. (*wó yě hén hǎo*)
+
+### Il mezzo terzo tono
+
+Davanti a un primo, secondo o quarto tono, e davanti alla maggior parte dei toni neutri, il terzo tono perde la risalita finale e si realizza come un tono basso (21): è il cosiddetto mezzo terzo tono (半三声 bàn sānshēng). Il terzo tono completo (214) si sente solo quando la sillaba è isolata o in fine di frase.
+
+| Combinazione | Esempio | Realizzazione |
+| 3° + 1° | 老师 lǎoshī | basso + alto |
+| 3° + 2° | 美国 Měiguó | basso + ascendente |
+| 3° + 4° | 考试 kǎoshì | basso + discendente |
+| 3° + neutro | 我们 wǒmen | basso + neutro più alto |
+
+! Davanti al tono neutro il comportamento non è uniforme. Nella maggior parte dei casi il terzo tono diventa basso (姐姐 jiějie, 奶奶 nǎinai, 椅子 yǐzi, 我们 wǒmen); in altre parole, il cui secondo elemento è in origine anch'esso un terzo tono, il primo si pronuncia invece come un secondo tono: 小姐 xiǎojie suona *xiáojie*, 想想 xiǎngxiang suona *xiángxiang*. Poiché anche 姐, 奶 e 子 sono in origine di terzo tono, la pronuncia di queste parole va imparata caso per caso.
+
+### I cambiamenti tonali di 一
+
+Il numerale 一 «uno» ha come tono di base il primo, yī, ma cambia tono a seconda di ciò che segue:
+- resta **yī** quando è pronunciato da solo, quando si conta, negli ordinali, nelle date, nei numeri di più cifre letti uno per uno e in fine di parola;
+- diventa **yí** davanti a un quarto tono e davanti al classificatore 个 ge (in origine di quarto tono);
+- diventa **yì** davanti a un primo, secondo o terzo tono;
+- diventa **neutro** quando sta tra due verbi raddoppiati.
+
+| Contesto | Pronuncia | Esempi |
+| da solo, nel contare | yī | 一 yī, 一、二、三 yī, èr, sān |
+| ordinali, date, fine di parola | yī | 第一 dì-yī, 一月 yī yuè, 统一 tǒngyī |
+| davanti al 4° tono e a 个 | yí | 一个 yí ge, 一次 yí cì, 一样 yíyàng |
+| davanti al 1° tono | yì | 一天 yì tiān, 一杯 yì bēi, 一般 yìbān |
+| davanti al 2° tono | yì | 一年 yì nián, 一直 yìzhí |
+| davanti al 3° tono | yì | 一本 yì běn, 一起 yìqǐ, 一点儿 yìdiǎnr |
+| tra verbi raddoppiati | yi | 看一看 kàn yi kàn, 想一想 xiǎng yi xiǎng |
+
+ex: 我们**一**起去吧。 | Wǒmen **yì**qǐ qù ba. | Andiamo insieme.
+ex: 请等**一**下。 | Qǐng děng **yí**xià. | Aspetti un momento, per favore.
+ex: 我买了**一**本书和**一**个本子。 | Wǒ mǎi le **yì** běn shū hé **yí** ge běnzi. | Ho comprato un libro e un quaderno.
+ex: 今天是**一**月**一**号。 | Jīntiān shì **yī** yuè **yī** hào. | Oggi è il primo gennaio.
+ex: 他是第**一**个来的。 | Tā shì dì-**yī** ge lái de. | È stato il primo ad arrivare.
+ex: 你尝**一**尝。 | Nǐ cháng **yi** cháng. | Assaggia un po'.
+
+! Anche nei numeri composti 一 segue le regole generali davanti ai multipli: 一百 yìbǎi, 一千 yìqiān, 一万 yíwàn. Resta invece yī in fine di numero: 十一 shíyī, 二十一 èrshíyī. Nei numeri di telefono, nei numeri delle stanze e simili, letti cifra per cifra, si usa spesso 幺 yāo al posto di 一 (vedi «I numeri»).
+
+### I cambiamenti tonali di 不
+
+La negazione 不 ha come tono di base il quarto, bù:
+- resta **bù** quando è isolata e davanti a un primo, secondo o terzo tono;
+- diventa **bú** davanti a un quarto tono;
+- diventa **neutra** nelle domande del tipo «verbo-non-verbo» e nel complemento potenziale.
+
+| Contesto | Pronuncia | Esempi |
+| da solo, davanti al 1° tono | bù | 不！ Bù!, 不吃 bù chī, 不喝 bù hē |
+| davanti al 2° tono | bù | 不来 bù lái, 不行 bù xíng |
+| davanti al 3° tono | bù | 不好 bù hǎo, 不买 bù mǎi |
+| davanti al 4° tono | bú | 不是 bú shì, 不去 bú qù, 不对 bú duì |
+| domande verbo-non-verbo | bu | 去不去 qù bu qù, 好不好 hǎo bu hǎo |
+| complemento potenziale | bu | 听不懂 tīng bu dǒng, 买不到 mǎi bu dào |
+
+ex: 我**不**喝酒。 | Wǒ **bù** hē jiǔ. | Non bevo alcolici.
+ex: 他**不**是老师。 | Tā **bú** shì lǎoshī. | Non è un insegnante.
+ex: 明天我**不**去。 | Míngtiān wǒ **bú** qù. | Domani non ci vado.
+ex: 你去**不**去？ | Nǐ qù **bu** qù? | Ci vai o no?
+ex: 我听**不**懂。 | Wǒ tīng **bu** dǒng. | Non capisco (quello che sento).
+ex: A：谢谢！B：**不**客气。 | A: Xièxie! B: **Bú** kèqi. | A: Grazie! B: Prego.
+
+! La negazione 没 méi non cambia mai tono: 没有 méiyǒu, 没去 méi qù, 没来 méi lái. Anche 不 e 一, davanti a un tono neutro, seguono il tono originario della sillaba: 不客气 bú kèqi, perché 客 è di quarto tono.
+
+## La retroflessione 儿化
+
+Nel cinese di Pechino e del Nord il suffisso 儿 si fonde con la sillaba precedente, che diventa retroflessa: la lingua si arriccia all'indietro alla fine della sillaba, come per pronunciare una r. Il fenomeno si chiama 儿化 érhuà, «retroflessione». Il risultato è una sola sillaba: 花儿 huār si pronuncia come un'unica sillaba, non come huā + ér.
+
+### Pronuncia
+
+- Se la finale termina in a, o, e, u, si aggiunge semplicemente la retroflessione: 花儿 huār, 歌儿 gēr.
+- Se la finale termina in -i o in -n, la -i e la -n cadono: 一块儿 yíkuàir si pronuncia circa *yíkuàr*, 玩儿 wánr circa *wár*, 一点儿 yìdiǎnr circa *yìdiǎr*.
+- Se la finale termina in -ng, la -ng cade e la vocale diventa nasale: 有空儿 yǒu kòngr.
+- Dopo zi, ci, si, zhi, chi, shi, ri la vocale si trasforma in una e indistinta retroflessa: 事儿 shìr suona circa *shèr*.
+
+### Grafia
+
+Nei caratteri si aggiunge 儿 dopo la sillaba; nel pinyin si aggiunge solo la lettera r, senza cambiare il resto della sillaba:
+
+| Carattere | Pinyin | Significato |
+| 哪儿 | nǎr | dove |
+| 这儿 / 那儿 | zhèr / nàr | qui / lì |
+| 一会儿 | yíhuìr | un momento |
+| 一点儿 | yìdiǎnr | un po' |
+| 画儿 | huàr | quadro, disegno |
+| 玩儿 | wánr | divertirsi, giocare |
+| 事儿 | shìr | faccenda, cosa da fare |
+
+ex: 你去**哪儿**？ | Nǐ qù **nǎr**? | Dove vai?
+ex: 请等**一会儿**。 | Qǐng děng **yíhuìr**. | Aspetti un attimo, per favore.
+ex: 墙上有一张**画儿**。 | Qiáng shang yǒu yì zhāng **huàr**. | Sul muro c'è un quadro.
+ex: 我们**一块儿**去吧。 | Wǒmen **yíkuàir** qù ba. | Andiamo insieme.
+ex: 这个游戏真**好玩儿**。 | Zhège yóuxì zhēn **hǎowánr**. | Questo gioco è proprio divertente.
+
+### Uso regionale
+
+La retroflessione è tipica di Pechino e del Nord; nel Sud della Cina e a Taiwan si usa poco e si preferiscono altre forme. Entrambe sono corrette in cinese standard:
+
+| Nord | Sud e Taiwan | Significato |
+| 哪儿 nǎr | 哪里 nǎlǐ | dove |
+| 这儿 zhèr | 这里 zhèlǐ | qui |
+| 一点儿 yìdiǎnr | 一点 yìdiǎn | un po' |
+| 玩儿 wánr | 玩 wán | divertirsi |
+
+Nella lingua scritta formale il 儿 si omette spesso, anche quando nel parlato si pronuncia.
+
+! In alcune parole il 儿 ha una funzione lessicale o grammaticale: distingue parole diverse (头 tóu «testa», 头儿 tóur «capo»; 画 huà «dipingere», 画儿 huàr «dipinto») e può dare una sfumatura di piccolezza o di affetto. Vedi il capitolo «La formazione delle parole».
+
+! Non va confusa con la retroflessione la parola 儿 ér «figlio, bambino», che forma una sillaba autonoma: 儿子 érzi «figlio», 女儿 nǚ'ér «figlia».
+
+## Intonazione e accento
+
+### Sillabe accentate e sillabe leggere
+
+In cinese l'accento (重音 zhòngyīn) non è forte come in italiano: una sillaba accentata è soprattutto più lunga e pronunciata con un'escursione tonale più ampia, mentre una sillaba leggera è più breve e con un tono meno marcato. Nelle parole bisillabiche senza tono neutro la seconda sillaba è di solito un po' più forte della prima (学习 xuéxí, 中国 Zhōngguó); nelle parole con tono neutro l'accento cade sulla prima (朋友 péngyou, 东西 dōngxi).
+
+Nella frase sono di norma leggere le particelle (的, 了, 吗), il classificatore 个, le parole di posizione (上, 里), i complementi di direzione e spesso i pronomi in funzione di oggetto. Sono invece in rilievo le parole che portano l'informazione principale.
+
+### L'intonazione delle domande
+
+In italiano una domanda sì/no si distingue da un'affermazione solo per l'intonazione ascendente: «Vieni.» / «Vieni?». In cinese la domanda è segnalata da elementi lessicali: la particella 吗, le parole interrogative come 什么 o 谁, le forme come 去不去. Per questo non serve alzare la voce alla fine: le domande con 吗 si pronunciano con un'intonazione quasi neutra e 吗 è una sillaba leggera.
+ex: 你是学生**吗**？ | Nǐ shì xuésheng **ma**? | Sei uno studente?
+ex: 你明天来**吗**？ | Nǐ míngtiān lái **ma**? | Vieni domani?
+ex: 你喝**什么**？ | Nǐ hē **shénme**? | Che cosa bevi?
+
+L'intonazione si sovrappone ai toni senza cancellarli: in una domanda l'altezza complessiva della frase può salire un po', ma un quarto tono resta discendente e un primo tono resta piatto. Un errore tipico degli italiani è far salire l'ultima sillaba della domanda, deformandone il tono.
+
+Una frase affermativa pronunciata con intonazione ascendente può valere come domanda, ma esprime sorpresa o richiesta di conferma, come in italiano:
+ex: 你不去？ | Nǐ bú qù? | Non ci vai?! (con sorpresa)
+ex: 他是你哥哥？ | Tā shì nǐ gēge? | È tuo fratello?!
+
+Vedi il capitolo «Le frasi interrogative».
+
+### L'accento contrastivo
+
+Come in italiano, si può mettere in rilievo la parola su cui si concentra l'informazione o che si contrappone ad altre, pronunciandola più lunga e più forte. Il tono della sillaba non cambia, ma la sua escursione si amplia. La stessa frase cambia così il suo fuoco:
+ex: **我**明天去北京。 | **Wǒ** míngtiān qù Běijīng. | Sono *io* che vado a Pechino domani (non un altro).
+ex: 我**明天**去北京。 | Wǒ **míngtiān** qù Běijīng. | Vado a Pechino *domani* (non oggi).
+ex: 我明天去**北京**。 | Wǒ míngtiān qù **Běijīng**. | Domani vado a *Pechino* (non a Shanghai).
+
+Le sillabe in tono neutro e le particelle non possono ricevere l'accento contrastivo. Per dare rilievo a un elemento il cinese dispone anche di mezzi grammaticali, come 是 enfatico e la costruzione 是……的 (vedi i capitoli «L'enfasi» e «La costruzione 是……的»).

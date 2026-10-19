@@ -1,0 +1,102 @@
+## 以前, 以后, 后来 e 然后
+Quattro parole per collocare gli eventi nel tempo.
+| Parola | Significato | Uso | Esempio |
+| 以前 yǐqián | prima; un tempo | da sola o dopo un'espressione | 吃饭以前 / 以前我住在罗马 |
+| 以后 yǐhòu | dopo; in futuro | da sola o dopo un'espressione | 下课以后 / 以后再说 |
+| 后来 hòulái | in seguito, poi | solo da sola, solo nel passato | 后来他回国了 |
+| 然后 ránhòu | poi, dopo di che | collega azioni in sequenza | 先洗手，然后吃饭 |
+ex: 我先去银行，**然后**去超市。 | Wǒ xiān qù yínháng, **ránhòu** qù chāoshì. | Prima vado in banca, poi al supermercato.
+ex: 他三年前来过一次，**后来**再也没来过。 | Tā sān nián qián lái guo yí cì, **hòulái** zài yě méi lái guo. | È venuto una volta tre anni fa, e in seguito non è più tornato.
+
+## 刚 e 刚才
+«Appena» e «poco fa» differiscono per categoria grammaticale e posizione.
+| Caratteristica | 刚 gāng | 刚才 gāngcái |
+| Categoria | avverbio | nome di tempo |
+| Posizione | solo subito prima del verbo | prima o dopo il soggetto |
+| Con 了 finale | di solito no | sì |
+| Con la negazione | no | sì: 刚才没听见 |
+| Durata dopo il verbo | sì: 刚来三天 | no |
+| Come attributo | no | sì: 刚才的事 |
+ex: 我**刚**来三天，还不认识路。 | Wǒ **gāng** lái sān tiān, hái bú rènshi lù. | Sono arrivato da soli tre giorni e non conosco ancora le strade.
+ex: **刚才**的电话是谁打的？ | **Gāngcái** de diànhuà shì shéi dǎ de? | Chi ha telefonato poco fa?
+
+## 常常, 往往 e 总是
+Gli avverbi di frequenza più comuni, con le loro sfumature.
+| Avverbio | Significato | Uso | Esempio |
+| 常常 chángcháng | spesso | azioni frequenti, anche future | 你要常常给我打电话。 |
+| 经常 jīngcháng | spesso | come 常常, un po' più formale | 我经常出差。 |
+| 往往 wǎngwǎng | di solito, tende a | regolarità constatata; non nel futuro | 周末他往往睡到中午。 |
+| 总是 zǒngshì | sempre | abitudine costante, spesso con fastidio | 他总是迟到。 |
+ex: 南方的夏天**往往**很热，所以我们**常常**去海边。 | Nánfāng de xiàtiān **wǎngwǎng** hěn rè, suǒyǐ wǒmen **chángcháng** qù hǎibiān. | Al sud l'estate di solito è molto calda, perciò andiamo spesso al mare.
+! La negazione di 常常 è 不常 (o 不经常), non 不常常.
+
+## 一点儿 e 有点儿
+«Un po'» si dice in due modi, con posizione e valore diversi.
+| Caratteristica | 有点儿 yǒudiǎnr | 一点儿 yìdiǎnr |
+| Posizione | prima di aggettivo o verbo | dopo l'aggettivo, prima del nome |
+| Valore | «un po'», di solito sgradito | «un po' più/meno», «un po' di» |
+| Nei confronti | no | sì: 便宜一点儿 |
+| Nelle richieste | no | sì: 快一点儿！ |
+| Con la negazione | 有点儿不舒服 | 一点儿也不 «per niente» |
+| Esempio | 有点儿累 | 喝一点儿水 |
+ex: 今天**有点儿**冷，你多穿**一点儿**衣服。 | Jīntiān **yǒudiǎnr** lěng, nǐ duō chuān **yìdiǎnr** yīfu. | Oggi fa un po' freddo, mettiti qualcosa in più.
+ex: 我**一点儿**也不累。 | Wǒ **yìdiǎnr** yě bú lèi. | Non sono per niente stanco.
+
+## 对, 对于 e 关于
+Tre preposizioni che traducono «per, verso, su, riguardo a».
+| Preposizione | Significato | Posizione | Esempio |
+| 对 duì | verso, per, nei confronti di | dopo o prima del soggetto | 他对我很好。 |
+| 对于 duìyú | per quanto riguarda | soprattutto prima del soggetto | 对于这个问题，… |
+| 关于 guānyú | su, a proposito di | prima del soggetto, o in N + 的 | 关于中国的书 |
+ex: **对于**这个问题，我有不同的看法。 | **Duìyú** zhège wèntí, wǒ yǒu bùtóng de kànfǎ. | Su questo problema ho un'opinione diversa.
+ex: 老师**对**我们很热情。 | Lǎoshī **duì** wǒmen hěn rèqíng. | L'insegnante è molto cordiale con noi.
+! 对 può quasi sempre sostituire 对于, ma non il contrario: si dice 他对我很好, non 他对于我很好.
+
+## 和, 还是 e 或者
+Le parole che traducono «e» e «o».
+| Parola | Significato | Uso | Esempio |
+| 和 hé | e, con | collega nomi e pronomi | 我和你 |
+| 跟 gēn | e, con | come 和, più parlato | 我跟他是同学。 |
+| 以及 yǐjí | nonché, e inoltre | scritto, elenchi | 老师、学生以及家长 |
+| 还是 háishi | o (nelle domande) | domande alternative, anche indirette | 你去还是我去？ |
+| 或者 huòzhě | o, oppure | frasi affermative | 今天或者明天都行。 |
+ex: A：你今天去**还是**明天去？B：今天**或者**明天都可以。 | A: Nǐ jīntiān qù **háishi** míngtiān qù? B: Jīntiān **huòzhě** míngtiān dōu kěyǐ. | A: Vai oggi o domani? B: Oggi o domani, per me va bene uguale.
+
+## 认识, 知道, 了解 e 会
+Quattro modi di «conoscere» e «sapere».
+| Verbo | Significato | Oggetto tipico | Esempio |
+| 认识 rènshi | conoscere, riconoscere | persone, luoghi, caratteri | 我认识他。 |
+| 知道 zhīdao | sapere | fatti, informazioni | 我知道他的地址。 |
+| 了解 liǎojiě | conoscere a fondo, capire | persone, situazioni, culture | 我很了解他。 |
+| 会 huì | saper fare | lingue, attività apprese | 我会说汉语。 |
+ex: 我**认识**他很多年了，可是不太**了解**他。 | Wǒ **rènshi** tā hěn duō nián le, kěshì bú tài **liǎojiě** tā. | Lo conosco da molti anni, ma non lo conosco a fondo.
+
+## 看, 看见, 看到, 看懂 e 看完
+Il verbo 看 da solo e con i principali complementi di risultato.
+| Forma | Significato | Negazione | Esempio |
+| 看 kàn | guardare, leggere | 不看 / 没看 | 我在看电视。 |
+| 看见 kànjiàn | vedere, percepire | 没看见 | 你看见小王了吗？ |
+| 看到 kàndào | vedere; leggere fino a | 没看到 | 我看到第十页了。 |
+| 看懂 kàndǒng | capire leggendo o guardando | 没看懂 / 看不懂 | 这本书我看懂了。 |
+| 看完 kànwán | finire di leggere o guardare | 没看完 / 看不完 | 电影还没看完。 |
+ex: 这本小说我看了三天，终于**看完**了，可是没完全**看懂**。 | Zhè běn xiǎoshuō wǒ kàn le sān tiān, zhōngyú **kànwán** le, kěshì méi wánquán **kàndǒng**. | Ho letto questo romanzo per tre giorni e finalmente l'ho finito, ma non l'ho capito del tutto.
+
+## 的时候, 时 e 当……时
+I modi principali di dire «quando» in una frase temporale.
+| Forma | Registro | Struttura | Esempio |
+| ……的时候 | neutro, parlato | frase + 的时候 | 我吃饭的时候 |
+| ……时 | scritto, conciso | frase + 时 | 出发时 |
+| 当……时 / 的时候 | scritto, enfatico | 当 + frase + 时 | 当我到家时 |
+| 什么时候 | interrogativo | non traduce il «quando» temporale | 你什么时候来？ |
+ex: 我小**的时候**住在米兰。 | Wǒ xiǎo **de shíhou** zhù zài Mǐlán. | Quando ero piccolo abitavo a Milano.
+ex: **当**我回到家**时**，天已经黑了。 | **Dāng** wǒ huídào jiā **shí**, tiān yǐjīng hēi le. | Quando sono tornato a casa era già buio.
+
+## 只要……就 e 只有……才
+Condizione sufficiente, condizione necessaria e condizione indifferente.
+| Struttura | Condizione | Significato | Esempio |
+| 只要 A，就 B | sufficiente | basta che A perché B | 只要努力，就能学好。 |
+| 只有 A，才 B | necessaria | solo se A, allora B | 只有努力，才能学好。 |
+| 除非 A，才 B | unica | solo a condizione che A | 除非你去，他才去。 |
+| 不管 / 无论 A，都 B | indifferente | comunque sia A, B | 不管多忙，他都来。 |
+ex: **只要**你有时间，**就**来找我。 | **Zhǐyào** nǐ yǒu shíjiān, **jiù** lái zhǎo wǒ. | Se solo hai tempo, vieni a trovarmi.
+ex: **只有**多练习，**才**能说得流利。 | **Zhǐyǒu** duō liànxí, **cái** néng shuō de liúlì. | Solo esercitandosi molto si riesce a parlare in modo fluente.

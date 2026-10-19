@@ -1,0 +1,173 @@
+# Percorso di studio consigliato
+
+Questa appendice propone un itinerario attraverso il libro, diviso in tre livelli che corrispondono all'incirca ai livelli dell'esame HSK. Non è necessario leggere i capitoli nell'ordine in cui sono stampati: per ogni livello è indicato che cosa studiare e dove trovarlo.
+
+## Come studiare la grammatica cinese
+
+La grammatica cinese non ha coniugazioni né declinazioni: quasi tutto dipende dall'ordine delle parole e da un numero limitato di parole funzionali. Per questo conviene studiarla in modo diverso dalla grammatica di una lingua europea.
+
+- **Imparate le strutture come schemi.** Memorizzate i riquadri di struttura (per esempio S + 在 + Luogo + V + O) e riempiteli ogni volta con parole nuove, finché lo schema diventa automatico.
+- **Leggete gli esempi ad alta voce.** Ripetere le frasi con i toni corretti fissa insieme pronuncia, lessico e struttura: quando una frase vi «suona» giusta, l'avete davvero imparata.
+- **Osservate l'ordine delle parole.** Davanti a ogni frase nuova chiedetevi dove stanno il tempo, il luogo, gli avverbi e i complementi rispetto al verbo; le traduzioni letterali (lett. …) mostrano la distanza dall'italiano.
+- **Partite dal cinese, non dall'italiano.** Tradurre parola per parola produce quasi tutti gli errori descritti nell'appendice dedicata (vedi il capitolo «Errori frequenti degli italiani»): imparate frasi intere e adattatele.
+- **Imparate le parole in combinazione.** Memorizzate le collocazioni (打电话, 看书, 坐地铁, 帮我一个忙) e i nomi sempre insieme al loro classificatore (一本书, 一张票).
+- **Usate le tabelle per il ripasso.** Le tabelle mettono a confronto le parole che si confondono più spesso: rileggetele a intervalli regolari e provate a ricostruirle a memoria (vedi il capitolo «Tabelle riassuntive»).
+- **Fate esercizi di sostituzione e trasformazione.** Prendete una frase modello e cambiate un elemento alla volta, oppure volgetela alla forma negativa, interrogativa, con 把 o al passivo.
+- **Ascoltate e imitate.** Ripetete subito dopo l'audio brevi frasi di dialoghi e video: ritmo, intonazione e tono neutro si imparano soprattutto così.
+- **Tenete un quaderno degli errori.** Annotate le frasi che vi vengono corrette, sempre con la versione giusta accanto, e ripassatele spesso.
+- **Ripassate a intervalli crescenti.** Le schede di ripetizione dilazionata funzionano anche per la grammatica, se sul retro della scheda scrivete una frase intera e non una regola.
+- **Date tempo a 了 e ai complementi.** Sono i punti più difficili per un italiano: si imparano incontrandoli molte volte in contesti diversi, più che studiandone le regole.
+- **Leggete molto a un livello facile.** Testi graduati e dialoghi semplici mostrano le strutture nel loro uso naturale e le rendono familiari.
+
+## Livello base (≈ HSK 1–2)
+
+Al termine di questo livello dovreste saper usare con sicurezza i punti seguenti.
+
+- I suoni, i quattro toni, il tono neutro e le regole del pinyin — vedi «La pronuncia e il pinyin».
+- L'ordine fondamentale soggetto, tempo, luogo, verbo, oggetto — vedi «L'ordine delle parole».
+- Il verbo 是 e le frasi senza verbo (età, date, prezzi) — vedi «La frase semplice e il verbo 是».
+- Il nome senza plurale e il suffisso 们 — vedi «Il sostantivo».
+- I pronomi personali, dimostrativi e interrogativi più comuni — vedi «I pronomi».
+- I numeri, i prezzi, 二 e 两 — vedi «I numeri».
+- I classificatori più frequenti: 个, 本, 张, 杯, 口, 件 — vedi «I classificatori».
+- Date, ore, giorni della settimana e la posizione del tempo nella frase — vedi «Le espressioni di tempo».
+- I verbi separabili più comuni e la reduplicazione dei verbi (看看) — vedi «Il verbo».
+- I modali 想, 要, 会, 能, 可以 — vedi «I verbi modali».
+- L'aggettivo predicativo con 很 — vedi «L'aggettivo».
+- Gli avverbi 也, 都, 很, 太, 还, 再 — vedi «Gli avverbi».
+- Le preposizioni 在, 从, 给, 跟, 离 — vedi «Le preposizioni».
+- Il possesso e l'attributo con 的 — vedi «Le particelle strutturali 的, 地, 得».
+- 了 per l'azione compiuta e per il cambiamento — vedi «La particella 了».
+- 过 per l'esperienza — vedi «La particella 过».
+- 在 e 正在 per l'azione in corso — vedi «Azione in corso e stato continuato: 在, 正在, 着».
+- 要……了 e 快……了 per le azioni imminenti — vedi «Il futuro e le azioni imminenti».
+- 是……的 per chiedere quando, dove e come — vedi «La costruzione 是……的».
+- Il complemento di grado: 说得很好 — vedi «Il complemento di grado».
+- I complementi di risultato più comuni: 完, 懂, 见, 到, 好 — vedi «Il complemento di risultato».
+- Durata e frequenza: 两个小时, 三次 — vedi «I complementi di quantità».
+- 有 per il possesso e l'esistenza, 在 per la posizione — vedi «Le frasi con 有 e le frasi esistenziali».
+- Le domande con 吗, A不A, pronomi interrogativi, 还是 e 呢 — vedi «Le frasi interrogative».
+- La negazione con 不 e con 没 — vedi «La negazione».
+- Le particelle 吧, 呢, 啊 — vedi «Le particelle modali».
+- L'imperativo con 别 e 不要, le esclamazioni con 太……了 — vedi «Le frasi imperative ed esclamative».
+- Il comparativo con 比 e con 没有 — vedi «Le frasi comparative».
+- 因为……所以 — vedi «Frasi causali, ipotetiche e condizionali».
+- 虽然……但是 e la scelta tra 还是 e 或者 — vedi «Frasi alternative, avversative e concessive».
+
+## Livello intermedio (≈ HSK 3–4)
+
+A questo livello si consolidano l'aspetto, i complementi e le costruzioni speciali.
+
+- Il rapporto tra tempo e aspetto in cinese — vedi «Tempo e aspetto».
+- 了₁ e 了₂ nella stessa frase, 了 con la durata (学了两年了) — vedi «La particella 了».
+- 着 per lo stato continuato e nelle descrizioni — vedi «Azione in corso e stato continuato: 在, 正在, 着».
+- Il futuro con 会, 要, 打算, 将 — vedi «Il futuro e le azioni imminenti».
+- Il sistema dei complementi nel suo insieme — vedi «I complementi: panoramica».
+- Il complemento di direzione semplice e composto, e la posizione dell'oggetto — vedi «Il complemento di direzione».
+- Il complemento potenziale (听得懂, 买不到, 来不及) — vedi «Il complemento potenziale».
+- Oggetto, durata e frequenza nella stessa frase — vedi «I complementi di quantità».
+- I classificatori meno frequenti (条, 双, 场, 顿) — vedi «I classificatori».
+- La reduplicazione degli aggettivi (高高兴兴) — vedi «L'aggettivo».
+- Gli avverbi 就, 才, 又, 刚, 已经, 终于 — vedi «Gli avverbi».
+- Le preposizioni 对, 为, 向, 往, 按照 — vedi «Le preposizioni».
+- 地 e le frasi relative con 的 — vedi «Le particelle strutturali 的, 地, 得».
+- Le frasi esistenziali con 着 e 了 (墙上挂着一张画) — vedi «Le frasi con 有 e le frasi esistenziali».
+- Le domande retoriche e le domande con coda — vedi «Le frasi interrogative».
+- La negazione parziale e totale (不都, 都不) e la doppia negazione — vedi «La negazione».
+- 跟……一样, 没有……那么, 越来越, 越……越…… — vedi «Le frasi comparative».
+- La costruzione con 把 — vedi «La costruzione con 把».
+- Il passivo con 被, 叫, 让 — vedi «Il passivo».
+- 让, 叫, 请, 使 e le frasi a perno — vedi «Le frasi causative e le frasi a perno».
+- Le frasi a verbi in serie (去……买, 用……写) — vedi «Le frasi a verbi in serie».
+- 连……都/也 e 是 enfatico — vedi «L'enfasi».
+- 一边……一边, 不但……而且, 先……然后, 一……就 — vedi «Frasi coordinate, successive e progressive».
+- 不是……而是, 不是……就是, 却 — vedi «Frasi alternative, avversative e concessive».
+- 如果……就, 只要……就, 只有……才, 不管……都 — vedi «Frasi causali, ipotetiche e condizionali».
+- 的时候, 以前, 以后, 为了 — vedi «Frasi finali, temporali e altre strutture correlative».
+
+## Livello avanzato (≈ HSK 5–6)
+
+Il livello avanzato riguarda soprattutto le frasi complesse, le sfumature e il registro scritto.
+
+- La struttura della frase complessa e l'omissione dei connettivi — vedi «Le frasi complesse: principi generali».
+- 并且, 甚至, 何况, 况且 — vedi «Frasi coordinate, successive e progressive».
+- 即使……也, 尽管, 宁可……也不, 与其……不如 — vedi «Frasi alternative, avversative e concessive».
+- 由于, 既然, 否则, 要不然, 万一, 假如 — vedi «Frasi causali, ipotetiche e condizionali».
+- 以便, 以免, 免得, 之所以……是因为 — vedi «Frasi finali, temporali e altre strutture correlative».
+- Tema e commento, frasi con l'oggetto anticipato — vedi «L'ordine delle parole».
+- Numeri approssimativi (左右, 上下, 多, 来) e frazioni — vedi «I numeri».
+- Gli avverbi modali 居然, 竟然, 毕竟, 难怪, 偏偏, 何必 — vedi «Gli avverbi».
+- Le preposizioni formali 对于, 关于, 至于, 根据, 通过 — vedi «Le preposizioni».
+- Gli usi figurati di 起来, 下去, 出来, 下来 — vedi «Il complemento di direzione».
+- I potenziali lessicalizzati (来不及, 看不起, 受不了, 说不定) — vedi «Il complemento potenziale».
+- 把 con 成, 作, 给 e le restrizioni sul verbo — vedi «La costruzione con 把».
+- Il passivo con 给, 为……所 e il passivo senza marca — vedi «Il passivo».
+- 使, 令 e le causative formali — vedi «Le frasi causative e le frasi a perno».
+- 是……的 enfatico, 就是, 才是 — vedi «L'enfasi».
+- Le particelle 嘛, 呗, 罢了, 而已 — vedi «Le particelle modali».
+- Composti, affissi, abbreviazioni e chengyu — vedi «La formazione delle parole».
+- Lo stile scritto: 之, 其, 于, 以, 而, 则 — vedi «Registro scritto e registro parlato».
+
+## Le regole d'oro della grammatica cinese
+
+Se doveste ricordare soltanto quindici cose di questo libro, ricordate queste.
+
+### Chi modifica viene prima di chi è modificato
+Attributi, frasi relative e avverbiali stanno sempre prima della parola a cui si riferiscono (vedi il capitolo «L'ordine delle parole»).
+ex: **我昨天在书店买的那本**书很有意思。 | **Wǒ zuótiān zài shūdiàn mǎi de nà běn** shū hěn yǒu yìsi. | Il libro che ho comprato ieri in libreria è molto interessante.
+
+### Il quando e il dove vengono prima del verbo
+L'ordine normale è soggetto, tempo, luogo, verbo, oggetto (vedi il capitolo «Le espressioni di tempo»).
+ex: 我们**明天下午在咖啡馆**见面。 | Wǒmen **míngtiān xiàwǔ zài kāfēiguǎn** jiànmiàn. | Ci vediamo domani pomeriggio al bar.
+
+### Quanto, quante volte, con quale risultato: dopo il verbo
+Durata, frequenza, risultato e grado seguono il verbo come complementi (vedi il capitolo «I complementi: panoramica»).
+ex: 我昨天睡了**十个小时**，睡**得很好**。 | Wǒ zuótiān shuì le **shí ge xiǎoshí**, shuì **de hěn hǎo**. | Ieri ho dormito dieci ore e ho dormito benissimo.
+
+### Il verbo non si coniuga
+Persona, numero e tempo non cambiano la forma del verbo: il tempo si ricava dal contesto e dalle espressioni di tempo (vedi il capitolo «Tempo e aspetto»).
+ex: 我**以前**住在上海，**现在**住在北京。 | Wǒ **yǐqián** zhù zài Shànghǎi, **xiànzài** zhù zài Běijīng. | Prima abitavo a Shanghai, ora abito a Pechino.
+
+### L'aggettivo fa da predicato senza 是
+Letteralmente si dice «io molto stanco», non «io essere stanco» (vedi il capitolo «L'aggettivo»).
+ex: 北京的冬天**很冷**。 | Běijīng de dōngtiān **hěn lěng**. | L'inverno a Pechino è freddo.
+
+### Numerale, classificatore, nome
+Tra un numerale o un dimostrativo e il nome ci vuole sempre il classificatore (vedi il capitolo «I classificatori»).
+ex: 我想买两**张**票。 | Wǒ xiǎng mǎi liǎng **zhāng** piào. | Vorrei comprare due biglietti.
+
+### 了 non è il passato
+了 segnala un'azione compiuta o un cambiamento di situazione, anche nel futuro (vedi il capitolo «La particella 了»).
+ex: 我吃**了**饭就去找你。 | Wǒ chī **le** fàn jiù qù zhǎo nǐ. | Appena ho mangiato vengo a cercarti.
+
+### 不 per la volontà e le abitudini, 没 per i fatti
+不 nega ciò che si vuole, si fa abitualmente o si farà; 没 nega ciò che è avvenuto, e nega sempre 有 (vedi il capitolo «La negazione»).
+ex: 他昨天**没**来，今天也**不**来。 | Tā zuótiān **méi** lái, jīntiān yě **bù** lái. | Ieri non è venuto e oggi non viene neanche.
+
+### Gli avverbi stanno tra soggetto e verbo
+也, 都, 还, 就, 才, 常常 non vanno mai all'inizio della frase né dopo il verbo (vedi il capitolo «Gli avverbi»).
+ex: 他**也常常**在家做饭。 | Tā **yě chángcháng** zài jiā zuò fàn. | Anche lui cucina spesso a casa.
+
+### Le domande hanno lo stesso ordine delle risposte
+Il pronome interrogativo occupa il posto dell'elemento richiesto, senza inversioni (vedi il capitolo «Le frasi interrogative»).
+ex: A：你在**哪儿**工作？B：我在**银行**工作。 | A: Nǐ zài **nǎr** gōngzuò? B: Wǒ zài **yínháng** gōngzuò. | A: Dove lavori? B: Lavoro in banca.
+
+### Una sola marca interrogativa per domanda
+吗, A不A, 还是 e i pronomi interrogativi non si combinano tra loro (vedi il capitolo «Le frasi interrogative»).
+ex: 你明天**来不来**？ | Nǐ míngtiān **lái bu lái**? | Domani vieni o no?
+
+### Il nome non ha plurale
+Il plurale si capisce dal contesto o dal numerale; 们 si usa solo per le persone e mai insieme a un numero (vedi il capitolo «Il sostantivo»).
+ex: 我有**三个**中国朋友。 | Wǒ yǒu **sān ge** Zhōngguó péngyou. | Ho tre amici cinesi.
+
+### Il noto prima, il nuovo dopo
+Ciò che è già noto tende a stare prima del verbo, l'informazione nuova dopo (vedi il capitolo «Le frasi con 有 e le frasi esistenziali»).
+ex: **书**在桌子上。/ 桌子上有**一本书**。 | **Shū** zài zhuōzi shang. / Zhuōzi shang yǒu **yì běn shū**. | Il libro è sul tavolo. / Sul tavolo c'è un libro.
+
+### Il tema può aprire la frase
+Spesso si nomina prima l'argomento e poi si dice qualcosa su di esso, anche quando è l'oggetto del verbo (vedi il capitolo «L'ordine delle parole»).
+ex: **这本书**我已经看完了。 | **Zhè běn shū** wǒ yǐjīng kànwán le. | Questo libro l'ho già finito di leggere.
+
+### I connettivi lavorano in coppia
+Nelle frasi complesse una congiunzione è spesso ripresa da un avverbio o da un'altra congiunzione: 因为……所以, 如果……就, 虽然……但是 (vedi il capitolo «Le frasi complesse: principi generali»).
+ex: **如果**明天不下雨，我们**就**去爬山。 | **Rúguǒ** míngtiān bú xià yǔ, wǒmen **jiù** qù pá shān. | Se domani non piove, andiamo in montagna.

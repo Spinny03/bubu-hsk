@@ -1,0 +1,242 @@
+@ Costruzioni speciali
+
+# Le frasi comparative
+
+In italiano il comparativo si forma con avverbi come «più», «meno», «così… come», «tanto… quanto». In cinese l'aggettivo non cambia mai forma e non esiste un equivalente diretto di «più»: la comparazione si esprime con apposite costruzioni, le frasi comparative (比较句 bǐjiàojù). La più importante è quella con la preposizione 比 bǐ «rispetto a, in confronto a»; accanto a essa troviamo 没有, 不如, 跟……一样, 像, 有, e per il superlativo l'avverbio 最.
+
+La tabella seguente riassume le costruzioni principali, trattate una per una in questo capitolo.
+
+| Struttura | Significato | Esempio |
+| A 比 B + Agg | A è più Agg di B | 他比我高。 |
+| A 没有 B (那么) + Agg | A è meno Agg di B | 他没有我高。 |
+| A 不比 B + Agg | A non è più Agg di B (smentita) | 他不比我高。 |
+| A 不如 B (+ Agg) | A è inferiore a B | 他不如我高。 |
+| A 跟 B 一样 + Agg | A è Agg come B | 他跟我一样高。 |
+| A 有 B (那么) + Agg | A arriva al livello di B | 他有我那么高了。 |
+| A 跟 B 差不多 | A e B sono più o meno uguali | 他跟我差不多。 |
+| 最 + Agg | superlativo relativo | 他最高。 |
+
+## A 比 B + Agg
+
+Nella costruzione di base il primo termine di paragone (A) è il soggetto; il secondo termine (B) è introdotto da 比 e precede l'aggettivo. L'aggettivo da solo ha già valore comparativo: 他比我高 significa «lui è più alto di me», senza alcuna parola per «più».
+
+= A + 比 + B + Agg
+
+ex: 他**比**我高。 | Tā **bǐ** wǒ gāo. | Lui è più alto di me. (lett. lui rispetto-a me alto)
+ex: 今天**比**昨天冷。 | Jīntiān **bǐ** zuótiān lěng. | Oggi fa più freddo di ieri.
+ex: 这个房间**比**那个房间安静。 | Zhège fángjiān **bǐ** nàge fángjiān ānjìng. | Questa stanza è più tranquilla di quella.
+ex: 坐地铁**比**坐出租车便宜。 | Zuò dìtiě **bǐ** zuò chūzūchē piányi. | Prendere la metropolitana costa meno che prendere il taxi.
+ex: 玛丽亚的汉语**比**马可的好。 | Mǎlìyà de Hànyǔ **bǐ** Mǎkě de hǎo. | Il cinese di Maria è migliore di quello di Marco.
+ex: 这里的冬天**比**北京暖和。 | Zhèli de dōngtiān **bǐ** Běijīng nuǎnhuo. | Qui l'inverno è più mite che a Pechino.
+
+I due termini A e B possono essere nomi, pronomi, gruppi verbali o intere frasi, purché siano paralleli. Se il nome è lo stesso, nel secondo termine si omette e resta solo 的: 我的手机比你的新 «il mio cellulare è più nuovo del tuo». Nel parlato, quando A è del tipo «possessore + nome», B si riduce spesso al solo possessore: 他的个子比我高 (= 比我的个子高) «di statura è più alto di me».
+
+ex: 我的手机**比**你的新。 | Wǒ de shǒujī **bǐ** nǐ de xīn. | Il mio cellulare è più nuovo del tuo.
+ex: 他的个子**比**我高。 | Tā de gèzi **bǐ** wǒ gāo. | Di statura è più alto di me.
+ex: 自己做饭**比**去饭馆吃健康。 | Zìjǐ zuò fàn **bǐ** qù fànguǎn chī jiànkāng. | Cucinare da sé è più sano che mangiare al ristorante.
+
+Gli avverbi (也, 都, 可能, 一定, 好像 …) e i verbi modali si collocano davanti a 比, non davanti all'aggettivo.
+
+ex: 他**一定**比你忙。 | Tā **yídìng** bǐ nǐ máng. | Sarà sicuramente più impegnato di te.
+ex: 他弟弟**也**比我高。 | Tā dìdi **yě** bǐ wǒ gāo. | Anche suo fratello minore è più alto di me.
+ex: 明天**可能**比今天热。 | Míngtiān **kěnéng** bǐ jīntiān rè. | Domani forse farà più caldo di oggi.
+
+Quando il confronto avviene con un momento precedente (以前, 去年, 上个月 …) e si vuole sottolineare il cambiamento avvenuto, alla fine della frase si aggiunge 了 (vedi il capitolo «La particella 了»).
+
+ex: 他**比**以前胖**了**。 | Tā **bǐ** yǐqián pàng **le**. | È ingrassato rispetto a prima.
+ex: 你的汉语**比**去年好多**了**。 | Nǐ de Hànyǔ **bǐ** qùnián hǎo duō **le**. | Il tuo cinese è molto migliorato rispetto all'anno scorso.
+
+### Niente 很, 非常, 真, 太 davanti all'aggettivo
+
+Nella frase semplice l'aggettivo predicativo è di norma preceduto da 很 (他很高). Nella frase con 比, invece, l'aggettivo non può essere preceduto da avverbi di grado come 很, 非常, 真, 太, 特别, 十分: il confronto con B esprime già un grado relativo, incompatibile con un grado assoluto. Per dire «molto più» si aggiunge 得多 o 多了 *dopo* l'aggettivo.
+
+no: 他比我很高。 | Tā bǐ wǒ hěn gāo. | Errato: dopo 比 l'aggettivo non può essere preceduto da 很.
+ex: 他比我高**多了**。 | Tā bǐ wǒ gāo **duō le**. | È molto più alto di me.
+no: 今天比昨天非常热。 | Jīntiān bǐ zuótiān fēicháng rè. | Errato: niente 非常 nella frase con 比.
+ex: 今天比昨天热**得多**。 | Jīntiān bǐ zuótiān rè **de duō**. | Oggi fa molto più caldo di ieri.
+no: 这件衣服比那件太贵了。 | Zhè jiàn yīfu bǐ nà jiàn tài guì le. | Errato: niente 太 nella frase con 比.
+ex: 这件衣服比那件贵**一点儿**。 | Zhè jiàn yīfu bǐ nà jiàn guì **yìdiǎnr**. | Questo vestito è un po' più caro di quello.
+
+### 更 e 还 davanti all'aggettivo
+
+Gli unici avverbi di grado ammessi davanti all'aggettivo sono 更 gèng e 还 hái, entrambi traducibili con «ancora più». 更 è neutro e presuppone che anche B possieda la qualità; 还 è più espressivo e comunica sorpresa o enfasi: B ha già la qualità in misura notevole, eppure A lo supera. Con 还 si fanno spesso paragoni iperbolici.
+
+= A + 比 + B + 更/还 + Agg
+
+ex: 你很高，可是你弟弟比你**更**高。 | Nǐ hěn gāo, kěshì nǐ dìdi bǐ nǐ **gèng** gāo. | Tu sei alto, ma tuo fratello minore è ancora più alto.
+ex: 今天比昨天**更**冷。 | Jīntiān bǐ zuótiān **gèng** lěng. | Oggi fa ancora più freddo di ieri.
+ex: 他比我**还**高。 | Tā bǐ wǒ **hái** gāo. | È persino più alto di me. (e io sono già alto)
+ex: 这个问题比那个**还**难。 | Zhège wèntí bǐ nàge **hái** nán. | Questo problema è addirittura più difficile di quello.
+ex: 小王的女朋友比电影明星**还**漂亮。 | Xiǎo Wáng de nǚpéngyou bǐ diànyǐng míngxīng **hái** piàoliang. | La ragazza di Xiao Wang è più bella di una star del cinema.
+
+! 更/还 davanti all'aggettivo e 得多/多了 dopo l'aggettivo si escludono a vicenda.
+no: 他比我更高多了。 | Tā bǐ wǒ gèng gāo duō le. | Errato: 更 e 多了 non si usano insieme.
+ex: 他比我高多了。 | Tā bǐ wǒ gāo duō le. | È molto più alto di me.
+
+### La quantità dopo l'aggettivo
+
+La differenza tra A e B si esprime sempre *dopo* l'aggettivo. Può essere indeterminata (un po', molto) oppure precisa (tre anni, dieci centimetri, duecento yuan).
+
+= A + 比 + B + Agg + 一点儿 / 一些 / 得多 / 多了 / 很多
+= A + 比 + B + Agg + Num + CL (+ N)
+
+| Elemento | Valore | Esempio |
+| 一点儿 / 一些 | un po' (più) | 贵一点儿 |
+| 得多 | molto (più), neutro | 快得多 |
+| 多了 | molto (più), parlato | 好多了 |
+| 很多 | molto (più), parlato | 高很多 |
+| Num + CL | differenza esatta | 大三岁 |
+
+ex: 这个比那个贵**一点儿**。 | Zhège bǐ nàge guì **yìdiǎnr**. | Questo è un po' più caro di quello.
+ex: 我的房间比你的大**一些**。 | Wǒ de fángjiān bǐ nǐ de dà **yìxiē**. | La mia camera è un po' più grande della tua.
+ex: 坐飞机比坐火车快**得多**。 | Zuò fēijī bǐ zuò huǒchē kuài **de duō**. | L'aereo è molto più veloce del treno.
+ex: 他的病比上个星期好**多了**。 | Tā de bìng bǐ shàng ge xīngqī hǎo **duō le**. | Sta molto meglio della settimana scorsa.
+ex: 他比我大**三岁**。 | Tā bǐ wǒ dà **sān suì**. | Ha tre anni più di me. (lett. lui rispetto-a me grande tre anni)
+ex: 我哥哥比我高**十公分**。 | Wǒ gēge bǐ wǒ gāo **shí gōngfēn**. | Mio fratello maggiore è dieci centimetri più alto di me.
+ex: 这条裤子比那条贵**两百块**。 | Zhè tiáo kùzi bǐ nà tiáo guì **liǎngbǎi kuài**. | Questi pantaloni costano duecento yuan più di quelli.
+
+Per chiedere l'entità della differenza si usano 多少 o 几 + CL dopo l'aggettivo.
+
+ex: 他比你大**几岁**？ | Tā bǐ nǐ dà **jǐ suì**? | Quanti anni ha più di te?
+ex: 这个比那个贵**多少**？ | Zhège bǐ nàge guì **duōshao**? | Quanto costa in più questo rispetto a quello?
+
+! La quantità non va mai davanti all'aggettivo. Attenzione anche a 有点儿 + Agg: indica un grado «un po' eccessivo» o sgradito e non si usa nei comparativi (vedi il capitolo «Gli avverbi»).
+no: 这个比那个有点儿贵。 | Zhège bǐ nàge yǒudiǎnr guì. | Errato: nel comparativo «un po' più» si rende con Agg + 一点儿.
+ex: 这个比那个贵一点儿。 | Zhège bǐ nàge guì yìdiǎnr. | Questo è un po' più caro di quello.
+
+## Il comparativo con verbi e complementi
+
+### Con il complemento di grado
+
+Per confrontare il modo in cui due persone compiono un'azione si usa il complemento di grado (vedi il capitolo «Il complemento di grado»). La parte con 比 può stare prima del verbo o subito dopo 得: le due posizioni sono ugualmente corrette e hanno lo stesso significato.
+
+= A + 比 + B + V + 得 + Agg
+= A + V + 得 + 比 + B + Agg
+
+ex: 他**比**我跑得快。 | Tā **bǐ** wǒ pǎo de kuài. | Corre più veloce di me.
+ex: 他跑得**比**我快。 | Tā pǎo de **bǐ** wǒ kuài. | Corre più veloce di me.
+ex: 妹妹**比**我起得早。 | Mèimei **bǐ** wǒ qǐ de zǎo. | Mia sorella minore si alza più presto di me.
+ex: 今天你来得**比**昨天晚。 | Jīntiān nǐ lái de **bǐ** zuótiān wǎn. | Oggi sei arrivato più tardi di ieri.
+ex: 她唱得**比**我好听多了。 | Tā chàng de **bǐ** wǒ hǎotīng duō le. | Canta molto meglio di me.
+
+Se il verbo ha un oggetto, come in tutte le frasi con il complemento di grado, si ripete il verbo oppure si anticipa l'oggetto; la parte con 比 si colloca di solito dopo 得.
+
+= A + V + O + V + 得 + 比 + B + Agg
+= A + O + V + 得 + 比 + B + Agg
+
+ex: 他说汉语说得**比**我好。 | Tā shuō Hànyǔ shuō de **bǐ** wǒ hǎo. | Parla cinese meglio di me.
+ex: 他汉语说得**比**我好。 | Tā Hànyǔ shuō de **bǐ** wǒ hǎo. | Parla cinese meglio di me.
+ex: 马可做饭做得**比**他妈妈还好。 | Mǎkě zuò fàn zuò de **bǐ** tā māma hái hǎo. | Marco cucina persino meglio di sua madre.
+ex: 她写字写得**比**我漂亮。 | Tā xiě zì xiě de **bǐ** wǒ piàoliang. | Scrive i caratteri meglio di me.
+no: 他说汉语得比我好。 | Tā shuō Hànyǔ de bǐ wǒ hǎo. | Errato: 得 non può seguire l'oggetto; bisogna ripetere il verbo.
+ex: 他说汉语说得比我好。 | Tā shuō Hànyǔ shuō de bǐ wǒ hǎo. | Parla cinese meglio di me.
+
+### 早, 晚, 多, 少 + V + quantità
+
+Per dire che A ha fatto qualcosa prima, dopo, di più o di meno rispetto a B, e di quanto, si mettono 早, 晚, 多, 少 *davanti* al verbo e la quantità *dopo* il verbo. È un punto difficile per gli italiani, che tendono a collocare «di più» alla fine.
+
+= A + 比 + B + 早/晚/多/少 + V (+ 了) + quantità (+ O)
+
+ex: 他**比**我**早**来十分钟。 | Tā **bǐ** wǒ **zǎo** lái shí fēnzhōng. | È arrivato dieci minuti prima di me.
+ex: 我**比**你**多**买了两本。 | Wǒ **bǐ** nǐ **duō** mǎi le liǎng běn. | Ne ho comprati due più di te. (due libri)
+ex: 今天我**比**平时**晚**起了半个小时。 | Jīntiān wǒ **bǐ** píngshí **wǎn** qǐ le bàn ge xiǎoshí. | Oggi mi sono alzato mezz'ora più tardi del solito.
+ex: 这个月我**比**上个月**少**花了五百块钱。 | Zhège yuè wǒ **bǐ** shàng ge yuè **shǎo** huā le wǔbǎi kuài qián. | Questo mese ho speso cinquecento yuan meno del mese scorso.
+ex: 王明**比**别人**多**工作了两个小时。 | Wáng Míng **bǐ** biérén **duō** gōngzuò le liǎng ge xiǎoshí. | Wang Ming ha lavorato due ore più degli altri.
+no: 我比你买了两本多。 | Wǒ bǐ nǐ mǎi le liǎng běn duō. | Errato: 多 va davanti al verbo, non alla fine.
+ex: 我比你多买了两本。 | Wǒ bǐ nǐ duō mǎi le liǎng běn. | Ne ho comprati due più di te.
+
+### Verbi psicologici e verbi di capacità
+
+Con i verbi che esprimono sentimenti, desideri o conoscenze (喜欢, 爱, 想, 怕, 了解, 关心, 希望 …) e con il modale 会 «saper fare bene», la frase con 比 non richiede un aggettivo: il verbo con il suo oggetto funge da predicato. Spesso si aggiunge 更 o 还.
+
+= A + 比 + B + (更/还) + V + O
+
+ex: 他**比**我**更**喜欢中国菜。 | Tā **bǐ** wǒ **gèng** xǐhuan Zhōngguó cài. | A lui la cucina cinese piace più che a me.
+ex: 妈妈**比**爸爸**更**了解我。 | Māma **bǐ** bàba **gèng** liǎojiě wǒ. | La mamma mi capisce meglio del papà.
+ex: 我**比**你**还**想家。 | Wǒ **bǐ** nǐ **hái** xiǎng jiā. | Io ho nostalgia di casa ancora più di te.
+ex: 她**比**我**更**怕冷。 | Tā **bǐ** wǒ **gèng** pà lěng. | Lei soffre il freddo più di me.
+ex: 小王**比**我会做生意。 | Xiǎo Wáng **bǐ** wǒ huì zuò shēngyi. | Xiao Wang sa fare affari meglio di me.
+
+! In 他比我更喜欢中国菜 il secondo termine (我) è una persona: «gli piace più che a me». Per confrontare due oggetti («preferisce la cucina cinese a quella italiana») si introduce il secondo termine con 跟……比 o 跟……相比 all'inizio della frase.
+ex: 跟意大利菜比，他更喜欢中国菜。 | Gēn Yìdàlì cài bǐ, tā gèng xǐhuan Zhōngguó cài. | Rispetto alla cucina italiana, preferisce quella cinese.
+
+### 有 + N e altri predicati
+
+Le espressioni con 有 + N che equivalgono ad aggettivi (有经验 «esperto», 有意思 «interessante», 有钱 «ricco», 有名 «famoso», 有耐心 «paziente», 有办法 «pieno di risorse» …) si comportano come aggettivi anche nel comparativo e possono essere seguite da 多了 o 得多.
+
+= A + 比 + B + (更) + 有 + N
+
+ex: 李老师**比**王老师**有经验**。 | Lǐ lǎoshī **bǐ** Wáng lǎoshī **yǒu jīngyàn**. | Il professor Li ha più esperienza del professor Wang.
+ex: 这本小说**比**那本**有意思**。 | Zhè běn xiǎoshuō **bǐ** nà běn **yǒu yìsi**. | Questo romanzo è più interessante di quello.
+ex: 他**比**我**有钱**多了。 | Tā **bǐ** wǒ **yǒu qián** duō le. | È molto più ricco di me.
+ex: 你**比**我**有耐心**。 | Nǐ **bǐ** wǒ **yǒu nàixīn**. | Hai più pazienza di me.
+ex: 这家公司**比**那家**更有名**。 | Zhè jiā gōngsī **bǐ** nà jiā **gèng yǒumíng**. | Questa azienda è ancora più famosa di quella.
+
+## La negazione del comparativo
+
+### A 没有 B (这么/那么) + Agg
+
+La negazione più comune del comparativo non si fa con 不比, ma con 没有 méiyǒu (nel parlato anche solo 没): «A non è Agg quanto B», cioè A è inferiore a B. Davanti all'aggettivo si può inserire 这么 o 那么 «così, tanto»: 这么 se B è vicino a chi parla nello spazio o nel pensiero, 那么 se è lontano; spesso sono intercambiabili.
+
+= A + 没有 + B + (这么/那么) + Agg
+
+ex: 我**没有**他高。 | Wǒ **méiyǒu** tā gāo. | Non sono alto quanto lui. (= sono più basso di lui)
+ex: 今天**没有**昨天**那么**冷。 | Jīntiān **méiyǒu** zuótiān **nàme** lěng. | Oggi non fa così freddo come ieri.
+ex: 上海的冬天**没有**北京**这么**冷。 | Shànghǎi de dōngtiān **méiyǒu** Běijīng **zhème** lěng. | L'inverno di Shanghai non è freddo come qui a Pechino.
+ex: 坐公共汽车**没有**坐地铁方便。 | Zuò gōnggòng qìchē **méiyǒu** zuò dìtiě fāngbiàn. | L'autobus non è comodo come la metropolitana.
+ex: 我**没有**你**那么**喜欢运动。 | Wǒ **méiyǒu** nǐ **nàme** xǐhuan yùndòng. | Non amo lo sport quanto te.
+ex: 我说汉语说得**没有**她流利。 | Wǒ shuō Hànyǔ shuō de **méiyǒu** tā liúlì. | Non parlo cinese fluentemente quanto lei.
+ex: 他**没**你跑得快。 | Tā **méi** nǐ pǎo de kuài. | Non corre veloce quanto te.
+
+! Nella frase con 没有: (1) non si può indicare la differenza dopo l'aggettivo; (2) non si usano 更 e 还; (3) si preferiscono gli aggettivi «positivi» della coppia (高, 大, 好, 快, 长): si dice 我没有他高, non 他没有我矮.
+no: 我没有他高十公分。 | Wǒ méiyǒu tā gāo shí gōngfēn. | Errato: dopo 没有 + Agg non si indica la differenza.
+ex: 我比他矮十公分。 | Wǒ bǐ tā ǎi shí gōngfēn. | Sono dieci centimetri più basso di lui.
+no: 我比他不高。 | Wǒ bǐ tā bù gāo. | Errato: la negazione non va davanti all'aggettivo dopo 比.
+ex: 我没有他高。 | Wǒ méiyǒu tā gāo. | Non sono alto quanto lui.
+
+### A 不比 B + Agg
+
+不比 bù bǐ significa letteralmente «A non è più Agg di B»: A è uguale o quasi uguale a B. Si usa soprattutto per smentire un'affermazione o un'idea dell'interlocutore, spesso in tono polemico. Non è la negazione normale del comparativo.
+
+= A + 不比 + B + Agg
+
+ex: A：他比你高吧？B：他**不比**我高，我们差不多。 | A: Tā bǐ nǐ gāo ba? B: Tā **bù bǐ** wǒ gāo, wǒmen chàbuduō. | A: Lui è più alto di te, vero? B: Non è più alto di me, siamo più o meno uguali.
+ex: 这家饭馆的菜**不比**那家差。 | Zhè jiā fànguǎn de cài **bù bǐ** nà jiā chà. | I piatti di questo ristorante non sono peggiori di quelli dell'altro.
+ex: 女孩子**不比**男孩子差。 | Nǚháizi **bù bǐ** nánháizi chà. | Le ragazze non valgono meno dei ragazzi.
+ex: 别以为我不懂，我知道的**不比**你少。 | Bié yǐwéi wǒ bù dǒng, wǒ zhīdao de **bù bǐ** nǐ shǎo. | Non credere che io non capisca: non ne so meno di te.
+
+| Frase | Significato |
+| 他比我高。 | lui è più alto di me |
+| 他没有我高。 | lui è più basso di me |
+| 他不比我高。 | lui non è più alto di me (siamo simili) |
+
+### A 不如 B (+ Agg)
+
+不如 bùrú «non essere all'altezza di, non valere quanto» indica che A è inferiore a B. L'aggettivo è facoltativo: senza aggettivo si intende «A è peggiore di B» in senso generale. Con l'aggettivo, come con 没有, si usano gli aggettivi «positivi». È frequente sia nel parlato sia nello scritto, e in molti proverbi.
+
+= A + 不如 + B
+= A + 不如 + B + (这么/那么) + Agg
+
+ex: 我的汉语**不如**他。 | Wǒ de Hànyǔ **bùrú** tā. | Il mio cinese non è al suo livello.
+ex: 这个办法**不如**那个好。 | Zhège bànfǎ **bùrú** nàge hǎo. | Questo metodo non è buono quanto quello.
+ex: 今年的收入**不如**去年。 | Jīnnián de shōurù **bùrú** qùnián. | Le entrate di quest'anno non sono come quelle dell'anno scorso.
+ex: 我做的菜**不如**妈妈做的好吃。 | Wǒ zuò de cài **bùrú** māma zuò de hǎochī. | I piatti che cucino io non sono buoni come quelli della mamma.
+ex: 百闻**不如**一见。 | Bǎi wén **bùrú** yí jiàn. | Vedere una volta vale più che sentire cento volte. (proverbio)
+
+! 不如 seguito da un verbo significa «tanto vale…, sarebbe meglio…» (我们不如坐出租车去 «tanto vale andarci in taxi»); per 与其……不如…… vedi il capitolo «Frasi alternative, avversative e concessive».
+
+### Le domande
+
+La domanda con 吗 si forma normalmente. Con 有……吗 si chiede se A raggiunge il livello di B; la domanda fa spesso intuire che chi parla ne dubita. La forma affermativo-negativa si costruisce con 是不是 o con 有没有. Per chiedere quale di due elementi prevale si usano 谁 o 哪个 seguiti da 更 + Agg o dall'aggettivo semplice.
+
+= A + 比 + B + Agg + 吗？
+= A + 有 + B + (这么/那么) + Agg + 吗？
+= A + 有没有 + B + (这么/那么) + Agg？
+= A 和 B，谁/哪个 + (更) + Agg？
+
+ex: 他**比**你高吗？ | Tā **bǐ** nǐ gāo ma? | È più alto di te?
+ex: 他**有**你高吗？ | Tā **yǒu** nǐ gāo ma? | È alto quanto te?
+ex: 你弟弟**有没有**你**这么**高？ | Nǐ dìdi **yǒu méiyǒu** nǐ **zhème** gāo? | Tuo fratello minore è alto quanto te?
+ex: 他**是不是比**你大？ | Tā **shì bu shì bǐ** nǐ dà? | È più grande di te, vero?
+ex: 这两个手机，**哪个更**便宜？ | Zhè liǎng ge shǒujī, **nǎge gèng** piányi? | Di questi due cellulari, quale costa meno?
+ex: 你和小王，**谁**大？ | Nǐ hé Xiǎo Wáng, **shéi** dà? | Tra te e Xiao Wang, chi è il più grande d'età?

@@ -1,0 +1,235 @@
+## Uguaglianza e somiglianza
+
+### A 跟/和 B 一样 (+ Agg/V)
+
+Il comparativo di uguaglianza si costruisce con 跟 gēn o 和 hé seguiti da 一样 yíyàng «uguale, allo stesso modo». 一样 può stare da solo («A è uguale a B») oppure essere seguito da un aggettivo o da un verbo psicologico con il suo oggetto («A è Agg come B»). 跟 è più colloquiale, 和 neutro; nello scritto si usano anche 同 tóng e 与 yǔ.
+
+= A + 跟/和 + B + 一样
+= A + 跟/和 + B + 一样 + Agg
+= A + 跟/和 + B + 一样 + V + O
+
+ex: 我的手机**跟**你的**一样**。 | Wǒ de shǒujī **gēn** nǐ de **yíyàng**. | Il mio cellulare è uguale al tuo.
+ex: 他**和**他哥哥**一样**高。 | Tā **hé** tā gēge **yíyàng** gāo. | È alto come suo fratello maggiore.
+ex: 今天**跟**昨天**一样**热。 | Jīntiān **gēn** zuótiān **yíyàng** rè. | Oggi fa caldo come ieri.
+ex: 我**跟**你**一样**喜欢看电影。 | Wǒ **gēn** nǐ **yíyàng** xǐhuan kàn diànyǐng. | Mi piace il cinema quanto a te.
+ex: 她说汉语说得**跟**中国人**一样**好。 | Tā shuō Hànyǔ shuō de **gēn** Zhōngguórén **yíyàng** hǎo. | Parla cinese bene come un cinese.
+ex: 这两个字的发音**一样**。 | Zhè liǎng ge zì de fāyīn **yíyàng**. | Questi due caratteri hanno la stessa pronuncia.
+
+Davanti a 一样 si possono usare avverbi come 完全 «del tutto», 几乎 «quasi», 不太 «non molto» e, con un soggetto plurale, 都 «tutti».
+
+ex: 他们俩的想法**完全一样**。 | Tāmen liǎ de xiǎngfǎ **wánquán yíyàng**. | Loro due la pensano esattamente allo stesso modo.
+ex: 这三件衣服的颜色**都一样**。 | Zhè sān jiàn yīfu de yánsè **dōu yíyàng**. | Questi tre vestiti sono tutti dello stesso colore.
+
+### A 跟 B 不一样
+
+La negazione si ottiene mettendo 不 davanti a 一样, non davanti a 跟.
+
+= A + 跟/和 + B + 不一样
+
+ex: 我的想法**跟**你**不一样**。 | Wǒ de xiǎngfǎ **gēn** nǐ **bù yíyàng**. | La mia idea è diversa dalla tua.
+ex: 南方人的习惯**跟**北方人**不太一样**。 | Nánfāngrén de xíguàn **gēn** běifāngrén **bú tài yíyàng**. | Le abitudini della gente del sud sono un po' diverse da quelle della gente del nord.
+ex: 这两个词的意思**不一样**。 | Zhè liǎng ge cí de yìsi **bù yíyàng**. | Queste due parole hanno significati diversi.
+ex: 你说的**跟**他说的**不一样**。 | Nǐ shuō de **gēn** tā shuō de **bù yíyàng**. | Quello che dici tu è diverso da quello che dice lui.
+no: 我的想法不跟你一样。 | Wǒ de xiǎngfǎ bù gēn nǐ yíyàng. | Errato: per negare l'uguaglianza 不 si mette davanti a 一样.
+ex: 我的想法跟你不一样。 | Wǒ de xiǎngfǎ gēn nǐ bù yíyàng. | La mia idea è diversa dalla tua.
+
+La domanda si fa con 吗 o con 一样不一样.
+
+ex: 你的电脑**跟**我的**一样不一样**？ | Nǐ de diànnǎo **gēn** wǒ de **yíyàng bu yíyàng**? | Il tuo computer è uguale al mio?
+
+### A 跟 B 差不多
+
+差不多 chàbuduō «più o meno uguale, quasi» indica una somiglianza approssimativa. Può fungere da predicato oppure precedere un aggettivo o un'espressione di quantità.
+
+= A + 跟/和 + B + 差不多
+= A + 跟/和 + B + 差不多 + (一样) + Agg
+
+ex: 他的个子**跟**我**差不多**。 | Tā de gèzi **gēn** wǒ **chàbuduō**. | Di statura siamo più o meno uguali.
+ex: 这两个城市**差不多**大。 | Zhè liǎng ge chéngshì **chàbuduō** dà. | Queste due città hanno più o meno le stesse dimensioni.
+ex: 我们俩的成绩**差不多**。 | Wǒmen liǎ de chéngjì **chàbuduō**. | Noi due abbiamo voti simili.
+ex: 他**跟**他爸爸**差不多一样**高了。 | Tā **gēn** tā bàba **chàbuduō yíyàng** gāo le. | Ormai è alto quasi quanto suo padre.
+
+### A 像 B (这么/那么) + Agg
+
+像 xiàng «somigliare a, essere come» si usa da solo («A somiglia a B») o seguito da 这么/那么 + Agg («A è Agg come B»). La forma con 像……一样 crea spesso una similitudine («bello come un dipinto»). La costruzione con 这么/那么 si usa soprattutto nelle domande e al negativo (不像), meno nelle frasi affermative.
+
+= A + 像 + B
+= A + 像 + B + 这么/那么 + Agg/V
+= A + (V得) + 像 + B + 一样 + Agg
+
+ex: 她很**像**她妈妈。 | Tā hěn **xiàng** tā māma. | Somiglia molto a sua madre.
+ex: 我**不像**你**那么**喜欢喝咖啡。 | Wǒ **bú xiàng** nǐ **nàme** xǐhuan hē kāfēi. | A me il caffè non piace quanto a te.
+ex: 他**不像**他哥哥**那么**聪明。 | Tā **bú xiàng** tā gēge **nàme** cōngming. | Non è intelligente come suo fratello maggiore.
+ex: 今天热得**像**夏天**一样**。 | Jīntiān rè de **xiàng** xiàtiān **yíyàng**. | Oggi fa caldo come d'estate.
+ex: 这里的风景美得**像**画儿**一样**。 | Zhèli de fēngjǐng měi de **xiàng** huàr **yíyàng**. | Il paesaggio qui è bello come un dipinto.
+
+! Non confondere 像 «essere come» con 好像 «sembrare, avere l'aria di» (他好像病了 «sembra malato»): vedi il capitolo «Gli avverbi».
+
+### A 有 B (这么/那么) + Agg
+
+In questa costruzione 有 non significa «avere», ma «raggiungere (il livello di)»: A arriva ad avere la stessa qualità di B. La forma affermativa compare soprattutto con 了, per indicare un livello raggiunto; la costruzione è frequente anche nelle domande, comprese quelle retoriche. La negazione 没有 è la normale negazione del comparativo (vedi sopra).
+
+= A + 有 + B + (这么/那么) + Agg (+ 了)
+
+ex: 他**有**他爸爸**那么**高了。 | Tā **yǒu** tā bàba **nàme** gāo le. | Ormai è alto quanto suo padre.
+ex: 这个西瓜**有**篮球**那么**大。 | Zhège xīguā **yǒu** lánqiú **nàme** dà. | Questa anguria è grande come un pallone da basket.
+ex: 你**有**他**那么**努力吗？ | Nǐ **yǒu** tā **nàme** nǔlì ma? | Ti impegni quanto lui?
+ex: 我的汉语哪儿**有**你说的**那么**好！ | Wǒ de Hànyǔ nǎr **yǒu** nǐ shuō de **nàme** hǎo! | Il mio cinese non è affatto così buono come dici!
+
+! Con una misura precisa, 有 + Num + CL + Agg indica una dimensione: 他有一米八高 «è alto un metro e ottanta», 这条河有二十米宽 «questo fiume è largo venti metri».
+
+### 跟……相同, 相似, 相比
+
+Nella lingua scritta e formale, al posto di 一样 si usano 相同 xiāngtóng «identico», 相似 xiāngsì «simile» e 不同 bùtóng «diverso». A differenza di 一样, queste parole non possono essere seguite da un aggettivo.
+
+= A + 跟/与 + B + 相同 / 相似 / 不同
+
+ex: 我的看法**跟**你**相同**。 | Wǒ de kànfǎ **gēn** nǐ **xiāngtóng**. | La mia opinione coincide con la tua.
+ex: 这两种病的症状很**相似**。 | Zhè liǎng zhǒng bìng de zhèngzhuàng hěn **xiāngsì**. | I sintomi di queste due malattie sono molto simili.
+ex: 中国文化**与**西方文化有很多**不同**。 | Zhōngguó wénhuà **yǔ** Xīfāng wénhuà yǒu hěn duō **bùtóng**. | La cultura cinese e quella occidentale presentano molte differenze.
+no: 他跟我相同高。 | Tā gēn wǒ xiāngtóng gāo. | Errato: 相同 non può essere seguito da un aggettivo.
+ex: 他跟我一样高。 | Tā gēn wǒ yíyàng gāo. | È alto come me.
+
+Per introdurre il termine di riferimento all'inizio della frase («rispetto a…, in confronto a…») si usano 跟/和/与……相比 (più formale), 跟……比 e 比起……来 (più colloquiali). La frase che segue contiene spesso 更, 比较 o un'espressione di quantità.
+
+= 跟/与 + B + 相比，A + Agg
+= 比起 + B + 来，A + (更) + Agg
+
+ex: **跟**去年**相比**，今年的游客多了很多。 | **Gēn** qùnián **xiāngbǐ**, jīnnián de yóukè duō le hěn duō. | Rispetto all'anno scorso, quest'anno i turisti sono aumentati molto.
+ex: **与**大城市**相比**，小城市的生活节奏慢一些。 | **Yǔ** dà chéngshì **xiāngbǐ**, xiǎo chéngshì de shēnghuó jiézòu màn yìxiē. | Rispetto alle grandi città, nelle città piccole il ritmo di vita è un po' più lento.
+ex: **比起**北京**来**，上海的夏天更潮湿。 | **Bǐqǐ** Běijīng **lai**, Shànghǎi de xiàtiān gèng cháoshī. | Rispetto a Pechino, a Shanghai l'estate è più umida.
+
+### 一样的 + N
+
+一样 seguito da 的 funge da attributo: «lo stesso…, uguale». In registro più formale si usa 同样的 tóngyàng de; anche 相同的 è comune nello scritto.
+
+= (跟 + B +) 一样的 + N
+
+ex: 我们俩穿着**一样的**衣服。 | Wǒmen liǎ chuān zhe **yíyàng de** yīfu. | Noi due indossiamo vestiti uguali.
+ex: 我想买一个跟你**一样的**书包。 | Wǒ xiǎng mǎi yí ge gēn nǐ **yíyàng de** shūbāo. | Vorrei comprare uno zaino uguale al tuo.
+ex: 他和我有**一样的**爱好。 | Tā hé wǒ yǒu **yíyàng de** àihào. | Lui e io abbiamo gli stessi hobby.
+ex: 我们犯了**同样的**错误。 | Wǒmen fàn le **tóngyàng de** cuòwù. | Abbiamo commesso lo stesso errore.
+
+## Il superlativo
+
+### 最 + Agg/V
+
+Il superlativo relativo («il più…») si forma con l'avverbio 最 zuì davanti all'aggettivo o al verbo. L'ambito del confronto («nella classe», «di tutti») si colloca all'inizio della frase o prima di 最, spesso con 在……里/中 o 所有……中.
+
+= S + 最 + Agg
+= S + 最 + V + O
+= 在 + ambito + 里/中，S + 最 + Agg/V
+
+ex: 这个**最**便宜。 | Zhège **zuì** piányi. | Questo è il più economico.
+ex: 在我们班，小王**最**高。 | Zài wǒmen bān, Xiǎo Wáng **zuì** gāo. | Nella nostra classe Xiao Wang è il più alto.
+ex: 我**最**喜欢吃饺子。 | Wǒ **zuì** xǐhuan chī jiǎozi. | I ravioli sono il mio piatto preferito.
+ex: 在所有的季节里，我**最**喜欢秋天。 | Zài suǒyǒu de jìjié li, wǒ **zuì** xǐhuan qiūtiān. | Tra tutte le stagioni, preferisco l'autunno.
+ex: 他**最**会讲故事。 | Tā **zuì** huì jiǎng gùshi. | È il più bravo a raccontare storie.
+ex: 他坐在**最后**一排。 | Tā zuò zài **zuìhòu** yì pái. | Si siede nell'ultima fila. (最 + parola di luogo: 最前面, 最后, 最上边)
+
+! 最 indica il superlativo *relativo*. Il superlativo assoluto italiano in -issimo (bellissimo, buonissimo) si rende con avverbi di grado come 非常, 特别 o con il complemento 极了: 这个电影好看极了 «questo film è bellissimo» (vedi il capitolo «Il complemento di grado»). Davanti a 最 non si usa 很.
+
+### 最……的 + N
+
+Davanti a un nome si usa 最 + Agg + 的. L'ambito del confronto precede l'intero sintagma: l'ordine è opposto a quello italiano («il fiume più lungo della Cina» = 中国最长的河).
+
+= 最 + Agg + 的 + N
+= S + 是 + (ambito) + 最 + Agg + 的 (+ N)
+
+ex: 长江是中国**最**长**的**河。 | Chángjiāng shì Zhōngguó **zuì** cháng **de** hé. | Il Fiume Azzurro è il fiume più lungo della Cina.
+ex: 她是我**最**好**的**朋友。 | Tā shì wǒ **zuì** hǎo **de** péngyou. | È la mia migliore amica.
+ex: 他是我们公司**最**年轻**的**经理。 | Tā shì wǒmen gōngsī **zuì** niánqīng **de** jīnglǐ. | È il manager più giovane della nostra azienda.
+ex: 这是我吃过的**最**好吃**的**饺子。 | Zhè shì wǒ chī guo de **zuì** hǎochī **de** jiǎozi. | Sono i ravioli più buoni che abbia mai mangiato.
+ex: 昨天是今年**最**热**的**一天。 | Zuótiān shì jīnnián **zuì** rè **de** yì tiān. | Ieri è stato il giorno più caldo dell'anno.
+no: 他是最高的学生在我们班。 | Tā shì zuì gāo de xuésheng zài wǒmen bān. | Errato: l'ambito del confronto non va alla fine.
+ex: 他是我们班最高的学生。 | Tā shì wǒmen bān zuì gāo de xuésheng. | È lo studente più alto della nostra classe.
+
+### 比 + 谁/哪个/什么 + 都
+
+Un modo molto frequente ed espressivo di indicare il superlativo è confrontare A con «chiunque» o «qualsiasi cosa»: 比 + pronome interrogativo + 都 + Agg (vedi anche il capitolo «L'enfasi»). Nello scritto si usa anche 任何 + N.
+
+= A + 比 + 谁/哪个/什么/哪 + CL + 都 + Agg/V
+= A + 比 + 任何 + N + 都 + Agg/V
+
+ex: 他**比谁都**高。 | Tā **bǐ shéi dōu** gāo. | È più alto di tutti.
+ex: 健康**比什么都**重要。 | Jiànkāng **bǐ shénme dōu** zhòngyào. | La salute è più importante di qualsiasi cosa.
+ex: 这家店的东西**比哪家都**便宜。 | Zhè jiā diàn de dōngxi **bǐ nǎ jiā dōu** piányi. | In questo negozio la roba costa meno che in qualsiasi altro.
+ex: 今年夏天**比哪年都**热。 | Jīnnián xiàtiān **bǐ nǎ nián dōu** rè. | Quest'estate è più calda di qualunque altra.
+ex: 她**比任何人都**了解我。 | Tā **bǐ rènhé rén dōu** liǎojiě wǒ. | Mi capisce meglio di chiunque altro.
+
+### 没有比……更……的
+
+Anche la negazione esistenziale «non c'è nulla / nessuno più… di B» equivale a un superlativo. Spesso la frase termina con 了.
+
+= 没有 + (N) + 比 + B + 更 + Agg + 的 (+ N) (+ 了)
+
+ex: **没有比**这**更**好**的**办法了。 | **Méiyǒu bǐ** zhè **gèng** hǎo **de** bànfǎ le. | Non c'è soluzione migliore di questa.
+ex: **没有什么比**健康**更**重要**的**了。 | **Méiyǒu shénme bǐ** jiànkāng **gèng** zhòngyào **de** le. | Non c'è niente di più importante della salute.
+ex: 世界上**没有比**妈妈**更**爱你**的**人。 | Shìjiè shang **méiyǒu bǐ** māma **gèng** ài nǐ **de** rén. | Al mondo non c'è nessuno che ti ami più della mamma.
+ex: 我们班**没有人比**他**更**努力。 | Wǒmen bān **méiyǒu rén bǐ** tā **gèng** nǔlì. | Nella nostra classe nessuno si impegna più di lui.
+
+### ……之一
+
+«Uno dei… più…» si rende con 最 + Agg + 的 + N + 之一 zhī yī «uno di». Non si usa il classificatore 一个.
+
+= 最 + Agg + 的 + N + 之一
+
+ex: 北京是世界上**最**大**的**城市**之一**。 | Běijīng shì shìjiè shang **zuì** dà **de** chéngshì **zhī yī**. | Pechino è una delle città più grandi del mondo.
+ex: 这是我**最**喜欢**的**电影**之一**。 | Zhè shì wǒ **zuì** xǐhuan **de** diànyǐng **zhī yī**. | È uno dei miei film preferiti.
+ex: 鲁迅是中国**最**有名**的**作家**之一**。 | Lǔ Xùn shì Zhōngguó **zuì** yǒumíng **de** zuòjiā **zhī yī**. | Lu Xun è uno degli scrittori cinesi più famosi.
+ex: 环境污染是现在**最**严重**的**问题**之一**。 | Huánjìng wūrǎn shì xiànzài **zuì** yánzhòng **de** wèntí **zhī yī**. | L'inquinamento è uno dei problemi più gravi di oggi.
+no: 北京是一个世界上最大的城市。 | Běijīng shì yí ge shìjiè shang zuì dà de chéngshì. | Errato: «uno dei…» non si rende con 一个, ma con ……之一.
+ex: 北京是世界上最大的城市之一。 | Běijīng shì shìjiè shang zuì dà de chéngshì zhī yī. | Pechino è una delle città più grandi del mondo.
+
+## La comparazione progressiva
+
+### 越来越 + Agg/V
+
+越来越 yuè lái yuè «sempre più» indica che una qualità o uno stato aumenta con il passare del tempo. È seguito da un aggettivo o da un verbo psicologico, spesso con 了 finale; non ammette avverbi di grado come 很 o 非常. Con 不 si ottiene «sempre meno».
+
+= S + 越来越 + Agg/V (+ 了)
+= S + 越来越 + 不 + Agg/V (+ 了)
+
+ex: 天气**越来越**冷了。 | Tiānqì **yuè lái yuè** lěng le. | Fa sempre più freddo.
+ex: 他的汉语**越来越**好。 | Tā de Hànyǔ **yuè lái yuè** hǎo. | Il suo cinese migliora sempre di più.
+ex: 我**越来越**喜欢这个城市了。 | Wǒ **yuè lái yuè** xǐhuan zhège chéngshì le. | Questa città mi piace sempre di più.
+ex: 来中国旅游的外国人**越来越**多。 | Lái Zhōngguó lǚyóu de wàiguórén **yuè lái yuè** duō. | Gli stranieri che vengono in Cina per turismo sono sempre più numerosi.
+ex: 他**越来越**不爱说话了。 | Tā **yuè lái yuè** bú ài shuō huà le. | Ha sempre meno voglia di parlare.
+no: 天气越来越很冷。 | Tiānqì yuè lái yuè hěn lěng. | Errato: dopo 越来越 non si usa 很.
+ex: 天气越来越冷了。 | Tiānqì yuè lái yuè lěng le. | Fa sempre più freddo.
+
+### 越……越……
+
+越 A 越 B «più A, più B» indica che B cresce in proporzione ad A. Se il soggetto è unico, si mette prima del primo 越; se i soggetti sono due, ciascun 越 segue il proprio soggetto. Nella seconda parte si può aggiungere 就. Per le correlative in generale vedi il capitolo «Frasi finali, temporali e altre strutture correlative».
+
+= S + 越 + V₁ + 越 + Agg/V₂
+= S₁ + 越 + V₁/Agg₁，S₂ + (就) + 越 + Agg₂/V₂
+
+ex: 汉语**越**学**越**有意思。 | Hànyǔ **yuè** xué **yuè** yǒu yìsi. | Più si studia il cinese, più diventa interessante.
+ex: 雨**越**下**越**大。 | Yǔ **yuè** xià **yuè** dà. | Piove sempre più forte. (lett. la pioggia più cade più è grande)
+ex: 他**越**说**越**激动。 | Tā **yuè** shuō **yuè** jīdòng. | Più parlava, più si agitava.
+ex: 你**越**着急，就**越**容易出错。 | Nǐ **yuè** zháojí, jiù **yuè** róngyì chū cuò. | Più ti agiti, più è facile sbagliare.
+ex: 天气**越**热，买冰激凌的人**越**多。 | Tiānqì **yuè** rè, mǎi bīngjīlíng de rén **yuè** duō. | Più fa caldo, più gente compra il gelato.
+ex: **越**快**越**好。 | **Yuè** kuài **yuè** hǎo. | Prima è, meglio è.
+
+### 一天比一天, 一年比一年, 一个比一个
+
+La ripetizione «一 + CL + 比 + 一 + CL» davanti all'aggettivo ha due valori. Con unità di tempo (天, 年, 次 …) indica un cambiamento progressivo: «di giorno in giorno, di anno in anno». Con classificatori di individui (个, 部, 件 …) indica che tutti i membri di un gruppo possiedono la qualità in alto grado: «uno più… dell'altro».
+
+= 一 + CL + 比 + 一 + CL + Agg
+
+ex: 天气**一天比一天**暖和。 | Tiānqì **yì tiān bǐ yì tiān** nuǎnhuo. | Il tempo diventa di giorno in giorno più mite.
+ex: 物价**一年比一年**高。 | Wùjià **yì nián bǐ yì nián** gāo. | I prezzi aumentano di anno in anno.
+ex: 他的成绩**一次比一次**好。 | Tā de chéngjì **yí cì bǐ yí cì** hǎo. | I suoi risultati migliorano di volta in volta.
+ex: 这些孩子**一个比一个**聪明。 | Zhèxiē háizi **yí ge bǐ yí ge** cōngming. | Questi bambini sono uno più intelligente dell'altro.
+ex: 他的电影**一部比一部**精彩。 | Tā de diànyǐng **yí bù bǐ yí bù** jīngcǎi. | I suoi film sono uno più bello dell'altro.
+
+### 更加, 愈, 日益
+
+Nel registro scritto e formale troviamo: 更加 gèngjiā «ancora più», di solito seguito da parole bisillabe; 愈来愈 yù lái yù e 愈……愈…… yù… yù…, varianti scritte di 越来越 e 越……越……; 日益 rìyì «di giorno in giorno, sempre più».
+
+ex: 经过这件事，我们的关系**更加**密切了。 | Jīngguò zhè jiàn shì, wǒmen de guānxi **gèngjiā** mìqiè le. | Dopo questa vicenda i nostri rapporti sono diventati ancora più stretti.
+ex: 你应该**更加**注意身体。 | Nǐ yīnggāi **gèngjiā** zhùyì shēntǐ. | Dovresti badare ancora di più alla tua salute.
+ex: 问题**愈来愈**复杂。 | Wèntí **yù lái yù** fùzá. | Il problema si fa sempre più complesso.
+ex: 山路**愈**走**愈**陡。 | Shānlù **yù** zǒu **yù** dǒu. | Più si sale, più il sentiero si fa ripido.
+ex: 环境问题**日益**严重。 | Huánjìng wèntí **rìyì** yánzhòng. | I problemi ambientali si aggravano di giorno in giorno.

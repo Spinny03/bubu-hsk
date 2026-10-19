@@ -1,0 +1,208 @@
+## Quando il 把 è obbligatorio
+
+Quando il verbo è seguito da 在, 到, 给, 成 o 作/做 con il relativo complemento (luogo, destinazione, destinatario, risultato di una trasformazione), l'oggetto non può più stare dopo il verbo: in cinese, dopo questi elementi non c'è posto per un altro oggetto. In questi casi il 把 è obbligatorio (oppure l'oggetto va messo in posizione di tema all'inizio della frase).
+
+= S + 把 + O + V + 在 + Luogo
+= S + 把 + O + V + 到 + Luogo
+= S + 把 + O + V + 给 + persona
+= S + 把 + O + V + 成 + N
+= S + 把 + O + 当作/看作/叫做 + N
+
+### V + 在 / 到 + luogo
+
+ex: 我**把**书放**在**桌子上了。 | Wǒ **bǎ** shū fàng **zài** zhuōzi shang le. | Ho messo il libro sul tavolo.
+ex: 他**把**钱存**在**银行里。 | Tā **bǎ** qián cún **zài** yínháng li. | Deposita i suoi soldi in banca.
+ex: 他**把**车开**到**学校门口了。 | Tā **bǎ** chē kāi **dào** xuéxiào ménkǒu le. | Ha portato la macchina fino all'ingresso della scuola.
+ex: 请**把**垃圾扔**到**垃圾桶里。 | Qǐng **bǎ** lājī rēng **dào** lājītǒng li. | Per favore, butta la spazzatura nel bidone.
+ex: 我们**把**会议推迟**到**下个星期吧。 | Wǒmen **bǎ** huìyì tuīchí **dào** xià ge xīngqī ba. | Rinviamo la riunione alla settimana prossima.
+
+### V + 给 + persona
+
+ex: 请**把**这封信交**给**他。 | Qǐng **bǎ** zhè fēng xìn jiāo **gěi** tā. | Per favore, consegna questa lettera a lui.
+ex: 我**把**旧电脑送**给**弟弟了。 | Wǒ **bǎ** jiù diànnǎo sòng **gěi** dìdi le. | Ho regalato il vecchio computer a mio fratello minore.
+ex: 你**把**那张照片发**给**我吧。 | Nǐ **bǎ** nà zhāng zhàopiàn fā **gěi** wǒ ba. | Mandami quella foto.
+
+! Con V + 给 esiste anche la costruzione a doppio oggetto V给 + persona + cosa, ma solo se la cosa è un'informazione nuova, indeterminata: 他送给我一本书 «mi ha regalato un libro». Se l'oggetto è determinato si usa il 把: 他把这本书送给我了.
+
+### V + 成 + N; 当作, 看作, 叫做
+
+成 chéng indica una trasformazione: «tradurre in», «trasformare in», «scambiare per». 当作 dàngzuò e 看作 kànzuò significano «considerare come»; 叫做 jiàozuò «chiamare (con un nome)». Nel parlato si usano anche 当 e 叫 da soli.
+
+ex: 请**把**这句话翻译**成**中文。 | Qǐng **bǎ** zhè jù huà fānyì **chéng** Zhōngwén. | Per favore, traduci questa frase in cinese.
+ex: 别**把**“己”写**成**“已”。 | Bié **bǎ** "jǐ" xiě **chéng** "yǐ". | Non scrivere 己 come 已.
+ex: 他**把**我**当作**好朋友。 | Tā **bǎ** wǒ **dàngzuò** hǎo péngyou. | Mi considera un buon amico.
+ex: 很多人**把**他**看作**英雄。 | Hěn duō rén **bǎ** tā **kànzuò** yīngxióng. | Molti lo considerano un eroe.
+ex: 我们**把**这种花**叫做**“牡丹”。 | Wǒmen **bǎ** zhè zhǒng huā **jiàozuò** "mǔdan". | Questo fiore lo chiamiamo «peonia».
+ex: 他**把**一百块钱换**成**了零钱。 | Tā **bǎ** yìbǎi kuài qián huàn **chéng** le língqián. | Ha cambiato cento yuan in moneta spicciola.
+
+### Perché la frase SVO è impossibile
+
+no: 我放书在桌子上了。 | Wǒ fàng shū zài zhuōzi shang le. | Errato: l'oggetto non può stare tra il verbo e 在.
+no: 我放在桌子上书了。 | Wǒ fàng zài zhuōzi shang shū le. | Errato: dopo 在 + luogo non può seguire l'oggetto.
+ex: 我把书放在桌子上了。 | Wǒ bǎ shū fàng zài zhuōzi shang le. | Ho messo il libro sul tavolo.
+no: 请翻译这句话成中文。 | Qǐng fānyì zhè jù huà chéng Zhōngwén. | Errato: con V + 成 si usa il 把.
+ex: 请把这句话翻译成中文。 | Qǐng bǎ zhè jù huà fānyì chéng Zhōngwén. | Per favore, traduci questa frase in cinese.
+no: 他当作我好朋友。 | Tā dàngzuò wǒ hǎo péngyou. | Errato: con 当作 si usa il 把.
+ex: 他把我当作好朋友。 | Tā bǎ wǒ dàngzuò hǎo péngyou. | Mi considera un buon amico.
+
+In alternativa al 把, l'oggetto noto può diventare il tema della frase: 书我放在桌子上了 «il libro, l'ho messo sul tavolo». Per la frase passiva vedi il capitolo «Il passivo».
+
+## Gli elementi dopo il verbo
+
+Ecco i principali elementi che possono seguire il verbo nella frase con 把. Per i complementi in generale vedi il capitolo «I complementi: panoramica».
+
+| Elemento dopo il verbo | Esempio |
+| complemento di risultato | 把房间打扫干净 |
+| complemento di direzione | 把书拿出来 |
+| complemento di grado | 把房间打扫得很干净 |
+| quantità (volte, durata) | 把这本书看了两遍 |
+| 了 | 把钱花了 |
+| raddoppiamento del verbo | 把桌子擦擦 |
+| 一下 | 把你的想法说一下 |
+| secondo oggetto | 把这件事告诉他 |
+| 在/到/给/成 + N | 把书放在桌子上 |
+| 着 (negli ordini) | 把伞带着 |
+
+### Complemento di risultato
+
+ex: 我**把**房间打扫**干净**了。 | Wǒ **bǎ** fángjiān dǎsǎo **gānjìng** le. | Ho pulito per bene la stanza.
+ex: 他**把**杯子打**破**了。 | Tā **bǎ** bēizi dǎ**pò** le. | Ha rotto il bicchiere.
+ex: 你**把**这个字写**错**了。 | Nǐ **bǎ** zhège zì xiě**cuò** le. | Hai sbagliato a scrivere questo carattere.
+ex: 请**把**你的名字写**清楚**。 | Qǐng **bǎ** nǐ de míngzi xiě **qīngchu**. | Per favore, scrivi il tuo nome in modo leggibile.
+ex: 我已经**把**行李准备**好**了。 | Wǒ yǐjīng **bǎ** xíngli zhǔnbèi **hǎo** le. | Ho già preparato i bagagli.
+
+### Complemento di direzione
+
+ex: 他**把**书拿**出来**了。 | Tā **bǎ** shū ná **chulai** le. | Ha tirato fuori il libro.
+ex: 我们**把**椅子搬**进去**吧。 | Wǒmen **bǎ** yǐzi bān **jinqu** ba. | Portiamo dentro le sedie.
+ex: 他**把**孩子抱**起来**了。 | Tā **bǎ** háizi bào **qilai** le. | Ha preso in braccio il bambino.
+ex: **把**你的手机拿**过来**。 | **Bǎ** nǐ de shǒujī ná **guolai**. | Porta qui il tuo cellulare.
+ex: 我**把**那本书还**回去**了。 | Wǒ **bǎ** nà běn shū huán **huiqu** le. | Quel libro l'ho restituito.
+
+### Complemento di grado
+
+ex: 她**把**房间打扫**得很干净**。 | Tā **bǎ** fángjiān dǎsǎo **de hěn gānjìng**. | Ha pulito la stanza molto bene.
+ex: 他**把**这些汉字写**得非常漂亮**。 | Tā **bǎ** zhèxiē Hànzì xiě **de fēicháng piàoliang**. | Ha scritto questi caratteri in modo bellissimo.
+ex: 你**把**我吓**得要死**。 | Nǐ **bǎ** wǒ xià **de yàosǐ**. | Mi hai fatto prendere un colpo.
+
+### Quantità
+
+ex: 我**把**这本书看了**两遍**。 | Wǒ **bǎ** zhè běn shū kàn le **liǎng biàn**. | Ho letto questo libro due volte.
+ex: 老师**把**这个句子念了**三遍**。 | Lǎoshī **bǎ** zhège jùzi niàn le **sān biàn**. | L'insegnante ha letto la frase ad alta voce tre volte.
+ex: 他**把**我批评了**一顿**。 | Tā **bǎ** wǒ pīpíng le **yí dùn**. | Mi ha fatto una bella ramanzina.
+
+### 了
+
+Con i verbi che indicano eliminazione o perdita (吃, 喝, 花, 卖, 扔, 忘, 丢, 辞, 关, 删 …) basta 了 dopo il verbo; negli ordini questo 了 significa «via, del tutto».
+
+ex: 我**把**钱花**了**。 | Wǒ **bǎ** qián huā **le**. | Ho speso i soldi.
+ex: 你**把**药吃**了**吗？ | Nǐ **bǎ** yào chī **le** ma? | Hai preso la medicina?
+ex: 他**把**工作辞**了**。 | Tā **bǎ** gōngzuò cí **le**. | Si è licenziato.
+ex: **把**这杯牛奶喝**了**！ | **Bǎ** zhè bēi niúnǎi hē **le**! | Bevi questo latte!
+ex: 我不小心**把**那张照片删**了**。 | Wǒ bù xiǎoxīn **bǎ** nà zhāng zhàopiàn shān **le**. | Ho cancellato quella foto per sbaglio.
+
+### Raddoppiamento del verbo e 一下
+
+Il raddoppiamento e 一下 attenuano l'azione («dare una…», «un attimo») e sono molto frequenti nelle richieste.
+
+ex: 你**把**桌子**擦擦**。 | Nǐ **bǎ** zhuōzi **cāca**. | Dai una pulita al tavolo.
+ex: **把**房间**收拾收拾**，客人快来了。 | **Bǎ** fángjiān **shōushi shōushi**, kèrén kuài lái le. | Metti un po' in ordine la stanza, gli ospiti stanno per arrivare.
+ex: 请**把**你的想法说**一下**。 | Qǐng **bǎ** nǐ de xiǎngfǎ shuō **yíxià**. | Per favore, esponi brevemente la tua idea.
+ex: 你**把**这个词再解释**一下**。 | Nǐ **bǎ** zhège cí zài jiěshì **yíxià**. | Spiega ancora un attimo questa parola.
+
+### Secondo oggetto
+
+Con i verbi a doppio oggetto (告诉, 给, 还, 教, 通知 …), il 把 introduce la cosa e la persona resta dopo il verbo.
+
+ex: 我**把**这件事告诉**他**了。 | Wǒ **bǎ** zhè jiàn shì gàosu **tā** le. | Gli ho raccontato questa faccenda.
+ex: 请**把**那本词典给**我**。 | Qǐng **bǎ** nà běn cídiǎn gěi **wǒ**. | Per favore, dammi quel dizionario.
+ex: 老师**把**考试的结果通知**大家**了。 | Lǎoshī **bǎ** kǎoshì de jiéguǒ tōngzhī **dàjiā** le. | L'insegnante ha comunicato a tutti i risultati dell'esame.
+
+### 一 + V
+
+La sequenza 把 + O + 一 + V descrive un gesto rapido e improvviso; è seguita da un'altra frase che ne indica la conseguenza. È tipica della narrazione.
+
+= S + 把 + O + 一 + V，……
+
+ex: 他**把**手**一挥**，大家都安静了。 | Tā **bǎ** shǒu **yì huī**, dàjiā dōu ānjìng le. | Con un gesto della mano fece tacere tutti.
+ex: 她**把**头**一扭**，走了。 | Tā **bǎ** tóu **yì niǔ**, zǒu le. | Girò la testa di scatto e se ne andò.
+ex: 他**把**门**一关**，就睡觉了。 | Tā **bǎ** mén **yì guān**, jiù shuì jiào le. | Chiuse la porta e si mise subito a dormire.
+
+### 着 negli ordini
+
+Negli ordini, V + 着 significa «tieni, porta con te».
+
+ex: 外面在下雨，**把**伞带**着**。 | Wàimiàn zài xià yǔ, **bǎ** sǎn dài **zhe**. | Fuori piove: porta l'ombrello.
+ex: **把**这些钱拿**着**。 | **Bǎ** zhèxiē qián ná **zhe**. | Tieni questi soldi.
+
+## Negazione, verbi modali e avverbi
+
+La negazione (没(有), 不, 别) e i verbi modali si collocano davanti a 把, non davanti al verbo. 没(有) nega un'azione compiuta, 不 si usa per la volontà, l'abitudine e nelle ipotetiche, 别 nei divieti.
+
+= S + 没(有)/不/别 + 把 + O + V + altri elementi
+= S + verbo modale + 把 + O + V + altri elementi
+
+ex: 我**没**把书带来。 | Wǒ **méi** bǎ shū dàilai. | Non ho portato il libro.
+ex: **别**把门关上。 | **Bié** bǎ mén guānshang. | Non chiudere la porta.
+ex: 他**不**把我当朋友。 | Tā **bù** bǎ wǒ dàng péngyou. | Non mi considera un amico.
+ex: 你**不**把话说清楚，我就**不**走。 | Nǐ **bù** bǎ huà shuō qīngchu, wǒ jiù **bù** zǒu. | Se non parli chiaro, non me ne vado.
+ex: 你**应该**把作业做完。 | Nǐ **yīnggāi** bǎ zuòyè zuòwán. | Dovresti finire i compiti.
+ex: 我**想**把这些照片发给妈妈。 | Wǒ **xiǎng** bǎ zhèxiē zhàopiàn fā gěi māma. | Vorrei mandare queste foto alla mamma.
+ex: 你**能**把空调打开吗？ | Nǐ **néng** bǎ kōngtiáo dǎkāi ma? | Puoi accendere l'aria condizionata?
+no: 我把书没带来。 | Wǒ bǎ shū méi dàilai. | Errato: la negazione va prima di 把.
+ex: 我没把书带来。 | Wǒ méi bǎ shū dàilai. | Non ho portato il libro.
+no: 你把作业应该做完。 | Nǐ bǎ zuòyè yīnggāi zuòwán. | Errato: il verbo modale va prima di 把.
+ex: 你应该把作业做完。 | Nǐ yīnggāi bǎ zuòyè zuòwán. | Dovresti finire i compiti.
+
+Anche gli avverbi di tempo, frequenza e modo (已经, 还, 又, 先, 马上, 一定, 也 …) di solito precedono 把.
+
+ex: 我**已经**把机票买好了。 | Wǒ **yǐjīng** bǎ jīpiào mǎihǎo le. | Ho già comprato i biglietti aerei.
+ex: 他**又**把钥匙忘在家里了。 | Tā **yòu** bǎ yàoshi wàng zài jiā li le. | Ha di nuovo dimenticato le chiavi a casa.
+ex: 我们**先**把行李放下吧。 | Wǒmen **xiān** bǎ xíngli fàngxia ba. | Prima posiamo i bagagli.
+ex: 你**还**没把钱还给我呢。 | Nǐ **hái** méi bǎ qián huán gěi wǒ ne. | Non mi hai ancora restituito i soldi.
+
+! La posizione di 都 e 全 dipende da ciò a cui si riferiscono: se riassumono il soggetto stanno prima di 把, se riassumono l'oggetto stanno dopo 把 + O.
+ex: 他们**都**把作业交了。 | Tāmen **dōu** bǎ zuòyè jiāo le. | Tutti loro hanno consegnato i compiti.
+ex: 我把这些书**都**看完了。 | Wǒ bǎ zhèxiē shū **dōu** kànwán le. | Ho finito di leggere tutti questi libri.
+
+Le domande si formano con 吗, con ……了没有 alla fine, con 有没有 davanti a 把 oppure con un pronome interrogativo.
+
+ex: 你把门锁好了**吗**？ | Nǐ bǎ mén suǒhǎo le **ma**? | Hai chiuso bene la porta a chiave?
+ex: 你把门锁好了**没有**？ | Nǐ bǎ mén suǒhǎo le **méiyǒu**? | Hai chiuso bene la porta a chiave o no?
+ex: 你**有没有**把这件事告诉他？ | Nǐ **yǒu méiyǒu** bǎ zhè jiàn shì gàosu tā? | Gliel'hai detta, questa cosa?
+ex: 你把我的手机放在**哪儿**了？ | Nǐ bǎ wǒ de shǒujī fàng zài **nǎr** le? | Dove hai messo il mio cellulare?
+ex: 你要把这辆车卖给**谁**？ | Nǐ yào bǎ zhè liàng chē mài gěi **shéi**? | A chi vuoi vendere questa macchina?
+
+## Altri usi
+
+### Il 把 causativo
+
+Quando il soggetto è un evento o una cosa e l'oggetto di 把 è una persona, la frase indica che la causa ha portato la persona in un certo stato fisico o emotivo. Il verbo o l'aggettivo è seguito da complementi come 死, 坏, 哭 o da un complemento di grado. Il significato è vicino a quello di 让/使 (vedi il capitolo «Le frasi causative e le frasi a perno»).
+
+= S (causa) + 把 + persona + V/Agg + complemento
+
+ex: 这件事**把**我急死了。 | Zhè jiàn shì **bǎ** wǒ jísǐ le. | Questa faccenda mi ha messo in un'ansia terribile.
+ex: 这几天的工作**把**他累坏了。 | Zhè jǐ tiān de gōngzuò **bǎ** tā lèihuài le. | Il lavoro di questi giorni lo ha sfinito.
+ex: 你的话**把**她气哭了。 | Nǐ de huà **bǎ** tā qìkū le. | Le tue parole l'hanno fatta piangere dalla rabbia.
+ex: 这个好消息**把**大家高兴坏了。 | Zhège hǎo xiāoxi **bǎ** dàjiā gāoxìng huài le. | Questa bella notizia ha reso tutti felicissimi.
+ex: 明天的考试**把**我紧张得一夜没睡好。 | Míngtiān de kǎoshì **bǎ** wǒ jǐnzhāng de yí yè méi shuìhǎo. | L'esame di domani mi ha agitato tanto che non ho dormito bene tutta la notte.
+
+### 将 nella lingua scritta
+
+Nello scritto formale (istruzioni, avvisi, giornali, documenti) al posto di 把 si usa 将 jiāng, con la stessa struttura.
+
+ex: 请**将**表格填好。 | Qǐng **jiāng** biǎogé tiánhǎo. | Si prega di compilare il modulo.
+ex: 请**将**手机调成静音。 | Qǐng **jiāng** shǒujī tiáo chéng jìngyīn. | Si prega di impostare il cellulare in modalità silenziosa.
+ex: 公司决定**将**会议推迟到下周。 | Gōngsī juédìng **jiāng** huìyì tuīchí dào xià zhōu. | L'azienda ha deciso di rinviare la riunione alla prossima settimana.
+ex: 他**将**自己的一生献给了教育事业。 | Tā **jiāng** zìjǐ de yìshēng xiàn gěi le jiàoyù shìyè. | Ha dedicato tutta la sua vita all'istruzione.
+
+! 将 seguito direttamente da un verbo indica invece il futuro (我们将举行会议 «terremo una riunione»): vedi il capitolo «Il futuro e le azioni imminenti».
+
+### Il 把 negli ordini
+
+Il 把 è frequentissimo negli ordini e nelle istruzioni, dove si dice all'interlocutore che cosa fare di un oggetto preciso (vedi il capitolo «Le frasi imperative ed esclamative»).
+
+ex: **把**门打开！ | **Bǎ** mén dǎkāi! | Apri la porta!
+ex: **把**手机关了！ | **Bǎ** shǒujī guān le! | Spegni il cellulare!
+ex: 快**把**衣服穿上，别感冒了。 | Kuài **bǎ** yīfu chuānshang, bié gǎnmào le. | Su, vestiti, che non ti venga il raffreddore.
+ex: 请大家**把**书打开，翻到第十页。 | Qǐng dàjiā **bǎ** shū dǎkāi, fān dào dì-shí yè. | Aprite il libro, per favore, e andate a pagina dieci.

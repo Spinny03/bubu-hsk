@@ -1,0 +1,209 @@
+@ Verbi, aggettivi, avverbi e preposizioni
+
+# Il verbo
+
+Il verbo (动词 dòngcí) è il cuore della frase cinese. Per chi parla italiano, abituato a coniugazioni ricchissime, la prima sorpresa è che il verbo cinese non cambia mai forma: le informazioni che in italiano sono affidate alle desinenze (persona, numero, tempo, modo) in cinese vengono espresse con altri mezzi, oppure lasciate al contesto.
+
+## Caratteristiche del verbo cinese
+
+### Una forma invariabile
+
+Il verbo cinese non si coniuga: ha un'unica forma, identica qualunque sia il soggetto (io, tu, lui, noi…), il tempo (presente, passato, futuro) o il modo (indicativo, congiuntivo, imperativo, condizionale). Non esistono nemmeno infinito, participio o gerundio come forme distinte: 去 qù vale «andare», «vado», «andavamo», «andrai», «vada», «andando»…
+
+= S + V (forma unica per tutte le persone, i tempi e i modi)
+
+ex: 我**去**。 | Wǒ **qù**. | Io vado.
+ex: 他们也**去**。 | Tāmen yě **qù**. | Anche loro vanno.
+ex: 小王昨天**去**了。 | Xiǎo Wáng zuótiān **qù** le. | Xiao Wang ci è andato ieri.
+ex: 我们明天**去**。 | Wǒmen míngtiān **qù**. | Ci andiamo domani.
+ex: 你**去**吧！ | Nǐ **qù** ba! | Vai tu! / Vai pure!
+ex: 要是你**去**，我也**去**。 | Yàoshi nǐ **qù**, wǒ yě **qù**. | Se ci vai tu, ci vado anch'io.
+
+Le informazioni che l'italiano affida alle desinenze sono espresse in cinese con mezzi lessicali o grammaticali indipendenti dal verbo:
+- espressioni di tempo come 昨天 zuótiān «ieri», 现在 xiànzài «ora», 明年 míngnián «l'anno prossimo» (vedi il capitolo «Le espressioni di tempo»);
+- avverbi come 已经 yǐjīng «già», 正在 zhèngzài «stare facendo», 马上 mǎshàng «subito»;
+- le particelle aspettuali 了 le, 着 zhe, 过 guo (vedi il capitolo «Tempo e aspetto»);
+- verbi modali come 会 huì e 要 yào (vedi il capitolo «I verbi modali»);
+- il contesto, che spesso basta da solo.
+
+ex: 我**现在**在北京工作。 | Wǒ **xiànzài** zài Běijīng gōngzuò. | Ora lavoro a Pechino.
+ex: 我**以前**在北京工作。 | Wǒ **yǐqián** zài Běijīng gōngzuò. | Prima lavoravo a Pechino.
+ex: 我**明年**在北京工作。 | Wǒ **míngnián** zài Běijīng gōngzuò. | L'anno prossimo lavorerò a Pechino.
+
+! Poiché il verbo non porta alcuna indicazione di tempo, il cinese non conosce la «concordanza dei tempi» dell'italiano: nel discorso indiretto il verbo resta invariato. 他说他很忙。«Ha detto che era molto occupato.» (lett. lui dire lui molto occupato)
+
+### Le principali categorie di verbi
+
+In base al significato e al comportamento grammaticale si distinguono alcune grandi categorie. La distinzione è utile perché categorie diverse si combinano in modo diverso con le particelle aspettuali, con gli avverbi di grado e con la reduplicazione.
+
+| Categoria | Esempi | Comportamento tipico |
+| Verbi d'azione (动作动词 dòngzuò dòngcí) | 吃, 走, 写, 买, 学 | 了, 着, 过; reduplicazione |
+| Verbi di stato (状态动词 zhuàngtài dòngcí) | 是, 在, 像, 姓, 叫 | di solito senza 了, 着, 过 |
+| Verbi psicologici (心理动词 xīnlǐ dòngcí) | 喜欢, 爱, 怕, 想, 希望 | ammettono 很, 非常 |
+| Verbi di direzione (趋向动词 qūxiàng dòngcí) | 来, 去, 上, 下, 进, 出, 回 | anche come complementi |
+| Verbi modali (能愿动词 néngyuàn dòngcí) | 会, 能, 要, 想, 应该 | precedono un altro verbo |
+| Verbi causativi (使令动词 shǐlìng dòngcí) | 让, 叫, 使, 请 | reggono una frase a perno |
+
+Due verbi hanno un comportamento così particolare da meritare capitoli propri: 是 shì «essere» (vedi il capitolo «La frase semplice e il verbo 是») e 有 yǒu «avere, esserci» (vedi il capitolo «Le frasi con 有 e le frasi esistenziali»). I verbi di direzione sono ripresi nel capitolo «Il complemento di direzione», i causativi nel capitolo «Le frasi causative e le frasi a perno».
+
+### Verbi transitivi e intransitivi
+
+Anche il cinese distingue verbi transitivi (及物动词 jíwù dòngcí), che reggono un oggetto diretto, e verbi intransitivi (不及物动词 bùjíwù dòngcí). Le due lingue però non coincidono: molti verbi transitivi in italiano («incontrare qualcuno», «sposare qualcuno») sono intransitivi in cinese e introducono la persona con una preposizione; al contrario, il cinese tratta spesso come oggetto diretto ciò che in italiano è un complemento di luogo o di mezzo.
+
+ex: 我明天**跟他见面**。 | Wǒ míngtiān **gēn tā jiànmiàn**. | Domani lo incontro. (lett. domani con lui incontrarsi)
+ex: 她**跟**一个意大利人**结婚**了。 | Tā **gēn** yí ge Yìdàlìrén **jiéhūn** le. | Ha sposato un italiano.
+ex: 你应该**向她道歉**。 | Nǐ yīnggāi **xiàng tā dàoqiàn**. | Dovresti chiederle scusa.
+ex: 我们**去北京**。 | Wǒmen **qù Běijīng**. | Andiamo a Pechino. (lett. andare Pechino)
+ex: 我每天**坐地铁**上班。 | Wǒ měi tiān **zuò dìtiě** shàngbān. | Ogni giorno vado al lavoro in metropolitana. (lett. sedere metropolitana)
+ex: 今天中午我们**吃食堂**吧。 | Jīntiān zhōngwǔ wǒmen **chī shítáng** ba. | Oggi a pranzo mangiamo in mensa. (colloquiale)
+
+### Verbi che non prendono le particelle aspettuali
+
+I verbi che esprimono uno stato permanente, una relazione o un atteggiamento mentale normalmente non si combinano con le particelle aspettuali 了, 着, 过 e non si reduplicano. Tra i più comuni: 是 shì «essere», 在 zài «trovarsi», 像 xiàng «assomigliare», 姓 xìng «avere come cognome», 叫 jiào «chiamarsi», 属于 shǔyú «appartenere», 等于 děngyú «equivalere», 认为 rènwéi «ritenere», 以为 yǐwéi «credere (a torto)», 希望 xīwàng «sperare», 觉得 juéde «trovare, pensare», 值得 zhídé «valere la pena».
+
+no: 我觉得了他很好。 | Wǒ juéde le tā hěn hǎo. | Errato: 觉得 non prende 了.
+ex: 我**觉得**他很好。 | Wǒ **juéde** tā hěn hǎo. | Trovo che sia una brava persona.
+no: 他像着他爸爸。 | Tā xiàng zhe tā bàba. | Errato: 像 non prende 着.
+ex: 他很**像**他爸爸。 | Tā hěn **xiàng** tā bàba. | Assomiglia molto a suo padre.
+no: 我认为了这个办法不行。 | Wǒ rènwéi le zhège bànfǎ bù xíng. | Errato: 认为 non prende 了.
+ex: 我**认为**这个办法不行。 | Wǒ **rènwéi** zhège bànfǎ bù xíng. | Ritengo che questo metodo non funzioni.
+
+! Ciò non significa che questi verbi non possano mai comparire in una frase con 了: il 了 di fine frase, che segnala un cambiamento di situazione, è possibile: 他是大学生了。«Ormai è uno studente universitario.» Alcuni verbi di conoscenza come 知道 zhīdao e 认识 rènshi prendono 了 quando indicano l'inizio di uno stato: 我知道了。«Ho capito. / Va bene.» (vedi il capitolo «La particella 了»).
+
+### Il verbo come soggetto e come oggetto
+
+Un verbo, da solo o con il suo oggetto, può fare da soggetto o da oggetto di un altro verbo senza alcun cambiamento di forma: non servono infinito, articolo o suffissi. Dove l'italiano usa l'infinito («nuotare è divertente», «mi piace leggere»), il cinese mette semplicemente il verbo.
+
+= V (+ O) + predicato
+= S + V + V (+ O)
+
+ex: **游泳**很有意思。 | **Yóuyǒng** hěn yǒu yìsi. | Nuotare è molto divertente.
+ex: **学汉语**不太难。 | **Xué Hànyǔ** bú tài nán. | Studiare il cinese non è molto difficile.
+ex: **抽烟**对身体不好。 | **Chōuyān** duì shēntǐ bù hǎo. | Fumare fa male alla salute.
+ex: 我喜欢**看书**。 | Wǒ xǐhuan **kàn shū**. | Mi piace leggere.
+ex: 他开始**学太极拳**了。 | Tā kāishǐ **xué tàijíquán** le. | Ha cominciato a imparare il tai chi.
+ex: 我们决定**坐火车去**。 | Wǒmen juédìng **zuò huǒchē qù**. | Abbiamo deciso di andarci in treno.
+
+### Il verbo e l'oggetto «generico»
+
+Molte attività che in italiano si esprimono con un verbo intransitivo in cinese si esprimono con un verbo seguito da un oggetto «generico», che precisa il tipo di attività: 吃饭 chī fàn «mangiare» (lett. mangiare riso, pasto), 说话 shuōhuà «parlare» (lett. dire parole), 看书 kàn shū «leggere», 写字 xiě zì «scrivere», 唱歌 chàng gē «cantare», 睡觉 shuìjiào «dormire», 走路 zǒulù «camminare», 开车 kāichē «guidare». Quando non c'è un oggetto specifico, l'oggetto generico di norma non si omette.
+
+ex: A：你在干什么？B：我在**吃饭**。 | A: Nǐ zài gàn shénme? B: Wǒ zài **chī fàn**. | A: Che fai? B: Sto mangiando.
+ex: 别**说话**了！ | Bié **shuōhuà** le! | Smettetela di parlare!
+ex: 我妹妹很喜欢**唱歌**。 | Wǒ mèimei hěn xǐhuan **chàng gē**. | A mia sorella piace molto cantare.
+ex: 他还不会**开车**。 | Tā hái bú huì **kāichē**. | Non sa ancora guidare.
+
+Quando l'oggetto è specifico, prende il posto di quello generico: 我在吃饺子。«Sto mangiando dei ravioli.» Molti di questi verbi sono «separabili» (vedi la sezione «I verbi separabili (离合词)»).
+
+## Verbi con doppio oggetto
+
+Alcuni verbi possono reggere contemporaneamente due oggetti: un oggetto indiretto, di solito una persona (il destinatario), e un oggetto diretto, di solito una cosa. A differenza dell'italiano («dare un libro *a* Marco»), in cinese la persona non è introdotta da alcuna preposizione: i due oggetti si susseguono direttamente, nell'ordine fisso persona + cosa. Questa costruzione si chiama 双宾语句 shuāngbīnyǔ jù «frase a doppio oggetto».
+
+= S + V + O (persona) + O (cosa)
+
+ex: 妈妈**给**了**我**一百块钱。 | Māma **gěi** le **wǒ** yìbǎi kuài qián. | La mamma mi ha dato cento yuan.
+ex: 王老师**教我们**汉语。 | Wáng lǎoshī **jiāo wǒmen** Hànyǔ. | Il professor Wang ci insegna il cinese.
+ex: 我想**问你**一个问题。 | Wǒ xiǎng **wèn nǐ** yí ge wèntí. | Vorrei farti una domanda.
+ex: 请**告诉我**你的电话号码。 | Qǐng **gàosu wǒ** nǐ de diànhuà hàomǎ. | Per favore, dimmi il tuo numero di telefono.
+ex: 马可**送**了**女朋友**一束花。 | Mǎkě **sòng** le **nǚpéngyou** yí shù huā. | Marco ha regalato un mazzo di fiori alla sua ragazza.
+ex: 服务员**找**了**我**二十块钱。 | Fúwùyuán **zhǎo** le **wǒ** èrshí kuài qián. | Il cameriere mi ha dato venti yuan di resto.
+
+| Verbo | Pinyin | Significato | Esempio |
+| 给 | gěi | dare | 给他一本书 |
+| 送 | sòng | regalare | 送她一件礼物 |
+| 教 | jiāo | insegnare | 教孩子数学 |
+| 问 | wèn | domandare | 问老师一个问题 |
+| 告诉 | gàosu | dire, informare | 告诉你一个好消息 |
+| 借 | jiè | prestare; prendere in prestito | 借他五百块钱 |
+| 还 | huán | restituire | 还你那本书 |
+| 找 | zhǎo | dare il resto | 找您三块钱 |
+| 叫 | jiào | chiamare (con un nome) | 叫他老李 |
+| 通知 | tōngzhī | comunicare, avvisare | 通知大家一个消息 |
+| 交 | jiāo | consegnare, affidare | 交你一个任务 |
+| 欠 | qiàn | dovere (un debito) | 欠我两百块钱 |
+| 收 | shōu | far pagare | 收您五十块 |
+| 请教 | qǐngjiào | chiedere consiglio | 请教您一个问题 |
+
+ex: 我想**请教您**一个问题。 | Wǒ xiǎng **qǐngjiào nín** yí ge wèntí. | Vorrei chiederle un consiglio su una questione.
+ex: 大家都**叫他**小胖。 | Dàjiā dōu **jiào tā** Xiǎo Pàng. | Tutti lo chiamano «Grassottello».
+ex: 我**通知**大家一个消息：明天的会取消了。 | Wǒ **tōngzhī** dàjiā yí ge xiāoxi: míngtiān de huì qǔxiāo le. | Vi comunico una notizia: la riunione di domani è annullata.
+ex: 我**交**你一个任务：明天去机场接王经理。 | Wǒ **jiāo** nǐ yí ge rènwu: míngtiān qù jīchǎng jiē Wáng jīnglǐ. | Ti affido un compito: domani vai a prendere il direttore Wang all'aeroporto.
+ex: 我还**欠**他两百块钱呢。 | Wǒ hái **qiàn** tā liǎngbǎi kuài qián ne. | Gli devo ancora duecento yuan.
+
+### Osservazioni sull'uso
+
+- L'ordine dei due oggetti è fisso: prima la persona, poi la cosa.
+
+no: 他教汉语我们。 | Tā jiāo Hànyǔ wǒmen. | Errato: la persona precede la cosa.
+ex: 他**教我们**汉语。 | Tā **jiāo wǒmen** Hànyǔ. | Ci insegna il cinese.
+no: 我给一本书他。 | Wǒ gěi yì běn shū tā. | Errato: l'ordine è 给 + persona + cosa.
+ex: 我**给他**一本书。 | Wǒ **gěi tā** yì běn shū. | Gli do un libro.
+
+- Questi verbi possono anche reggere un solo oggetto: 他教汉语。«Insegna cinese.» / 他教我们。«È il nostro insegnante.» (lett. insegna a noi)
+- 说 shuō «dire» non regge una persona come oggetto: per «dire qualcosa a qualcuno» si usa 告诉 gàosu oppure 跟/对 + persona + 说.
+
+no: 我想说你一件事。 | Wǒ xiǎng shuō nǐ yí jiàn shì. | Errato: 说 non regge un oggetto di persona.
+ex: 我想**告诉你**一件事。 | Wǒ xiǎng **gàosu nǐ** yí jiàn shì. | Voglio dirti una cosa.
+ex: 我想**跟你说**一件事。 | Wǒ xiǎng **gēn nǐ shuō** yí jiàn shì. | Voglio dirti una cosa.
+
+- 问 wèn significa soltanto «domandare (un'informazione)»: per «chiedere qualcosa per averla» si usa 跟/向 + persona + 要 yào.
+
+no: 我问他一张票。 | Wǒ wèn tā yì zhāng piào. | Errato: 问 non significa «chiedere un oggetto».
+ex: 我**跟他要**了一张票。 | Wǒ **gēn tā yào** le yì zhāng piào. | Gli ho chiesto un biglietto.
+
+- 借 jiè è ambiguo: 借 + persona + cosa può significare sia «prestare a» sia «prendere in prestito da». Per evitare l'ambiguità si usa 借给 + persona (prestare) oppure 跟/向 + persona + 借 (prendere in prestito).
+
+ex: 我**借给**小王一本小说。 | Wǒ **jiè gěi** Xiǎo Wáng yì běn xiǎoshuō. | Ho prestato un romanzo a Xiao Wang.
+ex: 我**跟**小王**借**了一本小说。 | Wǒ **gēn** Xiǎo Wáng **jiè** le yì běn xiǎoshuō. | Ho preso in prestito un romanzo da Xiao Wang.
+
+- Con 买 mǎi la persona è la fonte, non il destinatario: 买 + persona + cosa significa «comprare da qualcuno». Per «comprare per qualcuno» si usa 给 + persona + 买.
+
+ex: 我**买**了他一辆旧自行车。 | Wǒ **mǎi** le tā yí liàng jiù zìxíngchē. | Ho comprato da lui una bicicletta usata.
+ex: 我**给他买**了一辆自行车。 | Wǒ **gěi tā mǎi** le yí liàng zìxíngchē. | Gli ho comprato una bicicletta (per lui).
+
+- Quando la cosa è determinata (già nota), di solito la si anticipa come tema, oppure la si introduce con 把 (vedi il capitolo «La costruzione con 把»).
+
+ex: 那本书我已经**还**他了。 | Nà běn shū wǒ yǐjīng **huán** tā le. | Quel libro gliel'ho già restituito.
+
+### V + 给 + persona
+
+Con molti verbi che implicano un trasferimento (regalare, prestare, restituire, consegnare, spedire, vendere…) la persona destinataria può essere introdotta da 给 gěi posto subito dopo il verbo. In questa posizione 给 indica il punto d'arrivo del trasferimento.
+
+= S + V + 给 + O (persona) + O (cosa)
+= S + 把 + O (cosa) + V + 给 + O (persona)
+= O (cosa) + S + V + 给 + O (persona)
+
+| V + 给 | Pinyin | Significato |
+| 送给 | sòng gěi | regalare a |
+| 借给 | jiè gěi | prestare a |
+| 还给 | huán gěi | restituire a |
+| 交给 | jiāo gěi | consegnare a, affidare a |
+| 寄给 | jì gěi | spedire a |
+| 卖给 | mài gěi | vendere a |
+| 留给 | liú gěi | lasciare a |
+| 带给 | dài gěi | portare a |
+| 递给 | dì gěi | porgere a |
+| 发给 | fā gěi | inviare a, distribuire a |
+
+ex: 这是我**送给**你的礼物。 | Zhè shì wǒ **sòng gěi** nǐ de lǐwù. | Questo è il regalo che ti faccio.
+ex: 他**借给**我一把雨伞。 | Tā **jiè gěi** wǒ yì bǎ yǔsǎn. | Mi ha prestato un ombrello.
+ex: 请把作业**交给**老师。 | Qǐng bǎ zuòyè **jiāo gěi** lǎoshī. | Per favore, consegnate i compiti all'insegnante.
+ex: 我昨天**寄给**妈妈一个包裹。 | Wǒ zuótiān **jì gěi** māma yí ge bāoguǒ. | Ieri ho spedito un pacco alla mamma.
+ex: 他把旧车**卖给**了一个同事。 | Tā bǎ jiù chē **mài gěi** le yí ge tóngshì. | Ha venduto la sua vecchia auto a un collega.
+ex: 书我已经**还给**图书馆了。 | Shū wǒ yǐjīng **huán gěi** túshūguǎn le. | Il libro l'ho già restituito alla biblioteca.
+ex: 你把文件**发给**我吧。 | Nǐ bǎ wénjiàn **fā gěi** wǒ ba. | Mandami il documento.
+
+! La particella 了 si colloca dopo 给, mai tra il verbo e 给.
+
+no: 他送了给我一本书。 | Tā sòng le gěi wǒ yì běn shū. | Errato: 了 non può separare il verbo da 给.
+ex: 他**送给了**我一本书。 | Tā **sòng gěi le** wǒ yì běn shū. | Mi ha regalato un libro.
+
+I verbi che non indicano il trasferimento di un oggetto (telefonare, scrivere una lettera, cucinare, comprare, presentare…) introducono il destinatario o il beneficiario con 给 posto prima del verbo, come preposizione (vedi il capitolo «Le preposizioni»).
+
+= S + 给 + O (persona) + V + O (cosa)
+
+ex: 我晚上**给你**打电话。 | Wǒ wǎnshang **gěi nǐ** dǎ diànhuà. | Stasera ti telefono.
+ex: 妈妈**给我**做了一碗面。 | Māma **gěi wǒ** zuò le yì wǎn miàn. | La mamma mi ha preparato una ciotola di spaghetti.
+ex: 我**给你们**介绍一下，这是我的同屋玛丽亚。 | Wǒ **gěi nǐmen** jièshào yíxià, zhè shì wǒ de tóngwū Mǎlìyà. | Vi presento la mia compagna di stanza, Maria.
+
+! Con i verbi di trasferimento sono spesso possibili entrambe le costruzioni, con lo stesso significato: 他寄给我一封信。 = 他给我寄了一封信。«Mi ha spedito una lettera.»

@@ -1,0 +1,198 @@
+# Possesso ed esistenza
+## 有 yǒu: possesso
+Serve a dire che qualcuno ha qualcosa.
+= S + 有 yǒu / 没有 méiyǒu + O (mai 不有 bù yǒu)
+ex: 我**有**两个哥哥。 | Wǒ **yǒu** liǎng ge gēge. | Ho due fratelli maggiori.
+no: 我不有时间。 | Wǒ bù yǒu shíjiān. | Errato: la negazione di 有 è 没(有).
+ex: 我**没有**时间。 | Wǒ **méiyǒu** shíjiān. | Non ho tempo.
+## 有 yǒu: esistenza («c'è»)
+Serve a dire che in un luogo c'è qualcosa o qualcuno.
+= Luogo + 有 yǒu + N (non ancora noto)
+ex: 桌子上**有**一本书。 | Zhuōzi shang **yǒu** yì běn shū. | Sul tavolo c'è un libro.
+## 有 yǒu, 是 shì e 在 zài
+Tre modi di legare cosa e luogo.
+| Struttura | Uso | Esempio |
+| Luogo + 有 yǒu + N | c'è qualcosa (non noto) | 楼下有银行 lóuxià yǒu yínháng |
+| Luogo + 是 shì + N | dice che cosa c'è | 楼下是银行 lóuxià shì yínháng |
+| N + 在 zài + Luogo | dov'è una cosa nota | 银行在楼下 yínháng zài lóuxià |
+## Altri usi di 有 yǒu
+有 yǒu forma molte espressioni comuni.
+| Forma | Significato | Esempio |
+| 有 yǒu + N astratto | = aggettivo | 有用 yǒuyòng «utile» |
+| 有 yǒu + N + V | avere qualcosa da fare | 我有事要做 wǒ yǒu shì yào zuò |
+| 有人 yǒu rén / 有的 yǒude | qualcuno / alcuni | 有人找你 yǒu rén zhǎo nǐ |
+| 有点儿 yǒudiǎnr + Agg | un po' (negativo) | 有点儿贵 yǒudiǎnr guì |
+| 有 yǒu + misura | arrivare a (età, altezza) | 他有一米八 tā yǒu yì mǐ bā |
+## Frasi esistenziali (存现句 cúnxiànjù)
+Dicono che in un luogo qualcosa si trova, compare o sparisce.
+= Luogo + V + 着 zhe + N non noto (si trova)
+= Luogo/Tempo + V + 了 le o direzione + N non noto (compare, sparisce)
+ex: 墙上**挂着**一张画。 | Qiáng shang **guà zhe** yì zhāng huà. | Al muro c'è appeso un quadro.
+ex: 前面**走过来**一个人。 | Qiánmian **zǒu guolai** yí ge rén. | Davanti arriva uno.
+no: 桌子上有那本书。 | Zhuōzi shang yǒu nà běn shū. | Errato: cosa nota; si dice 那本书在桌子上。
+## Frasi senza soggetto
+Per il tempo atmosferico e simili manca il soggetto.
+ex: **下雨**了。 | **Xià yǔ** le. | Piove.
+ex: **该**你了。 | **Gāi** nǐ le. | Tocca a te.
+
+# Le domande
+## Domande con 吗 ma
+Trasforma una frase affermativa in domanda sì/no.
+= Frase affermativa + 吗 ma？
+ex: 你是老师**吗**？ | Nǐ shì lǎoshī **ma**? | Sei insegnante?
+- Si risponde ripetendo il verbo: 是 shì / 不是 bú shì.
+## Domande con V + 不 bu + V
+Domanda sì/no con forma affermativa + negativa.
+= V/Agg + 不 bu + V/Agg (+ O)？
+= V + 没 méi + V (fatti passati e con 有 yǒu)
+ex: 你**去不去**？ | Nǐ **qù bu qù**? | Ci vai o no?
+ex: 你**有没有**笔？ | Nǐ **yǒu méiyǒu** bǐ? | Hai una penna?
+- Verbi di due sillabe: 喜不喜欢 xǐ bu xǐhuan. Con 也 yě, 都 dōu, 已经 yǐjīng si usa 吗 ma.
+no: 你也去不去？ | Nǐ yě qù bu qù? | Errato: con 也 si usa 吗.
+ex: 你也去**吗**？ | Nǐ yě qù **ma**? | Ci vai anche tu?
+## Domande con parole interrogative
+La parola interrogativa sta dove starà la risposta; niente 吗 ma.
+| Parola | Significato | Esempio |
+| 谁 shéi | chi | 他是谁 tā shì shéi |
+| 什么 shénme | che cosa, quale | 这是什么 zhè shì shénme |
+| 哪 nǎ + CL | quale | 你要哪个 nǐ yào nǎge |
+| 哪儿 nǎr / 哪里 nǎli | dove | 你住哪儿 nǐ zhù nǎr |
+| 什么时候 shénme shíhou | quando | 什么时候来 shénme shíhou lái |
+| 怎么 zěnme | come; perché (stupore) | 怎么走 zěnme zǒu |
+| 怎么样 zěnmeyàng | com'è | 天气怎么样 tiānqì zěnmeyàng |
+| 为什么 wèishénme | perché | 为什么不去 wèishénme bú qù |
+| 几 jǐ + CL | quanti (meno di 10) | 你几岁 nǐ jǐ suì |
+| 多少 duōshao | quanti, quanto | 多少钱 duōshao qián |
+| 多 duō + Agg | quanto (alto, lungo…) | 你多高 nǐ duō gāo |
+no: 什么你喜欢？ | Shénme nǐ xǐhuan? | Errato: non si sposta a inizio frase.
+ex: 你喜欢**什么**？ | Nǐ xǐhuan **shénme**? | Cosa ti piace?
+## Domande alternative con 还是 háishi
+Per far scegliere: «A o B?».
+= A + 还是 háishi + B？ (nelle domande non si usa 或者 huòzhě)
+ex: 你喝茶**还是**咖啡？ | Nǐ hē chá **háishi** kāfēi? | Bevi tè o caffè?
+## Domande con 呢 ne e 吧 ba
+Domande brevi o per chiedere conferma.
+| Forma | Valore | Esempio |
+| N + 呢 ne？ | e…? / dov'è…? | 我的书呢 wǒ de shū ne |
+| 要是 yàoshi……呢 ne？ | e se…? | 要是下雨呢 yàoshi xià yǔ ne |
+| ……吧 ba？ | suppongo che…, vero? | 你是马可吧 nǐ shì Mǎkě ba |
+| ……，好吗 hǎo ma / 对吗 duì ma？ | va bene? / giusto? | 明天来 míngtiān lái，好吗 hǎo ma |
+## Domande retoriche
+Sembrano domande, ma affermano il contrario.
+| Forma | Significato |
+| 难道 nándào……吗 ma？ | forse che…? (= certo che no) |
+| 不是 bú shì……吗 ma？ | non è forse…? |
+| 哪儿 nǎr……啊 a？ | ma quando mai…! |
+| 谁知道 shéi zhīdao……？ | chi lo sa (nessuno lo sa) |
+| 何必 hébì……呢 ne？ | che bisogno c'è di…? |
+## Domande indirette
+Una domanda dentro un'altra frase («non so chi…»): niente 吗 ma.
+ex: 我不知道他**是谁**。 | Wǒ bù zhīdao tā **shì shéi**. | Non so chi sia.
+## Parole interrogative senza domanda
+Possono anche voler dire «qualcosa», «tutti».
+| Uso | Esempio | Significato |
+| «qualcosa, qualcuno» | 想吃点儿什么 xiǎng chī diǎnr shénme | voglio mangiare qualcosa |
+| + 都 dōu = tutti | 谁都知道 shéi dōu zhīdao | lo sanno tutti |
+| in coppia | 谁先到谁买票 shéi xiān dào shéi mǎi piào | chi arriva prima compra |
+
+# La negazione
+## 不 bù e 没 méi / 没有 méiyǒu
+不 bù nega volontà, abitudini e qualità; 没 méi nega fatti avvenuti.
+| Caso | 不 bù | 没 méi / 没有 méiyǒu |
+| Tempo | presente, futuro, abitudine | passato |
+| Con 有 yǒu | mai | sempre: 没有 méiyǒu |
+| Con 是 shì, modali, Agg | 不是 bú shì, 不会 bú huì, 不好 bù hǎo | no (salvo 没错 méi cuò) |
+| Con 了 le / 过 guo | 不 bù……了 le = non più | 没 méi + V + 过 guo |
+ex: 他**不**喝酒。 | Tā **bù** hē jiǔ. | Non beve alcolici.
+no: 我昨天没去了。 | Wǒ zuótiān méi qù le. | Errato: 没 non va con 了.
+ex: 我昨天**没**去。 | Wǒ zuótiān **méi** qù. | Ieri non ci sono andato.
+## Posizione della negazione
+Va subito prima di ciò che nega: verbo, modale o Prep.
+| Forma | Significato |
+| 不都 bù dōu | non tutti |
+| 都不 dōu bù | nessuno |
+| 不在家吃 bú zài jiā chī | non mangiare a casa |
+| 不太 bú tài + Agg | non molto |
+| 太不 tài bù + Agg | proprio per niente |
+## Divieti
+Per dire «non fare», «smettila», «non serve».
+| Forma | Valore | Esempio |
+| 别 bié / 不要 búyào + V | non fare! | 别走 bié zǒu |
+| 别 bié……了 le | smettila di… | 别说了 bié shuō le |
+| 不用 búyòng / 不必 búbì + V | non serve | 不用谢 búyòng xiè |
+| 禁止 jìnzhǐ / 请勿 qǐng wù + V | vietato (cartelli) | 禁止吸烟 jìnzhǐ xīyān |
+## Negazione forte
+Per dire «per niente», «neanche uno», «mai».
+| Forma | Esempio |
+| 一点儿也不 yìdiǎnr yě bù + Agg | 一点儿也不冷 yìdiǎnr yě bù lěng |
+| 一 yī + CL + N + 也没 yě méi | 一个人也没来 yí ge rén yě méi lái |
+| 根本 gēnběn + 不 bù / 没 méi | 我根本不知道 wǒ gēnběn bù zhīdao |
+| 并 bìng + 不 bù / 没 méi | 他并不笨 tā bìng bú bèn |
+| 从来 cónglái + 不 bù / 没 méi | 我从来没去过 wǒ cónglái méi qù guo |
+| 毫不 háo bù / 毫无 háo wú (scritto) | 毫无办法 háo wú bànfǎ |
+## Doppia negazione
+Due negazioni danno un'affermazione forte.
+| Forma | Significato |
+| 不得不 bùdébù + V | essere costretti a |
+| 不能不 bù néng bù + V | non poter non |
+| 不会不 bú huì bù + V | sicuramente |
+| 非 fēi……不可 bùkě | dover per forza |
+| 没有 méiyǒu……不 bù…… | non c'è… che non… |
+| 不是不 bú shì bù…… | non è che non… |
+
+# Le particelle modali
+## Le particelle (语气词 yǔqìcí)
+A fine frase, danno il tono alla frase.
+| Particella | Funzione | Esempio |
+| 吗 ma | domanda sì/no | 你好吗 nǐ hǎo ma |
+| 呢 ne | «e tu?»; azione in corso | 他睡觉呢 tā shuìjiào ne |
+| 吧 ba | proposta, supposizione | 走吧 zǒu ba |
+| 啊 a | esclamazione, tono più dolce | 好啊 hǎo a |
+| 了 le | situazione cambiata | 下雨了 xià yǔ le |
+| 嘛 ma | «è ovvio!» | 他是孩子嘛 tā shì háizi ma |
+| 呗 bei | rassegnazione: «e allora…» | 算了呗 suàn le bei |
+| 啦 la | 了 le + 啊 a, vivace | 来啦 lái la |
+| 哦 o | avviso amichevole | 别忘了哦 bié wàng le o |
+| 罢了 bàle / 而已 éryǐ | soltanto | 开玩笑罢了 kāi wánxiào bàle |
+| 着呢 zhe ne | molto (parlato) | 好着呢 hǎo zhe ne |
+## Le varianti di 啊 a
+啊 a cambia suono e carattere secondo la sillaba precedente.
+| Fine della sillaba prima | Forma | Esempio |
+| -a -e -i -o -ü | 呀 ya | 是你呀 shì nǐ ya |
+| -u -ao -ou | 哇 wa | 好哇 hǎo wa |
+| -n | 哪 na | 天哪 tiān na |
+## Il 了 le a fine frase
+Segnala un cambiamento: «ora sì», «ora non più».
+ex: 天黑**了**。 | Tiān hēi **le**. | Si è fatto buio.
+ex: 我不去**了**。 | Wǒ bú qù **le**. | Non ci vado più.
+- Si combina: 了吗 le ma, 了吧 le ba, 啦 la. 呢 ne e 吗 ma non stanno mai insieme.
+
+# Ordini ed esclamazioni
+## L'imperativo
+Per ordinare o invitare, dal secco al gentile.
+| Forma | Tono | Esempio |
+| V (+ O) | secco | 进来 jìnlai |
+| 请 qǐng + V | cortese | 请坐 qǐng zuò |
+| V + 吧 ba | proposta, dolce | 吃吧 chī ba |
+| V + 一下 yíxià o V ripetuto | attenuato | 你看一下 nǐ kàn yíxià |
+| 给我 gěi wǒ + V | brusco | 给我出去 gěi wǒ chūqu |
+| 千万 qiānwàn / 一定要 yídìng yào + V | enfatico | 千万别忘了 qiānwàn bié wàng le |
+no: 坐，请。 | Zuò, qǐng. | Errato: 请 va prima del verbo.
+ex: **请**坐。 | **Qǐng** zuò. | Si accomodi.
+## Le esclamazioni
+Per dire «che…!», «quanto…!».
+| Forma | Esempio |
+| 太 tài + Agg + 了 le！ | 太好了 tài hǎo le «benissimo!» |
+| 真 zhēn + Agg！ | 真漂亮 zhēn piàoliang «che bello!» |
+| 多 duō / 多么 duōme + Agg + 啊 a！ | 多美啊 duō měi a «quant'è bello!» |
+| 好 hǎo + Agg + 啊 a！ | 好冷啊 hǎo lěng a «che freddo!» |
+| 可 kě + Agg + 了 le！ | 可累了 kě lèi le «che stanchezza!» |
+| Agg + 极了 jí le / 死了 sǐ le | 饿死了 è sǐ le «muoio di fame!» |
+## Le interiezioni
+Brevi parole per sorpresa, sospiri, assenso.
+| Interiezione | Valore |
+| 哎呀 āiyā | sorpresa, fastidio |
+| 唉 ài | sospiro |
+| 哇 wā | meraviglia |
+| 嗯 ng | assenso |
+| 喂 wéi / wèi | pronto? / ehi |

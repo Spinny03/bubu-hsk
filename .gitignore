@@ -1,0 +1,16 @@
+# ambiente Python e cache
+.venv/
+__pycache__/
+*.pyc
+
+# documenti ufficiali CLEC / 汉考国际: non ridistribuiti, scaricali dai link nel README
+hsk2025/HSK_kaoshi_dagang_2025.pdf
+hsk2025/HSK_kaoshi_dagang_2025.txt
+hsk2025/HSK_struttura_esempi_2025-12.pdf
+hsk2025/HSK_struttura_esempi_2025-12.txt
+hsk2025/ufficiale/
+
+# file generati o intermedi
+vocab/.emoji/
+hsk/input/
+cheatsheet_v1/

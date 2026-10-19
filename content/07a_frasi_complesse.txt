@@ -1,0 +1,290 @@
+@ Frasi complesse, formazione delle parole e registro
+
+# Le frasi complesse: principi generali
+
+Una frase complessa (复句 fùjù) è formata da due o più proposizioni (分句 fēnjù) legate da un rapporto logico: causa, condizione, contrasto, successione e così via. Si contrappone alla frase semplice (单句 dānjù), che contiene un solo predicato principale. Il rapporto tra le proposizioni può essere espresso da parole di collegamento, dette in cinese 关联词语 guānlián cíyǔ («parole correlative»), oppure può restare implicito e affidato al contesto.
+
+In questa parte della grammatica si descrivono prima i principi comuni a tutte le frasi complesse (ordine delle proposizioni, posizione delle congiunzioni e degli avverbi correlativi, paratassi), poi i singoli tipi di rapporto nei capitoli successivi.
+
+## Frasi complesse (复句) coordinate e subordinate
+
+La grammatica cinese distingue due grandi famiglie di frasi complesse.
+
+- **Frasi coordinate** (联合复句 liánhé fùjù): le proposizioni hanno pari rango; nessuna dipende dall'altra. Vi rientrano la coordinazione in senso stretto, la successione, la progressione e l'alternativa.
+- **Frasi subordinate** (偏正复句 piānzhèng fùjù): una proposizione secondaria (偏句 piānjù) esprime lo sfondo, la causa, la condizione o la concessione, mentre la proposizione principale (正句 zhèngjù) contiene l'informazione centrale. Vi rientrano le frasi causali, ipotetiche, condizionali, concessive, avversative, finali e temporali.
+
+| Tipo di rapporto | Termine cinese | Parole correlative tipiche |
+| coordinazione | 并列 bìngliè | 又……又……, 一边……一边…… |
+| successione | 承接 chéngjiē | 先……再……, 然后, 一……就…… |
+| progressione | 递进 dìjìn | 不但……而且…… |
+| alternativa | 选择 xuǎnzé | 或者, 还是, 要么……要么…… |
+| avversativa | 转折 zhuǎnzhé | 但是, 可是, 却 |
+| concessiva | 让步 ràngbù | 虽然……但是……, 即使……也…… |
+| causale | 因果 yīnguǒ | 因为……所以……, 既然……就…… |
+| ipotetica | 假设 jiǎshè | 如果……就……, 要是……的话 |
+| condizionale | 条件 tiáojiàn | 只要……就……, 只有……才…… |
+| finale | 目的 mùdì | 为了……, ……以便……, ……以免…… |
+| temporale | 时间 shíjiān | ……的时候, ……以后, 一……就…… |
+
+I rapporti di coordinazione, successione e progressione sono trattati nel capitolo «Frasi coordinate, successive e progressive»; alternativa, avversativa e concessiva nel capitolo «Frasi alternative, avversative e concessive»; causa, ipotesi e condizione nel capitolo «Frasi causali, ipotetiche e condizionali»; fine e tempo nel capitolo «Frasi finali, temporali e altre strutture correlative».
+
+### L'ordine normale: prima la subordinata, poi la principale
+
+La regola fondamentale è che in cinese la proposizione subordinata precede normalmente la principale. Il cinese procede «dallo sfondo alla figura»: prima si dà la cornice (la causa, la condizione, la concessione, il momento, lo scopo introdotto da 为了 wèile), poi si dice ciò che conta.
+
+= proposizione subordinata (偏句)，proposizione principale (正句)
+= causa → effetto · condizione → conseguenza · concessione → affermazione · tempo → evento · fine (为了) → azione
+
+ex: **因为**下雨，**所以**比赛取消了。 | **Yīnwèi** xià yǔ, **suǒyǐ** bǐsài qǔxiāo le. | Siccome pioveva, la partita è stata annullata.
+ex: **如果**明天不下雨，我们**就**去爬山。 | **Rúguǒ** míngtiān bú xià yǔ, wǒmen **jiù** qù pá shān. | Se domani non piove, andiamo a fare un'escursione in montagna.
+ex: **只要**你努力，**就**一定能学好。 | **Zhǐyào** nǐ nǔlì, **jiù** yídìng néng xuéhǎo. | Basta che ti impegni, e imparerai di sicuro.
+ex: **虽然**他很忙，**但是**每天都给妈妈打电话。 | **Suīrán** tā hěn máng, **dànshì** měi tiān dōu gěi māma dǎ diànhuà. | Anche se è molto impegnato, telefona alla mamma tutti i giorni.
+ex: 我到家**的时候**，孩子们已经睡了。 | Wǒ dào jiā **de shíhou**, háizimen yǐjīng shuì le. | Quando sono arrivato a casa, i bambini dormivano già.
+ex: **为了**学好汉语，玛丽亚去了北京。 | **Wèile** xuéhǎo Hànyǔ, Mǎlìyà qù le Běijīng. | Per imparare bene il cinese, Maria è andata a Pechino.
+
+In italiano l'ordine è libero («La partita è stata annullata perché pioveva» oppure «Siccome pioveva, la partita è stata annullata»). Uno degli errori più tipici degli italiani è riprodurre in cinese l'ordine «principale + subordinata» con le congiunzioni che richiedono la posizione iniziale.
+
+no: 我们就去爬山，如果明天不下雨。 | Wǒmen jiù qù pá shān, rúguǒ míngtiān bú xià yǔ. | Errato: 就 rimanda a una condizione già espressa; la frase con 如果 va prima.
+ex: 如果明天不下雨，我们就去爬山。 | Rúguǒ míngtiān bú xià yǔ, wǒmen jiù qù pá shān. | Se domani non piove, andiamo in montagna.
+no: 他才能参加比赛，只有他每天练习。 | Tā cái néng cānjiā bǐsài, zhǐyǒu tā měi tiān liànxí. | Errato: 才 presuppone la condizione con 只有 già espressa prima.
+ex: 只有每天练习，他才能参加比赛。 | Zhǐyǒu měi tiān liànxí, tā cái néng cānjiā bǐsài. | Solo se si allena ogni giorno potrà partecipare alla gara.
+
+### Quando la subordinata segue la principale
+
+In alcuni casi la subordinata viene dopo la principale. La seconda proposizione è allora sentita come una spiegazione o una precisazione aggiunta.
+
+- **……，是因为……**: il fatto è già noto e la causa è l'informazione nuova («se…, è perché…»).
+- **……，因为……**: la causa viene aggiunta come spiegazione; molto comune nel parlato e nella prosa moderna.
+- **……，是为了……**: lo scopo è presentato come informazione nuova.
+- Congiunzioni che per natura stanno nella seconda proposizione: ……，以便……; ……，以免……; ……，否则……; ……，除非…….
+- **Aggiunte a posteriori nel parlato** (ripensamenti): ……，要是……的话; ……，万一……呢; ……，虽然…….
+
+ex: 他今天没来上班，**是因为**孩子病了。 | Tā jīntiān méi lái shàng bān, **shì yīnwèi** háizi bìng le. | Se oggi non è venuto al lavoro, è perché il figlio è malato.
+ex: 我不去了，**因为**我有点儿不舒服。 | Wǒ bú qù le, **yīnwèi** wǒ yǒudiǎnr bù shūfu. | Non ci vado più, perché non mi sento molto bene.
+ex: 我学汉语，**是为了**以后去中国工作。 | Wǒ xué Hànyǔ, **shì wèile** yǐhòu qù Zhōngguó gōngzuò. | Studio cinese per poter poi lavorare in Cina.
+ex: 你带把伞吧，**万一**下雨呢？ | Nǐ dài bǎ sǎn ba, **wànyī** xià yǔ ne? | Porta un ombrello: e se piovesse?
+ex: 我们明天去长城吧，**要是**天气好**的话**。 | Wǒmen míngtiān qù Chángchéng ba, **yàoshi** tiānqì hǎo **dehuà**. | Andiamo alla Grande Muraglia domani, se fa bel tempo.
+ex: 他还是去了，**虽然**他已经很累了。 | Tā háishi qù le, **suīrán** tā yǐjīng hěn lèi le. | Ci è andato lo stesso, benché fosse già molto stanco.
+
+! Quando la subordinata è posposta, la principale perde l'avverbio o la congiunzione correlativa: non si dice 所以我没去，因为下雨了, né 我就去，如果你去.
+! La posposizione di 虽然, 如果, 即使 è sentita come stile parlato o come stile scritto moderno di influsso europeo; nella lingua neutra l'ordine «subordinata + principale» resta di gran lunga il più frequente.
+
+no: 所以我没去，因为下雨了。 | Suǒyǐ wǒ méi qù, yīnwèi xià yǔ le. | Errato: se la causa segue, nella prima proposizione non si usa 所以.
+ex: 我没去，因为下雨了。 | Wǒ méi qù, yīnwèi xià yǔ le. | Non ci sono andato perché pioveva.
+
+### Confronto con l'italiano
+
+| Italiano | Cinese |
+| ordine libero di principale e subordinata | subordinata di norma prima |
+| di solito una sola congiunzione | spesso una coppia: 因为……所以…… |
+| «sebbene…, ma…» è scorretto | 虽然……但是…… è normale |
+| gerundio, participio, infinito | nessuna forma verbale implicita |
+| congiuntivo e condizionale | nessun modo verbale: contano le parole correlative |
+
+Le subordinate implicite italiane (gerundio, participio, infinito) diventano in cinese proposizioni esplicite, con o senza congiunzione.
+
+ex: **因为**太累了，我很早就睡了。 | **Yīnwèi** tài lèi le, wǒ hěn zǎo jiù shuì le. | Essendo troppo stanco, sono andato a dormire presto.
+ex: 吃完饭**以后**，我们去散步了。 | Chīwán fàn **yǐhòu**, wǒmen qù sàn bù le. | Finito di mangiare, siamo andati a fare una passeggiata.
+ex: 他**一**听到这个消息**就**哭了。 | Tā **yì** tīngdào zhège xiāoxi **jiù** kū le. | Sentendo quella notizia, si è messo subito a piangere.
+
+## Congiunzioni e avverbi correlativi
+
+Le parole correlative appartengono a due categorie grammaticali diverse, e la differenza è decisiva per la loro posizione nella frase.
+
+- **Congiunzioni** (连词 liáncí): 因为, 所以, 如果, 要是, 虽然, 但是, 可是, 只要, 只有, 无论, 不管, 即使, 不但, 而且, 既然, 除非, 否则 ecc.
+- **Avverbi correlativi** (副词 fùcí): 就, 才, 也, 都, 还, 却, 又, 再, 便, 倒. Si riferiscono alla proposizione precedente ma restano avverbi e seguono le regole di posizione degli avverbi (vedi il capitolo «Gli avverbi»).
+
+### La congiunzione della prima proposizione
+
+La congiunzione che apre la prima proposizione (如果, 因为, 虽然, 即使, 只要, 既然 ecc.) può stare **prima o dopo il soggetto** di quella proposizione. Se il soggetto è lo stesso nelle due proposizioni, la posizione dopo il soggetto è molto frequente e il soggetto non si ripete.
+
+= Congiunzione + S₁ + …，S₂ + Avv + …
+= S₁ + Congiunzione + …，S₂ + Avv + …
+
+ex: **如果**你去，我**就**去。 | **Rúguǒ** nǐ qù, wǒ **jiù** qù. | Se ci vai tu, ci vado anch'io.
+ex: 你**如果**去，我**就**去。 | Nǐ **rúguǒ** qù, wǒ **jiù** qù. | Se ci vai tu, ci vado anch'io.
+ex: **因为**他病了，**所以**没来上课。 | **Yīnwèi** tā bìng le, **suǒyǐ** méi lái shàng kè. | Siccome era malato, non è venuto a lezione.
+ex: 他**因为**病了，**所以**没来上课。 | Tā **yīnwèi** bìng le, **suǒyǐ** méi lái shàng kè. | Siccome era malato, non è venuto a lezione.
+ex: 我**虽然**很想去，**但是**没有时间。 | Wǒ **suīrán** hěn xiǎng qù, **dànshì** méiyǒu shíjiān. | Anche se ho molta voglia di andarci, non ho tempo.
+
+! Con 不但/不仅 la posizione dipende dal soggetto: dopo il soggetto se è lo stesso nelle due proposizioni, prima di ciascun soggetto se i soggetti sono diversi (vedi il capitolo «Frasi coordinate, successive e progressive»).
+
+### La congiunzione della seconda proposizione
+
+Le congiunzioni della seconda proposizione (所以, 但是, 可是, 而且, 因此, 否则, 不然, 那么) stanno all'**inizio** della proposizione, prima del soggetto.
+
+no: 我很想去，我但是没有时间。 | Wǒ hěn xiǎng qù, wǒ dànshì méiyǒu shíjiān. | Errato: 但是 va all'inizio della proposizione, prima del soggetto.
+ex: 我很想去，**但是**我没有时间。 | Wǒ hěn xiǎng qù, **dànshì** wǒ méiyǒu shíjiān. | Ho molta voglia di andarci, ma non ho tempo.
+ex: 路上堵车，**所以**我们迟到了。 | Lùshang dǔ chē, **suǒyǐ** wǒmen chídào le. | C'era traffico per strada, quindi siamo arrivati in ritardo.
+
+### Gli avverbi correlativi: sempre dopo il soggetto
+
+就, 才, 也, 都, 还, 却, 又, 便 sono avverbi: nella loro proposizione stanno **sempre dopo il soggetto** e prima del predicato (prima anche dei verbi modali, della negazione e dei sintagmi preposizionali). Non possono mai precedere il soggetto. È l'errore più frequente degli italiani, che li trattano come congiunzioni («allora», «solo allora», «anche», «però»).
+
+= …，S + 就/才/也/都/还/却/又 + (Modale/Negazione) + V …
+
+no: 如果你去，就我去。 | Rúguǒ nǐ qù, jiù wǒ qù. | Errato: 就 è un avverbio e va dopo il soggetto.
+ex: 如果你去，我**就**去。 | Rúguǒ nǐ qù, wǒ **jiù** qù. | Se ci vai tu, ci vado anch'io.
+no: 只有你去，才他会去。 | Zhǐyǒu nǐ qù, cái tā huì qù. | Errato: 才 va dopo il soggetto 他.
+ex: 只有你去，他**才**会去。 | Zhǐyǒu nǐ qù, tā **cái** huì qù. | Solo se ci vai tu, ci andrà anche lui.
+no: 虽然他很累，却他还在工作。 | Suīrán tā hěn lèi, què tā hái zài gōngzuò. | Errato: 却 va dopo il soggetto.
+ex: 虽然他很累，他**却**还在工作。 | Suīrán tā hěn lèi, tā **què** hái zài gōngzuò. | Benché sia stanco, continua a lavorare.
+no: 不管多忙，都他每天跑步。 | Bùguǎn duō máng, dōu tā měi tiān pǎo bù. | Errato: 都 va dopo il soggetto.
+ex: 不管多忙，他每天**都**跑步。 | Bùguǎn duō máng, tā měi tiān **dōu** pǎo bù. | Per quanto sia impegnato, corre tutti i giorni.
+ex: 即使下雨，我们**也**要去。 | Jíshǐ xià yǔ, wǒmen **yě** yào qù. | Anche se piove, ci andiamo lo stesso.
+ex: 如果你不去，我**也**不去。 | Rúguǒ nǐ bú qù, wǒ **yě** bú qù. | Se non ci vai tu, non ci vado neanch'io.
+
+! Se la seconda proposizione non ha un soggetto espresso, l'avverbio la apre: 如果明天下雨，就不去了。 Questo non contraddice la regola: l'avverbio precede comunque il predicato.
+! Una congiunzione e un avverbio possono comparire insieme nella seconda proposizione, nell'ordine «congiunzione + S + avverbio»: 虽然很贵，但是我还是买了。
+
+### Tabella delle coppie correlative
+
+| Prima proposizione | Seconda proposizione | Rapporto | Esempio |
+| 因为 | 所以 | causa | 因为忙，所以没去 |
+| 由于 | 因此 / 所以 | causa (scritto) | 由于下雨，因此推迟 |
+| 既然 | 就 / 也 / 还 | causa già nota | 既然来了，就坐吧 |
+| 之所以 | 是因为 | causa (scritto) | 之所以迟到，是因为…… |
+| 如果 / 要是 / 假如 | (那么) S + 就 | ipotesi | 要是下雨，就不去 |
+| 要不是 | (就) | ipotesi controfattuale | 要不是你，我就…… |
+| 只要 | 就 | condizione sufficiente | 只要努力，就能成功 |
+| 只有 | 才 | condizione necessaria | 只有努力，才能成功 |
+| 除非 | 才 / 否则 / 不然 | condizione unica | 除非你去，他才去 |
+| 无论 / 不管 | 都 / 也 | condizione indifferente | 不管多忙，都来 |
+| 一旦 | 就 | evento eventuale | 一旦开始，就别停 |
+| 虽然 / 尽管 | 但是 / 可是 / 却 / 还是 | concessione reale | 虽然贵，但是好 |
+| 即使 / 哪怕 / 就算 | 也 | concessione ipotetica | 即使贵，也要买 |
+| 不但 / 不仅 | 而且 / 还 / 也 | progressione | 不但便宜，而且好 |
+| 又 | 又 | coordinazione | 又便宜又好 |
+| 一边 | 一边 | azioni simultanee | 一边吃，一边看 |
+| 不是 | 而是 | correzione | 不是我，而是他 |
+| 不是 | 就是 | alternativa obbligata | 不是下雨，就是刮风 |
+| 要么 | 要么 | alternativa | 要么去，要么留 |
+| 与其 | 不如 | preferenza | 与其等，不如走 |
+| 宁可 | 也不 / 也要 | scelta sofferta | 宁可饿着，也不吃 |
+| 先 | 再 / 然后 | successione | 先吃饭，再走 |
+| 一 | 就 | successione immediata | 一到家，就睡了 |
+| 为了 | — | fine | 为了健康，戒烟了 |
+| 越 | 越 | proporzione | 越说越快 |
+
+### Quando la correlazione è obbligatoria
+
+Nelle coppie con un avverbio correlativo, spesso è la congiunzione iniziale a poter cadere, non l'avverbio. Alcuni avverbi sono obbligatori perché definiscono il rapporto stesso.
+
+| Coppia | Elemento omissibile | Elemento obbligatorio |
+| 因为……所以…… | l'uno o l'altro | almeno uno dei due |
+| 虽然……但是…… | l'uno o l'altro | almeno uno dei due (o 却) |
+| 如果……就…… | 如果 o 就 | almeno uno dei due |
+| 只有……才…… | — | 才 |
+| 无论/不管……都/也…… | — | 都 o 也 |
+| 即使……也…… | — | 也 |
+| 一……就…… | — | entrambi |
+| 越……越…… | — | entrambi |
+
+no: 只有多练习，你会说得流利。 | Zhǐyǒu duō liànxí, nǐ huì shuō de liúlì. | Errato: con 只有 la principale richiede 才.
+ex: 只有多练习，你**才**能说得流利。 | Zhǐyǒu duō liànxí, nǐ **cái** néng shuō de liúlì. | Solo esercitandoti molto riuscirai a parlare in modo scorrevole.
+no: 不管天气怎么样，他去跑步。 | Bùguǎn tiānqì zěnmeyàng, tā qù pǎo bù. | Errato: con 不管 la principale richiede 都 o 也.
+ex: 不管天气怎么样，他**都**去跑步。 | Bùguǎn tiānqì zěnmeyàng, tā **dōu** qù pǎo bù. | Qualunque tempo faccia, va a correre.
+
+! Nel parlato è normale usare una sola parola della coppia: 因为下雨，比赛取消了 oppure 下雨了，所以比赛取消了. Usare sempre la coppia completa 因为……所以…… in frasi brevi rende il discorso pesante.
+
+## La paratassi
+
+Il cinese, soprattutto parlato, accosta spesso le proposizioni senza alcuna congiunzione, lasciando che il rapporto logico emerga dal significato e dal contesto. I grammatici cinesi chiamano questo fenomeno 意合 yìhé («unione per il senso»), in contrapposizione a 形合 xínghé («unione per la forma»), tipico delle lingue europee. In traduzione l'italiano deve spesso esplicitare il rapporto con una congiunzione.
+
+ex: 你不去，我去。 | Nǐ bú qù, wǒ qù. | Se non ci vai tu, ci vado io.
+ex: 天黑了，回家吧。 | Tiān hēi le, huí jiā ba. | Si è fatto buio, torniamo a casa.
+ex: 他病了，没来上课。 | Tā bìng le, méi lái shàng kè. | Era malato, (perciò) non è venuto a lezione.
+ex: 有问题，问老师。 | Yǒu wèntí, wèn lǎoshī. | Se hai dei dubbi, chiedi all'insegnante.
+ex: 东西不贵，质量也不错。 | Dōngxi bú guì, zhìliàng yě búcuò. | La merce non è cara, e anche la qualità è buona.
+ex: 他想去，我不想去。 | Tā xiǎng qù, wǒ bù xiǎng qù. | Lui vuole andarci, io invece no.
+ex: 吃了饭，我们去散步。 | Chī le fàn, wǒmen qù sàn bù. | Dopo aver mangiato andiamo a fare una passeggiata.
+
+| Esempio | Rapporto implicito |
+| 你不去，我去。 | ipotesi (se…) |
+| 天黑了，回家吧。 | causa (siccome…) |
+| 他想去，我不想去。 | contrasto (invece) |
+| 吃了饭，我们去散步。 | successione (dopo…) |
+| 东西不贵，质量也不错。 | aggiunta (e inoltre) |
+
+### Le frasi complesse contratte
+
+Molto spesso il rapporto è segnato soltanto da un avverbio correlativo, senza congiunzione e senza pausa: si parla di frasi complesse contratte (紧缩复句 jǐnsuō fùjù). Sono frequentissime nel parlato e in molte espressioni fisse.
+
+ex: 你去我**就**去。 | Nǐ qù wǒ **jiù** qù. | Se vai tu, vado anch'io.
+ex: 你不说我**也**知道。 | Nǐ bù shuō wǒ **yě** zhīdao. | Anche se non me lo dici, lo so.
+ex: 有空**就**来玩儿。 | Yǒu kòng **jiù** lái wánr. | Quando hai tempo, vieni a trovarci.
+ex: 不去**也**得去。 | Bú qù **yě** děi qù. | Anche se non vuoi, ci devi andare.
+ex: 不见不散。 | Bú jiàn bú sàn. | Ci aspettiamo finché non ci vediamo. (formula per fissare un appuntamento)
+ex: 越快越好。 | Yuè kuài yuè hǎo. | Prima è, meglio è.
+
+! La paratassi è naturale con proposizioni brevi e nel parlato. Con proposizioni lunghe, nello scritto o quando il rapporto potrebbe essere ambiguo, si preferisce esplicitarlo con le parole correlative.
+
+## Congiunzioni tra nomi e tra frasi
+
+### 和, 跟, 与, 及, 以及, 同: congiunzioni tra nomi
+
+和 hé e le congiunzioni affini uniscono **nomi, pronomi e sintagmi nominali**, non proposizioni e, di regola, nemmeno predicati verbali o aggettivali. La «e» italiana ha un uso molto più ampio: è l'origine di uno degli errori più diffusi tra gli studenti italiani.
+
+= N₁ + 和 + N₂
+= N₁、N₂ + 和 + N₃
+
+ex: 我**和**我妹妹都喜欢唱歌。 | Wǒ **hé** wǒ mèimei dōu xǐhuan chàng gē. | Io e mia sorella amiamo cantare.
+ex: 桌子上有书、本子**和**笔。 | Zhuōzi shang yǒu shū, běnzi **hé** bǐ. | Sul tavolo ci sono libri, quaderni e penne.
+ex: 我**跟**小王是同学。 | Wǒ **gēn** Xiǎo Wáng shì tóngxué. | Io e Xiao Wang siamo compagni di classe.
+ex: 我最喜欢的书是《战争**与**和平》。 | Wǒ zuì xǐhuan de shū shì «Zhànzhēng **yǔ** Hépíng». | Il mio libro preferito è «Guerra e pace».
+ex: 会议讨论了教育、医疗**以及**住房等问题。 | Huìyì tǎolùn le jiàoyù, yīliáo **yǐjí** zhùfáng děng wèntí. | La riunione ha discusso questioni come l'istruzione, la sanità e la casa.
+ex: 请带好护照**及**有关材料。 | Qǐng dàihǎo hùzhào **jí** yǒuguān cáiliào. | Si prega di portare il passaporto e i documenti relativi.
+
+| Congiunzione | Registro | Osservazioni |
+| 和 hé | neutro, il più comune | nomi e pronomi |
+| 跟 gēn | parlato, soprattutto al nord | anche preposizione «con» |
+| 同 tóng | parlato del sud; scritto | anche preposizione «con» |
+| 与 yǔ | scritto, titoli | 《战争与和平》 |
+| 及 jí, 以及 yǐjí | scritto | prima dell'ultimo elemento di un elenco |
+
+! In un elenco di tre o più elementi, 和 compare una sola volta, prima dell'ultimo; gli altri sono separati dalla virgola enumerativa 、(顿号 dùnhào).
+! 跟, 同 e 和 sono anche preposizioni («con»): 我跟他说了 «Gliel'ho detto» (vedi il capitolo «Le preposizioni»).
+
+no: 我喜欢唱歌和他喜欢跳舞。 | Wǒ xǐhuan chàng gē hé tā xǐhuan tiào wǔ. | Errato: 和 non unisce due proposizioni.
+ex: 我喜欢唱歌，他喜欢跳舞。 | Wǒ xǐhuan chàng gē, tā xǐhuan tiào wǔ. | A me piace cantare e a lui piace ballare.
+no: 我吃饭和看电视。 | Wǒ chī fàn hé kàn diànshì. | Errato: 和 non unisce due azioni che fanno da predicato.
+ex: 我**一边**吃饭，**一边**看电视。 | Wǒ **yìbiān** chī fàn, **yìbiān** kàn diànshì. | Mangio e intanto guardo la televisione.
+no: 他很聪明和很努力。 | Tā hěn cōngming hé hěn nǔlì. | Errato: 和 non unisce due predicati aggettivali.
+ex: 他很聪明，**也**很努力。 | Tā hěn cōngming, **yě** hěn nǔlì. | È molto intelligente e anche molto diligente.
+no: 我去了超市和买了水果。 | Wǒ qù le chāoshì hé mǎi le shuǐguǒ. | Errato: due azioni successive non si uniscono con 和.
+ex: 我去超市买了水果。 | Wǒ qù chāoshì mǎi le shuǐguǒ. | Sono andato al supermercato e ho comprato della frutta.
+
+! 和 può unire due verbi quando questi funzionano come oggetto o soggetto, cioè come nomi di attività: 我喜欢唱歌和跳舞 «Mi piace cantare e ballare». Nello stile scritto e formale 和 (o 并) può inoltre unire due verbi bisillabici con un oggetto comune: 研究和解决问题 «studiare e risolvere i problemi».
+
+ex: 我喜欢唱歌**和**跳舞。 | Wǒ xǐhuan chàng gē **hé** tiào wǔ. | Mi piace cantare e ballare.
+ex: 我们要认真研究**和**解决这个问题。 | Wǒmen yào rènzhēn yánjiū **hé** jiějué zhège wèntí. | Dobbiamo studiare e risolvere seriamente questo problema.
+
+### Come unire verbi e proposizioni
+
+Per unire predicati e proposizioni si ricorre alla semplice virgola (paratassi), agli avverbi 也, 还, 又 (dopo il soggetto) o alle congiunzioni 而且, 并且, 同时 (all'inizio della seconda proposizione).
+
+| Mezzo | Valore | Esempio breve |
+| virgola | accostamento | 他是老师，她是医生。 |
+| 也 yě | anche (somiglianza) | 他会说英语，也会说法语。 |
+| 还 hái | in più, inoltre | 我买了苹果，还买了香蕉。 |
+| 又 yòu | e inoltre; di nuovo | 他喝了一杯，又喝了一杯。 |
+| 而且 érqiě | e per di più | 很好吃，而且不贵。 |
+| 并且 bìngqiě | e inoltre (più formale) | 同意了，并且开始准备。 |
+| 同时 tóngshí | e al tempo stesso | 发展经济，同时保护环境。 |
+
+ex: 他会说英语，**也**会说法语。 | Tā huì shuō Yīngyǔ, **yě** huì shuō Fǎyǔ. | Sa parlare inglese, e anche francese.
+ex: 我买了苹果，**还**买了香蕉。 | Wǒ mǎi le píngguǒ, **hái** mǎi le xiāngjiāo. | Ho comprato delle mele e anche delle banane.
+ex: 他喝了一杯，**又**喝了一杯。 | Tā hē le yì bēi, **yòu** hē le yì bēi. | Ha bevuto un bicchiere, e poi un altro ancora.
+ex: 这家饭馆的菜很好吃，**而且**不贵。 | Zhè jiā fànguǎn de cài hěn hǎochī, **érqiě** bú guì. | In questo ristorante si mangia bene, e per di più non è caro.
+ex: 他同意了这个计划，**并且**马上开始准备。 | Tā tóngyì le zhège jìhuà, **bìngqiě** mǎshàng kāishǐ zhǔnbèi. | Ha approvato il piano e ha subito cominciato i preparativi.
+ex: 我们要发展经济，**同时**也要保护环境。 | Wǒmen yào fāzhǎn jīngjì, **tóngshí** yě yào bǎohù huánjìng. | Dobbiamo sviluppare l'economia e, al tempo stesso, proteggere l'ambiente.
+
+### 或者 e 还是
+
+Anche la «o» italiana corrisponde a due parole: 或者 huòzhě nelle frasi dichiarative, 还是 háishi nelle domande alternative. Qui basta un richiamo (vedi il capitolo «Le frasi interrogative» e il capitolo «Frasi alternative, avversative e concessive»).
+
+ex: 你可以坐地铁**或者**打车。 | Nǐ kěyǐ zuò dìtiě **huòzhě** dǎ chē. | Puoi prendere la metropolitana o un taxi.
+ex: 你喝茶**还是**喝咖啡？ | Nǐ hē chá **háishi** hē kāfēi? | Bevi tè o caffè?
+ex: 我不知道他去**还是**不去。 | Wǒ bù zhīdao tā qù **háishi** bú qù. | Non so se ci va o no.
+no: 你去或者我去？ | Nǐ qù huòzhě wǒ qù? | Errato: nella domanda alternativa si usa 还是.
+ex: 你去**还是**我去？ | Nǐ qù **háishi** wǒ qù? | Vai tu o vado io?

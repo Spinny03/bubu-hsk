@@ -1,0 +1,120 @@
+## 了₁ e 了₂ insieme
+
+### Quando il verbo chiude la frase
+
+Se dopo il verbo (o dopo il verbo con il suo complemento) non c'è nient'altro, 了₁ e 了₂ si fondono in un unico 了, che indica allo stesso tempo l'azione compiuta e la situazione nuova.
+
+ex: 他走**了**。 | Tā zǒu **le**. | Se n'è andato.
+ex: 我明白**了**。 | Wǒ míngbai **le**. | Ho capito.
+ex: 客人都来**了**。 | Kèrén dōu lái **le**. | Gli ospiti sono arrivati tutti.
+ex: 作业我做完**了**。 | Zuòyè wǒ zuòwán **le**. | I compiti li ho finiti.
+
+### Il doppio 了: un'azione che continua fino a ora
+
+Quando la frase contiene sia 了₁ dopo il verbo sia 了₂ in fondo, con in mezzo una durata o una quantità, il significato cambia in modo importante: la durata o la quantità indicate sono quelle raggiunte *fino a questo momento*, e di solito l'azione continua.
+
+= S + V + 了 + durata + (的) + O + 了
+= S + V + 了 + Num + CL + 了
+
+ex: 我学**了**两年汉语**了**。 | Wǒ xué **le** liǎng nián Hànyǔ **le**. | Studio cinese da due anni. (e continuo a studiarlo)
+ex: 我学**了**两年汉语。 | Wǒ xué **le** liǎng nián Hànyǔ. | Ho studiato cinese per due anni. (periodo concluso)
+ex: 我们在这儿住**了**十年**了**。 | Wǒmen zài zhèr zhù **le** shí nián **le**. | Abitiamo qui da dieci anni.
+ex: 他等**了**你一个小时**了**。 | Tā děng **le** nǐ yí ge xiǎoshí **le**. | Ti sta aspettando da un'ora.
+ex: 我已经吃**了**三个**了**。 | Wǒ yǐjīng chī **le** sān ge **le**. | Ne ho già mangiati tre. (finora, e forse continuo)
+ex: 这本书我看**了**一半**了**。 | Zhè běn shū wǒ kàn **le** yíbàn **le**. | Di questo libro ne ho già letto metà.
+
+! Per un italiano questa è una delle strutture più importanti: il nostro «da + durata» con il presente (*studio cinese da due anni*, *ti aspetto da un'ora*) si rende in cinese con il doppio 了. Con un solo 了₁, invece, la durata è presentata come un periodo chiuso.
+
+### Come scegliere
+
+| Frase | Struttura | Significato |
+| 我买了三本书。 | V + 了₁ + O quantificato | azione compiuta |
+| 我买书了。 | V + O + 了₂ | il fatto è avvenuto (novità) |
+| 我买了三本书了。 | V + 了₁ + Num + CL + O + 了₂ | finora ne ho comprati tre |
+| 他走了。 | V + 了 (了₁ e 了₂ fusi) | se n'è andato |
+| 下雨了。 | frase + 了₂ | situazione nuova |
+| 我学了两年汉语了。 | V + 了₁ + durata + O + 了₂ | studio cinese da due anni |
+
+In pratica:
+
+- se la frase finisce con il verbo (o con verbo + complemento), si mette 了 in fondo;
+- se l'oggetto è quantificato e si racconta un'azione conclusa, si usa 了₁;
+- se si comunica che qualcosa è avvenuto o che la situazione è cambiata, si usa 了₂ in fondo;
+- se una durata o una quantità vale «fino a ora», si usano entrambi.
+
+ex: 我做完作业**了**。 | Wǒ zuòwán zuòyè **le**. | Ho finito i compiti.
+ex: 我做完**了**作业就去睡觉。 | Wǒ zuòwán **le** zuòyè jiù qù shuìjiào. | Appena finiti i compiti vado a dormire.
+ex: 我已经喝**了**两杯咖啡**了**，不能再喝了。 | Wǒ yǐjīng hē **le** liǎng bēi kāfēi **le**, bù néng zài hē le. | Ho già bevuto due caffè, non posso berne altri.
+
+## La negazione: 没(有)
+
+L'azione compiuta si nega con 没(有) méi(yǒu) davanti al verbo; nella frase negativa 了 scompare. 没 è più colloquiale, 没有 un po' più formale o enfatico; in una risposta breve si può dire semplicemente 没有。
+
+= S + 没(有) + V (+ O)
+
+no: 我没去了。 | Wǒ méi qù le. | Errato: con 没 non si usa 了.
+ex: 我**没**去。 | Wǒ **méi** qù. | Non ci sono andato.
+ex: 他**没有**买那本词典。 | Tā **méiyǒu** mǎi nà běn cídiǎn. | Non ha comprato quel dizionario.
+ex: 昨天我**没**看电视。 | Zuótiān wǒ **méi** kàn diànshì. | Ieri non ho guardato la televisione.
+ex: 我今天**没**吃早饭。 | Wǒ jīntiān **méi** chī zǎofàn. | Oggi non ho fatto colazione.
+ex: A：你给他打电话了吗？B：**没有**。 | A: Nǐ gěi tā dǎ diànhuà le ma? B: **Méiyǒu**. | A: Gli hai telefonato? B: No.
+
+! Nella frase negativa l'oggetto è di solito «nudo»: 我没买书。«Non ho comprato libri.» Una quantità compare solo per contrasto: 我没买三本，只买了两本。«Non ne ho comprati tre, ne ho comprati solo due.»
+
+### 还没(有)……呢 = «non ancora»
+
+Per dire che un'azione non è ancora avvenuta (ma ci si aspetta che avvenga) si usa 还没(有), spesso con 呢 in fondo. Anche qui 了 non compare.
+
+= S + 还没(有) + V (+ O) (+ 呢)
+
+no: 我还没吃饭了。 | Wǒ hái méi chī fàn le. | Errato: 还没 non vuole 了.
+ex: 我**还没**吃饭**呢**。 | Wǒ **hái méi** chī fàn **ne**. | Non ho ancora mangiato.
+ex: 他**还没有**来**呢**。 | Tā **hái méiyǒu** lái **ne**. | Non è ancora arrivato.
+ex: 我的护照**还没**办好。 | Wǒ de hùzhào **hái méi** bànhǎo. | Il mio passaporto non è ancora pronto.
+ex: A：电影开始了吗？B：**还没**（**呢**）。 | A: Diànyǐng kāishǐ le ma? B: **Hái méi** (**ne**). | A: È cominciato il film? B: Non ancora.
+
+Anche le frasi con aggettivo + 了₂ si negano in questo modo:
+
+ex: 天黑了。→ 天**还没**黑**呢**。 | Tiān hēi le. → Tiān **hái méi** hēi **ne**. | Si è fatto buio. → Non è ancora buio.
+ex: 他的病好了。→ 他的病**还没**好。 | Tā de bìng hǎo le. → Tā de bìng **hái méi** hǎo. | È guarito. → Non è ancora guarito.
+
+### 不……了 e 没…… a confronto
+
+不 e 没 non sono intercambiabili. 没 nega che un'azione sia avvenuta; 不 nega la volontà, l'abitudine o una situazione in generale; 不……了 indica che qualcosa è cessato o che si è cambiato idea.
+
+| Frase | Significato |
+| 我没去。 | Non ci sono andato. |
+| 我不去。 | Non ci vado. / Non voglio andarci. |
+| 我不去了。 | Non ci vado più. (ho cambiato idea) |
+| 他没抽烟。 | Non ha fumato. (in quell'occasione) |
+| 他不抽烟。 | Non fuma. (abitudine) |
+| 他不抽烟了。 | Non fuma più. |
+
+Anche riferito al passato, 不 indica un rifiuto o un'abitudine, non un'azione mancata:
+
+ex: 昨天我请他来，他**不**来。 | Zuótiān wǒ qǐng tā lái, tā **bù** lái. | Ieri l'ho invitato, ma non ha voluto venire.
+ex: 昨天他**没**来。 | Zuótiān tā **méi** lái. | Ieri non è venuto.
+ex: 他以前**不**喝酒。 | Tā yǐqián **bù** hē jiǔ. | Prima non beveva alcolici.
+
+### Le domande
+
+Per chiedere se un'azione è avvenuta si aggiunge 吗 alla frase con 了, oppure 没有 in fondo; nel parlato è frequente anche la forma V + 没 + V. Nella forma V没V non si usa 了.
+
+= ……了吗？
+= ……了没有？
+= V + 没 + V (+ O)？
+
+ex: 你吃饭**了吗**？ | Nǐ chī fàn **le ma**? | Hai mangiato?
+ex: 你吃饭**了没有**？ | Nǐ chī fàn **le méiyǒu**? | Hai mangiato o no?
+ex: 你**吃没吃**饭？ | Nǐ **chī méi chī** fàn? | Hai mangiato o no?
+ex: 他来**了没有**？ | Tā lái **le méiyǒu**? | È arrivato?
+ex: 你看**了**那个电影**没有**？ | Nǐ kàn **le** nàge diànyǐng **méiyǒu**? | L'hai visto quel film?
+
+no: 你看没看了那本书？ | Nǐ kàn méi kàn le nà běn shū? | Errato: nella forma V没V non si usa 了.
+ex: 你**看没看**那本书？ | Nǐ **kàn méi kàn** nà běn shū? | L'hai letto quel libro o no?
+
+Nelle risposte affermative si ripete il verbo con 了; in quelle negative si usa 没(有) + verbo, oppure 还没(呢).
+
+ex: A：作业你写完了没有？B：写完**了**。 | A: Zuòyè nǐ xiěwán le méiyǒu? B: Xiěwán **le**. | A: Hai finito i compiti? B: Sì, li ho finiti.
+ex: A：作业你写完了没有？B：**还没**写完**呢**。 | A: Zuòyè nǐ xiěwán le méiyǒu? B: **Hái méi** xiěwán **ne**. | A: Hai finito i compiti? B: Non ancora.
+ex: A：你去银行了吗？B：**没**去，明天去。 | A: Nǐ qù yínháng le ma? B: **Méi** qù, míngtiān qù. | A: Sei andato in banca? B: No, ci vado domani.

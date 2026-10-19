@@ -1,0 +1,108 @@
+# Il complemento di direzione
+
+Il complemento di direzione (趋向补语 qūxiàng bǔyǔ) segue un verbo di movimento o di spostamento e indica in quale direzione si svolge l'azione: verso chi parla o lontano da lui, in su o in giù, dentro o fuori… Oltre a questo valore concreto, molti complementi di direzione hanno sviluppato significati figurati di grande frequenza. Quando non sono accentati, i complementi di direzione si pronunciano in tono neutro (拿来 nálai, 走进来 zǒu jinlai).
+
+## Il complemento di direzione semplice: 来 e 去
+
+来 lái indica un movimento verso chi parla (o verso il punto di riferimento della frase); 去 qù un movimento che si allontana da chi parla. Si collocano dopo il verbo e corrispondono all'opposizione italiana tra «venire» e «andare», «portare (qui)» e «portare (là)».
+
+= S + V + 来 / 去
+
+ex: 他把书**拿来**了。 | Tā bǎ shū **nálai** le. | Ha portato qui il libro.
+ex: 明天我把照片**带去**。 | Míngtiān wǒ bǎ zhàopiàn **dàiqu**. | Domani porto (là) le foto.
+ex: 妈妈给我**寄来**了一个包裹。 | Māma gěi wǒ **jìlai** le yí ge bāoguǒ. | La mamma mi ha spedito un pacco.
+ex: 这本书你**拿去**看吧。 | Zhè běn shū nǐ **náqu** kàn ba. | Questo libro prendilo pure e leggilo.
+ex: 他已经**回去**了。 | Tā yǐjīng **huíqu** le. | È già tornato a casa sua (là).
+
+### 来 e 去 dopo i verbi di direzione
+
+Anche i verbi di direzione 上 «salire», 下 «scendere», 进 «entrare», 出 «uscire», 回 «tornare», 过 «passare, attraversare» e 起 «alzarsi» possono essere seguiti da 来 o 去. La scelta dipende sempre dalla posizione di chi parla.
+
+ex: 你**上来**吧！ | Nǐ **shànglai** ba! | Sali! (chi parla è di sopra)
+ex: 你**上去**吧，我在楼下等你。 | Nǐ **shàngqu** ba, wǒ zài lóu xià děng nǐ. | Sali pure, io ti aspetto giù.
+ex: 请**进来**！ | Qǐng **jìnlai**! | Entra, prego! (chi parla è dentro)
+ex: 我们**进去**看看吧。 | Wǒmen **jìnqu** kànkan ba. | Entriamo a dare un'occhiata.
+ex: 他**出去**了，不在家。 | Tā **chūqu** le, bú zài jiā. | È uscito, non è in casa.
+ex: 快**下来**吃饭！ | Kuài **xiàlai** chī fàn! | Scendi a mangiare, presto!
+
+! In italiano la scelta tra «vieni» e «vai» non sempre coincide con quella cinese: al telefono diciamo «vengo da te», ma in cinese, se chi parla non è nel luogo di arrivo, si usa 去: 我明天去你家。«Domani vengo a casa tua.»
+
+## Il complemento di direzione composto
+
+Combinando 上, 下, 进, 出, 回, 过, 起 con 来 o 去 si ottengono i complementi di direzione composti, che indicano allo stesso tempo la direzione del movimento e la sua relazione con chi parla. Fa eccezione 起, che si combina soltanto con 来: 起去 non esiste.
+
+| C₁ | + 来 | + 去 | Direzione |
+| 上 | 上来 shànglai | 上去 shàngqu | verso l'alto |
+| 下 | 下来 xiàlai | 下去 xiàqu | verso il basso |
+| 进 | 进来 jìnlai | 进去 jìnqu | verso l'interno |
+| 出 | 出来 chūlai | 出去 chūqu | verso l'esterno |
+| 回 | 回来 huílai | 回去 huíqu | di ritorno |
+| 过 | 过来 guòlai | 过去 guòqu | attraverso, verso un punto |
+| 起 | 起来 qǐlai | non esiste | dal basso verso l'alto |
+
+= S + V + C₁ + 来 / 去
+
+ex: 他**走进来**了。 | Tā **zǒu jinlai** le. | È entrato. (verso di noi)
+ex: 孩子们**跑出去**了。 | Háizimen **pǎo chuqu** le. | I bambini sono corsi fuori.
+ex: 请大家**站起来**。 | Qǐng dàjiā **zhàn qilai**. | Alzatevi tutti in piedi, per favore.
+ex: 你的书我**拿回来**了。 | Nǐ de shū wǒ **ná huilai** le. | Il tuo libro l'ho ripreso. (e l'ho qui)
+ex: 他很快就**爬上去**了。 | Tā hěn kuài jiù **pá shangqu** le. | Si è arrampicato su in un attimo.
+ex: 一只小狗**跑过来**了。 | Yì zhī xiǎo gǒu **pǎo guolai** le. | Un cagnolino è corso verso di noi.
+ex: 他从楼上**走下来**了。 | Tā cóng lóu shang **zǒu xialai** le. | È sceso dal piano di sopra.
+ex: 鸟**飞过去**了。 | Niǎo **fēi guoqu** le. | L'uccello è volato via (oltre).
+
+I verbi che si combinano più spesso con i complementi di direzione sono i verbi di movimento (走, 跑, 飞, 爬, 跳, 游, 开) e i verbi che indicano lo spostamento di un oggetto (拿, 带, 搬, 送, 寄, 递, 扔, 拉, 推).
+
+### I complementi semplici 上, 下, 进, 出, 回, 过, 起
+
+Anche C₁ può comparire da solo dopo il verbo, senza 来 o 去, soprattutto quando segue un oggetto di luogo. Questo uso è frequente nella lingua scritta e nella narrazione.
+
+ex: 他**走进**教室。 | Tā **zǒu jìn** jiàoshì. | Entra in classe.
+ex: 我们**爬上**了山顶。 | Wǒmen **pá shàng** le shāndǐng. | Siamo saliti fino in cima alla montagna.
+ex: 他**跑出**了大门。 | Tā **pǎo chū** le dàmén. | È corso fuori dal portone.
+
+## La posizione dell'oggetto
+
+### Oggetti di luogo
+
+Se l'oggetto indica un luogo, si colloca sempre prima di 来 / 去: dopo il verbo di direzione, oppure tra C₁ e 来 / 去 nel complemento composto. Non può mai seguire 来 o 去.
+
+= S + 进 / 出 / 上 / 下 / 回 / 过 + Luogo + 来 / 去
+= S + V + C₁ + Luogo + 来 / 去
+
+ex: 他**进**教室**来**了。 | Tā **jìn** jiàoshì **lai** le. | È entrato in classe.
+ex: 我想**回**家**去**。 | Wǒ xiǎng **huí** jiā **qu**. | Voglio tornare a casa.
+ex: 老师**走进**教室**来**了。 | Lǎoshī **zǒu jìn** jiàoshì **lai** le. | L'insegnante è entrato in classe.
+ex: 他们**跑上**楼**去**了。 | Tāmen **pǎo shàng** lóu **qu** le. | Sono corsi su al piano di sopra.
+ex: 你**回**宿舍**去**休息吧。 | Nǐ **huí** sùshè **qu** xiūxi ba. | Torna in dormitorio a riposarti.
+ex: 汽车**开进**学校**来**了。 | Qìchē **kāi jìn** xuéxiào **lai** le. | La macchina è entrata nella scuola.
+
+no: 他进来教室了。 | Tā jìnlai jiàoshì le. | Errato: l'oggetto di luogo va prima di 来.
+no: 老师走进来教室了。 | Lǎoshī zǒu jinlai jiàoshì le. | Errato: l'oggetto di luogo va tra 进 e 来.
+ex: 老师**走进**教室**来**了。 | Lǎoshī **zǒu jìn** jiàoshì **lai** le. | L'insegnante è entrato in classe.
+
+### Oggetti che indicano cose
+
+Se l'oggetto è una cosa (o una persona) che si sposta, può collocarsi prima o dopo 来 / 去. La posizione dopo 来 / 去 si usa soprattutto per azioni già compiute, spesso con 了; per richieste, ordini e azioni non ancora avvenute si preferisce la posizione prima di 来 / 去.
+
+= S + V + (C₁) + 来 / 去 + (了) + O
+= S + V + (C₁) + O + 来 / 去
+
+ex: 他**带来**了一本书。 | Tā **dàilai** le yì běn shū. | Ha portato un libro.
+ex: 他**带**了一本书**来**。 | Tā **dài** le yì běn shū **lai**. | Ha portato un libro.
+ex: 他**拿出来**一本书。 | Tā **ná chulai** yì běn shū. | Ha tirato fuori un libro.
+ex: 他**拿出**一本书**来**。 | Tā **ná chū** yì běn shū **lai**. | Ha tirato fuori un libro.
+ex: 外面下雨了，你**带**一把伞**去**吧。 | Wàimiàn xià yǔ le, nǐ **dài** yì bǎ sǎn **qu** ba. | Fuori piove, porta con te un ombrello.
+ex: 请你**拿**几个杯子**来**。 | Qǐng nǐ **ná** jǐ ge bēizi **lai**. | Porta qui qualche bicchiere, per favore.
+ex: 朋友从中国**寄来**了很多照片。 | Péngyou cóng Zhōngguó **jìlai** le hěn duō zhàopiàn. | Un amico mi ha spedito dalla Cina molte fotografie.
+
+Con un oggetto determinato, molto spesso si preferisce la costruzione con 把 o l'anteposizione dell'oggetto:
+
+ex: 他**把**照片**拿出来**了。 | Tā **bǎ** zhàopiàn **ná chulai** le. | Ha tirato fuori le fotografie.
+ex: 那本书我已经**还回去**了。 | Nà běn shū wǒ yǐjīng **huán huiqu** le. | Quel libro l'ho già restituito.
+
+| Tipo di oggetto | Posizione | Esempio |
+| luogo | sempre prima di 来 / 去 | 走进教室来 |
+| cosa (azione compiuta) | prima o dopo 来 / 去 | 拿出一本书来 / 拿出来一本书 |
+| cosa (richiesta, futuro) | di preferenza prima di 来 / 去 | 带一把伞去 |
+| cosa determinata | spesso con 把 o anteposta | 把照片拿出来 |

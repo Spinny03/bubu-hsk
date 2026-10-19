@@ -1,0 +1,117 @@
+## Il passivo senza marcatore (意义被动句)
+
+Quando il soggetto è inanimato e non può essere l'agente dell'azione, il cinese di solito non usa alcun marcatore: il paziente si colloca all'inizio della frase come tema, seguito dal verbo con il suo complemento. È il cosiddetto passivo «di significato» o nozionale (意义被动句 yìyì bèidòngjù), il modo più comune di esprimere il senso passivo per gli eventi neutri o positivi.
+
+= S (paziente) + V + altri elementi
+
+ex: 饭做好了。 | Fàn zuòhǎo le. | Il pranzo è pronto. (lett. il pasto fare-pronto)
+ex: 信寄走了。 | Xìn jìzǒu le. | La lettera è stata spedita.
+ex: 这本书已经卖完了。 | Zhè běn shū yǐjīng màiwán le. | Questo libro è esaurito.
+ex: 问题解决了。 | Wèntí jiějué le. | Il problema è stato risolto.
+ex: 房子盖好了。 | Fángzi gàihǎo le. | La casa è stata costruita.
+ex: 作业写完了吗？ | Zuòyè xiěwán le ma? | Hai finito i compiti? (lett. i compiti scrivere-finito?)
+ex: 票都卖光了。 | Piào dōu màiguāng le. | I biglietti sono andati tutti esauriti.
+ex: 会议推迟到明天了。 | Huìyì tuīchí dào míngtiān le. | La riunione è stata rinviata a domani.
+
+### Quando si preferisce il 被
+
+Il 被 (o 叫, 让) è preferibile, o necessario, nei casi seguenti:
+- quando si vuole esprimere l'agente: 杯子被弟弟打破了;
+- quando il soggetto è animato e senza 被 potrebbe essere scambiato per l'agente: 他被打了 «è stato picchiato» ≠ 他打了 «ha picchiato»;
+- quando si vuole sottolineare che l'evento è spiacevole o inatteso: 我的钱包被偷了;
+- nello scritto formale, con verbi bisillabi come 认为, 称为, 选为.
+
+ex: 小偷**被**警察抓住了。 | Xiǎotōu **bèi** jǐngchá zhuāzhù le. | Il ladro è stato preso dalla polizia.
+ex: 他**被**公司开除了。 | Tā **bèi** gōngsī kāichú le. | È stato licenziato dall'azienda.
+
+### Non abusare del 被
+
+L'italiano usa il passivo e il «si» impersonale molto più del cinese. Tradurli sempre con 被 produce frasi innaturali o sbagliate: per gli eventi neutri si usa il passivo senza marcatore, per le affermazioni generali la frase attiva (con 人们, 大家 o un soggetto preciso), per «essere apprezzato» espressioni come 受欢迎.
+
+no: 饭被做好了。 | Fàn bèi zuòhǎo le. | Innaturale: per un evento neutro con soggetto inanimato non serve 被.
+ex: 饭做好了。 | Fàn zuòhǎo le. | Il pranzo è pronto.
+no: 这件衣服被洗干净了。 | Zhè jiàn yīfu bèi xǐ gānjìng le. | Innaturale: basta il passivo senza marcatore.
+ex: 这件衣服洗干净了。 | Zhè jiàn yīfu xǐ gānjìng le. | Questo vestito è stato lavato bene.
+no: 汉语在中国被说。 | Hànyǔ zài Zhōngguó bèi shuō. | Errato: calco di «in Cina si parla cinese».
+ex: 中国人说汉语。 | Zhōngguórén shuō Hànyǔ. | In Cina si parla cinese. (lett. i cinesi parlano cinese)
+no: 这家饭馆被很多人喜欢。 | Zhè jiā fànguǎn bèi hěn duō rén xǐhuan. | Innaturale: per «essere apprezzato» si usa 受欢迎.
+ex: 这家饭馆很受欢迎。 | Zhè jiā fànguǎn hěn shòu huānyíng. | Questo ristorante è molto apprezzato.
+
+## Altri modi di esprimere il passivo
+
+### 由
+
+由 yóu introduce chi ha la responsabilità o il compito di fare qualcosa: «a cura di, da parte di, spetta a». Non ha alcuna sfumatura negativa e il verbo, spesso bisillabo, può stare da solo. Con verbi come 组成, 构成 indica di che cosa è composto qualcosa.
+
+= S + 由 + agente + V
+
+ex: 这件事**由**我负责。 | Zhè jiàn shì **yóu** wǒ fùzé. | Di questa faccenda mi occupo io.
+ex: 晚会**由**小王主持。 | Wǎnhuì **yóu** Xiǎo Wáng zhǔchí. | La serata sarà presentata da Xiao Wang.
+ex: 这本书**由**北京大学出版社出版。 | Zhè běn shū **yóu** Běijīng Dàxué chūbǎnshè chūbǎn. | Questo libro è pubblicato dalla casa editrice dell'Università di Pechino.
+ex: 水**由**氢和氧组成。 | Shuǐ **yóu** qīng hé yǎng zǔchéng. | L'acqua è composta da idrogeno e ossigeno.
+
+### 受(到)
+
+受 shòu e 受到 shòudào significano «ricevere, subire» e reggono un nome o un verbo nominalizzato; l'evento può essere positivo (欢迎, 表扬, 重视) o negativo (批评, 影响, 伤害). L'agente si esprime come attributo con 的.
+
+= S + 受(到) + (agente + 的) + N/V
+
+ex: 这个电影很**受**欢迎。 | Zhège diànyǐng hěn **shòu** huānyíng. | Questo film ha molto successo. (lett. riceve molta accoglienza)
+ex: 他**受到**了老师的表扬。 | Tā **shòudào** le lǎoshī de biǎoyáng. | È stato lodato dall'insegnante.
+ex: 农业**受到**了很大的影响。 | Nóngyè **shòudào** le hěn dà de yǐngxiǎng. | L'agricoltura ne è stata fortemente colpita.
+ex: 他在事故中**受**了伤。 | Tā zài shìgù zhōng **shòu** le shāng. | È rimasto ferito nell'incidente.
+
+### 遭(到)
+
+遭 zāo e 遭到 zāodào «subire, incorrere in» si usano solo per eventi negativi (拒绝, 反对, 破坏, 批评, 失败) e appartengono a un registro piuttosto formale.
+
+= S + 遭(到) + (agente + 的) + N/V
+
+ex: 他的要求**遭到**了拒绝。 | Tā de yāoqiú **zāodào** le jùjué. | La sua richiesta è stata respinta.
+ex: 这个计划**遭到**了很多人的反对。 | Zhège jìhuà **zāodào** le hěn duō rén de fǎnduì. | Questo progetto ha incontrato l'opposizione di molti.
+ex: 森林**遭到**了严重的破坏。 | Sēnlín **zāodào** le yánzhòng de pòhuài. | La foresta ha subito gravi danni.
+
+### 挨
+
+挨 ái «prendersi, buscarsi» è colloquiale e si usa con punizioni e sofferenze: 挨打 «prenderle», 挨骂 «essere sgridato», 挨批评 «essere rimproverato», 挨饿 «patire la fame», 挨罚 «essere punito».
+
+ex: 他小时候常常**挨**打。 | Tā xiǎo shíhou chángcháng **ái** dǎ. | Da piccolo le prendeva spesso.
+ex: 你这么晚回家，不怕**挨**骂吗？ | Nǐ zhème wǎn huí jiā, bú pà **ái** mà ma? | Torni a casa così tardi: non hai paura di essere sgridato?
+ex: 我今天**挨**了老板的批评。 | Wǒ jīntiān **ái** le lǎobǎn de pīpíng. | Oggi mi sono preso una sgridata dal capo.
+
+### 为……所
+
+为 wéi + agente + 所 suǒ + V è una costruzione della lingua scritta, di origine classica. Esiste anche la variante 被……所.
+
+= S + 为/被 + agente + 所 + V
+
+ex: 这首歌**为**人们**所**喜爱。 | Zhè shǒu gē **wéi** rénmen **suǒ** xǐ'ài. | Questa canzone è amata dalla gente.
+ex: 他的作品**为**广大读者**所**熟悉。 | Tā de zuòpǐn **wéi** guǎngdà dúzhě **suǒ** shúxī. | Le sue opere sono note al vasto pubblico dei lettori.
+ex: 我们不能**为**表面现象**所**迷惑。 | Wǒmen bù néng **wéi** biǎomiàn xiànxiàng **suǒ** míhuò. | Non dobbiamo lasciarci ingannare dalle apparenze.
+ex: 大家都**被**他的故事**所**感动。 | Dàjiā dōu **bèi** tā de gùshi **suǒ** gǎndòng. | Tutti sono stati commossi dalla sua storia.
+
+### 是……的
+
+Per mettere in evidenza l'autore di un'azione già avvenuta si usa spesso la costruzione 是……的, che in italiano corrisponde a un passivo o a una frase scissa (vedi il capitolo «La costruzione 是……的»).
+
+ex: 这本书**是**鲁迅写**的**。 | Zhè běn shū **shì** Lǔ Xùn xiě **de**. | Questo libro è stato scritto da Lu Xun.
+ex: 这些照片**是**我爸爸拍**的**。 | Zhèxiē zhàopiàn **shì** wǒ bàba pāi **de**. | Queste foto le ha scattate mio padre.
+ex: 这个菜**是**谁做**的**？ | Zhège cài **shì** shéi zuò **de**? | Chi ha cucinato questo piatto?
+
+### 被 + V lessicalizzato
+
+Alcune parole composte contengono 被 come elemento fisso: 被迫 bèipò «essere costretto», 被动 bèidòng «passivo», 被捕 bèibǔ «essere arrestato», 被告 bèigào «imputato». Nella lingua di Internet si è diffuso un uso ironico di 被 davanti a verbi intransitivi o aggettivi, per indicare qualcosa che viene imposto: 被自愿 «volontario per forza».
+
+ex: 他**被迫**离开了自己的国家。 | Tā **bèipò** líkāi le zìjǐ de guójiā. | È stato costretto a lasciare il suo paese.
+ex: 我们不能总是**被动**地等待。 | Wǒmen bù néng zǒngshì **bèidòng** de děngdài. | Non possiamo sempre aspettare passivamente.
+ex: 那个小偷昨天**被捕**了。 | Nàge xiǎotōu zuótiān **bèibǔ** le. | Quel ladro è stato arrestato ieri.
+
+| Mezzo | Valore | Esempio |
+| 被 | neutro o negativo | 钱包被偷了 |
+| 叫, 让, 给 | parlato | 叫人偷了 |
+| senza marcatore | eventi neutri | 饭做好了 |
+| 由 | chi è responsabile | 由我负责 |
+| 受(到) | positivo o negativo | 受欢迎 |
+| 遭(到) | negativo, formale | 遭到拒绝 |
+| 挨 | punizioni, parlato | 挨骂 |
+| 为……所 | scritto | 为人们所喜爱 |

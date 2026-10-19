@@ -1,0 +1,101 @@
+## La reduplicazione del verbo
+
+Molti verbi d'azione possono essere ripetuti (动词重叠 dòngcí chóngdié «reduplicazione del verbo») per indicare che l'azione è breve, leggera, fatta «un po'» o «per provare». La reduplicazione rende anche il tono più cortese e rilassato ed è frequentissima nel parlato, soprattutto in richieste, suggerimenti e intenzioni.
+
+### Le forme
+
+= AA (verbi monosillabici: 看看)
+= A一A (verbi monosillabici: 看一看)
+= A了A (azione breve già compiuta: 看了看)
+= ABAB (verbi bisillabici: 研究研究)
+= AAB (verbi separabili: 散散步)
+
+| Forma | Esempio | Pinyin | Uso |
+| AA | 看看, 试试, 想想 | kànkan, shìshi, xiǎngxiang | monosillabi; presente, futuro |
+| A一A | 看一看, 试一试 | kàn yi kàn, shì yi shì | monosillabi; tono più disteso |
+| A了A | 看了看, 想了想 | kàn le kàn, xiǎng le xiǎng | azione breve compiuta |
+| ABAB | 研究研究, 休息休息 | yánjiū yánjiū, xiūxi xiūxi | verbi bisillabici |
+| AAB | 散散步, 聊聊天 | sànsan bù, liáoliao tiān | verbi separabili |
+
+! Nella forma AA la seconda sillaba ha il tono neutro (kànkan, wènwen); nella forma A一A anche 一 è atono (kàn yi kàn). I verbi bisillabici si reduplicano sempre come ABAB, mai come AABB: 休息休息, non 休休息息 (la forma AABB è tipica degli aggettivi: vedi la sezione «La reduplicazione dell'aggettivo»).
+
+### AA e A一A
+
+Le due forme sono quasi equivalenti; A一A è un po' più disteso e insistito, ed è possibile solo con i verbi monosillabici.
+
+ex: 你**看看**这本书，很有意思。 | Nǐ **kànkan** zhè běn shū, hěn yǒu yìsi. | Dai un'occhiata a questo libro, è molto interessante.
+ex: 我**想想**再告诉你。 | Wǒ **xiǎngxiang** zài gàosu nǐ. | Ci penso un attimo e poi te lo dico.
+ex: 你**尝尝**我做的菜。 | Nǐ **chángchang** wǒ zuò de cài. | Assaggia il piatto che ho cucinato.
+ex: 这件衣服你可以**试一试**。 | Zhè jiàn yīfu nǐ kěyǐ **shì yi shì**. | Questo vestito puoi provarlo.
+ex: 我**问问**老师吧。 | Wǒ **wènwen** lǎoshī ba. | Sento un po' cosa dice l'insegnante.
+ex: 你能帮我**看一看**吗？ | Nǐ néng bāng wǒ **kàn yi kàn** ma? | Puoi darci un'occhiata per me?
+
+### ABAB
+
+ex: 请大家**休息休息**。 | Qǐng dàjiā **xiūxi xiūxi**. | Riposatevi un po', tutti quanti.
+ex: 这个问题我们**研究研究**再决定。 | Zhège wèntí wǒmen **yánjiū yánjiū** zài juédìng. | Esaminiamo un po' la questione e poi decidiamo.
+ex: 你给我们**介绍介绍**你的家乡吧。 | Nǐ gěi wǒmen **jièshào jièshào** nǐ de jiāxiāng ba. | Raccontaci un po' del tuo paese natale.
+ex: 我得**考虑考虑**。 | Wǒ děi **kǎolǜ kǎolǜ**. | Devo pensarci un po' su.
+ex: 周末我要把房间**收拾收拾**。 | Zhōumò wǒ yào bǎ fángjiān **shōushi shōushi**. | Nel fine settimana voglio dare una sistemata alla camera.
+
+### A了A
+
+La forma A了A indica un'azione breve già avvenuta ed è molto usata nella narrazione, spesso per gesti e reazioni.
+
+ex: 他**看了看**表，说：“我得走了。” | Tā **kàn le kàn** biǎo, shuō: “Wǒ děi zǒu le.” | Diede un'occhiata all'orologio e disse: «Devo andare.»
+ex: 她**笑了笑**，没说话。 | Tā **xiào le xiào**, méi shuōhuà. | Fece un sorriso e non disse nulla.
+ex: 老师**点了点**头。 | Lǎoshī **diǎn le diǎn** tóu. | L'insegnante annuì.
+ex: 我**想了想**，还是决定不去了。 | Wǒ **xiǎng le xiǎng**, háishi juédìng bú qù le. | Ci ho pensato un po' e alla fine ho deciso di non andare.
+
+### Significati e usi
+
+- Azione breve o di poca intensità: 等等 «aspetta un attimo», 走走 «fare due passi».
+- Tentativo: 试试 «provare», 尝尝 «assaggiare», 问问 «provare a chiedere».
+- Cortesia: la reduplicazione attenua richieste e inviti, che suonano meno perentori.
+- Attività rilassate e abituali del tempo libero, spesso elencate in serie.
+
+ex: 周末我常常在家**看看书**、**听听音乐**。 | Zhōumò wǒ chángcháng zài jiā **kànkan shū**, **tīngting yīnyuè**. | Nel fine settimana spesso resto a casa a leggere e ad ascoltare un po' di musica.
+ex: 退休以后，爷爷每天**养养花**、**散散步**。 | Tuìxiū yǐhòu, yéye měi tiān **yǎngyang huā**, **sànsan bù**. | Da quando è in pensione, il nonno ogni giorno cura i fiori e fa due passi.
+
+### Restrizioni
+
+- Si reduplicano solo i verbi che indicano un'azione controllabile dal soggetto. Non si reduplicano 是, 有, 在, 像, 姓, 知道, 喜欢, 觉得, 认为, 希望, né i verbi di risultato come 看见 o 听见.
+
+no: 我想知道知道。 | Wǒ xiǎng zhīdao zhīdao. | Errato: 知道 indica uno stato e non si reduplica.
+ex: 我想**了解了解**情况。 | Wǒ xiǎng **liǎojiě liǎojiě** qíngkuàng. | Vorrei farmi un'idea della situazione.
+no: 你看见看见。 | Nǐ kànjiàn kànjiàn. | Errato: 看见 indica un risultato e non si reduplica.
+ex: 你**看看**。 | Nǐ **kànkan**. | Guarda un po'.
+
+- Il verbo reduplicato non si usa con l'aspetto progressivo (在, 正在) né con 着.
+
+no: 他正在看看书。 | Tā zhèngzài kànkan shū. | Errato: il verbo reduplicato non si combina con 正在.
+ex: 他正在**看书**。 | Tā zhèngzài **kàn shū**. | Sta leggendo.
+
+- Il verbo reduplicato non prende complementi (di risultato, di grado, di direzione, di quantità), e 了 compare solo nella forma A了A.
+
+no: 我等等了你一个小时。 | Wǒ děngdeng le nǐ yí ge xiǎoshí. | Errato: il verbo reduplicato non prende complementi di durata.
+ex: 我**等了**你一个小时。 | Wǒ **děng le** nǐ yí ge xiǎoshí. | Ti ho aspettato un'ora.
+no: 我看看了。 | Wǒ kànkan le. | Errato: per l'azione compiuta si usa A了A.
+ex: 我**看了看**。 | Wǒ **kàn le kàn**. | Ho dato un'occhiata.
+
+- Nelle frasi dichiarative negative la reduplicazione è rara; è invece normale nelle domande negative che equivalgono a un suggerimento.
+
+no: 我不看看。 | Wǒ bú kànkan. | Errato: di norma la reduplicazione non si nega.
+ex: 我**不看**。 | Wǒ **bú kàn**. | Non guardo.
+ex: 你为什么不**问问**老师？ | Nǐ wèi shénme bú **wènwen** lǎoshī? | Perché non chiedi all'insegnante?
+
+### L'alternativa con 一下
+
+Un effetto molto simile si ottiene con V + 一下 yíxià «una volta, un attimo» (vedi il capitolo «I complementi di quantità»). 一下 è compatibile anche con 了 e si usa con alcuni verbi che non si reduplicano volentieri (打扰 «disturbare», 让 «fare spazio»). Non si combina però con il verbo reduplicato.
+
+= V + 一下 (+ O)
+
+ex: 请等**一下**。 | Qǐng děng **yíxià**. | Aspetti un attimo, per favore.
+ex: 我来介绍**一下**，这位是李老师。 | Wǒ lái jièshào **yíxià**, zhè wèi shì Lǐ lǎoshī. | Vi presento il professor Li.
+ex: 你看**一下**这个句子对不对。 | Nǐ kàn **yíxià** zhège jùzi duì bu duì. | Guarda un attimo se questa frase è corretta.
+ex: 我昨天看了**一下**，没发现问题。 | Wǒ zuótiān kàn le **yíxià**, méi fāxiàn wèntí. | Ieri ci ho dato un'occhiata e non ho trovato problemi.
+ex: 打扰**一下**，请问洗手间在哪儿？ | Dǎrǎo **yíxià**, qǐngwèn xǐshǒujiān zài nǎr? | Scusi il disturbo, dov'è il bagno?
+
+no: 你看看一下。 | Nǐ kànkan yíxià. | Errato: 一下 non si aggiunge al verbo reduplicato.
+ex: 你**看一下**。 | Nǐ **kàn yíxià**. | Dai un'occhiata.
+ex: 你**看看**。 | Nǐ **kànkan**. | Dai un'occhiata.

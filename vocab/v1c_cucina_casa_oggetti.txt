@@ -1,0 +1,105 @@
+@ Cucina e ristorante | 🍳
+饭店 | fàndiàn | ristorante, hotel (家) | - | 1
+餐厅 | cāntīng | ristorante, mensa (家) | - | 4
+菜单 | càidān | menu (份) | - | 3
+服务员 | fúwùyuán | cameriere | 🤵 | 2
+点菜 | diǎn cài | ordinare (piatti) | 📝 | 3
+买单 | mǎidān | pagare il conto | 🧾 | 4
+筷子 | kuàizi | bacchette (双) | 🥢 | 3
+碗 | wǎn | ciotola, scodella | 🥣 | 3
+盘子 | pánzi | piatto (stoviglia) | 🍽️ | 3
+杯子 | bēizi | bicchiere, tazza | 🥃 | 1
+勺子 | sháozi | cucchiaio (把) | 🥄 | 4
+刀 | dāo | coltello (把) | 🔪 | 4
+叉子 | chāzi | forchetta (把) | 🍴 | 4
+做饭 | zuò fàn | cucinare | 🧑‍🍳 | 2
+厨师 | chúshī | cuoco | 🧑‍🍳 | 4
+厨房 | chúfáng | cucina (stanza) (间) | - | 4
+锅 | guō | pentola, padella, wok (口) | 🥘 | 4
+炒 | chǎo | saltare in padella | - | 4
+煮 | zhǔ | bollire, lessare | - | 4
+烤 | kǎo | arrostire, cuocere al forno | - | 4
+切 | qiē | tagliare | - | 4
+洗碗 | xǐ wǎn | lavare i piatti | - | 3
+味道 | wèidao | sapore, gusto | 👅 | 4
+酱油 | jiàngyóu | salsa di soia | - | 4
+醋 | cù | aceto | - | 4
+油 | yóu | olio | - | 4
+位子 | wèizi | posto (a sedere) | 💺 | 4
+外卖 | wàimài | cibo da asporto | 🛵 | 4
+打包 | dǎbāo | incartare, portare via | 🥡 | 4
+请客 | qǐng kè | offrire (pagare per altri) | - | 4
+小费 | xiǎofèi | mancia (笔) | - | 4
+@ Casa e mobili | 🏠
+房子 | fángzi | casa, edificio (套/栋) | 🏡 | 3
+房间 | fángjiān | stanza, camera (间) | - | 2
+门 | mén | porta (扇) | 🚪 | 2
+窗户 | chuānghu | finestra (扇) | 🪟 | 4
+床 | chuáng | letto (张) | 🛏️ | 2
+桌子 | zhuōzi | tavolo (张) | - | 1
+椅子 | yǐzi | sedia (把) | 🪑 | 1
+沙发 | shāfā | divano (张/套) | 🛋️ | 4
+电视 | diànshì | televisione (台) | 📺 | 1
+冰箱 | bīngxiāng | frigorifero (台) | - | 3
+空调 | kōngtiáo | condizionatore (台) | - | 3
+洗手间 | xǐshǒujiān | bagno, toilette | 🚻 | 3
+厕所 | cèsuǒ | gabinetto | 🚽 | 4
+浴室 | yùshì | stanza da bagno (间) | 🛁 | 4
+淋浴 | línyù | doccia | 🚿 | 4
+客厅 | kètīng | soggiorno, salotto (间) | - | 4
+卧室 | wòshì | camera da letto (间) | - | 4
+楼 | lóu | piano, edificio (层/栋) | 🏢 | 3
+楼梯 | lóutī | scale | - | 4
+电梯 | diàntī | ascensore (部) | 🛗 | 3
+灯 | dēng | lampada, luce (盏) | 💡 | 3
+钥匙 | yàoshi | chiave (把) | 🔑 | 4
+墙 | qiáng | muro, parete (面) | 🧱 | 4
+地板 | dìbǎn | pavimento | - | 4
+花园 | huāyuán | giardino | - | 3
+书架 | shūjià | libreria, scaffale | 📚 | 4
+柜子 | guìzi | armadio, mobile | - | 4
+镜子 | jìngzi | specchio (面) | 🪞 | 4
+洗衣机 | xǐyījī | lavatrice (台) | - | 4
+阳台 | yángtái | balcone | - | 4
+公寓 | gōngyù | appartamento (套) | - | 4
+住 | zhù | abitare | - | 1
+搬家 | bān jiā | traslocare | 🚚 | 4
+打扫 | dǎsǎo | pulire, fare le pulizie | 🧹 | 3
+干净 | gānjìng | pulito | ✨ | 3
+地址 | dìzhǐ | indirizzo | - | 4
+@ Oggetti di uso quotidiano | 🧰
+东西 | dōngxi | cosa, oggetto (件/样) | - | 1
+手机 | shǒujī | cellulare (部) | 📱 | 2
+电脑 | diànnǎo | computer (台) | 💻 | 1
+书 | shū | libro (本) | 📖 | 1
+笔 | bǐ | penna (支) | 🖊️ | 2
+铅笔 | qiānbǐ | matita (支) | ✏️ | 2
+纸 | zhǐ | carta (张) | 📄 | 2
+本子 | běnzi | quaderno (本) | 📓 | 3
+钱 | qián | soldi, denaro (笔) | 💰 | 1
+电话 | diànhuà | telefono (部) | 📞 | 1
+雨伞 | yǔsǎn | ombrello (把) | 🌂 | 4
+闹钟 | nàozhōng | sveglia | ⏰ | 4
+照相机 | zhàoxiàngjī | macchina fotografica (台) | 📷 | 3
+电池 | diànchí | batteria, pila (节/块) | 🔋 | 4
+充电器 | chōngdiànqì | caricabatterie | 🔌 | 4
+报纸 | bàozhǐ | giornale (份) | 📰 | 2
+杂志 | zázhì | rivista (本) | - | 4
+词典 | cídiǎn | dizionario (本) | - | 3
+信 | xìn | lettera (封) | ✉️ | 3
+礼物 | lǐwù | regalo (份) | 🎁 | 3
+票 | piào | biglietto (张) | 🎫 | 2
+银行卡 | yínhángkǎ | carta bancaria (张) | 💳 | 4
+护照 | hùzhào | passaporto (本) | 🛂 | 3
+行李箱 | xínglixiāng | valigia | 🧳 | 4
+盒子 | hézi | scatola | 📦 | 4
+袋子 | dàizi | sacchetto, borsa | 🛍️ | 4
+瓶子 | píngzi | bottiglia | 🧴 | 3
+剪刀 | jiǎndāo | forbici (把) | ✂️ | 4
+毛巾 | máojīn | asciugamano (条) | - | 4
+牙刷 | yáshuā | spazzolino (把) | 🪥 | 4
+肥皂 | féizào | sapone (块) | 🧼 | 4
+卫生纸 | wèishēngzhǐ | carta igienica (卷) | 🧻 | 4
+垃圾 | lājī | spazzatura | 🚮 | 4
+地图 | dìtú | mappa, cartina (张) | 🗺️ | 3
+耳机 | ěrjī | auricolari, cuffie (副) | 🎧 | 4

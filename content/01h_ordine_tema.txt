@@ -1,0 +1,145 @@
+## Tema e commento
+
+Il cinese è considerato una lingua «a prominenza del tema»: molte frasi non si organizzano tanto in soggetto e predicato, quanto in un tema (话题 huàtí), cioè l'argomento di cui si parla, posto all'inizio, e in un commento (说明 shuōmíng), cioè ciò che se ne dice. Il tema è sempre un elemento noto o identificabile e spesso è seguito da una breve pausa.
+
+= Tema + (S) + V + …
+
+ex: **这本书**我看过了。 | **Zhè běn shū** wǒ kàn guo le. | Questo libro l'ho già letto.
+ex: **水果**我最喜欢苹果。 | **Shuǐguǒ** wǒ zuì xǐhuan píngguǒ. | Tra la frutta preferisco le mele. (lett. frutta, io preferisco mele)
+ex: **那件事**你别担心。 | **Nà jiàn shì** nǐ bié dānxīn. | Di quella faccenda non ti preoccupare.
+ex: **作业**你写完了吗？ | **Zuòyè** nǐ xiěwán le ma? | I compiti li hai finiti?
+ex: **北京**，秋天最美。 | **Běijīng**, qiūtiān zuì měi. | A Pechino la stagione più bella è l'autunno.
+ex: **这个问题**我们明天再讨论吧。 | **Zhège wèntí** wǒmen míngtiān zài tǎolùn ba. | Di questo problema parliamone domani.
+
+### L'oggetto anteposto
+
+Il caso più comune è l'oggetto che, essendo già noto, viene spostato all'inizio della frase come tema. Il verbo resta privo di oggetto e non c'è alcun pronome che riprenda il tema.
+ex: 我看过**这本书**。 | Wǒ kàn guo **zhè běn shū**. | Ho letto questo libro.
+ex: **这本书**我看过。 | **Zhè běn shū** wǒ kàn guo. | Questo libro l'ho letto.
+ex: **中国菜**我很喜欢吃。 | **Zhōngguó cài** wǒ hěn xǐhuan chī. | La cucina cinese mi piace molto.
+ex: **你的手机**我放在桌子上了。 | **Nǐ de shǒujī** wǒ fàng zài zhuōzi shang le. | Il tuo cellulare l'ho messo sul tavolo.
+
+Il tema deve essere determinato: può essere un nome con un dimostrativo, un nome proprio, un nome di cui si è già parlato o un nome generico. Non può essere un nome indeterminato con il numerale.
+no: 一本书我看过了。 | Yì běn shū wǒ kàn guo le. | Errato: il tema deve essere noto; non può essere «un libro» qualsiasi.
+ex: **那本书**我看过了。 | **Nà běn shū** wǒ kàn guo le. | Quel libro l'ho già letto.
+
+Il tema può anche seguire il soggetto, quando si vogliono contrapporre due elementi:
+ex: 我**汉语**会说，**日语**不会说。 | Wǒ **Hànyǔ** huì shuō, **Rìyǔ** bú huì shuō. | Il cinese lo so parlare, il giapponese no.
+ex: 他**酒**不喝，**烟**也不抽。 | Tā **jiǔ** bù hē, **yān** yě bù chōu. | Non beve alcolici e non fuma nemmeno.
+
+! Con l'oggetto anteposto il verbo è di solito accompagnato da altri elementi: una particella aspettuale, un complemento, un avverbio, un verbo modale o la negazione. Una frase come 这本书我看 suona incompleta, a meno che non si contrapponga a qualcos'altro; sono naturali invece 这本书我看完了, 这本书我想看, 这本书我不看.
+
+### Temi senza rapporto diretto con il verbo
+
+Il tema cinese non deve necessariamente essere l'oggetto o il soggetto del verbo: può indicare semplicemente l'ambito di cui si parla. In italiano frasi di questo tipo si rendono con «quanto a», «in fatto di», «tra», «a» o ristrutturando la frase.
+ex: **中国的城市**我最喜欢杭州。 | **Zhōngguó de chéngshì** wǒ zuì xǐhuan Hángzhōu. | Tra le città cinesi preferisco Hangzhou.
+ex: **这次考试**我数学考得不好。 | **Zhè cì kǎoshì** wǒ shùxué kǎo de bù hǎo. | In questa tornata di esami sono andato male in matematica.
+ex: **那场大火**，幸亏消防队来得快。 | **Nà chǎng dàhuǒ**, xìngkuī xiāofángduì lái de kuài. | Quanto a quel grande incendio, per fortuna i pompieri sono arrivati in fretta.
+
+Alcune frasi di questo tipo, come 他身体很好 «sta bene di salute», sono descritte nel capitolo «La frase semplice e il verbo 是», nella sezione «Frasi a predicato soggetto-predicato».
+
+### Le particelle e le espressioni che segnalano il tema
+
+Nel parlato il tema è spesso seguito da una pausa o da una particella come 啊 a, 呢 ne, 吧 ba, 嘛 ma. Nello scritto e nel registro formale si usano espressioni come 至于 «quanto a», 关于 «riguardo a», 对于 «per quanto riguarda».
+ex: 这个人**啊**，真有意思。 | Zhège rén **a**, zhēn yǒu yìsi. | Questo tipo è davvero simpatico.
+ex: 我**呢**，最喜欢喝绿茶。 | Wǒ **ne**, zuì xǐhuan hē lǜchá. | Quanto a me, preferisco il tè verde.
+ex: **至于**钱的问题，我们以后再说。 | **Zhìyú** qián de wèntí, wǒmen yǐhòu zài shuō. | Quanto alla questione dei soldi, ne parleremo più avanti.
+
+### Il confronto con la dislocazione italiana
+
+L'italiano parlato conosce una costruzione simile, la dislocazione a sinistra: «Il libro, l'ho già letto». Le differenze sono due:
+- in italiano l'elemento dislocato è ripreso da un pronome atono (lo, la, ne, ci); in cinese non c'è alcun pronome di ripresa;
+- in italiano la dislocazione è marcata e colloquiale; in cinese anteporre il tema è normale in ogni registro.
+
+no: 这本书我看过它了。 | Zhè běn shū wǒ kàn guo tā le. | Errato: in cinese il tema non si riprende con un pronome come «lo».
+ex: 这本书我看过了。 | Zhè běn shū wǒ kàn guo le. | Questo libro l'ho già letto.
+
+### Noto prima, nuovo dopo
+
+Il principio del tema si riflette nell'ordine delle parole anche fuori da queste costruzioni: ciò che sta prima del verbo tende a essere noto e determinato, ciò che sta dopo tende a essere nuovo e indeterminato. Lo stesso nome senza articolo si interpreta così in modo diverso a seconda della posizione:
+ex: **客人**来了。 | **Kèrén** lái le. | Gli ospiti sono arrivati. (gli ospiti attesi)
+ex: 来**客人**了。 | Lái **kèrén** le. | Sono arrivati degli ospiti. (inattesi)
+ex: **书**在桌子上。 | **Shū** zài zhuōzi shang. | Il libro è sul tavolo.
+ex: 桌子上有**书**。 | Zhuōzi shang yǒu **shū**. | Sul tavolo ci sono dei libri.
+
+Vedi il capitolo «Le frasi con 有 e le frasi esistenziali».
+
+## L'omissione di elementi
+
+Il cinese omette molto spesso gli elementi che si ricavano dal contesto. Questo vale non solo per il soggetto, come in italiano, ma anche per l'oggetto, che in italiano andrebbe espresso con un pronome atono.
+
+### L'omissione del soggetto
+
+Il soggetto si omette quando è chiaro dal contesto, soprattutto nelle frasi coordinate, nelle risposte, negli ordini e nelle frasi che descrivono fenomeni naturali.
+ex: 我昨天去了超市，买了很多东西。 | Wǒ zuótiān qù le chāoshì, mǎi le hěn duō dōngxi. | Ieri sono andato al supermercato e ho comprato un sacco di cose.
+ex: 请进！ | Qǐng jìn! | Avanti!
+ex: 下雨了。 | Xià yǔ le. | Si è messo a piovere.
+ex: A：你在做什么？B：看电视。 | A: Nǐ zài zuò shénme? B: Kàn diànshì. | A: Che cosa stai facendo? B: Guardo la televisione.
+
+! I pronomi soggetto si usano in cinese più spesso che in italiano, perché il verbo non indica la persona: 我去 «vado», 你去 «vai». Si omettono quando il contesto è chiaro, ma una frase isolata come 去 non dice chi va.
+
+### L'omissione dell'oggetto
+
+L'oggetto già noto si omette normalmente, soprattutto nelle risposte. In italiano si userebbe un pronome come «lo», «la», «ne».
+ex: A：你看过这个电影吗？B：看过。 | A: Nǐ kàn guo zhège diànyǐng ma? B: Kàn guo. | A: Hai visto questo film? B: Sì, l'ho visto.
+ex: A：你认识他吗？B：认识。 | A: Nǐ rènshi tā ma? B: Rènshi. | A: Lo conosci? B: Sì.
+ex: A：这件衣服你喜欢吗？B：很喜欢，我想买。 | A: Zhè jiàn yīfu nǐ xǐhuan ma? B: Hěn xǐhuan, wǒ xiǎng mǎi. | A: Ti piace questo vestito? B: Molto, lo voglio comprare.
+
+### Le risposte brevi
+
+Il cinese non ha parole equivalenti a «sì» e «no» valide per tutte le domande. Per rispondere affermativamente si ripete il verbo (o l'aggettivo, o il verbo modale) della domanda; per rispondere negativamente lo si nega con 不 o 没.
+ex: A：你吃饭了吗？B：吃了。 | A: Nǐ chī fàn le ma? B: Chī le. | A: Hai mangiato? B: Sì.
+ex: A：你会说英语吗？B：会。 | A: Nǐ huì shuō Yīngyǔ ma? B: Huì. | A: Sai parlare inglese? B: Sì.
+ex: A：明天你来吗？B：不来。 | A: Míngtiān nǐ lái ma? B: Bù lái. | A: Domani vieni? B: No.
+ex: A：你去过日本吗？B：没去过。 | A: Nǐ qù guo Rìběn ma? B: Méi qù guo. | A: Sei mai stato in Giappone? B: No, mai.
+ex: A：今天冷吗？B：很冷。 | A: Jīntiān lěng ma? B: Hěn lěng. | A: Fa freddo oggi? B: Sì, molto.
+
+Le parole 是 «sì, è così» e 对 «giusto» si usano per confermare un'affermazione o rispondere a domande con 是; 不是, 不 e 没有 per negare.
+ex: A：你是意大利人吧？B：对，我是罗马人。 | A: Nǐ shì Yìdàlìrén ba? B: Duì, wǒ shì Luómǎrén. | A: Sei italiano, vero? B: Sì, sono di Roma.
+no: A：你喜欢咖啡吗？B：是。 | A: Nǐ xǐhuan kāfēi ma? B: Shì. | Innaturale: si risponde ripetendo il verbo della domanda.
+ex: A：你喜欢咖啡吗？B：喜欢。 | A: Nǐ xǐhuan kāfēi ma? B: Xǐhuan. | A: Ti piace il caffè? B: Sì.
+
+Vedi i capitoli «Le frasi interrogative» e «La negazione».
+
+## Lo schema generale della frase
+
+Le regole viste in questo capitolo si possono riassumere in un unico schema, che indica la posizione abituale di ogni elemento nella frase semplice. Gli elementi tra parentesi sono facoltativi e raramente compaiono tutti insieme.
+
+= (Tempo) + S + (Tempo) + Avv + Verbo modale + Prep + N + V + particella aspettuale + C + O + particella modale
+
+| Posizione | Elemento | Esempi |
+| 1 | (Tempo) | 明天, 昨天晚上 |
+| 2 | S | 我, 我们, 小王 |
+| 3 | (Tempo) | 明天, 每天 |
+| 4 | Avv | 也, 都, 又, 不 |
+| 5 | Verbo modale | 能, 想, 要, 应该 |
+| 6 | Prep + N | 在家, 跟妈妈, 给你 |
+| 7 | V | 包, 看, 去 |
+| 8 | particella aspettuale | 了, 着, 过 |
+| 9 | C | 两个小时, 三遍 |
+| 10 | O | 饺子, 书, 电影 |
+| 11 | particella modale | 吗, 吧, 呢, 了₂ |
+
+### Una frase analizzata
+
+ex: 我昨天也在家跟妈妈包了两个小时饺子。 | Wǒ zuótiān yě zài jiā gēn māma bāo le liǎng ge xiǎoshí jiǎozi. | Ieri anch'io ho preparato ravioli a casa con la mamma per due ore.
+
+| Elemento | Pinyin | Posizione nello schema |
+| 我 | wǒ | S |
+| 昨天 | zuótiān | Tempo (dopo S) |
+| 也 | yě | Avv |
+| 在家 | zài jiā | Prep + N (luogo) |
+| 跟妈妈 | gēn māma | Prep + N (compagnia) |
+| 包 | bāo | V |
+| 了 | le | particella aspettuale |
+| 两个小时 | liǎng ge xiǎoshí | C (durata) |
+| 饺子 | jiǎozi | O |
+
+Una seconda frase, con verbo modale e particella modale:
+ex: 明天我们都要跟老师去博物馆吧？ | Míngtiān wǒmen dōu yào gēn lǎoshī qù bówùguǎn ba? | Domani andiamo tutti al museo con l'insegnante, vero?
+
+Qui 明天 è il tempo all'inizio della frase, 我们 il soggetto, 都 l'avverbio, 要 il verbo modale, 跟老师 il sintagma preposizionale, 去 il verbo, 博物馆 l'oggetto e 吧 la particella modale.
+
+! Lo schema va adattato al tipo di complemento. I complementi di quantità (durata e frequenza) seguono la particella aspettuale: 包了两个小时, 看了三遍. I complementi di risultato e di direzione si attaccano invece direttamente al verbo e precedono 了: 看完了, 拿出来了. Vedi i capitoli «I complementi: panoramica» e «I complementi di quantità».
+
+Lo schema descrive l'ordine di base. Le costruzioni speciali lo modificano in modo regolare: con il tema l'oggetto passa all'inizio della frase (vedi sopra «Tema e commento»), con 把 l'oggetto si colloca tra 把 e il verbo (vedi «La costruzione con 把»), nel passivo con 被 diventa soggetto (vedi «Il passivo»).

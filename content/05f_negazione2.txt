@@ -1,0 +1,269 @@
+## Divieti e inviti a non fare
+
+Per vietare o sconsigliare un'azione (l'imperativo negativo dell'italiano) il cinese usa soprattutto 别 bié e 不要 bú yào davanti al verbo; esistono poi forme più forti, più formali o tipiche dei cartelli. Per gli imperativi affermativi vedi il capitolo «Le frasi imperative ed esclamative».
+
+= 别 + V (+ O)
+= 不要 + V (+ O)
+= 别 + V + 了
+
+| Forma | Pinyin | Uso e registro | Esempio |
+| 别 | bié | parlato, il più comune | 别担心。 |
+| 不要 | bú yào | neutro, più deciso | 不要动！ |
+| 别……了 | bié … le | smettila di…; attento a non… | 别哭了。 |
+| 不用 | bú yòng | non c'è bisogno | 不用谢。 |
+| 不必 | búbì | non occorre (formale) | 你不必担心。 |
+| 甭 | béng | non serve (parlato del nord) | 你甭管。 |
+| 不许 | bù xǔ | divieto autoritario | 不许说话！ |
+| 不准 | bù zhǔn | divieto, regolamento | 这里不准停车。 |
+| 禁止 | jìnzhǐ | cartelli, ufficiale | 禁止吸烟 |
+| 请勿 | qǐng wù | cartelli, cortese | 请勿拍照 |
+| 不得 | bù dé | scritto, giuridico | 不得入内 |
+
+### 别 e 不要
+
+别 è la forma più comune nel parlato (storicamente è la fusione di 不要); 不要 è un po' più formale e più deciso, e si usa anche nelle istruzioni scritte. Entrambi si possono rafforzare con 千万 «per carità» e addolcire con 请.
+
+ex: **别**担心，没事儿。 | **Bié** dānxīn, méi shìr. | Non preoccuparti, non è niente.
+ex: **别**走，再坐一会儿吧。 | **Bié** zǒu, zài zuò yíhuìr ba. | Non andartene, resta ancora un po'.
+ex: **不要**动！ | **Bú yào** dòng! | Non muoverti!
+ex: 上课的时候**不要**玩手机。 | Shàng kè de shíhou **bú yào** wán shǒujī. | Durante la lezione non si usa il telefono.
+ex: 请**不要**大声说话。 | Qǐng **bú yào** dàshēng shuō huà. | Si prega di non parlare ad alta voce.
+ex: **千万别**告诉他！ | **Qiānwàn bié** gàosu tā! | Per carità, non dirglielo!
+
+### 别……了
+
+别 + V + 了 ha due valori. Con un'azione in corso o ripetuta significa «smettila di…, basta…»; con eventi involontari (忘, 迟到, 感冒, 摔倒…) è un avvertimento: «attento a non…».
+
+ex: **别**哭**了**。 | **Bié** kū **le**. | Smettila di piangere.
+ex: **别**说**了**，我都知道了。 | **Bié** shuō **le**, wǒ dōu zhīdao le. | Basta, so già tutto.
+ex: **别**玩**了**，快睡觉吧。 | **Bié** wán **le**, kuài shuì jiào ba. | Basta giocare, vai a dormire.
+ex: **别**忘**了**带护照！ | **Bié** wàng **le** dài hùzhào! | Non dimenticare di portare il passaporto!
+ex: 多穿点儿衣服，**别**感冒**了**。 | Duō chuān diǎnr yīfu, **bié** gǎnmào **le**. | Copriti bene, che non ti prenda il raffreddore.
+
+### 不用, 不必 e 甭
+
+不用 «non c'è bisogno» non è un divieto: dice che un'azione non è necessaria. 不必 ha lo stesso senso ma è più formale; 甭 béng, fusione di 不用, è tipico del parlato di Pechino.
+
+ex: **不用**谢！ | **Bú yòng** xiè! | Non c'è di che!
+ex: 你**不用**来接我，我自己打车。 | Nǐ **bú yòng** lái jiē wǒ, wǒ zìjǐ dǎ chē. | Non c'è bisogno che tu venga a prendermi, prendo un taxi.
+ex: 明天是星期天，你**不用**早起。 | Míngtiān shì xīngqītiān, nǐ **bú yòng** zǎo qǐ. | Domani è domenica, non devi alzarti presto.
+ex: 你**不必**担心，一切都安排好了。 | Nǐ **búbì** dānxīn, yíqiè dōu ānpái hǎo le. | Non deve preoccuparsi, è tutto organizzato.
+ex: 这事儿你**甭**管。 | Zhè shìr nǐ **béng** guǎn. | Di questa faccenda non occupartene.
+
+### 不用 e 不要: attenzione a «non devi»
+
+L'italiano «non devi» è ambiguo: può essere un divieto («non devi toccarlo» = non toccarlo) oppure negare un obbligo («non devi pagare» = non è necessario). Nel primo caso il cinese usa 不要 o 别, nel secondo 不用.
+
+ex: 你**不要**去。 | Nǐ **bú yào** qù. | Non devi andarci. (= non andarci)
+ex: 你**不用**去。 | Nǐ **bú yòng** qù. | Non devi andarci per forza. (= non è necessario)
+no: 不用在这儿抽烟！ | Bú yòng zài zhèr chōu yān! | Errato come divieto: 不用 significa «non c'è bisogno», non «non devi».
+ex: **别**在这儿抽烟！ | **Bié** zài zhèr chōu yān! | Non fumare qui!
+no: 你不要付钱，我请客。 | Nǐ bú yào fù qián, wǒ qǐng kè. | Errato nel senso di «non è necessario»: suona come un divieto.
+ex: 你**不用**付钱，我请客。 | Nǐ **bú yòng** fù qián, wǒ qǐng kè. | Non c'è bisogno che paghi tu, offro io.
+
+### Divieti forti e formali
+
+不许 bù xǔ e 不准 bù zhǔn «non è permesso» esprimono un divieto autoritario (genitori, insegnanti, regolamenti). 禁止 jìnzhǐ «è vietato» è tipico di cartelli e regolamenti ufficiali; 请勿 qǐng wù «si prega di non» è la forma cortese dei cartelli; 不得 bù dé «non è consentito» appartiene allo scritto giuridico e amministrativo.
+
+ex: **不许**动！ | **Bù xǔ** dòng! | Fermo! Non muoverti!
+ex: **不许**你这样跟我说话！ | **Bù xǔ** nǐ zhèyàng gēn wǒ shuō huà! | Non ti permetto di parlarmi così!
+ex: 考试的时候**不准**说话。 | Kǎoshì de shíhou **bù zhǔn** shuō huà. | Durante l'esame è vietato parlare.
+ex: **禁止**吸烟 | **Jìnzhǐ** xī yān | Vietato fumare
+ex: **请勿**拍照 | **Qǐng wù** pāi zhào | Si prega di non scattare fotografie
+ex: 非工作人员**不得**入内 | Fēi gōngzuò rényuán **bù dé** rù nèi | Vietato l'ingresso ai non addetti ai lavori
+ex: 未经允许，**不得**转载。 | Wèi jīng yǔnxǔ, **bù dé** zhuǎnzǎi. | Vietata la riproduzione senza autorizzazione.
+
+! Nel parlato familiare, 少 + V significa «smettila di…» con tono brusco: 少废话！ «basta chiacchiere!», 少管闲事！ «fatti gli affari tuoi!». Va usato con prudenza.
+
+## La negazione enfatica
+
+Per rafforzare la negazione («per niente», «affatto», «neanche uno», «assolutamente no») il cinese dispone di numerose costruzioni.
+
+### 一点儿也/都 + negazione
+
+一点儿 + 也/都 + 不/没 significa «per niente, affatto». Davanti al verbo può comparire anche un nome: 一点儿东西也没吃 «non ha mangiato niente di niente».
+
+= S + 一点儿 + (N) + 也/都 + 不/没 + Agg/V
+
+ex: 我**一点儿也不**累。 | Wǒ **yìdiǎnr yě bú** lèi. | Non sono per niente stanco.
+ex: 这个电影**一点儿都不**好看。 | Zhège diànyǐng **yìdiǎnr dōu bù** hǎokàn. | Questo film non è per niente bello.
+ex: 我**一点儿也不**想去。 | Wǒ **yìdiǎnr yě bù** xiǎng qù. | Non ho la minima voglia di andarci.
+ex: 他今天**一点儿**东西**也没**吃。 | Tā jīntiān **yìdiǎnr** dōngxi **yě méi** chī. | Oggi non ha mangiato assolutamente niente.
+no: 我不累一点儿。 | Wǒ bú lèi yìdiǎnr. | Errato: 一点儿也 va prima del predicato negato.
+ex: 我**一点儿也不**累。 | Wǒ **yìdiǎnr yě bú** lèi. | Non sono per niente stanco.
+
+### 一 + CL + (N) + 也/都 + negazione
+
+一 + classificatore (+ nome) + 也/都 + 不/没 significa «neanche un…». L'elemento con 一 si sposta davanti al verbo, anche se è logicamente l'oggetto.
+
+= (S) + 一 + CL + (N) + 也/都 + 不/没 + V
+
+ex: **一个人也没**来。 | **Yí ge rén yě méi** lái. | Non è venuto nessuno.
+ex: 我**一分钱都没有**。 | Wǒ **yì fēn qián dōu méiyǒu**. | Non ho neanche un centesimo.
+ex: 他**一句话也不**说。 | Tā **yí jù huà yě bù** shuō. | Non dice neanche una parola.
+ex: 这本书我**一页也没**看。 | Zhè běn shū wǒ **yí yè yě méi** kàn. | Di questo libro non ho letto neanche una pagina.
+ex: 我**一次也没**去过。 | Wǒ **yí cì yě méi** qù guo. | Non ci sono stato neanche una volta.
+no: 他也不说一句话。 | Tā yě bù shuō yí jù huà. | Errato: nella negazione enfatica 一 + CL + N va prima del verbo.
+ex: 他**一句话也不**说。 | Tā **yí jù huà yě bù** shuō. | Non dice neanche una parola.
+
+### Pronomi interrogativi + 也/都 + negazione
+
+Allo stesso modo, un pronome interrogativo seguito da 也/都 e dalla negazione significa «niente», «nessuno», «da nessuna parte» (vedi il capitolo «I pronomi»):
+
+ex: 我**什么都不**想吃。 | Wǒ **shénme dōu bù** xiǎng chī. | Non ho voglia di mangiare niente.
+ex: 周末我**哪儿也没**去。 | Zhōumò wǒ **nǎr yě méi** qù. | Nel fine settimana non sono andato da nessuna parte.
+ex: 这儿我**谁都不**认识。 | Zhèr wǒ **shéi dōu bú** rènshi. | Qui non conosco nessuno.
+
+### 根本不 e 根本没
+
+根本 gēnběn «alla radice» rafforza la negazione: «affatto, proprio non, per niente».
+
+ex: 我**根本不**认识他。 | Wǒ **gēnběn bú** rènshi tā. | Non lo conosco affatto.
+ex: 他**根本没**来。 | Tā **gēnběn méi** lái. | Non è proprio venuto.
+ex: 这**根本**不可能！ | Zhè **gēnběn** bù kěnéng! | È assolutamente impossibile!
+
+### 并不 e 并没(有)
+
+并 bìng davanti alla negazione smentisce un'aspettativa o un'affermazione altrui: «in realtà non…, non è vero che…».
+
+ex: 他**并不**是坏人。 | Tā **bìng bú** shì huàirén. | In realtà non è una cattiva persona.
+ex: 这个问题**并不**难。 | Zhège wèntí **bìng bù** nán. | Questo problema, in realtà, non è difficile.
+ex: 我**并没有**说过这样的话。 | Wǒ **bìng méiyǒu** shuō guo zhèyàng de huà. | Io non ho mai detto una cosa del genere.
+
+### 绝对不 e 决不
+
+绝对不 juéduì bù «assolutamente no» è di uso generale; 决不 jué bù «mai e poi mai» esprime una decisione ferma ed è di registro più sostenuto.
+
+ex: 我**绝对不**会告诉别人。 | Wǒ **juéduì bú** huì gàosu biéren. | Non lo dirò assolutamente a nessuno.
+ex: 我**决不**放弃。 | Wǒ **jué bú** fàngqì. | Non mi arrenderò mai.
+ex: 这种事**决不**能再发生。 | Zhè zhǒng shì **jué bù** néng zài fāshēng. | Una cosa del genere non deve accadere mai più.
+
+Anche 从来不/没 «mai» e 再也不/没 «mai più» hanno valore enfatico (vedi sopra «La posizione della negazione»).
+
+### 毫不 e 毫无
+
+毫不 háobù «senza il minimo…» (davanti a verbi e aggettivi bisillabi) e 毫无 háowú «senza alcun…» (davanti a nomi bisillabi) appartengono al registro scritto.
+
+ex: 他**毫不**犹豫地答应了。 | Tā **háobù** yóuyù de dāying le. | Ha accettato senza la minima esitazione.
+ex: 这两件事**毫无**关系。 | Zhè liǎng jiàn shì **háowú** guānxi. | Queste due cose non hanno alcun rapporto tra loro.
+ex: 这样做**毫无**意义。 | Zhèyàng zuò **háowú** yìyì. | Fare così non ha alcun senso.
+
+| Forma | Significato | Registro |
+| 一点儿也不 | per niente | comune |
+| 一 + CL + N + 也没 | neanche un… | comune |
+| 什么/谁/哪儿 + 都不 | niente, nessuno, da nessuna parte | comune |
+| 根本不/没 | affatto, proprio non | comune |
+| 并不/并没有 | in realtà non (smentita) | comune |
+| 绝对不 | assolutamente no | comune |
+| 决不 | mai e poi mai (decisione) | sostenuto |
+| 毫不/毫无 | senza il minimo… | scritto |
+
+## La doppia negazione
+
+Due negazioni nella stessa frase si annullano e producono un'affermazione (双重否定 shuāngchóng fǒudìng), di solito più forte o più sfumata di quella semplice. Il cinese usa la doppia negazione molto più spesso dell'italiano.
+
+### 不得不 e 不能不
+
+不得不 bùdébù «non poter fare a meno di» indica una costrizione: «essere costretti a, dover per forza». 不能不 «non poter non» indica un dovere morale o una necessità logica.
+
+ex: 雨太大了，我们**不得不**取消比赛。 | Yǔ tài dà le, wǒmen **bùdébù** qǔxiāo bǐsài. | Pioveva troppo forte: abbiamo dovuto annullare la partita.
+ex: 已经十二点了，我**不得不**走了。 | Yǐjīng shí'èr diǎn le, wǒ **bùdébù** zǒu le. | È già mezzanotte, devo proprio andare.
+ex: 这件事我**不能不**管。 | Zhè jiàn shì wǒ **bù néng bù** guǎn. | Questa faccenda non posso ignorarla.
+
+### 不会不
+
+不会不 «non è possibile che non» esprime una forte certezza, spesso con 的 finale:
+
+ex: 他答应了，**不会不**来的。 | Tā dāying le, **bú huì bù** lái de. | Ha promesso: è impossibile che non venga.
+
+### 没有……不……
+
+没有 + N + 不 + V «non c'è nessuno / niente che non…» equivale a «tutti, senza eccezione»:
+
+ex: **没有**人**不**喜欢她。 | **Méiyǒu** rén **bù** xǐhuan tā. | Non c'è nessuno a cui lei non piaccia.
+ex: 这首歌**没有**人**不**会唱。 | Zhè shǒu gē **méiyǒu** rén **bú** huì chàng. | Questa canzone la sanno cantare tutti.
+
+### 非……不可
+
+非 fēi + V + 不可 bùkě «per forza, assolutamente» esprime necessità o una volontà ostinata. Nel parlato si usa anche 非要 + V, «volere a tutti i costi».
+
+ex: 这个电影我**非**看**不可**。 | Zhège diànyǐng wǒ **fēi** kàn **bùkě**. | Questo film devo vederlo a tutti i costi.
+ex: 你**非**去**不可**吗？ | Nǐ **fēi** qù **bùkě** ma? | Devi proprio andarci?
+ex: 他**非要**今天走。 | Tā **fēi yào** jīntiān zǒu. | Vuole a tutti i costi partire oggi.
+
+### 不是不……
+
+不是不 + V «non è che non…» attenua un rifiuto e prepara una spiegazione:
+
+ex: 我**不是不**想帮你，是真的没时间。 | Wǒ **bú shì bù** xiǎng bāng nǐ, shì zhēn de méi shíjiān. | Non è che non voglia aiutarti: è che davvero non ho tempo.
+
+### 无不 e 不无
+
+无不 wúbù «non c'è chi non», «tutti senza eccezione» e 不无 bùwú «non privo di» appartengono al registro scritto:
+
+ex: 听了他的故事，大家**无不**感动。 | Tīng le tā de gùshi, dàjiā **wúbù** gǎndòng. | Ascoltata la sua storia, tutti senza eccezione si commossero.
+ex: 他的话**不无**道理。 | Tā de huà **bùwú** dàoli. | Le sue parole non sono prive di fondamento.
+
+### 不……不……
+
+不 A 不 B «se non A, non B» compare in molte formule fisse:
+
+ex: 明天晚上七点，**不见不散**！ | Míngtiān wǎnshang qī diǎn, **bú jiàn bú sàn**! | Domani sera alle sette: ci aspettiamo finché non arriviamo tutti e due!
+ex: 这个会很重要，**不去不行**。 | Zhège huì hěn zhòngyào, **bú qù bù xíng**. | Questa riunione è importante, bisogna andarci per forza.
+ex: **不打不相识**。 | **Bù dǎ bù xiāngshí**. | Dallo scontro nasce l'amicizia. (lett. se non ci si picchia, non ci si conosce)
+
+| Forma | Significato | Registro |
+| 不得不 + V | essere costretti a | comune |
+| 不能不 + V | non poter non, dovere | comune |
+| 不会不 + V | sicuramente | comune |
+| 没有 + N + 不 + V | tutti, senza eccezione | comune |
+| 非 + V + 不可 | per forza, assolutamente | comune |
+| 不是不 + V | non è che non | parlato |
+| 无不, 不无 | tutti; non privo di | scritto |
+| 不 A 不 B | se non A, non B | formule fisse |
+
+## Altre parole negative
+
+Molte espressioni di uso quotidiano contengono una negazione e vanno imparate come formule:
+
+| Espressione | Pinyin | Uso |
+| 没关系 | méi guānxi | non fa niente (risposta a scuse) |
+| 没事儿 | méi shìr | niente, non è niente |
+| 不客气 | bú kèqi | prego (risposta a un grazie) |
+| 不用谢 | bú yòng xiè | non c'è di che |
+| 没问题 | méi wèntí | nessun problema |
+| 没什么 | méi shénme | non è niente; non c'è di che |
+| 不行 | bù xíng | non va, non si può; essere scarso |
+| 不对 | bú duì | sbagliato, non è così |
+| 不一定 | bù yídìng | non è detto |
+| 不错 | búcuò | buono, niente male |
+| 不好意思 | bù hǎoyìsi | scusa; che imbarazzo |
+
+ex: A：对不起，我来晚了。B：**没关系**。 | A: Duìbuqǐ, wǒ lái wǎn le. B: **Méi guānxi**. | A: Scusa, sono in ritardo. B: Non fa niente.
+ex: A：你怎么了？B：**没事儿**，有点儿累。 | A: Nǐ zěnme le? B: **Méi shìr**, yǒudiǎnr lèi. | A: Che cos'hai? B: Niente, sono un po' stanco.
+ex: A：谢谢你！B：**不客气**。 | A: Xièxie nǐ! B: **Bú kèqi**. | A: Grazie! B: Prego.
+ex: A：我可以在这儿抽烟吗？B：**不行**。 | A: Wǒ kěyǐ zài zhèr chōu yān ma? B: **Bù xíng**. | A: Posso fumare qui? B: No.
+ex: 我的数学**不行**。 | Wǒ de shùxué **bù xíng**. | In matematica sono scarso.
+ex: 这道题你做得**不对**。 | Zhè dào tí nǐ zuò de **bú duì**. | Questo esercizio l'hai sbagliato.
+ex: 这家饭馆的菜**不错**。 | Zhè jiā fànguǎn de cài **búcuò**. | In questo ristorante si mangia bene.
+ex: **不好意思**，让你久等了。 | **Bù hǎoyìsi**, ràng nǐ jiǔ děng le. | Scusami, ti ho fatto aspettare tanto.
+
+! 不错 non significa soltanto «non sbagliato»: è un giudizio positivo, «buono, bravo, niente male». 我觉得这个主意不错 «mi sembra una buona idea».
+
+### 无, 非, 未, 否 nelle parole composte
+
+Nello scritto e nelle parole composte compaiono altri morfemi negativi, eredità del cinese classico (vedi i capitoli «La formazione delle parole» e «Registro scritto e registro parlato»):
+
+| Morfema | Significato | Esempi |
+| 无 wú | senza, non avere | 无聊 noioso, 无法 non poter, 无数 innumerevoli |
+| 非 fēi | non (essere) | 非法 illegale, 非正式 informale |
+| 未 wèi | non ancora | 未来 futuro, 未婚 non sposato, 未必 non è detto |
+| 否 fǒu | no, negare | 否认 negare, 否则 altrimenti, 是否 se |
+| 不 bù | in-, non- | 不安 inquieto, 不满 insoddisfatto, 不幸 sventura |
+| 勿 wù | non (divieto) | 请勿 si prega di non |
+
+ex: 周末一个人在家，太**无聊**了。 | Zhōumò yí ge rén zài jiā, tài **wúliáo** le. | Passare il fine settimana da solo in casa è una noia mortale.
+ex: 我们**无法**联系到他。 | Wǒmen **wúfǎ** liánxì dào tā. | Non riusciamo a metterci in contatto con lui.
+ex: 贵的东西**未必**好。 | Guì de dōngxi **wèibì** hǎo. | Non è detto che le cose care siano buone.
+ex: 他**否认**拿了那笔钱。 | Tā **fǒurèn** ná le nà bǐ qián. | Ha negato di aver preso quei soldi.
+ex: 快走吧，**否则**要迟到了。 | Kuài zǒu ba, **fǒuzé** yào chídào le. | Sbrighiamoci, altrimenti arriviamo tardi.

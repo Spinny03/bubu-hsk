@@ -1,0 +1,157 @@
+# Registro scritto e registro parlato
+
+## Lingua scritta e lingua parlata
+
+Il cinese moderno conosce una differenza di registro molto più marcata dell'italiano fra la lingua scritta formale (书面语 shūmiànyǔ) e la lingua parlata (口语 kǒuyǔ). Il 书面语 si usa nei giornali, nei documenti ufficiali, nelle leggi, nei saggi, nelle lettere formali, negli annunci e nei discorsi pubblici; il 口语 è la lingua della conversazione quotidiana, dei messaggi fra amici, dei film e della narrativa dialogata.
+
+La differenza ha una ragione storica. Fino all'inizio del Novecento si scriveva in cinese classico (文言文 wényánwén), una lingua letteraria molto distante da quella parlata. Con il Movimento del 4 maggio (1919) si affermò come lingua scritta il 白话 báihuà, basato sul parlato; ma la lingua scritta moderna ha conservato e conserva molte parole, particelle e costruzioni del cinese classico, che le danno un tono conciso, elevato e impersonale.
+
+### Le caratteristiche principali dei due registri
+
+| Caratteristica | 口语 (parlato) | 书面语 (scritto) |
+| lessico | parole comuni, spesso bisillabe | parole formali, elementi classici |
+| funzionali | 和, 在, 的, 这, 没有 | 与, 于, 之, 此, 无 |
+| frasi | brevi, con omissioni | lunghe, con molti attributi |
+| particelle modali | frequenti (吧, 啊, 呢) | rare o assenti |
+| struttura | ripetizioni, riempitivi | quattro caratteri, parallelismi |
+| soggetto | 我, 你 espliciti | impersonale, 本, 该 |
+
+Non si tratta di due lingue separate, ma di un continuum: fra il dialogo familiare e il testo di legge esistono molti livelli intermedi (una lettera a un professore, un articolo di divulgazione, un discorso a un matrimonio). Lo stesso contenuto si può esprimere con registri diversi:
+
+ex: 因为下雨，**所以**比赛**没有**开始。 | Yīnwèi xià yǔ, **suǒyǐ** bǐsài **méiyǒu** kāishǐ. | Siccome pioveva, la partita non è cominciata. (parlato)
+ex: **由于**天气原因，比赛**未能**按时进行。 | **Yóuyú** tiānqì yuányīn, bǐsài **wèi néng** ànshí jìnxíng. | A causa delle condizioni meteorologiche, la gara non ha potuto svolgersi all'orario previsto. (scritto)
+ex: 这个问题你**怎么**看？ | Zhège wèntí nǐ **zěnme** kàn? | Che ne pensi di questo problema? (parlato)
+ex: 您对**此**问题有**何**看法？ | Nín duì **cǐ** wèntí yǒu **hé** kànfǎ? | Qual è la Sua opinione in merito a tale questione? (scritto)
+
+! In molti casi la parola scritta è monosillaba e quella parlata bisillaba (此/这个, 无/没有, 已/已经, 仅/只有), ma il contrario è altrettanto frequente: spesso lo scritto preferisce composti bisillabi formali (进行, 予以, 目前, 是否) dove il parlato usa un verbo semplice. La sola lunghezza non basta a determinare il registro.
+
+## Coppie di equivalenti parlati e scritti
+
+Molte parole di uso comunissimo hanno un equivalente formale, di solito di origine classica. Riconoscerle è indispensabile per leggere giornali, avvisi e testi accademici.
+
+### Congiunzioni e preposizioni
+
+| Parlato | Scritto | Significato |
+| 和, 跟 | 与 yǔ, 及 jí | e, con |
+| 在 | 于 yú | in, a |
+| 对 | 对于 duìyú | riguardo a |
+| 因为 | 由于 yóuyú | poiché, a causa di |
+| 所以 | 因此 yīncǐ, 故 gù | perciò |
+| 但是, 可是 | 然而 rán'ér, 但 dàn | tuttavia |
+| 如果, 要是 | 若 ruò, 倘若 tǎngruò, 如 rú | se |
+| 或者, 还是 | 或 huò, 抑或 yìhuò | o, oppure |
+| 虽然 | 虽 suī, 尽管 jǐnguǎn | benché |
+| 为了 | 为 wèi, 以便 yǐbiàn | per, affinché |
+
+ex: 老师**和**学生都来了。 | Lǎoshī **hé** xuésheng dōu lái le. | Sono venuti insegnanti e studenti.
+ex: 中国**与**意大利的关系 | Zhōngguó **yǔ** Yìdàlì de guānxi | Le relazioni tra Cina e Italia
+ex: 他**在**北京出生。 | Tā **zài** Běijīng chūshēng. | È nato a Pechino.
+ex: 他1990年出生**于**北京。 | Tā yī jiǔ jiǔ líng nián chūshēng **yú** Běijīng. | È nato a Pechino nel 1990.
+ex: **如果**你有时间，就来吧。 | **Rúguǒ** nǐ yǒu shíjiān, jiù lái ba. | Se hai tempo, vieni.
+ex: **若**有疑问，请与我们联系。 | **Ruò** yǒu yíwèn, qǐng yǔ wǒmen liánxì. | In caso di dubbi, si prega di contattarci.
+ex: 天气很好，**但是**有点儿冷。 | Tiānqì hěn hǎo, **dànshì** yǒudiǎnr lěng. | Il tempo è bello, ma fa un po' freddo.
+ex: 经济发展很快，**然而**问题也不少。 | Jīngjì fāzhǎn hěn kuài, **rán'ér** wèntí yě bù shǎo. | L'economia cresce rapidamente; tuttavia, i problemi non mancano.
+
+! Le congiunzioni correlative formali sono trattate nei capitoli sulle frasi complesse (vedi per esempio il capitolo «Frasi causali, ipotetiche e condizionali»).
+
+### Pronomi, dimostrativi e interrogativi
+
+| Parlato | Scritto | Significato |
+| 这, 这个 | 此 cǐ, 该 gāi, 本 běn | questo, il suddetto |
+| 那, 那个 | 彼 bǐ, 其 qí | quello |
+| 他的, 它的 | 其 qí | suo, loro |
+| 什么 | 何 hé | che cosa, quale |
+| 什么时候 | 何时 héshí | quando |
+| 什么地方, 哪儿 | 何处 héchù, 何地 hédì | dove |
+| 为什么 | 为何 wèihé, 何以 héyǐ | perché |
+| 怎么, 怎么样 | 如何 rúhé | come |
+| 是不是 | 是否 shìfǒu | se, se o no |
+| 自己 | 自 zì, 本人 běnrén | sé, se stesso |
+
+ex: 你**什么时候**回来？ | Nǐ **shénme shíhou** huílai? | Quando torni?
+ex: 会议**何时**召开尚未确定。 | Huìyì **héshí** zhàokāi shàng wèi quèdìng. | Non è ancora stato stabilito quando si terrà la riunione.
+ex: 这个问题**怎么**解决？ | Zhège wèntí **zěnme** jiějué? | Come si risolve questo problema?
+ex: **如何**提高教学质量？ | **Rúhé** tígāo jiàoxué zhìliàng? | Come migliorare la qualità della didattica?
+ex: 我不知道他**是不是**同意。 | Wǒ bù zhīdao tā **shì bu shì** tóngyì. | Non so se sia d'accordo.
+ex: 他**是否**同意，目前还不清楚。 | Tā **shìfǒu** tóngyì, mùqián hái bù qīngchu. | Non è ancora chiaro se egli sia d'accordo.
+ex: **本**公司成立于2005年。 | **Běn** gōngsī chénglì yú èr líng líng wǔ nián. | La nostra società è stata fondata nel 2005.
+ex: **该**产品已经停止生产。 | **Gāi** chǎnpǐn yǐjīng tíngzhǐ shēngchǎn. | Il suddetto prodotto è fuori produzione.
+
+### Negazioni, avverbi e verbi
+
+| Parlato | Scritto | Significato |
+| 不 | 不, 未 wèi, 非 fēi, 勿 wù | non |
+| 没有 (verbo) | 无 wú | non avere |
+| 没(有) + V | 未 wèi | non ancora, non |
+| 不是 | 非 fēi | non essere |
+| 很, 非常 | 颇 pō, 甚 shèn, 极 jí | molto |
+| 都 | 皆 jiē, 均 jūn | tutti |
+| 也 | 亦 yì | anche |
+| 已经 | 已 yǐ | già |
+| 只, 只有 | 仅 jǐn, 仅仅 | soltanto |
+| 就 | 便 biàn, 即 jí | allora, subito |
+| 还 (non ancora) | 尚 shàng | ancora |
+| 是 | 为 wéi, 系 xì, 乃 nǎi | essere |
+| 要, 会 (futuro) | 将 jiāng | futuro |
+| 给 | 予 yǔ, 给予 jǐyǔ, 予以 yǔyǐ | dare, concedere |
+| 应该 | 应 yīng, 应当 yīngdāng | dovere |
+| 能, 可以 | 可 kě, 能够 nénggòu | potere |
+
+ex: 我**没有**时间。 | Wǒ **méiyǒu** shíjiān. | Non ho tempo.
+ex: 此事与我**无**关。 | Cǐ shì yǔ wǒ **wú** guān. | La questione non mi riguarda.
+ex: 他还**没**来。 | Tā hái **méi** lái. | Non è ancora arrivato.
+ex: 此事**尚未**解决。 | Cǐ shì **shàng wèi** jiějué. | La questione non è ancora stata risolta.
+ex: 这本书**很**有意思。 | Zhè běn shū **hěn** yǒu yìsi. | Questo libro è molto interessante.
+ex: 此书**颇**有新意。 | Cǐ shū **pō** yǒu xīnyì. | Quest'opera è assai originale.
+ex: 大家**都**知道。 | Dàjiā **dōu** zhīdao. | Lo sanno tutti.
+ex: 此事人人**皆**知。 | Cǐ shì rénrén **jiē** zhī. | È cosa nota a tutti.
+ex: 会议**将**于明天上午九点举行。 | Huìyì **jiāng** yú míngtiān shàngwǔ jiǔ diǎn jǔxíng. | La riunione si terrà domani alle nove del mattino.
+ex: 他**是**我的老师。 | Tā **shì** wǒ de lǎoshī. | È il mio insegnante.
+ex: 鲁迅**为**中国现代文学的奠基人。 | Lǔ Xùn **wéi** Zhōngguó xiàndài wénxué de diànjīrén. | Lu Xun è il fondatore della letteratura cinese moderna.
+
+! 甚 shèn si trova soprattutto in combinazioni fisse: 甚好 «molto bene», 甚多 «moltissimi», 不甚了解 «non conoscere a fondo», 甚至 «perfino». 颇 pō appartiene al registro colto: 颇为满意 «piuttosto soddisfatto», 颇受欢迎 «assai apprezzato».
+
+### Sostantivi ed espressioni di tempo
+
+| Parlato | Scritto | Significato |
+| 现在 | 目前 mùqián, 当前 dāngqián | ora, attualmente |
+| 今天 | 今日 jīnrì | oggi |
+| 明天 | 明日 míngrì | domani |
+| 那时候 | 当时 dāngshí | allora |
+| 以前 | 此前 cǐqián, 之前 zhīqián | prima |
+| 以后 | 此后 cǐhòu, 之后 zhīhòu | dopo |
+| 最近 | 近日 jìnrì, 近来 jìnlái | recentemente |
+| 每天 | 每日 měirì | ogni giorno |
+| 钱 | 资金 zījīn, 经费 jīngfèi | soldi, fondi |
+| 房子 | 住房 zhùfáng, 房屋 fángwū | casa, abitazione |
+
+ex: **目前**，该项目进展顺利。 | **Mùqián**, gāi xiàngmù jìnzhǎn shùnlì. | Attualmente il progetto procede senza intoppi.
+ex: 本店**今日**休息。 | Běn diàn **jīnrì** xiūxi. | Oggi il negozio è chiuso.
+
+## Le particelle classiche nella lingua scritta moderna
+
+Alcune parole del cinese classico (虚词 xūcí, parole funzionali) sopravvivono nella lingua scritta moderna, sia libere sia, soprattutto, all'interno di composti ed espressioni fisse ormai normali anche nel parlato.
+
+### 之
+
+之 zhī corrisponde al 的 moderno: lega un attributo al nome. Libero, si usa solo nello scritto; ma è normalissimo in numerose espressioni fisse.
+
+= Attributo + 之 + N
+= Num + 分之 + Num (frazioni)
+
+ex: 香港被称为“东方**之**珠”。 | Xiānggǎng bèi chēngwéi "Dōngfāng **zhī** zhū". | Hong Kong è chiamata «la perla d'Oriente».
+ex: 江南是有名的鱼米**之**乡。 | Jiāngnán shì yǒumíng de yúmǐ **zhī** xiāng. | Il Jiangnan è una celebre terra di abbondanza. (lett. terra di pesce e riso)
+ex: 赤壁**之**战 | Chìbì **zhī** zhàn | La battaglia delle Scogliere Rosse
+ex: 三分**之**一的学生 | sān fēn **zhī** yī de xuésheng | un terzo degli studenti
+ex: 他是我最好的朋友**之一**。 | Tā shì wǒ zuì hǎo de péngyou **zhī yī**. | È uno dei miei migliori amici.
+ex: 两国**之间**的合作 | liǎng guó **zhī jiān** de hézuò | la cooperazione tra i due Paesi
+
+Altre espressioni con 之: 之后 «dopo», 之前 «prima», 之内 «entro», 之外 «oltre», 总之 «insomma», 久而久之 «col passare del tempo», 百分之五十 «il cinquanta per cento».
+
+### 其
+
+其 qí è un pronome anaforico: «suo, loro, di esso» o, come oggetto in certe strutture, «lo, la, li». Compare in parole comuni: 其中 «fra cui», 其他 / 其它 «altro», 其实 «in realtà», 尤其 «soprattutto», 极其 «estremamente».
+
+ex: 公司有一百名员工，**其中**一半是女性。 | Gōngsī yǒu yìbǎi míng yuángōng, **qízhōng** yíbàn shì nǚxìng. | La società ha cento dipendenti, di cui la metà donne.
+ex: 我们应尊重**其**选择。 | Wǒmen yīng zūnzhòng **qí** xuǎnzé. | Dobbiamo rispettare la sua scelta.
+ex: 该城市以**其**美丽的风景闻名。 | Gāi chéngshì yǐ **qí** měilì de fēngjǐng wénmíng. | La città è famosa per i suoi splendidi paesaggi.

@@ -1,0 +1,116 @@
+## 虽然 e 即使
+Concessiva reale e concessiva ipotetica.
+| Congiunzione | Fatto | Correlativo | Significato | Esempio |
+| 虽然 suīrán | reale | 但是 / 可是 / 却 | anche se, benché | 虽然很贵，但是很好。 |
+| 尽管 jǐnguǎn | reale | 但是 / 还是 / 却 | nonostante | 尽管很累，他还是来了。 |
+| 即使 jíshǐ | ipotetico | 也 | anche se, persino se | 即使下雨，我也去。 |
+| 就算 jiùsuàn | ipotetico | 也 | anche se (parlato) | 就算你不说，我也知道。 |
+ex: **虽然**今天下雨，**但是**我们还是去了；**即使**明天也下雨，我们**也**要去。 | **Suīrán** jīntiān xià yǔ, **dànshì** wǒmen háishi qù le; **jíshǐ** míngtiān yě xià yǔ, wǒmen **yě** yào qù. | Anche se oggi pioveva, ci siamo andati lo stesso; anche se domani dovesse piovere di nuovo, ci andremo comunque.
+
+## 因为, 由于 e 既然
+Tre congiunzioni causali con registro e valore diversi.
+| Congiunzione | Valore | Registro | Correlativo | Esempio |
+| 因为 yīnwèi | causa | neutro | 所以 | 因为下雨，所以没去。 |
+| 由于 yóuyú | causa | scritto, formale | 因此 / 所以 | 由于天气原因，航班取消了。 |
+| 既然 jìrán | premessa nota: «visto che» | neutro | 就 / 那(么) | 既然来了，就多住几天吧。 |
+ex: **既然**你已经决定了，我**就**不说什么了。 | **Jìrán** nǐ yǐjīng juédìng le, wǒ **jiù** bù shuō shénme le. | Visto che hai già deciso, non dico più niente.
+! Dei tre, solo 因为 introduce normalmente anche una causa posposta alla frase principale: 我没去，因为下雨了。
+
+## Le principali congiunzioni correlative
+Le coppie più frequenti, raggruppate per tipo di rapporto logico.
+| Rapporto | Struttura | Significato | Esempio |
+| Coordinazione | 又……又…… | sia… sia… | 又便宜又好吃 |
+| Coordinazione | 既……又/也…… | sia… sia… (più formale) | 既聪明又努力 |
+| Simultaneità | 一边……一边…… | mentre, intanto | 一边吃饭一边聊天 |
+| Successione | 先……然后/再…… | prima… poi… | 先洗手，再吃饭 |
+| Successione | 一……就…… | appena… subito… | 一到家就睡了 |
+| Progressione | 不但……而且…… | non solo… ma anche… | 不但便宜，而且好看 |
+| Alternativa | 是……还是……？ | … o …? | 是你还是他？ |
+| Alternativa | 不是……就是…… | o… o… | 不是刮风就是下雨 |
+| Scelta | 与其……不如…… | piuttosto che… meglio… | 与其等车，不如走路 |
+| Scelta | 宁可……也不…… | piuttosto… che… | 宁可走路，也不打车 |
+| Avversativa | 不是……而是…… | non… bensì… | 不是不想，而是不能 |
+| Concessiva | 虽然……但是…… | benché… tuttavia… | 虽然累，但是高兴 |
+| Concessiva ipotetica | 即使……也…… | anche se… | 即使很难，也要学 |
+| Causale | 因为……所以…… | poiché… quindi… | 因为忙，所以没来 |
+| Causale | 之所以……是因为…… | se… è perché… | 之所以迟到，是因为堵车 |
+| Deduttiva | 既然……就…… | visto che… allora… | 既然来了，就坐吧 |
+| Ipotetica | 如果/要是……就…… | se… allora… | 如果下雨，就不去 |
+| Condizionale | 只要……就…… | basta che… | 只要有空，就来 |
+| Condizionale | 只有……才…… | solo se… | 只有努力，才能成功 |
+| Condizionale | 不管/无论……都…… | comunque, qualunque… | 不管多晚，都等你 |
+ex: 他**不但**会说汉语，**而且**说得很流利。 | Tā **búdàn** huì shuō Hànyǔ, **érqiě** shuō de hěn liúlì. | Non solo parla cinese, ma lo parla anche in modo molto fluente.
+ex: **与其**在这儿等车，**不如**走路去。 | **Yǔqí** zài zhèr děng chē, **bùrú** zǒulù qù. | Piuttosto che aspettare l'autobus qui, è meglio andarci a piedi.
+
+## I complementi
+Panoramica dei complementi (补语 bǔyǔ) che seguono il verbo o l'aggettivo.
+| Tipo | Struttura | Esempio | Funzione |
+| Di risultato | V + V/Agg | 听懂, 做完, 写错 | risultato dell'azione |
+| Di direzione semplice | V + 来/去 | 进来, 拿去 | verso il parlante o via da lui |
+| Di direzione composto | V + 上/下/进… + 来/去 | 走进来, 站起来 | direzione e orientamento |
+| Potenziale | V + 得/不 + C | 听得懂, 买不到 | possibilità del risultato |
+| Di grado (con 得) | V/Agg + 得 + Agg | 跑得很快 | modo, valutazione |
+| Di grado (intensità) | Agg + 极了 / 死了 / 得很 | 好极了, 累死了 | grado estremo |
+| Di durata | V + durata | 睡了八个小时 | per quanto tempo |
+| Di frequenza | V + Num + 次/遍/下 | 去过两次 | quante volte |
+| Di quantità | Agg + quantità | 高三厘米 | di quanto (nei confronti) |
+| Di luogo o meta | V + 在/到/给 + N | 住在北京, 送给他 | dove o a chi arriva l'azione |
+ex: 您说**得**太快了，我听**不懂**，请您再说一**遍**。 | Nín shuō **de** tài kuài le, wǒ tīng **bu dǒng**, qǐng nín zài shuō yí **biàn**. | Parla troppo in fretta, non riesco a capire: me lo ripete, per favore?
+
+## I tipi di domanda
+Le principali strutture interrogative.
+| Tipo | Struttura | Esempio | Nota |
+| Con 吗 | frase + 吗？ | 你是学生吗？ | risposta sì/no |
+| Affermativo-negativa | V不V / Agg不Agg | 你去不去？ | senza 吗 |
+| Con pronome interrogativo | 谁, 什么, 哪儿, 怎么… | 你去哪儿？ | ordine della risposta |
+| Alternativa | A 还是 B？ | 你喝茶还是喝咖啡？ | senza 吗 |
+| Ellittica con 呢 | N + 呢？ | 我很好，你呢？ | «e tu?», «dov'è?» |
+| Con 吧 | frase + 吧？ | 你是意大利人吧？ | chiede conferma |
+| Con coda | …，好吗？/ 对吗？/ 是不是？ | 我们走吧，好吗？ | chiede accordo |
+| Retorica | 不是……吗？/ 难道……吗？ | 你不是去过吗？ | presuppone la risposta |
+| Solo intonazione | frase dichiarativa, tono ascendente | 你不去？ | sorpresa |
+ex: 你是坐地铁来的**还是**打车来的？ | Nǐ shì zuò dìtiě lái de **háishi** dǎchē lái de? | Sei venuto in metropolitana o in taxi?
+ex: 你**不是**去过上海**吗**？ | Nǐ **bú shì** qù guo Shànghǎi **ma**? | Non eri già stato a Shanghai?
+
+## I complementi direzionali composti
+I 13 complementi composti uniscono 上, 下, 进, 出, 回, 过, 起 a 来 (verso il parlante) e 去 (via dal parlante); 起去 non esiste.
+| Base | Con 来 | Con 去 | Esempio | Direzione |
+| 上 | 上来 shànglai | 上去 shàngqu | 走上来 | verso l'alto |
+| 下 | 下来 xiàlai | 下去 xiàqu | 坐下来 | verso il basso |
+| 进 | 进来 jìnlai | 进去 jìnqu | 跑进去 | verso l'interno |
+| 出 | 出来 chūlai | 出去 chūqu | 拿出来 | verso l'esterno |
+| 回 | 回来 huílai | 回去 huíqu | 走回去 | ritorno |
+| 过 | 过来 guòlai | 过去 guòqu | 走过来 | passaggio, avvicinamento |
+| 起 | 起来 qǐlai | — | 站起来 | dal basso verso l'alto |
+ex: 你快**下来**，我们在楼下等你。 | Nǐ kuài **xiàlai**, wǒmen zài lóuxià děng nǐ. | Scendi presto, ti aspettiamo giù.
+ex: 他从书包里拿**出**一本词典**来**。 | Tā cóng shūbāo li ná **chu** yì běn cídiǎn **lai**. | Ha tirato fuori un dizionario dallo zaino.
+! Molti complementi composti hanno anche usi figurati: 起来 (inizio, valutazione), 下去 (continuazione), 出来 (identificazione), 下来 (risultato che rimane) (vedi il capitolo «Il complemento di direzione»).
+
+## Gli avverbi di grado
+I principali avverbi di grado, dal più debole al più forte, seguiti da quelli che si mettono dopo l'aggettivo.
+| Avverbio | Significato | Posizione | Esempio | Nota |
+| 有点儿 yǒudiǎnr | un po' | prima di Agg/V | 有点儿贵 | valore negativo |
+| 比较 bǐjiào | piuttosto, abbastanza | prima di Agg | 比较便宜 | «relativamente» |
+| 挺 tǐng | parecchio, proprio | 挺 + Agg + 的 | 挺好的 | parlato |
+| 很 hěn | molto | prima di Agg | 很好 | spesso neutro |
+| 真 zhēn | davvero | prima di Agg | 真漂亮！ | esclamativo |
+| 非常 fēicháng | molto, estremamente | prima di Agg | 非常重要 | forte |
+| 特别 tèbié | particolarmente | prima di Agg | 特别好吃 | forte |
+| 太 tài | troppo; così tanto | 太 + Agg + 了 | 太贵了 | eccesso, esclamazione |
+| 更 gèng | ancora più | prima di Agg | 更好 | comparativo |
+| 最 zuì | il più | prima di Agg | 最高 | superlativo |
+| 极了 jí le | estremamente | Agg + 极了 | 好极了 | dopo l'aggettivo |
+| 得很 de hěn | molto | Agg + 得很 | 好得很 | dopo l'aggettivo |
+| 死了 sǐ le | da morire | Agg + 死了 | 累死了 | parlato, enfatico |
+ex: 这家饭馆的菜好吃**极了**，就是**有点儿**贵。 | Zhè jiā fànguǎn de cài hǎochī **jí le**, jiùshì **yǒudiǎnr** guì. | In questo ristorante si mangia benissimo, solo che è un po' caro.
+
+## La posizione delle espressioni di tempo
+Il «quando» (时点 shídiǎn) precede il verbo; il «per quanto tempo» (时段 shíduàn) lo segue.
+= S + Tempo (时点) + 在 + Luogo + V + Durata (时段) + O
+| Tipo | Domanda | Posizione | Esempio |
+| Punto nel tempo (时点) | 什么时候？几点？ | prima del verbo o del soggetto | 我八点上课。 |
+| Durata (时段) | 多长时间？多久？ | dopo il verbo | 我学了两个小时。 |
+| Durata in frase negativa | 多长时间没……？ | prima del verbo | 我三天没睡好了。 |
+| Tempo trascorso dall'evento | 来了多长时间了？ | dopo V (+ O) + 了 | 他来中国三年了。 |
+| Frequenza in un periodo | 多长时间一次？ | periodo prima, volte dopo il verbo | 我一个星期去两次。 |
+ex: 我每天晚上**八点**学习**两个小时**汉语。 | Wǒ měi tiān wǎnshang **bā diǎn** xuéxí **liǎng ge xiǎoshí** Hànyǔ. | Ogni sera alle otto studio cinese per due ore.

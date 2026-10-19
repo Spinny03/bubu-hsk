@@ -1,0 +1,174 @@
+# Le frasi causative e le frasi a perno
+
+In frasi come «L'insegnante ci fa scrivere» o «Lo invito a cena», la persona su cui agisce il primo verbo è anche quella che compie la seconda azione. In cinese queste frasi si chiamano frasi a perno (兼语句 jiānyǔjù, lett. «frasi con un elemento a doppia funzione»): un unico nome o pronome fa da oggetto al primo verbo e da soggetto al secondo. Le frasi causative, costruite con 让, 叫, 使, 令, ne sono il tipo più importante.
+
+## La frase a perno (兼语句)
+
+= S + V₁ + O/S₂ + V₂ (+ O)
+
+Nella frase 我请他吃饭 «lo invito a cena», 他 è oggetto di 请 («invito lui») e soggetto di 吃饭 («lui mangia»). A differenza dell'italiano, tra il perno e il secondo verbo non c'è nessuna preposizione (né «a» né «di») e il secondo verbo non cambia forma.
+
+ex: 我**请**他吃饭。 | Wǒ **qǐng** tā chī fàn. | Lo invito a cena. (lett. io invitare lui mangiare)
+ex: 老师**让**我们写作业。 | Lǎoshī **ràng** wǒmen xiě zuòyè. | L'insegnante ci fa fare i compiti.
+ex: 妈妈**叫**我去买菜。 | Māma **jiào** wǒ qù mǎi cài. | La mamma mi ha detto di andare a fare la spesa.
+ex: 公司**派**他去上海工作。 | Gōngsī **pài** tā qù Shànghǎi gōngzuò. | L'azienda lo ha mandato a lavorare a Shanghai.
+ex: 医生**要求**他多休息。 | Yīshēng **yāoqiú** tā duō xiūxi. | Il medico gli ha chiesto di riposare di più.
+
+### Negazione e verbi modali
+
+La negazione, i verbi modali e la maggior parte degli avverbi si collocano davanti al primo verbo. Se invece si vuole dire «dire / chiedere a qualcuno di *non* fare qualcosa», si nega il secondo verbo con 别 o 不要.
+
+= S + 不/没/Avv/verbo modale + V₁ + O/S₂ + V₂
+= S + V₁ + O/S₂ + 别/不要 + V₂
+
+ex: 妈妈**不**让我去。 | Māma **bú** ràng wǒ qù. | La mamma non mi lascia andare.
+ex: 他**没**请我参加他的婚礼。 | Tā **méi** qǐng wǒ cānjiā tā de hūnlǐ. | Non mi ha invitato al suo matrimonio.
+ex: 你**应该**让他自己决定。 | Nǐ **yīnggāi** ràng tā zìjǐ juédìng. | Dovresti lasciarlo decidere da solo.
+ex: 我**想**请你帮个忙。 | Wǒ **xiǎng** qǐng nǐ bāng ge máng. | Vorrei chiederti un favore.
+ex: 妈妈叫我**别**出去。 | Māma jiào wǒ **bié** chūqu. | La mamma mi ha detto di non uscire.
+ex: 妈妈**不**让我出去。 | Māma **bú** ràng wǒ chūqu. | La mamma non mi lascia uscire.
+
+### La posizione di 了
+
+Il 了 aspettuale non si mette dopo il primo verbo (in particolare dopo 让, 叫, 使, 令), ma dopo il secondo verbo o alla fine della frase (vedi il capitolo «La particella 了»).
+
+no: 老师让了我们写作文。 | Lǎoshī ràng le wǒmen xiě zuòwén. | Errato: 了 non segue il verbo causativo.
+ex: 老师让我们写了两篇作文。 | Lǎoshī ràng wǒmen xiě le liǎng piān zuòwén. | L'insegnante ci ha fatto scrivere due temi.
+ex: 他请我吃**了**一顿烤鸭。 | Tā qǐng wǒ chī **le** yí dùn kǎoyā. | Mi ha offerto una cena a base di anatra laccata.
+ex: 爸爸终于让我一个人去旅行**了**。 | Bàba zhōngyú ràng wǒ yí ge rén qù lǚxíng **le**. | Finalmente papà mi ha lasciato andare in viaggio da solo.
+
+### Le domande
+
+ex: **谁**让你来的？ | **Shéi** ràng nǐ lái de? | Chi ti ha detto di venire?
+ex: 老师让你们做**什么**？ | Lǎoshī ràng nǐmen zuò **shénme**? | Che cosa vi ha fatto fare l'insegnante?
+ex: 你妈妈**让不让**你养狗？ | Nǐ māma **ràng bu ràng** nǐ yǎng gǒu? | Tua mamma ti lascia tenere un cane?
+
+! Non confondere la frase a perno con la frase a verbi in serie: in 我去商店买东西 è lo stesso soggetto (我) a compiere entrambe le azioni; in 我请他吃饭 la seconda azione è compiuta dal perno (他). Vedi il capitolo «Le frasi a verbi in serie».
+
+## 让, 叫, 使, 令
+
+| Verbo | Registro | Uso tipico | Esempio |
+| 让 ràng | neutro | far fare, lasciar fare | 让他进来 |
+| 叫 jiào | parlato | dire di fare, ordinare | 叫他快来 |
+| 使 shǐ | scritto | causa astratta, effetto psicologico | 使我很感动 |
+| 令 lìng | formale | 令人 + Agg/V psicologico | 令人难忘 |
+
+### 让
+
+让 è il verbo causativo più comune. Significa sia «far fare» (ordine, richiesta, causa) sia «lasciar fare» (permesso); la negazione 不让 significa di solito «non permettere». Con un soggetto che indica un evento o una cosa, 让 + persona + Agg/V psicologico esprime l'effetto emotivo.
+
+ex: 老板**让**我明天早点儿来。 | Lǎobǎn **ràng** wǒ míngtiān zǎo diǎnr lái. | Il capo mi ha detto di venire un po' prima domani.
+ex: 爸爸不**让**我玩儿手机。 | Bàba bú **ràng** wǒ wánr shǒujī. | Papà non mi lascia giocare con il cellulare.
+ex: 对不起，**让**你久等了。 | Duìbuqǐ, **ràng** nǐ jiǔ děng le. | Scusa se ti ho fatto aspettare tanto.
+ex: 这个消息**让**大家很高兴。 | Zhège xiāoxi **ràng** dàjiā hěn gāoxìng. | Questa notizia ha reso tutti molto felici.
+ex: 这个问题**让**人很头疼。 | Zhège wèntí **ràng** rén hěn tóuténg. | Questo problema è un bel grattacapo.
+
+### 叫
+
+叫 è colloquiale e indica soprattutto ordini e richieste («dire di»); come 让 può esprimere anche un effetto emotivo, specie in 叫人 + Agg/V.
+
+ex: 妈妈**叫**你回家吃饭。 | Māma **jiào** nǐ huí jiā chī fàn. | La mamma ti dice di tornare a casa a mangiare.
+ex: 是谁**叫**你这么做的？ | Shì shéi **jiào** nǐ zhème zuò de? | Chi ti ha detto di fare così?
+ex: 这孩子真**叫**人担心。 | Zhè háizi zhēn **jiào** rén dānxīn. | Questo bambino fa davvero preoccupare.
+
+### 使
+
+使 è formale e tipico dello scritto. Il soggetto è di solito una causa astratta (un evento, un'esperienza, una parola) e il risultato è un cambiamento o uno stato psicologico. Non si usa per gli ordini e le richieste tra persone. Nello scritto si trova anche 使得 shǐde.
+
+ex: 这件事**使**我很感动。 | Zhè jiàn shì **shǐ** wǒ hěn gǎndòng. | Questa vicenda mi ha molto commosso.
+ex: 他的话**使**大家明白了一个道理。 | Tā de huà **shǐ** dàjiā míngbai le yí ge dàoli. | Le sue parole hanno fatto capire a tutti una verità.
+ex: 多读书可以**使**人变得聪明。 | Duō dú shū kěyǐ **shǐ** rén biàn de cōngming. | Leggere molto rende le persone più intelligenti.
+ex: 新技术**使**生产效率提高了一倍。 | Xīn jìshù **shǐ** shēngchǎn xiàolǜ tígāo le yí bèi. | La nuova tecnologia ha raddoppiato l'efficienza produttiva.
+no: 老师使我们写作业。 | Lǎoshī shǐ wǒmen xiě zuòyè. | Errato: 使 non si usa per ordini o richieste.
+ex: 老师让我们写作业。 | Lǎoshī ràng wǒmen xiě zuòyè. | L'insegnante ci fa fare i compiti.
+
+### 令
+
+令 è ancora più formale e compare soprattutto nell'espressione 令人 + Agg/V psicologico, che corrisponde spesso a un aggettivo italiano: 令人满意 «soddisfacente», 令人失望 «deludente», 令人担心 «preoccupante», 令人兴奋 «entusiasmante», 令人难忘 «indimenticabile».
+
+ex: 那次旅行**令**人难忘。 | Nà cì lǚxíng **lìng** rén nánwàng. | Quel viaggio è stato indimenticabile.
+ex: 他的进步**令**人吃惊。 | Tā de jìnbù **lìng** rén chījīng. | I suoi progressi sono sorprendenti.
+ex: 比赛的结果**令**人失望。 | Bǐsài de jiéguǒ **lìng** rén shīwàng. | Il risultato della partita è stato deludente.
+ex: 你的表现**令**我非常满意。 | Nǐ de biǎoxiàn **lìng** wǒ fēicháng mǎnyì. | Sono molto soddisfatto della tua prestazione.
+
+! Dopo 让, 叫, 使, 令 il perno non si può omettere: se la persona è generica si usa 人.
+no: 这个问题让很头疼。 | Zhège wèntí ràng hěn tóuténg. | Errato: dopo 让 manca il perno.
+ex: 这个问题让人很头疼。 | Zhège wèntí ràng rén hěn tóuténg. | Questo problema è un bel grattacapo.
+
+### 让我 / 让我们 + V
+
+让我 + V serve a offrirsi di fare qualcosa o a chiedere il permesso («lascia che…»); 让我们 + V è un'esortazione rivolta anche a sé stessi, di tono solenne o formale («facciamo…»).
+
+ex: **让我**来吧。 | **Ràng wǒ** lái ba. | Lascia, faccio io.
+ex: **让我**想想。 | **Ràng wǒ** xiǎngxiang. | Fammi pensare.
+ex: **让我**介绍一下，这是我的同事王明。 | **Ràng wǒ** jièshào yíxià, zhè shì wǒ de tóngshì Wáng Míng. | Permettetemi di fare le presentazioni: questo è il mio collega Wang Ming.
+ex: **让我们**为友谊干杯！ | **Ràng wǒmen** wèi yǒuyì gānbēi! | Brindiamo all'amicizia!
+
+### 别让……, 不要让……
+
+别让 / 不要让 + persona + V significa «non lasciare che…, fai in modo che non…».
+
+ex: **别让**孩子一个人出去。 | **Bié ràng** háizi yí ge rén chūqu. | Non lasciare uscire il bambino da solo.
+ex: **别让**他知道这件事。 | **Bié ràng** tā zhīdao zhè jiàn shì. | Fai in modo che non venga a sapere questa faccenda.
+ex: **不要让**父母为你担心。 | **Búyào ràng** fùmǔ wèi nǐ dānxīn. | Non far preoccupare i tuoi genitori.
+
+## Altri verbi a perno
+
+Molti verbi che indicano richiesta, ordine, permesso, aiuto o insegnamento formano frasi a perno.
+
+| Verbo | Significato | Esempio |
+| 请 qǐng | invitare, pregare | 请他吃饭 |
+| 要求 yāoqiú | chiedere, esigere | 要求我们准时到 |
+| 派 pài | mandare, inviare | 派他去北京 |
+| 劝 quàn | esortare, convincere | 劝他戒烟 |
+| 求 qiú | supplicare | 求你帮我 |
+| 鼓励 gǔlì | incoraggiare | 鼓励我参加比赛 |
+| 允许 yǔnxǔ | permettere | 允许学生用词典 |
+| 禁止 jìnzhǐ | vietare | 禁止游客拍照 |
+| 帮(助) bāng(zhù) | aiutare | 帮我搬家 |
+| 教 jiāo | insegnare | 教我做饭 |
+| 催 cuī | sollecitare | 催他还钱 |
+| 通知 tōngzhī | avvisare | 通知大家开会 |
+
+ex: 我们**请**李老师给我们讲讲中国历史。 | Wǒmen **qǐng** Lǐ lǎoshī gěi wǒmen jiǎngjiang Zhōngguó lìshǐ. | Abbiamo chiesto al professor Li di parlarci un po' della storia cinese.
+ex: 公司**要求**员工九点以前到。 | Gōngsī **yāoqiú** yuángōng jiǔ diǎn yǐqián dào. | L'azienda esige che i dipendenti arrivino prima delle nove.
+ex: 大家都**劝**他戒烟。 | Dàjiā dōu **quàn** tā jiè yān. | Tutti cercano di convincerlo a smettere di fumare.
+ex: **求**你别走！ | **Qiú** nǐ bié zǒu! | Ti prego, non andartene!
+ex: 老师**鼓励**我参加汉语比赛。 | Lǎoshī **gǔlì** wǒ cānjiā Hànyǔ bǐsài. | L'insegnante mi ha incoraggiato a partecipare al concorso di cinese.
+ex: 考试的时候不**允许**学生用词典。 | Kǎoshì de shíhou bù **yǔnxǔ** xuésheng yòng cídiǎn. | Durante l'esame gli studenti non possono usare il dizionario.
+ex: 博物馆里**禁止**游客拍照。 | Bówùguǎn li **jìnzhǐ** yóukè pāizhào. | Nel museo è vietato ai visitatori scattare fotografie.
+ex: 你能**帮**我搬一下箱子吗？ | Nǐ néng **bāng** wǒ bān yíxià xiāngzi ma? | Puoi aiutarmi a spostare la valigia?
+ex: 奶奶**教**我包饺子。 | Nǎinai **jiāo** wǒ bāo jiǎozi. | La nonna mi insegna a fare i ravioli.
+ex: 房东**催**我们交房租。 | Fángdōng **cuī** wǒmen jiāo fángzū. | Il padrone di casa ci sollecita a pagare l'affitto.
+ex: 请**通知**大家明天下午开会。 | Qǐng **tōngzhī** dàjiā míngtiān xiàwǔ kāi huì. | Per favore, avvisa tutti che domani pomeriggio c'è riunione.
+
+### Eleggere, nominare, chiamare
+
+Con i verbi che significano «eleggere, nominare, chiamare», il secondo elemento indica il ruolo o il nome attribuito al perno: 当/做 dāng/zuò «fare da», 为 wéi (scritto) «come», oppure direttamente un nome dopo 叫.
+
+= S + 选/请/派 + O + 当/做 + N
+= S + 叫 + O + N
+= S + 称/任命 + O + 为 + N (scritto)
+
+ex: 我们**选**他**当**班长。 | Wǒmen **xuǎn** tā **dāng** bānzhǎng. | Lo abbiamo eletto capoclasse.
+ex: 我们**请**他**做**翻译。 | Wǒmen **qǐng** tā **zuò** fānyì. | Gli abbiamo chiesto di farci da interprete.
+ex: 大家**叫**他小王。 | Dàjiā **jiào** tā Xiǎo Wáng. | Tutti lo chiamano Xiao Wang.
+ex: 人们**称**杭州**为**“人间天堂”。 | Rénmen **chēng** Hángzhōu **wéi** "rénjiān tiāntáng". | Hangzhou è chiamata «il paradiso in terra».
+ex: 公司**任命**她**为**总经理。 | Gōngsī **rènmìng** tā **wéi** zǒngjīnglǐ. | L'azienda l'ha nominata direttrice generale.
+
+## Il perno con 有
+
+Con 有 e 没有 si forma un tipo speciale di frase a perno: il nome che segue 有 è l'oggetto di 有 e il soggetto del verbo successivo. La costruzione serve a introdurre un soggetto indeterminato («un amico», «qualcuno», «nessuno»), che in cinese di solito non si mette all'inizio della frase (vedi il capitolo «Le frasi con 有 e le frasi esistenziali»).
+
+= (S/Luogo) + 有/没有 + N + V (+ O)
+
+ex: 我**有**一个朋友住在上海。 | Wǒ **yǒu** yí ge péngyou zhù zài Shànghǎi. | Ho un amico che abita a Shanghai.
+ex: **有**人在敲门。 | **Yǒu** rén zài qiāo mén. | Qualcuno sta bussando alla porta.
+ex: **没有**人知道这件事。 | **Méiyǒu** rén zhīdao zhè jiàn shì. | Nessuno sa di questa faccenda.
+ex: 外面**有**个人找你。 | Wàimiàn **yǒu** ge rén zhǎo nǐ. | Fuori c'è una persona che ti cerca.
+ex: 我们班**有**几个同学会说法语。 | Wǒmen bān **yǒu** jǐ ge tóngxué huì shuō Fǎyǔ. | Nella nostra classe ci sono alcuni compagni che parlano francese.
+ex: **没有**谁愿意去。 | **Méiyǒu** shéi yuànyì qù. | Nessuno vuole andarci.
+no: 一个人在敲门。 | Yí ge rén zài qiāo mén. | Poco naturale: il soggetto indeterminato si introduce con 有.
+ex: 有人在敲门。 | Yǒu rén zài qiāo mén. | Qualcuno sta bussando alla porta.
+
+! Nella frase 我有事找你 «ho una cosa di cui parlarti» il nome dopo 有 (事) non è il soggetto del secondo verbo: chi «cerca» sono io. Si tratta quindi di una frase a verbi in serie (vedi il capitolo «Le frasi a verbi in serie»).

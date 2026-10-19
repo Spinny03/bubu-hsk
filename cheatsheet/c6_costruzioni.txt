@@ -1,0 +1,158 @@
+# Le frasi comparative
+## A + 比 bǐ + B + Agg
+A è «più…» di B (A, B = le due cose confrontate).
+= A + 比 bǐ + B + Agg (+ quantità)
+ex: 他**比**我高。 | Tā **bǐ** wǒ gāo. | È più alto di me.
+ex: 他比我大**三岁**。 | Tā bǐ wǒ dà **sān suì**. | Ha tre anni più di me.
+- Prima dell'Agg solo 更 gèng o 还 hái; dopo: 一点儿 yìdiǎnr, 得多 de duō, 多了 duō le, quantità.
+no: 他比我很高。 | Tā bǐ wǒ hěn gāo. | Errato: niente 很/非常/太 con 比.
+ex: 他比我**高得多**。 | Tā bǐ wǒ **gāo de duō**. | È molto più alto di me.
+## 比 bǐ con i verbi
+Per confrontare come si fa un'azione.
+= A + V + 得 de + 比 bǐ + B + Agg
+= A + 比 bǐ + B + 早 zǎo / 晚 wǎn / 多 duō / 少 shǎo + V + quantità
+ex: 她跑得**比**我快。 | Tā pǎo de **bǐ** wǒ kuài. | Corre più veloce di me.
+ex: 他**比**我**早**来十分钟。 | Tā **bǐ** wǒ **zǎo** lái shí fēnzhōng. | È arrivato dieci minuti prima di me.
+## Il comparativo negativo
+Per dire «meno… di», «non più… di», «non vale».
+| Forma | Significato | Esempio |
+| A + 没有 méiyǒu + B + Agg | A è meno Agg di B | 我没有他高 wǒ méiyǒu tā gāo |
+| A + 不比 bù bǐ + B + Agg | A non è più Agg di B | 我不比他矮 wǒ bù bǐ tā ǎi |
+| A + 不如 bùrú + B | A non vale B | 我不如他 wǒ bùrú tā |
+- Con 没有 méiyǒu si può aggiungere 这么 zhème / 那么 nàme prima dell'Agg.
+no: 我比他不高。 | Wǒ bǐ tā bù gāo. | Errato: la negazione va prima di 比, o si usa 没有.
+ex: 我**没有**他高。 | Wǒ **méiyǒu** tā gāo. | Non sono alto come lui.
+## Uguaglianza e somiglianza
+Per dire «come», «uguale», «simile».
+= A + 跟 gēn / 和 hé + B + 一样 yíyàng (+ Agg)
+= A + 跟 gēn + B + 不一样 bù yíyàng
+ex: 我**跟**你**一样**高。 | Wǒ **gēn** nǐ **yíyàng** gāo. | Sono alto come te.
+| Forma | Significato |
+| A + 跟 gēn + B + 差不多 chàbuduō | A e B sono simili |
+| A + 像 xiàng + B + (那么 nàme) + Agg | A è Agg come B |
+| A + 有 yǒu + B + (那么 nàme) + Agg | A arriva a essere Agg come B |
+| 一样的 yíyàng de + N | lo stesso N |
+## Il superlativo e i gradi
+Per dire «ancora più», «il più», «più di chiunque».
+| Forma | Significato | Esempio |
+| 更 gèng + Agg | ancora più | 今天更冷 jīntiān gèng lěng |
+| 最 zuì + Agg | il più | 他最高 tā zuì gāo |
+| 比谁都 bǐ shéi dōu + Agg | più di chiunque | 他比谁都忙 tā bǐ shéi dōu máng |
+| ……之一 zhī yī | uno dei… | 最好的大学之一 zuì hǎo de dàxué zhī yī |
+## «Sempre più» e «più…, più…»
+Crescita continua, o due cose che crescono insieme.
+= 越来越 yuè lái yuè + Agg/V
+= 越 yuè + Agg/V + 越 yuè + Agg/V
+ex: 天气**越来越**热了。 | Tiānqì **yuè lái yuè** rè le. | Fa sempre più caldo.
+ex: **越**快**越**好。 | **Yuè** kuài **yuè** hǎo. | Più presto, meglio è.
+no: 越来越很好 | yuè lái yuè hěn hǎo | Errato: niente 很 dopo 越来越.
+
+# L'oggetto anticipato
+## La struttura con 把 bǎ
+Porta l'oggetto prima del verbo: cosa gli si fa e con che risultato.
+= S + 把 bǎ + O (noto) + V + altri elementi
+ex: 我**把**作业写完了。 | Wǒ **bǎ** zuòyè xiě wán le. | Ho finito i compiti.
+ex: 请**把**门关上。 | Qǐng **bǎ** mén guān shang. | Chiudi la porta, per favore.
+## Le regole di 把 bǎ
+Cosa serve perché la frase sia corretta.
+- Oggetto noto (这本书 zhè běn shū, 我的钱 wǒ de qián), non generico (一本书 yì běn shū).
+- Verbo d'azione: niente 是 shì, 有 yǒu, 在 zài, 喜欢 xǐhuan, 知道 zhīdao, 觉得 juéde, 来 lái, 去 qù.
+- Il verbo non sta da solo: serve 了 le, un complemento, il verbo ripetuto o 一下 yíxià.
+- Negazione, modali e avverbi prima di 把 bǎ: 没把 méi bǎ, 要把 yào bǎ, 都把 dōu bǎ.
+- Niente complemento potenziale (no 把 bǎ……写得完 xiě de wán).
+- Obbligatorio con V + 在 zài / 到 dào / 给 gěi / 成 chéng: 把书放在桌上 bǎ shū fàng zài zhuō shang.
+no: 我把这本书看。 | Wǒ bǎ zhè běn shū kàn. | Errato: il verbo non può stare da solo.
+ex: 我把这本书**看完了**。 | Wǒ bǎ zhè běn shū **kàn wán le**. | Ho finito questo libro.
+no: 我把他不认识。 | Wǒ bǎ tā bú rènshi. | Errato: 认识 non è d'azione; e la negazione va prima di 把.
+ex: 我**没把**钱给他。 | Wǒ **méi bǎ** qián gěi tā. | Non gli ho dato i soldi.
+## Le varianti di 把 bǎ
+Forme vicine a 把 bǎ.
+| Forma | Uso | Esempio |
+| 将 jiāng | = 把 bǎ, scritto | 将门关好 jiāng mén guān hǎo |
+| 把 bǎ + O + 给 gěi + V | parlato, enfasi sul risultato | 把杯子给打破了 bǎ bēizi gěi dǎ pò le |
+| 把 bǎ + O + V + 成 chéng / 作 zuò | trasformare in, considerare come | 把水变成冰 bǎ shuǐ biàn chéng bīng |
+
+# Il passivo
+## 被 bèi e le altre marche
+Il soggetto subisce l'azione (spesso sgradita).
+= S (chi subisce) + 被 bèi / 叫 jiào / 让 ràng / 给 gěi + (chi agisce) + V + altri elementi
+ex: 我的钱包**被**偷了。 | Wǒ de qiánbāo **bèi** tōu le. | Mi hanno rubato il portafoglio.
+ex: 杯子**被**他打破了。 | Bēizi **bèi** tā dǎ pò le. | Il bicchiere l'ha rotto lui.
+| Marca | Chi agisce | Registro |
+| 被 bèi | si può omettere | neutro, anche scritto |
+| 叫 jiào / 让 ràng | obbligatorio | parlato |
+| 给 gěi | si può omettere | parlato |
+| 被 bèi……所 suǒ + V | obbligatorio | scritto formale |
+- Come con 把 bǎ: verbo con complemento o 了 le; negazione e modali prima di 被 bèi.
+- Oggi anche neutro o positivo: 被选为 bèi xuǎn wéi «essere eletto».
+ex: 他**没被**选上。 | Tā **méi bèi** xuǎn shang. | Non è stato scelto.
+no: 衣服被洗了干净。 | Yīfu bèi xǐ le gānjìng. | Errato: il complemento va unito al verbo.
+ex: 衣服**被**洗干净了。 | Yīfu **bèi** xǐ gānjìng le. | I vestiti sono stati lavati.
+## Il passivo senza marca
+Con soggetto inanimato il passivo di solito non si segnala.
+ex: 饭**做好**了。 | Fàn **zuò hǎo** le. | Il pranzo è pronto.
+ex: 信已经**寄**了。 | Xìn yǐjīng **jì** le. | La lettera è stata spedita.
+## Altri passivi
+Espressioni con senso già passivo.
+| Forma | Esempio |
+| 受到 shòudào + N | 受到欢迎 shòudào huānyíng «essere accolto bene» |
+| 遭到 zāodào + N (negativo) | 遭到批评 zāodào pīpíng «essere criticato» |
+| 是 shì……的 de | 这是他写的 zhè shì tā xiě de «l'ha scritto lui» |
+
+# Far fare e frasi a perno
+## Le causative: 让 ràng, 叫 jiào, 使 shǐ
+«Far fare qualcosa a qualcuno» o «rendere (felice…)».
+= S + 让 ràng / 叫 jiào / 使 shǐ + persona + V/Agg
+ex: 妈妈**让**我去买菜。 | Māma **ràng** wǒ qù mǎi cài. | La mamma mi manda a fare la spesa.
+| Verbo | Valore | Esempio |
+| 让 ràng | far fare, lasciar fare | 让我想想 ràng wǒ xiǎngxiang |
+| 叫 jiào | far fare, ordinare (parlato) | 老师叫你去 lǎoshī jiào nǐ qù |
+| 使 shǐ | causare uno stato (scritto) | 使我很高兴 shǐ wǒ hěn gāoxìng |
+| 令 lìng | causare emozioni (scritto) | 令人失望 lìng rén shīwàng |
+- 不让 bú ràng = non permettere; 别让 bié ràng = fare in modo che non.
+no: 这个消息让我高兴了很。 | Zhège xiāoxi ràng wǒ gāoxìng le hěn. | Errato: 很 va prima dell'Agg.
+ex: 这个消息**让**我很高兴。 | Zhège xiāoxi **ràng** wǒ hěn gāoxìng. | La notizia mi rende felice.
+## Le frasi a perno (兼语句 jiānyǔjù)
+La persona è oggetto del primo verbo e soggetto del secondo.
+= S + primo V + persona + secondo V
+| Primo verbo | Esempio |
+| 请 qǐng «invitare» | 我请你吃饭 wǒ qǐng nǐ chī fàn |
+| 叫 jiào / 让 ràng / 要求 yāoqiú | 他要求我早来 tā yāoqiú wǒ zǎo lái |
+| 帮 bāng / 帮助 bāngzhù | 我帮你拿 wǒ bāng nǐ ná |
+| 选 xuǎn / 派 pài | 大家选他当班长 dàjiā xuǎn tā dāng bānzhǎng |
+| 有 yǒu / 没有 méiyǒu | 有人找你 yǒu rén zhǎo nǐ |
+
+# I verbi in serie
+## Più verbi di seguito (连动句 liándòngjù)
+Due verbi uno dopo l'altro, nell'ordine in cui avvengono le azioni.
+= S + primo V (+ O) + secondo V (+ O)
+| Rapporto | Esempio |
+| movimento + scopo | 我去超市买东西 wǒ qù chāoshì mǎi dōngxi |
+| mezzo + azione | 他坐地铁上班 tā zuò dìtiě shàngbān |
+| modo: V + 着 zhe + V | 她笑着说 tā xiào zhe shuō |
+| successione | 他回家吃饭 tā huí jiā chī fàn |
+| 有 yǒu / 没有 méiyǒu + O + V | 我没有钱买车 wǒ méiyǒu qián mǎi chē |
+- 了 le e 过 guo di solito dopo il secondo verbo.
+no: 我买东西去超市。 | Wǒ mǎi dōngxi qù chāoshì. | Errato: prima il movimento, poi lo scopo.
+ex: 我**去**超市**买**东西。 | Wǒ **qù** chāoshì **mǎi** dōngxi. | Vado al supermercato a fare la spesa.
+
+# L'enfasi
+## Gli strumenti dell'enfasi
+Modi per mettere in rilievo una parte della frase.
+| Forma | Valore | Esempio |
+| 连 lián……都 dōu / 也 yě | perfino | 连他都知道 lián tā dōu zhīdao |
+| 是 shì + parte in rilievo | è proprio… | 我是想帮你 wǒ shì xiǎng bāng nǐ |
+| 是 shì……的 de | tempo, luogo, modo | 他是昨天来的 tā shì zuótiān lái de |
+| 就是 jiù shì | proprio | 就是他 jiù shì tā |
+| 可 kě + V/Agg | ma davvero | 我可没说 wǒ kě méi shuō |
+| 并 bìng + negazione | affatto (smentisce) | 我并不累 wǒ bìng bú lèi |
+| oggetto a inizio frase | tema in rilievo | 这本书我看过 zhè běn shū wǒ kàn guo |
+## 连 lián……都 dōu / 也 yě
+Serve a dire «perfino» e, con la negazione, «neanche».
+= 连 lián + elemento + 都 dōu / 也 yě + (negazione) + V
+ex: **连**小孩**都**会。 | **Lián** xiǎohái **dōu** huì. | Lo sa fare perfino un bambino.
+## Doppia negazione e domande retoriche
+Anche così la frase diventa più forte.
+ex: 我**不得不**走。 | Wǒ **bùdébù** zǒu. | Devo proprio andare.
+ex: **难道**你不知道**吗**？ | **Nándào** nǐ bù zhīdao **ma**? | Non lo saprai mica?
+ex: 你**不是**说过**吗**？ | Nǐ **bú shì** shuō guo **ma**? | Non l'avevi detto tu?

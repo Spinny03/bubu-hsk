@@ -1,0 +1,93 @@
+# Tabelle riassuntive
+
+Questa appendice riunisce in forma compatta le distinzioni più importanti della grammatica. Le tabelle servono per il ripasso e per il confronto rapido tra parole e strutture simili; le spiegazioni complete si trovano nei capitoli corrispondenti.
+
+## 的, 地 e 得
+Le tre particelle si pronunciano tutte *de*, ma hanno funzioni diverse.
+| Particella | Funzione | Struttura | Esempio |
+| 的 | lega l'attributo al nome | attributo + 的 + N | 我的书, 漂亮的衣服 |
+| 地 | lega l'avverbiale al verbo | avverbiale + 地 + V | 认真地学习 |
+| 得 | introduce il complemento di grado | V/Agg + 得 + C | 说得很好, 累得不想动 |
+ex: 他很高兴**地**告诉我，他**的**汉语进步**得**很快。 | Tā hěn gāoxìng **de** gàosu wǒ, tā **de** Hànyǔ jìnbù **de** hěn kuài. | Mi ha detto tutto contento che il suo cinese fa rapidi progressi.
+
+## 不 e 没(有)
+Le due negazioni si distinguono per il tipo di evento negato.
+| Uso | 不 bù | 没(有) méi(yǒu) |
+| Tempo | presente, futuro, abitudini | passato, «finora non» |
+| Volontà | sì: 我不去 «non ci vado» | no |
+| Verbo 有 | mai | sempre: 没有 |
+| Verbo 是 | 不是 | mai |
+| Modali | 不会, 不能, 不想, 不应该 | pochi: 没能, 没敢 |
+| Aggettivi | qualità: 不贵 | cambiamento non avvenuto: 天还没黑 |
+| Con 过 | no | sì: 没去过 |
+| Con 了 | 不……了 «non più» | mai con 了₁ |
+ex: 他**不**喝咖啡，今天也**没**喝茶。 | Tā **bù** hē kāfēi, jīntiān yě **méi** hē chá. | Non beve caffè, e oggi non ha bevuto neanche il tè.
+
+## 了, 过, 着 e 在
+Le principali marche aspettuali, con la loro posizione e la loro negazione.
+| Marca | Aspetto | Posizione | Negazione | Esempio |
+| 了₁ le | perfettivo: azione compiuta | dopo il verbo | 没 + V (senza 了) | 我买了两本书。 |
+| 了₂ le | cambiamento di situazione | fine frase | 不……了 / 还没…… | 下雨了。 |
+| 过 guo | esperienziale: «almeno una volta» | dopo il verbo | 没 + V + 过 | 我去过北京。 |
+| 着 zhe | durativo: stato che perdura | dopo il verbo | 没 + V + 着 | 门开着。 |
+| 在 / 正在 | progressivo: azione in corso | prima del verbo | 没在 + V | 他在吃饭。 |
+ex: 我去**过**中国，现在**正在**学中文。 | Wǒ qù **guo** Zhōngguó, xiànzài **zhèngzài** xué Zhōngwén. | Sono stato in Cina e ora sto studiando cinese.
+ex: 他穿**着**一件新衬衫。 | Tā chuān **zhe** yí jiàn xīn chènshān. | Indossa una camicia nuova.
+
+## 又, 再 e 还
+Tre avverbi di ripetizione o di aggiunta, distinti soprattutto dal momento dell'azione.
+| Avverbio | Significato | Azione | Esempio |
+| 又 yòu | di nuovo | già avvenuta, o regolare e prevista | 他又迟到了。 |
+| 再 zài | di nuovo, ancora; poi | non ancora avvenuta | 请再说一遍。 |
+| 还 hái | ancora, anche, inoltre | in corso o futura (con 要, 想) | 我还想去一次。 |
+ex: 他昨天**又**来了，说明天**还**要**再**来。 | Tā zuótiān **yòu** lái le, shuō míngtiān **hái** yào **zài** lái. | Ieri è venuto di nuovo e ha detto che domani tornerà ancora.
+
+## 就 e 才
+就 presenta un fatto come precoce, rapido o facile; 才 come tardivo, lento o difficile.
+| Aspetto | 就 jiù | 才 cái |
+| Con il tempo | presto: 七点就起床了 | tardi: 十点才起床 |
+| Con la durata | poco: 一天就做完了 | molto: 三天才做完 |
+| Prima di un numero | «solo»: 就一个人 | «solo, appena»: 才三岁 |
+| Nelle condizioni | 只要……就…… | 只有……才…… |
+| Con 了 finale | di solito sì | di solito no |
+| Valutazione | facilità, rapidità | difficoltà, ritardo |
+ex: 他七点**就**到了，我九点**才**到。 | Tā qī diǎn **jiù** dào le, wǒ jiǔ diǎn **cái** dào. | Lui è arrivato già alle sette, io solo alle nove.
+
+## 会, 能 e 可以
+I tre modali traducono «potere» e «sapere», ma con valori diversi.
+| Modale | Valore principale | Esempio | Negazione |
+| 会 huì | abilità appresa; previsione | 我会游泳。明天会下雨。 | 不会 |
+| 能 néng | capacità, possibilità concreta | 我能游一千米。 | 不能 |
+| 可以 kěyǐ | permesso; possibilità | 这儿可以拍照。 | 不能 / 不可以 |
+| 能 / 可以 | richiesta cortese | 你能帮我一下吗？ | — |
+ex: 我**会**开车，可是今天喝了酒，不**能**开。 | Wǒ **huì** kāichē, kěshì jīntiān hē le jiǔ, bù **néng** kāi. | So guidare, ma oggi ho bevuto e non posso guidare.
+
+## 要, 想 e 打算
+Tre modi di esprimere desideri, volontà e progetti.
+| Parola | Valore | Forza | Negazione | Esempio |
+| 想 xiǎng | desiderio, voglia | media, cortese | 不想 | 我想学画画。 |
+| 要 yào | volontà; necessità; futuro | decisa | 不想 (不要 = divieto) | 我要一杯茶。 |
+| 打算 dǎsuàn | progetto, programma | intenzione pianificata | 不打算 | 我打算明年去中国。 |
+ex: 我**想**去旅行，**打算**七月出发，现在**要**先存钱。 | Wǒ **xiǎng** qù lǚxíng, **dǎsuàn** qī yuè chūfā, xiànzài **yào** xiān cún qián. | Vorrei fare un viaggio: ho in programma di partire a luglio, e ora devo prima mettere da parte dei soldi.
+
+## 不要, 别 e 不用
+Il divieto e la mancanza di necessità.
+| Forma | Valore | Registro | Esempio |
+| 不要 búyào + V | divieto: «non…!» | neutro | 不要说话！ |
+| 别 bié + V | divieto: «non…!» | parlato, più diretto | 别担心！ |
+| 不用 búyòng + V | «non c'è bisogno di» | neutro | 不用换钱。 |
+| 不必 búbì + V | «non è necessario» | più formale | 你不必来。 |
+ex: **别**着急，你**不用**今天交作业。 | **Bié** zháojí, nǐ **búyòng** jīntiān jiāo zuòyè. | Non preoccuparti, non devi consegnare i compiti oggi.
+
+## 二 e 两
+Due parole per «due», con usi complementari.
+| Contesto | 二 èr | 两 liǎng |
+| Contare, cifre | 一、二、三 | — |
+| Davanti al classificatore | — | 两个人, 两本书 |
+| Numeri composti | 十二, 二十, 一百二十 | — |
+| Centinaia | 二百 | 两百 (più parlato) |
+| Migliaia, 万 | 二千 (raro) | 两千, 两万 |
+| Ordinali, date, piani | 第二, 二月, 二楼 | — |
+| Ore | — | 两点 |
+| Unità di misura | 二斤 (meno comune) | 两斤, 两米 |
+ex: 我买了**两**斤苹果，花了**二十二**块。 | Wǒ mǎi le **liǎng** jīn píngguǒ, huā le **èrshí'èr** kuài. | Ho comprato un chilo di mele (lett. due jin) e ho speso ventidue yuan.

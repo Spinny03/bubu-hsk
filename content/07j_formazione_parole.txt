@@ -1,0 +1,152 @@
+# La formazione delle parole
+
+Il lessico cinese si forma in larga parte combinando unità minime dotate di significato. Conoscere i meccanismi di formazione delle parole (构词法 gòucífǎ) aiuta a memorizzare il vocabolario, a capire parole mai viste e a evitare errori di costruzione: alcuni tipi di parole composte, per esempio, non possono reggere un oggetto. Questo capitolo descrive i morfemi, le parole composte, i prefissi e i suffissi, l'儿化, la reduplicazione, le abbreviazioni, i 成语 e i prestiti.
+
+## Morfemi e parole
+
+### 字 e 词
+
+In cinese si distinguono due nozioni che in italiano tendono a confondersi:
+
+- **字** zì: il carattere, cioè un'unità di scrittura corrispondente a una sillaba;
+- **词** cí: la parola, cioè l'unità del lessico che si usa liberamente nella frase.
+
+Quasi ogni carattere rappresenta un morfema (语素 yǔsù), la più piccola unità dotata di significato. Una parola può essere formata da un solo morfema (人 rén «persona», 书 shū «libro», 吃 chī «mangiare», 好 hǎo «buono») o da più morfemi (朋友 péngyou «amico», 学习 xuéxí «studiare», 图书馆 túshūguǎn «biblioteca»).
+
+### Monosillabi e bisillabi
+
+Il cinese classico era in prevalenza monosillabico; il cinese moderno preferisce nettamente le parole **bisillabiche**, che costituiscono la maggior parte del lessico. I monosillabi restano frequentissimi nel lessico di base (verbi come 吃, 喝, 去, 来; nomi come 水, 书, 人; aggettivi come 大, 好), mentre nel lessico astratto, tecnico e scritto domina la forma bisillabica.
+
+Molti morfemi sono **liberi** (自由语素 zìyóu yǔsù), cioè possono essere usati da soli come parole (人, 水, 吃); altri sono **legati** (黏着语素 niánzhuó yǔsù) e compaiono solo all'interno di parole composte: 习 in 学习 e 习惯, 民 in 人民, 语 in 汉语 e 语言.
+
+| Monosillabo (parlato) | Bisillabo (più formale) | Significato |
+| 看 kàn | 观看 guānkàn | guardare |
+| 买 mǎi | 购买 gòumǎi | comprare |
+| 怕 pà | 害怕 hàipà | avere paura |
+| 学 xué | 学习 xuéxí | studiare |
+| 路 lù | 道路 dàolù | strada |
+
+### I morfemi come mattoni
+
+Uno stesso morfema compare in molte parole, con un significato riconoscibile. Il morfema 电 diàn («elettricità») ne è un esempio tipico.
+
+| Parola | Pinyin | Letteralmente | Significato |
+| 电话 | diànhuà | parola elettrica | telefono |
+| 电脑 | diànnǎo | cervello elettrico | computer |
+| 电视 | diànshì | vista elettrica | televisione |
+| 电影 | diànyǐng | ombra elettrica | film, cinema |
+| 电梯 | diàntī | scala elettrica | ascensore |
+| 电池 | diànchí | vasca elettrica | pila, batteria |
+
+Allo stesso modo 车 chē («veicolo») forma 火车 «treno», 汽车 «automobile», 自行车 «bicicletta», 出租车 «taxi», 车站 «stazione»; 医 yī («medicina») forma 医生 «medico», 医院 «ospedale», 牙医 «dentista», 中医 «medicina cinese».
+
+### Indovinare il significato
+
+Conoscendo i componenti si può spesso intuire il significato di una parola nuova:
+
+| Parola | Componenti | Significato |
+| 飞机 fēijī | volare + macchina | aereo |
+| 冰箱 bīngxiāng | ghiaccio + cassa | frigorifero |
+| 手表 shǒubiǎo | mano + orologio | orologio da polso |
+| 雨伞 yǔsǎn | pioggia + ombrello | ombrello |
+| 书店 shūdiàn | libro + negozio | libreria |
+| 球迷 qiúmí | palla + appassionato | tifoso |
+
+! Il significato di una parola composta non è sempre la somma delle parti: 东西 dōngxi (lett. «est-ovest») significa «cosa, oggetto»; 马上 mǎshàng (lett. «sul cavallo») significa «subito»; 小心 xiǎoxīn (lett. «piccolo cuore») significa «fare attenzione». Il metodo dei componenti è un aiuto, non una regola.
+
+## Le parole composte
+
+La maggior parte delle parole cinesi sono parole composte (复合词 fùhécí). I componenti si combinano secondo rapporti grammaticali simili a quelli della frase: coordinazione, modificazione, verbo e oggetto, verbo e complemento, soggetto e predicato.
+
+| Tipo | Struttura | Esempi |
+| coordinativo (联合式) | A + B affini o opposti | 朋友, 买卖, 东西, 大小, 国家 |
+| modificatore-testa (偏正式) | modificatore + testa | 火车, 汉语, 红茶, 飞机 |
+| verbo-oggetto (动宾式) | V + O | 开车, 吃饭, 毕业, 关心 |
+| verbo-complemento (补充式) | V + risultato o direzione | 提高, 说明, 推翻, 看见, 打开 |
+| soggetto-predicato (主谓式) | soggetto + predicato | 地震, 心疼, 头疼, 年轻, 胆小 |
+| reduplicativo (重叠式) | AA | 妈妈, 星星, 刚刚 |
+
+### Composti coordinativi
+
+I due componenti hanno pari rango e significato affine, opposto o correlato.
+
+- **Sinonimi**: il composto ha il significato comune dei due elementi: 学习 xuéxí «studiare», 道路 dàolù «strada», 语言 yǔyán «lingua», 美丽 měilì «bello», 朋友 péngyou «amico».
+- **Contrari**: il composto esprime la nozione astratta che li comprende: 大小 dàxiǎo «dimensione, taglia», 长短 chángduǎn «lunghezza», 多少 duōshao «quantità; quanto?», 开关 kāiguān «interruttore».
+- **Slittamento di significato**: 东西 dōngxi «cosa», 买卖 mǎimai «commercio, affari», 国家 guójiā (lett. «paese-famiglia») «stato, nazione».
+
+ex: 这双鞋的大小正合适。 | Zhè shuāng xié de dàxiǎo zhèng héshì. | Questo paio di scarpe è proprio della misura giusta.
+ex: 他在北京做买卖。 | Tā zài Běijīng zuò mǎimai. | Fa affari a Pechino.
+
+### Composti modificatore-testa
+
+Il primo elemento modifica il secondo, che è la **testa** e determina la categoria e il significato di base della parola. L'ordine è quello del sintagma nominale cinese, cioè inverso rispetto all'italiano: 火车 huǒchē è un «veicolo (a) fuoco», 汉语 Hànyǔ la «lingua degli Han», 飞机 fēijī una «macchina che vola», 黑板 hēibǎn una «tavola nera», 熊猫 xióngmāo un «gatto-orso» (panda).
+
+ex: 我喝红茶，不喝绿茶。 | Wǒ hē hóngchá, bù hē lǜchá. | Bevo tè nero, non tè verde. (lett. tè rosso)
+
+Invertendo i componenti si ottiene una parola diversa, perché cambia la testa:
+
+| Parola | Significato | Parola inversa | Significato |
+| 牛奶 niúnǎi | latte (di mucca) | 奶牛 nǎiniú | mucca da latte |
+| 蜂蜜 fēngmì | miele (d'ape) | 蜜蜂 mìfēng | ape (da miele) |
+| 带领 dàilǐng | guidare | 领带 lǐngdài | cravatta |
+
+! Anche molti aggettivi e verbi sono di questo tipo: 雪白 xuěbái «bianco come la neve», 冰冷 bīnglěng «gelido», 笔直 bǐzhí «dritto come una penna», 热爱 rè'ài «amare appassionatamente».
+
+### Composti verbo-oggetto
+
+Il primo elemento è un verbo, il secondo il suo oggetto: 开车 kāi chē «guidare (l'auto)», 吃饭 chī fàn «mangiare», 毕业 bì yè «diplomarsi, laurearsi» (lett. «concludere gli studi»), 关心 guānxīn «interessarsi a, preoccuparsi per», 结婚 jié hūn «sposarsi», 见面 jiàn miàn «incontrarsi», 帮忙 bāng máng «aiutare», 睡觉 shuì jiào «dormire», 游泳 yóu yǒng «nuotare».
+
+Molti di questi verbi sono **separabili** (离合词 líhécí): tra verbo e oggetto si possono inserire 了, 过, classificatori, complementi o attributi. Per lo stesso motivo, di norma non possono reggere un altro oggetto: la persona coinvolta si introduce con una preposizione (vedi il capitolo «Il verbo»).
+
+ex: 我们结婚三年了。 | Wǒmen jié hūn sān nián le. | Siamo sposati da tre anni.
+ex: 我跟他只见过一次面。 | Wǒ gēn tā zhǐ jiàn guo yí cì miàn. | L'ho incontrato una volta sola.
+ex: 请你帮我一个忙。 | Qǐng nǐ bāng wǒ yí ge máng. | Fammi un favore, per piacere.
+ex: 昨天晚上我只睡了五个小时觉。 | Zuótiān wǎnshang wǒ zhǐ shuì le wǔ ge xiǎoshí jiào. | Ieri notte ho dormito solo cinque ore.
+no: 我想见面你。 | Wǒ xiǎng jiàn miàn nǐ. | Errato: 见面 contiene già un oggetto e non ne regge un altro.
+ex: 我想**跟**你见面。 | Wǒ xiǎng **gēn** nǐ jiàn miàn. | Vorrei incontrarti.
+no: 他毕业北京大学。 | Tā bì yè Běijīng Dàxué. | Errato: 毕业 non regge un oggetto.
+ex: 他是**从**北京大学毕业的。 | Tā shì **cóng** Běijīng Dàxué bì yè de. | Si è laureato all'Università di Pechino.
+
+! Alcuni composti verbo-oggetto si sono lessicalizzati e reggono normalmente un oggetto: 关心孩子 «occuparsi dei figli», 担心父母 «preoccuparsi per i genitori», 注意安全 «fare attenzione alla sicurezza».
+
+### Composti verbo-complemento
+
+Il secondo elemento indica il risultato o la direzione dell'azione espressa dal primo: 提高 tígāo «alzare, migliorare» (lett. «sollevare-alto»), 说明 shuōmíng «spiegare» («dire-chiaro»), 推翻 tuīfān «rovesciare» («spingere-capovolto»), 看见 kànjiàn «vedere» («guardare-percepire»), 打开 dǎkāi «aprire», 改正 gǎizhèng «correggere», 降低 jiàngdī «abbassare». Molti di essi ammettono le forme potenziali con 得/不: 看得见 kàn de jiàn, 打不开 dǎ bu kāi (vedi i capitoli «Il complemento di risultato» e «Il complemento potenziale»).
+
+ex: 我们要提高服务质量。 | Wǒmen yào tígāo fúwù zhìliàng. | Dobbiamo migliorare la qualità del servizio.
+ex: 请打开窗户。 | Qǐng dǎkāi chuānghu. | Apri la finestra, per favore.
+
+! Un sottotipo è formato da un nome seguito dal suo classificatore, con valore collettivo: 车辆 chēliàng «veicoli», 纸张 zhǐzhāng «carta, fogli», 书本 shūběn «libri», 人口 rénkǒu «popolazione». Questi nomi non si usano con numerale e classificatore: si dice 很多车辆, non 三辆车辆.
+
+### Composti soggetto-predicato
+
+Il primo elemento è il «soggetto», il secondo il «predicato»: 地震 dìzhèn «terremoto» (lett. «la terra trema»), 心疼 xīnténg «provare pena, dispiacersi» («il cuore duole»), 头疼 tóuténg «mal di testa; seccante», 年轻 niánqīng «giovane» («l'età è leggera»), 胆小 dǎnxiǎo «pauroso» («il coraggio è piccolo»), 面熟 miànshú «dal viso familiare», 眼红 yǎnhóng «invidioso».
+
+ex: 这个问题真让人头疼。 | Zhège wèntí zhēn ràng rén tóuténg. | Questo problema è proprio un bel grattacapo.
+ex: 看到孩子这么累，妈妈很心疼。 | Kàndào háizi zhème lèi, māma hěn xīnténg. | Vedendo il figlio così stanco, alla mamma si stringe il cuore.
+
+### Composti reduplicativi
+
+Alcune parole sono formate dalla ripetizione di uno stesso morfema, che spesso da solo non si usa: 妈妈 māma, 爸爸 bàba, 哥哥 gēge, 星星 xīngxing «stella», 宝宝 bǎobao «bimbo», 刚刚 gānggāng «appena», 常常 chángcháng «spesso». Nei nomi di parentela la seconda sillaba ha tono neutro. Per la reduplicazione come procedimento grammaticale vedi la sezione «La reduplicazione: riepilogo».
+
+## Prefissi e suffissi
+
+Oltre alla composizione, il cinese usa la derivazione con affissi (词缀 cízhuì): prefissi (前缀 qiánzhuì) e suffissi (后缀 hòuzhuì). Pochi affissi sono «veri», cioè hanno perso del tutto il significato originario (老-, 阿-, -子, -头); molti altri sono **semi-affissi** (类词缀 lèi cízhuì), che conservano un significato riconoscibile ma si attaccano a molte basi diverse, come -家, -员, -性, -化, 超-, 非-.
+
+### Prefissi
+
+| Prefisso | Valore | Esempi |
+| 老- lǎo- | sbiadito; con cognomi: familiarità | 老师, 老虎, 老鼠, 老王 |
+| 小- xiǎo- | con cognomi e nomi: confidenza, affetto | 小王, 小孩, 小李 |
+| 第- dì- | numerali ordinali | 第一, 第二课 |
+| 初- chū- | primi dieci giorni del mese lunare | 初一, 初五, 初十 |
+| 阿- ā- | parentela, nomi propri (sud) | 阿姨, 阿明 |
+| 可- kě- | «che merita, -abile» (aggettivi) | 可爱, 可怕, 可笑, 可靠 |
+| 非- fēi- | «non-» | 非法, 非正式, 非卖品 |
+| 反- fǎn- | «anti-, contro-» | 反作用, 反腐败, 反恐 |
+| 超- chāo- | «super-, ultra-» | 超市, 超人, 超大 |
+| 副- fù- | «vice-, secondario» | 副经理, 副教授, 副作用 |
+| 总- zǒng- | «capo, generale, centrale» | 总经理, 总统, 总部 |
+
+! 老- non significa «vecchio»: 老虎 lǎohǔ è semplicemente «tigre», 老鼠 lǎoshǔ «topo», 老师 lǎoshī «insegnante» di qualunque età. Davanti al cognome, 老 si rivolge a una persona di una certa età o a un amico di lunga data (老王), mentre 小 si usa con persone più giovani (小王).
+! 可- forma aggettivi a partire da verbi: 爱 «amare» → 可爱 kě'ài «adorabile»; 怕 «temere» → 可怕 kěpà «spaventoso»; 笑 «ridere» → 可笑 kěxiào «ridicolo».

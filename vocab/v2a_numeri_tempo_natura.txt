@@ -1,0 +1,122 @@
+@ Numeri e quantità | 🔢
+一 | yī | uno | 1️⃣ | 1
+二 | èr | due | 2️⃣ | 1
+三 | sān | tre | 3️⃣ | 1
+四 | sì | quattro | 4️⃣ | 1
+五 | wǔ | cinque | 5️⃣ | 1
+六 | liù | sei | 6️⃣ | 1
+七 | qī | sette | 7️⃣ | 1
+八 | bā | otto | 8️⃣ | 1
+九 | jiǔ | nove | 9️⃣ | 1
+十 | shí | dieci | 🔟 | 1
+零 | líng | zero | 0️⃣ | 2
+两 | liǎng | due (con i classificatori) | ✌️ | 2
+几 | jǐ | quanti (meno di 10), alcuni | - | 1
+多少 | duōshao | quanto, quanti | - | 1
+个 | gè | cl. generico | - | 1
+半 | bàn | mezzo, e mezzo | - | 3
+一半 | yíbàn | metà | - | 3
+百 | bǎi | cento | 💯 | 2
+千 | qiān | mille | - | 2
+万 | wàn | diecimila | - | 3
+第 | dì | prefisso degli ordinali | - | 2
+一点儿 | yìdiǎnr | un po' | 🤏 | 1
+些 | xiē | alcuni, un po' (cl.) | - | 1
+多 | duō | molto, tanti | - | 1
+少 | shǎo | poco, pochi | - | 1
+每 | měi | ogni | - | 2
+本 | běn | cl. per libri, quaderni | 📕 | 1
+块 | kuài | cl. per pezzi; yuan (coll.) | - | 1
+杯 | bēi | cl. tazza, bicchiere | 🥛 | 1
+件 | jiàn | cl. per vestiti, faccende | 🧥 | 2
+次 | cì | volta (cl. di frequenza) | - | 2
+张 | zhāng | cl. per oggetti piatti | 📄 | 3
+只 | zhī | cl. per animali | 🐈 | 3
+条 | tiáo | cl. per cose lunghe, pesci | 🐟 | 3
+辆 | liàng | cl. per veicoli | 🚙 | 3
+位 | wèi | cl. di cortesia per persone | - | 3
+口 | kǒu | cl. per membri della famiglia | 👪 | 3
+双 | shuāng | paio (cl.) | 🧦 | 3
+瓶 | píng | cl. bottiglia | 🍾 | 3
+把 | bǎ | cl. per oggetti con manico | 🪑 | 3
+种 | zhǒng | tipo, specie (cl.) | - | 3
+层 | céng | piano (di edificio) (cl.) | - | 3
+斤 | jīn | mezzo chilo (cl.) | - | 3
+数字 | shùzì | numero, cifra | - | 3
+@ Il tempo: giorni, mesi, ore | 📅
+今天 | jīntiān | oggi | - | 1
+明天 | míngtiān | domani | - | 1
+昨天 | zuótiān | ieri | - | 1
+现在 | xiànzài | ora, adesso | - | 1
+点 | diǎn | ora (negli orari: 三点) | 🕒 | 1
+分钟 | fēnzhōng | minuto | ⏱️ | 1
+小时 | xiǎoshí | ora (durata) | ⌛ | 2
+时候 | shíhou | momento, quando | - | 1
+时间 | shíjiān | tempo (cronologico) | ⏳ | 2
+年 | nián | anno | - | 1
+月 | yuè | mese | - | 1
+号 | hào | giorno del mese | - | 1
+天 | tiān | giorno | - | 1
+星期 | xīngqī | settimana | 📅 | 1
+星期一 | xīngqīyī | lunedì | - | 1
+星期二 | xīngqī'èr | martedì | - | 1
+星期三 | xīngqīsān | mercoledì | - | 1
+星期四 | xīngqīsì | giovedì | - | 1
+星期五 | xīngqīwǔ | venerdì | - | 1
+星期六 | xīngqīliù | sabato | - | 1
+星期天 | xīngqītiān | domenica | - | 1
+上午 | shàngwǔ | mattina | - | 1
+中午 | zhōngwǔ | mezzogiorno | 🕛 | 1
+下午 | xiàwǔ | pomeriggio | - | 1
+晚上 | wǎnshang | sera | 🌃 | 2
+早上 | zǎoshang | mattina presto | 🌅 | 2
+今年 | jīnnián | quest'anno | - | 2
+明年 | míngnián | l'anno prossimo | - | 2
+去年 | qùnián | l'anno scorso | - | 2
+上个月 | shàng ge yuè | il mese scorso | - | 2
+下个月 | xià ge yuè | il mese prossimo | - | 2
+早 | zǎo | presto | - | 2
+晚 | wǎn | tardi | - | 2
+周末 | zhōumò | fine settimana | - | 3
+刻 | kè | quarto d'ora | - | 3
+以前 | yǐqián | prima, in passato | - | 3
+以后 | yǐhòu | dopo, in futuro | - | 3
+刚才 | gāngcái | poco fa | - | 3
+春天 | chūntiān | primavera | 🌱 | 3
+夏天 | xiàtiān | estate | 🏖️ | 3
+秋天 | qiūtiān | autunno | 🍂 | 3
+冬天 | dōngtiān | inverno | ⛄ | 3
+春节 | Chūn Jié | Capodanno cinese | 🧧 | 3
+@ Natura e meteo | 🌳
+天气 | tiānqì | tempo (meteo) | ⛅ | 1
+冷 | lěng | freddo | 🥶 | 1
+热 | rè | caldo | 🥵 | 1
+下雨 | xià yǔ | piovere | ☔ | 1
+下雪 | xià xuě | nevicare | ❄️ | 2
+晴 | qíng | sereno | 🌤️ | 2
+阴 | yīn | nuvoloso | 🌥️ | 2
+度 | dù | grado | 🌡️ | 2
+风 | fēng | vento | 🌬️ | 3
+太阳 | tàiyáng | sole | ☀️ | 3
+月亮 | yuèliang | luna | 🌙 | 3
+山 | shān | montagna (座) | ⛰️ | 3
+海 | hǎi | mare | 🌊 | 3
+河 | hé | fiume (条) | - | 3
+湖 | hú | lago | - | 3
+树 | shù | albero (棵) | 🌳 | 3
+花 | huā | fiore (朵) | 🌸 | 3
+草 | cǎo | erba | 🌿 | 3
+世界 | shìjiè | mondo | 🌍 | 3
+环境 | huánjìng | ambiente | - | 3
+季节 | jìjié | stagione | - | 3
+暖和 | nuǎnhuo | tiepido, mite | - | 3
+凉快 | liángkuai | fresco | - | 4
+云 | yún | nuvola | ☁️ | 4
+星星 | xīngxing | stella | ⭐ | 3
+自然 | zìrán | natura | - | 4
+空气 | kōngqì | aria | - | 4
+森林 | sēnlín | foresta | 🌲 | 4
+地球 | dìqiú | la Terra | 🌎 | 4
+石头 | shítou | pietra (块) | 🪨 | 4
+叶子 | yèzi | foglia (片) | 🍃 | 4
+岛 | dǎo | isola | 🏝️ | 4

@@ -1,0 +1,101 @@
+@ Sport e tempo libero | ⚽
+玩 | wán | giocare, divertirsi | - | 1
+电影 | diànyǐng | film (部) | 🎬 | 1
+足球 | zúqiú | calcio (sport); pallone | ⚽ | 2
+篮球 | lánqiú | pallacanestro | 🏀 | 2
+踢 | tī | calciare, giocare (a calcio) | - | 2
+打 | dǎ | giocare (a basket, tennis…) | - | 2
+游泳 | yóuyǒng | nuotare | 🏊 | 2
+跑步 | pǎobù | correre, fare jogging | 🏃 | 2
+跳舞 | tiàowǔ | ballare | 💃 | 2
+唱歌 | chànggē | cantare | 🎤 | 2
+音乐 | yīnyuè | musica | 🎵 | 3
+爱好 | àihào | hobby, passione | - | 3
+比赛 | bǐsài | gara, partita | 🏆 | 3
+锻炼 | duànliàn | allenarsi, fare esercizio | 💪 | 3
+游戏 | yóuxì | gioco | 🎮 | 3
+爬山 | páshān | fare escursioni in montagna | 🧗 | 3
+照相 | zhàoxiàng | fare fotografie | 📸 | 3
+画画儿 | huà huàr | disegnare, dipingere | 🎨 | 3
+节目 | jiémù | programma, spettacolo | - | 3
+网球 | wǎngqiú | tennis | 🎾 | 3
+乒乓球 | pīngpāngqiú | ping-pong | 🏓 | 4
+排球 | páiqiú | pallavolo | 🏐 | 4
+羽毛球 | yǔmáoqiú | badminton | 🏸 | 4
+滑雪 | huáxuě | sciare | ⛷️ | 4
+健身 | jiànshēn | fare fitness | 🏋️ | 4
+散步 | sànbù | passeggiare | 🚶 | 4
+赢 | yíng | vincere | 🥇 | 4
+输 | shū | perdere | - | 4
+队 | duì | squadra | - | 4
+运动员 | yùndòngyuán | atleta | 🏅 | 4
+钢琴 | gāngqín | pianoforte | 🎹 | 4
+吉他 | jítā | chitarra (把) | 🎸 | 4
+钓鱼 | diàoyú | pescare | 🎣 | 4
+放假 | fàngjià | essere in vacanza | - | 4
+@ Tecnologia e comunicazione | 📱
+喂 | wéi | pronto? (al telefono) | - | 1
+上网 | shàngwǎng | navigare in Internet | 🌐 | 3
+电子邮件 | diànzǐ yóujiàn | e-mail (封) | 📧 | 3
+照片 | zhàopiàn | foto (张) | 🖼️ | 3
+号码 | hàomǎ | numero (di telefono ecc.) | - | 3
+新闻 | xīnwén | notizie | 📰 | 3
+声音 | shēngyīn | suono, voce | 🔊 | 3
+打开 | dǎkāi | aprire, accendere | - | 3
+关 | guān | chiudere, spegnere | - | 3
+聊天 | liáotiān | chiacchierare, chattare | 💬 | 4
+短信 | duǎnxìn | SMS, messaggio (条) | 📩 | 4
+微信 | Wēixìn | WeChat | - | 4
+密码 | mìmǎ | password | 🔑 | 4
+充电 | chōngdiàn | ricaricare | 🔋 | 4
+网站 | wǎngzhàn | sito web | - | 4
+下载 | xiàzài | scaricare | ⬇️ | 4
+视频 | shìpín | video | 📹 | 4
+键盘 | jiànpán | tastiera | ⌨️ | 4
+鼠标 | shǔbiāo | mouse | 🖱️ | 4
+打印 | dǎyìn | stampare | 🖨️ | 4
+复印 | fùyìn | fotocopiare | - | 4
+软件 | ruǎnjiàn | software | - | 4
+信息 | xìnxī | informazione | - | 4
+联系 | liánxì | contattare | - | 4
+广播 | guǎngbō | radio (trasmissione) | 📻 | 4
+科技 | kējì | tecnologia | - | 4
+机器人 | jīqìrén | robot | 🤖 | 4
+@ Paesi e lingue | 🌍
+中国 | Zhōngguó | Cina | 🇨🇳 | 1
+意大利 | Yìdàlì | Italia | 🇮🇹 | 3
+中国人 | Zhōngguórén | cinese (persona) | - | 1
+意大利人 | Yìdàlìrén | italiano (persona) | - | 3
+汉语 | Hànyǔ | cinese (lingua) | - | 1
+中文 | Zhōngwén | cinese (lingua, scritta) | - | 2
+英语 | Yīngyǔ | inglese (lingua) | - | 3
+意大利语 | Yìdàlìyǔ | italiano (lingua) | - | 4
+国家 | guójiā | paese, Stato | - | 3
+外国 | wàiguó | estero, paese straniero | - | 3
+外国人 | wàiguórén | straniero | - | 3
+语言 | yǔyán | lingua | - | 4
+北京 | Běijīng | Pechino | - | 1
+美国 | Měiguó | Stati Uniti | 🇺🇸 | 3
+英国 | Yīngguó | Regno Unito | 🇬🇧 | 3
+法国 | Fǎguó | Francia | 🇫🇷 | 3
+德国 | Déguó | Germania | 🇩🇪 | 4
+西班牙 | Xībānyá | Spagna | 🇪🇸 | 4
+日本 | Rìběn | Giappone | 🇯🇵 | 3
+韩国 | Hánguó | Corea del Sud | 🇰🇷 | 4
+俄罗斯 | Éluósī | Russia | 🇷🇺 | 4
+印度 | Yìndù | India | 🇮🇳 | 4
+加拿大 | Jiānádà | Canada | 🇨🇦 | 4
+巴西 | Bāxī | Brasile | 🇧🇷 | 4
+澳大利亚 | Àodàlìyà | Australia | 🇦🇺 | 4
+瑞士 | Ruìshì | Svizzera | 🇨🇭 | 4
+葡萄牙 | Pútáoyá | Portogallo | 🇵🇹 | 4
+欧洲 | Ōuzhōu | Europa | 🇪🇺 | 4
+亚洲 | Yàzhōu | Asia | 🌏 | 4
+非洲 | Fēizhōu | Africa | - | 4
+罗马 | Luómǎ | Roma | - | 4
+普通话 | pǔtōnghuà | cinese standard (putonghua) | - | 4
+法语 | Fǎyǔ | francese (lingua) | - | 4
+德语 | Déyǔ | tedesco (lingua) | - | 4
+西班牙语 | Xībānyáyǔ | spagnolo (lingua) | - | 4
+日语 | Rìyǔ | giapponese (lingua) | - | 4
+翻译 | fānyì | tradurre; traduttore | - | 4

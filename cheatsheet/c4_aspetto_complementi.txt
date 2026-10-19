@@ -1,0 +1,112 @@
+# Le particelle strutturali
+## I tre de a confronto
+Si leggono tutte de; cambia cosa collegano.
+| Particella | Collega | Esempio |
+| 的 de | attributo e nome | 我买的书 wǒ mǎi de shū |
+| 地 de | modo e verbo | 高兴地说 gāoxìng de shuō |
+| 得 de | verbo e complemento | 跑得很快 pǎo de hěn kuài |
+- 的 de senza nome = «quello…» (红的 hóng de); cade con i parenti (我妈妈 wǒ māma) e con Agg di una sillaba (新书 xīn shū).
+ex: 她唱**得**很好。 | Tā chàng **de** hěn hǎo. | Canta bene.
+# L'aspetto
+## Tempo e aspetto (体 tǐ)
+Il cinese segna l'aspetto: se l'azione è finita, in corso o già vissuta.
+| Marca | Aspetto | Negazione |
+| V + 了 le | compiuto | 没 méi + V |
+| frase + 了 le | situazione cambiata | 不 bù …… 了 le |
+| V + 过 guo | esperienza | 没 méi + V + 过 guo |
+| 在 zài + V | in corso | 没在 méi zài + V |
+| V + 着 zhe | stato che dura | 没 méi + V + 着 zhe |
+## La particella 了 le
+Dopo il verbo: azione compiuta; a fine frase: situazione cambiata.
+= S + V + 了 le + Num + CL + O · S + V + O + 了 le · S + 不 bù + V + 了 le (non più)
+ex: 我买**了**三本书。 | Wǒ mǎi **le** sān běn shū. | Ho comprato tre libri.
+ex: 我不抽烟**了**。 | Wǒ bù chōu yān **le**. | Non fumo più.
+ex: 我学**了**两年汉语**了**。 | Wǒ xué **le** liǎng nián Hànyǔ **le**. | Studio cinese da due anni.
+! V + 了 le + O senza numero resta sospeso: aggiungi un seguito (我吃了饭就走 wǒ chī le fàn jiù zǒu).
+no: 我没吃了。 | Wǒ méi chī le. | Errato: con 没 cade 了.
+- Niente 了 le con abitudini passate e verbi di stato (是 shì, 喜欢 xǐhuan).
+## La particella 过 guo
+Dice che si è fatto qualcosa almeno una volta nella vita.
+= S + (没 méi) + V + 过 guo + O
+ex: 我去**过**中国。 | Wǒ qù **guo** Zhōngguó. | Sono stato in Cina.
+- 他去了中国 tā qù le Zhōngguó: è là; 他去过中国 tā qù guo Zhōngguó: ci è stato.
+## 在 zài, 正在 zhèngzài e 着 zhe
+在 zài: azione in corso; 着 zhe: stato che continua.
+= S + 在 zài / 正在 zhèngzài + V + O (+ 呢 ne) · V + 着 zhe · V + 着 zhe + altro V (modo)
+ex: 他**正在**吃饭**呢**。 | Tā **zhèngzài** chī fàn **ne**. | Sta mangiando.
+ex: 他**笑着**说。 | Tā **xiào zhe** shuō. | Disse sorridendo.
+- 他在穿衣服 tā zài chuān yīfu: si veste; 他穿着红衣服 tā chuān zhe hóng yīfu: indossa.
+# Futuro ed enfasi sul passato
+## Il futuro e le azioni imminenti
+Il futuro: parole di tempo, 要 yào, 会 huì, 打算 dǎsuan. «Stare per»:
+= 快要 kuàiyào / 就要 jiùyào + V + 了 le · Tempo + 就要 jiùyào + V + 了 le
+no: 明天快要下雨了。 | Míngtiān kuàiyào xià yǔ le. | Errato: con un'espressione di tempo si usa 就要.
+ex: 火车**快要**开**了**。 | Huǒchē **kuàiyào** kāi **le**. | Il treno sta per partire.
+## La costruzione 是……的 shì……de
+Su un fatto passato noto mette in rilievo quando, dove, come, chi.
+= S + (是 shì) + Tempo / Luogo / modo + V + 的 de · negazione 不是 bú shì …… 的 de
+ex: 我**是**坐飞机来**的**。 | Wǒ **shì** zuò fēijī lái **de**. | Sono venuto in aereo.
+- 他来了 tā lái le: è venuto; 他是昨天来的 tā shì zuótiān lái de: è venuto ieri (dettaglio).
+- Valutativo: 这是可以解决的 zhè shì kěyǐ jiějué de.
+# I complementi
+## Panoramica dei complementi (补语 bǔyǔ)
+Seguono il verbo e ne precisano grado, risultato, direzione, possibilità, quantità.
+| Tipo | Struttura | Esempio |
+| grado | V + 得 de + Agg | 说得很好 shuō de hěn hǎo |
+| risultato | V + V/Agg | 听懂 tīngdǒng |
+| direzione | V + 来 lái / 去 qù | 走进来 zǒu jìnlai |
+| potenziale | V + 得 de / 不 bu + risultato | 听得懂 tīng de dǒng |
+| quantità | V + durata o volte | 等了一天 děng le yì tiān |
+## Il complemento di grado
+Valuta come si fa un'azione.
+= S + V + 得 de + (很 hěn / 不 bù) + Agg · S + (V) + O + V + 得 de + Agg
+no: 他说汉语得很好。 | Tā shuō Hànyǔ de hěn hǎo. | Errato: con l'oggetto si ripete il verbo.
+ex: 他说汉语说**得**很好。 | Tā shuō Hànyǔ shuō **de** hěn hǎo. | Parla bene il cinese.
+- 慢慢地走 mànmàn de zǒu: modo; 走得很慢 zǒu de hěn màn: valutazione. Fissi: Agg + 极了 jí le / 死了 sǐ le.
+## Il complemento di risultato
+Dice il risultato dell'azione.
+= V + risultato (+ 了 le) · 没 méi + V + risultato
+| Risultato | Significato | Esempio |
+| 完 wán / 好 hǎo | finire / portare a termine | 做完 zuòwán |
+| 懂 dǒng / 见 jiàn | capire / percepire | 看见 kànjiàn |
+| 到 dào / 着 zháo | raggiungere lo scopo | 找到 zhǎodào |
+| 会 huì | imparare a | 学会 xuéhuì |
+| 错 cuò / 对 duì | sbagliato / giusto | 写错 xiěcuò |
+| 清楚 qīngchu / 干净 gānjìng | chiaro / pulito | 洗干净 xǐ gānjìng |
+| 住 zhù / 开 kāi / 走 zǒu | fermo / aperto / via | 记住 jìzhù |
+| 饱 bǎo / 成 chéng | sazio / trasformare in | 吃饱 chībǎo |
+| 在 zài / 给 gěi | luogo / destinatario | 放在 fàng zài |
+ex: 我**听懂**了。 | Wǒ **tīngdǒng** le. | Ho capito.
+## Il complemento di direzione
+来 lái = verso chi parla, 去 qù = lontano; il luogo va prima di 来 lái / 去 qù.
+= V + (上 shàng / 进 jìn …) + (Luogo) + 来 lái / 去 qù
+| Base | Significato | Esempio |
+| 上 shàng / 下 xià | su / giù | 下来 xiàlai |
+| 进 jìn / 出 chū | dentro / fuori | 出去 chūqu |
+| 回 huí / 过 guò | indietro / attraverso | 回来 huílai |
+| 起 qǐ | su (alzarsi) | 起来 qǐlai |
+no: 他走进来教室。 | Tā zǒu jinlai jiàoshì. | Errato: il luogo va prima di 来/去.
+ex: 他走**进**教室**来**了。 | Tā zǒu **jìn** jiàoshì **lai** le. | È entrato in classe.
+| Uso figurato | Significato | Esempio |
+| V + 起来 qilai | iniziare; sembrare | 看起来 kàn qilai |
+| V + 下去 xiaqu / 下来 xialai | continuare / fissare | 说下去 shuō xiaqu |
+| V + 出来 chulai | riconoscere | 看出来 kàn chulai |
+| V + 过来 guolai | riprendersi | 醒过来 xǐng guolai |
+## Il complemento potenziale
+Dice se si riesce o no a fare qualcosa.
+= V + 得 de + risultato (riesco) · V + 不 bu + risultato (non riesco)
+| Forma | Significato | Esempio |
+| 不了 bu liǎo | non farcela | 吃不了 chī bu liǎo |
+| 不下 bu xià / 不动 bu dòng | niente spazio / forze | 走不动 zǒu bu dòng |
+| 不起 bu qǐ / 不惯 bu guàn | non permettersi / abituarsi | 买不起 mǎi bu qǐ |
+| 来不及 lái bu jí | non fare in tempo | 来不及了 lái bu jí le |
+no: 我不能听懂。 | Wǒ bù néng tīngdǒng. | Errato: «non riesco a capire» si dice 听不懂.
+ex: 我**听不懂**。 | Wǒ **tīng bu dǒng**. | Non capisco.
+! 不能 bù néng = divieto (这里不能抽烟 zhèli bù néng chōu yān).
+## I complementi di quantità
+Dicono per quanto tempo o quante volte.
+= S + V + (了 le) + durata / Num + 次 cì + O · S + V + O + V + (了 le) + durata
+ex: 他**看书看了**一个下午。 | Tā **kàn shū kàn le** yí ge xiàwǔ. | Ha letto per tutto il pomeriggio.
+ex: 我见过他**一次**。 | Wǒ jiàn guo tā **yí cì**. | L'ho visto una volta.
+- «Da…»: 他来中国三年了 tā lái Zhōngguó sān nián le; negazione: 三天没睡 sān tiān méi shuì.
+- Nel confronto: 他比我高五厘米 tā bǐ wǒ gāo wǔ límǐ.

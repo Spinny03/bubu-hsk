@@ -1,0 +1,113 @@
+## Domande e risposte
+
+### A不A con 吗
+La domanda affermativo-negativa (A不A) è già una domanda completa e non vuole 吗: si sceglie l'una o l'altra forma. Inoltre A不A non si usa dopo avverbi come 也, 都, 很, 常常 (vedi il capitolo «Le frasi interrogative»).
+no: 你是不是老师**吗**？ | Nǐ shì bu shì lǎoshī **ma**? | Errato: dopo A不A non si usa 吗.
+ex: 你**是不是**老师？ | Nǐ **shì bu shì** lǎoshī? | Sei un insegnante?
+ex: 你是老师**吗**？ | Nǐ shì lǎoshī **ma**? | Sei un insegnante?
+no: 你也**去不去**？ | Nǐ yě **qù bu qù**? | Errato: dopo 也 si usa la domanda con 吗.
+ex: 你也去**吗**？ | Nǐ yě qù **ma**? | Ci vai anche tu?
+
+### 吗 nelle domande indirette
+Una domanda inserita in una frase più ampia («non so se…», «chiedigli se…») non vuole 吗: si usa la forma A不A (o 有没有, 是不是), e il «se» italiano non si traduce, tanto meno con 如果, che significa «se» solo nelle ipotesi (vedi il capitolo «Le frasi interrogative»).
+no: 我不知道他来**吗**。 | Wǒ bù zhīdao tā lái **ma**. | Errato: nella domanda indiretta non si usa 吗.
+no: 我不知道**如果**他来。 | Wǒ bù zhīdao **rúguǒ** tā lái. | Errato: 如果 introduce un'ipotesi, non una domanda indiretta.
+ex: 我不知道他**来不来**。 | Wǒ bù zhīdao tā **lái bu lái**. | Non so se viene.
+ex: 你问问他明天**有没有**时间。 | Nǐ wènwen tā míngtiān **yǒu méiyǒu** shíjiān. | Chiedigli se domani ha tempo.
+
+### Pronome interrogativo con 吗
+Le domande con un pronome interrogativo (什么, 谁, 哪儿, 怎么, 几…) non vogliono 吗; al massimo si aggiunge 呢. Con 吗 il pronome perde il valore interrogativo e significa «qualcosa, qualcuno» (vedi il capitolo «Le frasi interrogative»).
+no: 你叫什么名字**吗**？ | Nǐ jiào shénme míngzi **ma**? | Errato: con 什么 interrogativo non si usa 吗.
+ex: 你叫**什么**名字？ | Nǐ jiào **shénme** míngzi? | Come ti chiami?
+ex: 你想吃点儿**什么吗**？ | Nǐ xiǎng chī diǎnr **shénme ma**? | Vuoi mangiare qualcosa? (qui 什么 significa «qualcosa»)
+
+### Rispondere «sì» con 是
+Il cinese non ha una parola universale per «sì»: di solito si risponde ripetendo il verbo o il modale della domanda, alla forma affermativa o negativa. 是 va bene solo se la domanda contiene 是 (vedi il capitolo «Le frasi interrogative»).
+no: A：你去超市吗？B：**是**。 | A: Nǐ qù chāoshì ma? B: **Shì**. | Errato: si risponde con il verbo della domanda.
+ex: A：你去超市吗？B：**去**。 | A: Nǐ qù chāoshì ma? B: **Qù**. | A: Vai al supermercato? B: Sì.
+ex: A：你会开车吗？B：**不会**。 | A: Nǐ huì kāichē ma? B: **Bú huì**. | A: Sai guidare? B: No.
+ex: A：你是王明吗？B：**是**。 | A: Nǐ shì Wáng Míng ma? B: **Shì**. | A: Sei Wang Ming? B: Sì.
+
+### Rispondere alle domande negative
+Davanti a una domanda negativa («Non ci vai?») la risposta cinese conferma o smentisce ciò che la domanda afferma: 对 o 是 vuol dire «è così», cioè «no, non ci vado»; per dire «sì, ci vado» si contraddice la domanda con 不 o con il verbo affermativo (vedi il capitolo «La negazione»).
+no: A：你不去吗？B：**对**，我去。 | A: Nǐ bú qù ma? B: **Duì**, wǒ qù. | Errato: 对 conferma la frase negativa, quindi annuncia «non ci vado».
+ex: A：你不去吗？B：**对**，我不去。 | A: Nǐ bú qù ma? B: **Duì**, wǒ bú qù. | A: Non ci vai? B: No (lett. giusto), non ci vado.
+ex: A：你不去吗？B：**不**，我去。 | A: Nǐ bú qù ma? B: **Bù**, wǒ qù. | A: Non ci vai? B: Sì che ci vado.
+
+## Comparativi e complementi
+
+### 很 nelle frasi con 比
+Nel comparativo con 比 l'aggettivo non può essere preceduto da 很, 非常 o 太; per indicare il grado della differenza si usano 更 o 还 davanti all'aggettivo, oppure 一点儿, 得多, 多了 dopo (vedi il capitolo «Le frasi comparative»).
+no: 他比我**很**高。 | Tā bǐ wǒ **hěn** gāo. | Errato: dopo 比 non si usa 很.
+ex: 他比我高。 | Tā bǐ wǒ gāo. | È più alto di me.
+ex: 他比我高**得多**。 | Tā bǐ wǒ gāo **de duō**. | È molto più alto di me.
+ex: 今天比昨天**还**冷。 | Jīntiān bǐ zuótiān **hái** lěng. | Oggi fa ancora più freddo di ieri.
+
+### 不比 e 没有
+La negazione normale del comparativo è 没有 («A non è così… come B»). 不比 non significa «meno di», ma «non più di»: serve soprattutto a contraddire un'affermazione e suggerisce che A e B sono più o meno uguali (vedi il capitolo «Le frasi comparative»).
+no: 北京**不比**上海热。 | Běijīng **bù bǐ** Shànghǎi rè. | Errato per «Pechino è meno calda di Shanghai»: 不比 vuol dire «non più di».
+ex: 北京**没有**上海热。 | Běijīng **méiyǒu** Shànghǎi rè. | Pechino non è calda come Shanghai.
+ex: A：北京比上海热吧？B：北京**不比**上海热。 | A: Běijīng bǐ Shànghǎi rè ba? B: Běijīng **bù bǐ** Shànghǎi rè. | A: Pechino è più calda di Shanghai, vero? B: Non è più calda di Shanghai. (sono più o meno uguali)
+
+### L'ordine con 跟……一样
+Nel paragone di uguaglianza il termine di confronto precede l'aggettivo: A + 跟 + B + 一样 + aggettivo. Non si traduce parola per parola «A è alto come B» (vedi il capitolo «Le frasi comparative»).
+no: 我弟弟一样高**跟我**。 | Wǒ dìdi yíyàng gāo **gēn wǒ**. | Errato: 跟 + B va prima di 一样.
+ex: 我弟弟**跟我一样**高。 | Wǒ dìdi **gēn wǒ yíyàng** gāo. | Mio fratello minore è alto come me.
+ex: 我的看法**跟你一样**。 | Wǒ de kànfǎ **gēn nǐ yíyàng**. | La penso come te.
+
+### Il complemento di grado senza 得
+Il modo o il grado con cui si svolge un'azione abituale o già avvenuta («corre veloce», «parla bene») si esprime dopo il verbo con 得 + aggettivo; senza 得 la frase è sbagliata (vedi il capitolo «Il complemento di grado»).
+no: 他跑很快。 | Tā pǎo hěn kuài. | Errato: tra verbo e aggettivo ci vuole 得.
+ex: 他跑**得**很快。 | Tā pǎo **de** hěn kuài. | Corre molto veloce.
+ex: 你说**得**很好。 | Nǐ shuō **de** hěn hǎo. | Parli molto bene.
+
+### Oggetto e complemento di grado
+Il verbo seguito da 得 non può avere l'oggetto subito dopo, né l'oggetto può stare tra 得 e il complemento: si ripete il verbo (V + O + V + 得…) oppure si anticipa l'oggetto (vedi il capitolo «Il complemento di grado»).
+no: 他说汉语**得**很好。 | Tā shuō Hànyǔ **de** hěn hǎo. | Errato: 得 deve seguire direttamente il verbo.
+no: 他说**得**汉语很好。 | Tā shuō **de** Hànyǔ hěn hǎo. | Errato: l'oggetto non va tra 得 e il complemento.
+ex: 他说汉语**说得**很好。 | Tā shuō Hànyǔ **shuō de** hěn hǎo. | Parla molto bene il cinese.
+ex: 他汉语**说得**很好。 | Tā Hànyǔ **shuō de** hěn hǎo. | Il cinese lo parla molto bene.
+
+### Oggetto e complemento di durata
+La durata («per due anni») segue il verbo; se c'è un oggetto nominale, o si ripete il verbo (V + O + V + durata) o si mette la durata tra il verbo e l'oggetto. Con i verbi non durativi come 来, 毕业, 结婚 la durata indica invece il tempo trascorso dall'evento (vedi il capitolo «I complementi di quantità»).
+no: 我学了汉语**两年**。 | Wǒ xué le Hànyǔ **liǎng nián**. | Errato: la durata non può seguire l'oggetto.
+ex: 我学汉语学了**两年**。 | Wǒ xué Hànyǔ xué le **liǎng nián**. | Ho studiato cinese per due anni.
+ex: 我学了**两年**汉语。 | Wǒ xué le **liǎng nián** Hànyǔ. | Ho studiato cinese per due anni.
+ex: 他来中国**两年**了。 | Tā lái Zhōngguó **liǎng nián** le. | È in Cina da due anni. (lett. venire Cina due anni PART)
+
+### Pronome oggetto e complemento di frequenza
+Il numero di volte (两次, 一下, 三遍) segue il verbo e precede un oggetto nominale, ma segue un oggetto pronominale: «l'ho visto due volte» è 见过他两次 (vedi il capitolo «I complementi di quantità»).
+no: 我见过**两次他**。 | Wǒ jiàn guo **liǎng cì tā**. | Errato: il pronome oggetto precede il complemento di frequenza.
+ex: 我见过**他两次**。 | Wǒ jiàn guo **tā liǎng cì**. | L'ho visto due volte.
+ex: 我去过**两次长城**。 | Wǒ qù guo **liǎng cì Chángchéng**. | Sono stato due volte alla Grande Muraglia.
+
+## Costruzioni speciali e frasi complesse
+
+### 把 con un verbo semplice
+Nella costruzione con 把 il verbo non può restare «nudo»: deve essere seguito da un altro elemento, come 了, un complemento, un gruppo con 在, 到 o 给, oppure essere raddoppiato (vedi il capitolo «La costruzione con 把»).
+no: 我把作业**做**。 | Wǒ bǎ zuòyè **zuò**. | Errato: dopo il verbo serve un altro elemento.
+ex: 我把作业**做完了**。 | Wǒ bǎ zuòyè **zuòwán le**. | Ho finito i compiti.
+ex: 请把门**关上**。 | Qǐng bǎ mén **guānshang**. | Per favore, chiudi la porta.
+ex: 他把书**放在桌子上**了。 | Tā bǎ shū **fàng zài zhuōzi shang** le. | Ha messo il libro sul tavolo.
+
+### 把 con verbi non ammessi
+把 si usa con verbi d'azione che hanno un effetto sull'oggetto (lo spostano, lo trasformano, lo eliminano); non si usa con verbi di percezione, di sentimento, di conoscenza o di stato come 看见, 喜欢, 知道, 是, 有, né con verbi senza oggetto (vedi il capitolo «La costruzione con 把»).
+no: 我**把**这部电影喜欢。 | Wǒ **bǎ** zhè bù diànyǐng xǐhuan. | Errato: 喜欢 non si usa con 把.
+ex: 我很喜欢这部电影。 | Wǒ hěn xǐhuan zhè bù diànyǐng. | Mi piace molto questo film.
+no: 我**把**他看见了。 | Wǒ **bǎ** tā kànjiàn le. | Errato: 看见 non si usa con 把.
+ex: 我看见他了。 | Wǒ kànjiàn tā le. | L'ho visto.
+
+### 被 per ogni passivo italiano
+Il passivo con 被 si usa soprattutto per eventi subiti, spesso spiacevoli. Molte frasi che in italiano sono passive in cinese si esprimono senza alcuna marca, con il «paziente» come soggetto davanti al verbo, oppure con 是……的 (vedi il capitolo «Il passivo»).
+no: 晚饭**被**做好了。 | Wǎnfàn **bèi** zuòhǎo le. | Innaturale: qui 被 non serve.
+ex: 晚饭做好了。 | Wǎnfàn zuòhǎo le. | La cena è pronta. (lett. la cena è stata fatta)
+ex: 这本书**是**鲁迅写**的**。 | Zhè běn shū **shì** Lǔ Xùn xiě **de**. | Questo libro è stato scritto da Lu Xun.
+ex: 我的自行车**被**偷了。 | Wǒ de zìxíngchē **bèi** tōu le. | Mi hanno rubato la bicicletta.
+
+### 因为……所以 e 虽然……但是 insieme
+In italiano «poiché… quindi…» o «benché… ma…» nella stessa frase suonano ridondanti; in cinese, invece, le coppie correlative 因为……所以 e 虽然……但是 (可是) sono del tutto normali e frequentissime. Uno dei due elementi si può omettere, ma dopo 虽然 la seconda frase vuole di norma 但是, 可是, 还是 o 却 (vedi il capitolo «Frasi alternative, avversative e concessive» e il capitolo «Frasi causali, ipotetiche e condizionali»).
+no: 虽然他很累，他去上班了。 | Suīrán tā hěn lèi, tā qù shàngbān le. | Poco naturale: dopo 虽然 manca il correlativo.
+ex: **虽然**他很累，**但是**他还是去上班了。 | **Suīrán** tā hěn lèi, **dànshì** tā háishi qù shàngbān le. | Anche se era stanco, è andato lo stesso al lavoro. (lett. benché stanco, ma è andato)
+ex: **因为**下雨，**所以**比赛取消了。 | **Yīnwèi** xià yǔ, **suǒyǐ** bǐsài qǔxiāo le. | Siccome pioveva, la partita è stata annullata. (lett. poiché pioveva, quindi…)
+
+! Molti errori di questa appendice hanno un'origine comune: in cinese l'ordine delle parole porta gran parte del significato. Quando una frase vi sembra sbagliata ma non sapete perché, controllate prima di tutto la posizione di tempo, luogo, avverbi e complementi rispetto al verbo.

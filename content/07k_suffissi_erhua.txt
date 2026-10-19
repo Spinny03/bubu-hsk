@@ -1,0 +1,126 @@
+### Suffissi
+
+| Suffisso | Valore | Esempi |
+| -子 zi | nomi (sbiadito); anche da verbi e aggettivi | 桌子, 孩子, 胖子, 骗子 |
+| -儿 r | nomi; vedi la sezione sull'儿化 | 画儿, 盖儿, 小孩儿 |
+| -头 tou | nomi concreti e astratti | 木头, 石头, 舌头, 念头 |
+| -们 men | plurale di persone | 我们, 朋友们, 同学们 |
+| -者 zhě | chi compie un'azione (scritto) | 作者, 记者, 读者 |
+| -家 jiā | esperto, artista, studioso | 作家, 画家, 科学家 |
+| -员 yuán | addetto, membro | 服务员, 演员, 运动员 |
+| -师 shī | professionista qualificato | 律师, 厨师, 工程师 |
+| -手 shǒu | persona abile in un'attività | 歌手, 选手, 新手 |
+| -生 shēng | studente; alcune professioni | 学生, 医生, 研究生 |
+| -性 xìng | qualità astratta («-ità») | 重要性, 可能性, 积极性 |
+| -化 huà | processo, «-izzazione, -izzare» | 现代化, 全球化, 绿化 |
+| -度 dù | grado, misura | 温度, 速度, 难度 |
+| -率 lǜ | tasso, percentuale | 效率, 出生率, 失业率 |
+| -式 shì | stile, modello | 中式, 西式, 自助式 |
+| -品 pǐn | prodotto, oggetto | 作品, 食品, 产品 |
+| -界 jiè | ambiente, settore | 艺术界, 教育界, 体育界 |
+| -感 gǎn | sensazione, senso di | 幸福感, 安全感, 责任感 |
+| -热 rè | moda, «febbre» per | 汉语热, 旅游热 |
+| -族 zú | gruppo sociale | 上班族, 月光族 |
+| -迷 mí | appassionato, fan | 球迷, 歌迷, 影迷 |
+| -学 xué | disciplina, scienza | 语言学, 经济学, 心理学 |
+| -机 jī | macchina, apparecchio | 手机, 洗衣机, 打印机 |
+
+! -子, -头 e -们 hanno tono neutro: zhuōzi, mùtou, wǒmen. -子 trasforma spesso verbi e aggettivi in nomi: 胖 «grasso» → 胖子 «persona grassa», 骗 «imbrogliare» → 骗子 «truffatore», 刷 «spazzolare» → 刷子 «spazzola».
+! -们 si usa solo con nomi di persona e non si combina con numerali o con 很多: si dice 三个学生, non 三个学生们 (vedi il capitolo «Il sostantivo»).
+
+I suffissi che indicano persone hanno sfumature diverse: -家 implica competenza e prestigio (作家 «scrittore di professione», 科学家 «scienziato»); -者 indica semplicemente chi compie l'azione (作者 «autore» di un'opera determinata, 读者 «lettore»); -员 indica chi svolge una funzione o appartiene a un'organizzazione (服务员 «cameriere», 运动员 «atleta»); -师 un professionista con una qualifica (律师 «avvocato», 厨师 «cuoco»).
+
+ex: 这本书的**作者**是一位有名的**作家**。 | Zhè běn shū de **zuòzhě** shì yí wèi yǒumíng de **zuòjiā**. | L'autore di questo libro è uno scrittore famoso.
+ex: 他是一名**律师**，他太太是**厨师**。 | Tā shì yì míng **lǜshī**, tā tàitai shì **chúshī**. | Lui è avvocato, sua moglie è cuoca.
+
+### La produttività degli affissi
+
+Molti semi-affissi sono oggi estremamente produttivi e generano continuamente parole nuove, soprattutto nella lingua dei media e di internet: -化, -性, -感, -热, -族, -迷, 超-, 非-, 反-. Conoscerne il valore permette di capire al volo neologismi come 低头族 dītóuzú (lett. «tribù della testa bassa», chi sta sempre chino sul telefono), 数字化 shùzìhuà «digitalizzazione», 存在感 cúnzàigǎn «visibilità, senso della propria presenza».
+
+ex: 地铁上到处都是**低头族**。 | Dìtiě shang dàochù dōu shì **dītóuzú**. | In metropolitana è pieno di gente con gli occhi incollati al telefono.
+ex: 现在很多年轻人是“**月光族**”。 | Xiànzài hěn duō niánqīngrén shì "**yuèguāngzú**". | Oggi molti giovani spendono tutto lo stipendio entro la fine del mese. (lett. sono della «tribù del mese esaurito»)
+ex: 近年来，世界各地出现了“**汉语热**”。 | Jìn nián lái, shìjiè gè dì chūxiàn le "**Hànyǔrè**". | Negli ultimi anni, in tutto il mondo è esplosa la «febbre del cinese».
+ex: 大家都认识到了环保的**重要性**。 | Dàjiā dōu rènshi dào le huánbǎo de **zhòngyàoxìng**. | Tutti hanno compreso l'importanza della tutela ambientale.
+ex: 这家公司正在推进**数字化**。 | Zhè jiā gōngsī zhèngzài tuījìn **shùzìhuà**. | Quest'azienda sta portando avanti la digitalizzazione.
+
+## 儿化 e le sue funzioni
+
+L'儿化 érhuà («retroflessione con 儿») consiste nell'aggiunta del suffisso 儿 alla sillaba precedente, con cui si fonde: non forma una sillaba a sé, ma rende retroflessa la finale. In pinyin si scrive aggiungendo -r: 花儿 huār, 玩儿 wánr, 一点儿 yìdiǎnr. Per i cambiamenti di pronuncia (玩儿 si pronuncia [war], senza la -n) vedi il capitolo «La pronuncia e il pinyin».
+
+### Cambiamento di significato o di categoria
+
+In alcune parole l'儿化 cambia il significato o la categoria grammaticale, per esempio trasformando un verbo o un aggettivo in un nome.
+
+| Senza 儿 | Significato | Con 儿 | Significato |
+| 画 huà | dipingere, disegnare (V) | 画儿 huàr | quadro, disegno (N) |
+| 盖 gài | coprire (V) | 盖儿 gàir | coperchio, tappo (N) |
+| 尖 jiān | appuntito (Agg) | 尖儿 jiānr | punta (N) |
+| 信 xìn | lettera | 信儿 xìnr | notizia, messaggio |
+| 头 tóu | testa | 头儿 tóur | capo, capobanda |
+| 眼 yǎn | occhio | 眼儿 yǎnr | foro, buco |
+
+ex: 墙上挂着一张**画儿**。 | Qiáng shang guà zhe yì zhāng **huàr**. | Alla parete è appeso un quadro.
+ex: 他在**画画儿**。 | Tā zài **huà huàr**. | Sta disegnando. (lett. disegna disegni)
+ex: 瓶子的**盖儿**找不到了。 | Píngzi de **gàir** zhǎo bu dào le. | Non si trova più il tappo della bottiglia.
+ex: 有什么**信儿**，马上告诉我。 | Yǒu shénme **xìnr**, mǎshàng gàosu wǒ. | Se hai notizie, dimmelo subito.
+ex: 他是我们的**头儿**。 | Tā shì wǒmen de **tóur**. | È il nostro capo.
+
+### Sfumatura affettiva
+
+L'儿化 conferisce spesso una sfumatura di piccolezza, familiarità o affetto, come i diminutivi italiani: 小孩儿 xiǎoháir «bambino», 小猫儿 xiǎomāor «gattino», 小鸟儿 xiǎoniǎor «uccellino», 脸蛋儿 liǎndànr «guanciotte».
+
+ex: 这个**小孩儿**真可爱。 | Zhège **xiǎoháir** zhēn kě'ài. | Questo bambino è proprio adorabile.
+
+### Parole con 儿 fisso
+
+In un gruppo di parole frequentissime l'儿化 è la forma normale del parlato standard: 一点儿 yìdiǎnr «un po'», 有点儿 yǒudiǎnr «un po' (troppo)», 一会儿 yíhuìr «un momento», 玩儿 wánr «giocare, divertirsi», 哪儿 nǎr «dove», 这儿 zhèr «qui», 那儿 nàr «lì», 一块儿 yíkuàir «insieme», 聊天儿 liáo tiānr «chiacchierare», 好玩儿 hǎowánr «divertente».
+
+ex: 你在**哪儿**？我在**这儿**等你**一会儿**。 | Nǐ zài **nǎr**? Wǒ zài **zhèr** děng nǐ **yíhuìr**. | Dove sei? Ti aspetto qui un momento.
+ex: 我们**一块儿**去**玩儿**吧。 | Wǒmen **yíkuàir** qù **wánr** ba. | Andiamo a divertirci insieme.
+
+### Nord e sud
+
+L'儿化 è tipico di Pechino e del nord della Cina. Nel sud, a Taiwan e in gran parte dello scritto è molto meno frequente e si usano le forme senza 儿. Lo studente dovrebbe padroneggiare le parole con 儿 fisso e usare con moderazione gli altri 儿化, che fuori dal nord possono suonare affettati. Le parole astratte e formali (政治, 经济, 文化) non prendono mai 儿.
+
+| Nord (con 儿) | Sud e scritto |
+| 哪儿, 这儿, 那儿 | 哪里, 这里, 那里 |
+| 一点儿, 有点儿 | 一点, 有点 |
+| 一会儿 | 一会 |
+| 玩儿 | 玩 |
+| 一块儿 | 一起 |
+
+## La reduplicazione: riepilogo
+
+La reduplicazione (重叠 chóngdié) è un procedimento grammaticale che interessa nomi, classificatori, verbi, aggettivi, avverbi e onomatopee, con valori diversi a seconda della categoria. La tabella riassume le forme principali; i dettagli si trovano nei capitoli «Il sostantivo», «I classificatori», «Il verbo», «L'aggettivo» e «Gli avverbi».
+
+| Categoria | Forma | Valore | Esempi |
+| nomi di parentela | AA | parola lessicale | 妈妈, 哥哥, 星星 |
+| alcuni nomi monosillabici | AA | «ogni» | 人人, 天天, 家家, 年年 |
+| classificatori | AA | «ogni, tutti senza eccezione» | 个个, 件件, 条条 |
+| numerale + classificatore | 一AA, 一A一A | «uno dopo l'altro» | 一个个, 一个一个 |
+| verbi monosillabici | AA, A一A, A了A | «un po', un attimo» | 看看, 看一看, 看了看 |
+| verbi bisillabici | ABAB | «un po', un attimo» | 休息休息, 研究研究 |
+| verbi separabili (V-O) | AAB | «un po', un attimo» | 散散步, 聊聊天儿 |
+| aggettivi monosillabici | AA(的/地) | intensità, descrizione vivace | 高高的, 慢慢地 |
+| aggettivi bisillabici | AABB | intensità, descrizione vivace | 高高兴兴, 干干净净 |
+| aggettivi descrittivi | ABAB | intensità | 雪白雪白, 冰凉冰凉 |
+| avverbi | AA | lessicale o enfatico | 刚刚, 常常, 渐渐 |
+| onomatopee | AA, AABB | suono ripetuto | 哗哗, 哈哈, 叮叮当当 |
+
+ex: 他**天天**锻炼身体。 | Tā **tiāntiān** duànliàn shēntǐ. | Fa attività fisica tutti i giorni.
+ex: **人人**都喜欢他。 | **Rénrén** dōu xǐhuan tā. | Piace a tutti.
+ex: 这里的学生**个个**都很努力。 | Zhèli de xuésheng **gègè** dōu hěn nǔlì. | Qui gli studenti sono tutti molto diligenti, nessuno escluso.
+ex: 你**看看**这本书吧。 | Nǐ **kànkan** zhè běn shū ba. | Dai un'occhiata a questo libro.
+ex: 我们**休息休息**吧。 | Wǒmen **xiūxi xiūxi** ba. | Riposiamoci un po'.
+ex: 周末我们去公园**散散步**。 | Zhōumò wǒmen qù gōngyuán **sànsan bù**. | Nel fine settimana andiamo a fare due passi al parco.
+ex: 孩子们**高高兴兴**地去上学了。 | Háizimen **gāogāoxìngxìng** de qù shàng xué le. | I bambini sono andati a scuola tutti contenti.
+ex: 她把房间打扫得**干干净净**。 | Tā bǎ fángjiān dǎsǎo de **gāngānjìngjìng**. | Ha pulito la stanza da cima a fondo.
+ex: 外面的雨**哗哗**地下着。 | Wàimiàn de yǔ **huāhuā** de xià zhe. | Fuori la pioggia scroscia.
+ex: 大家听了**哈哈**大笑。 | Dàjiā tīng le **hāhā** dà xiào. | A sentirlo, tutti scoppiarono a ridere.
+
+! La reduplicazione ha valori opposti nei verbi e negli aggettivi: nei verbi **attenua** (azione breve, tentativo, tono cortese: 看看 «dare un'occhiata»); negli aggettivi **intensifica** e rende la descrizione più vivida (干干净净 «pulitissimo»).
+! Gli aggettivi raddoppiati esprimono già un grado elevato: non prendono 很 o altri avverbi di grado e non si negano con 不.
+! La reduplicazione dei nomi con valore di «ogni» è possibile solo con un numero limitato di monosillabi (人, 天, 家, 年, 处, 事): non si dice 书书 o 车车.
+
+no: 他很高高兴兴地走了。 | Tā hěn gāogāoxìngxìng de zǒu le. | Errato: un aggettivo raddoppiato non prende 很.
+ex: 他**高高兴兴**地走了。 | Tā **gāogāoxìngxìng** de zǒu le. | Se n'è andato tutto contento.

@@ -1,0 +1,114 @@
+@ Avverbi frequenti | ⏳
+还 | hái | ancora, anche | - | 2
+只 | zhǐ | solo, soltanto | - | 3
+不 | bù | non | 🚫 | 1
+没 | méi | non (negazione del passato) | - | 1
+很 | hěn | molto | - | 1
+太 | tài | troppo | - | 1
+都 | dōu | tutti, entrambi | - | 1
+也 | yě | anche | - | 2
+再 | zài | di nuovo (futuro) | 🔁 | 2
+又 | yòu | di nuovo (passato) | - | 3
+就 | jiù | proprio, subito, allora | - | 2
+才 | cái | solo allora, appena | - | 3
+已经 | yǐjīng | già | - | 2
+正在 | zhèngzài | stare facendo | - | 2
+非常 | fēicháng | molto, estremamente | - | 2
+最 | zuì | il più | - | 2
+真 | zhēn | davvero | - | 2
+一起 | yìqǐ | insieme | - | 2
+别 | bié | non (imperativo) | - | 2
+常常 | chángcháng | spesso | - | 2
+一定 | yídìng | sicuramente | - | 3
+可能 | kěnéng | forse, possibile | - | 2
+更 | gèng | ancora più | - | 3
+比较 | bǐjiào | piuttosto, relativamente | - | 3
+特别 | tèbié | particolarmente | - | 3
+有点儿 | yǒudiǎnr | un po' (negativo) | - | 3
+马上 | mǎshàng | subito | ⚡ | 3
+刚 | gāng | appena | - | 4
+经常 | jīngcháng | spesso | - | 3
+总是 | zǒngshì | sempre | - | 3
+一直 | yìzhí | sempre, continuamente | - | 3
+一共 | yígòng | in tutto | - | 3
+也许 | yěxǔ | forse | - | 4
+大概 | dàgài | probabilmente | - | 4
+终于 | zhōngyú | finalmente | - | 3
+突然 | tūrán | improvvisamente | - | 3
+其实 | qíshí | in realtà | - | 3
+先 | xiān | prima | - | 3
+互相 | hùxiāng | a vicenda | - | 4
+差不多 | chàbuduō | quasi, più o meno | - | 4
+几乎 | jīhū | quasi | - | 3
+完全 | wánquán | completamente | - | 4
+好像 | hǎoxiàng | sembrare, come se | - | 3
+从来 | cónglái | da sempre, mai (+ neg.) | - | 4
+必须 | bìxū | dovere, bisogna | - | 3
+到底 | dàodǐ | insomma, alla fine | - | 4
+只好 | zhǐhǎo | non resta che | - | 4
+本来 | běnlái | originariamente | - | 4
+稍微 | shāowēi | leggermente | - | 4
+@ Congiunzioni e parole di collegamento | 🔗
+和 | hé | e, con | - | 1
+因为 | yīnwèi | perché, poiché | - | 2
+所以 | suǒyǐ | quindi, perciò | - | 2
+但是 | dànshì | ma, però | - | 2
+可是 | kěshì | ma, però | - | 2
+还是 | háishi | oppure (domande) | - | 3
+或者 | huòzhě | oppure | - | 3
+如果 | rúguǒ | se | - | 3
+虽然 | suīrán | sebbene, benché | - | 2
+然后 | ránhòu | poi, dopo | - | 3
+而且 | érqiě | inoltre, per di più | - | 3
+要是 | yàoshi | se | - | 4
+不过 | búguò | però, tuttavia | - | 4
+只要 | zhǐyào | basta che | - | 4
+只有 | zhǐyǒu | solo se | - | 3
+不但 | búdàn | non solo | - | 3
+另外 | lìngwài | inoltre, a parte ciò | - | 4
+首先 | shǒuxiān | prima di tutto | - | 4
+最后 | zuìhòu | infine | - | 3
+比如 | bǐrú | per esempio | - | 4
+于是 | yúshì | così, quindi | - | 4
+因此 | yīncǐ | perciò, di conseguenza | - | 4
+即使 | jíshǐ | anche se | - | 4
+无论 | wúlùn | indipendentemente da | - | 4
+不管 | bùguǎn | non importa (se) | - | 4
+既然 | jìrán | dal momento che | - | 4
+否则 | fǒuzé | altrimenti | - | 4
+并且 | bìngqiě | inoltre, e | - | 4
+同时 | tóngshí | allo stesso tempo | - | 4
+一边 | yìbiān | mentre (一边…一边) | - | 3
+@ Preposizioni e particelle | 📍
+把 | bǎ | (prep.) introduce l'oggetto | - | 3
+的 | de | particella (possesso) | - | 1
+了 | le | particella (azione compiuta) | - | 1
+吗 | ma | particella interrogativa | ❓ | 1
+呢 | ne | particella (e…?, sta…) | - | 1
+在 | zài | essere a; a, in (prep.) | 📍 | 1
+从 | cóng | da | - | 2
+吧 | ba | particella (proposta) | - | 2
+着 | zhe | particella (durativo) | - | 2
+过 | guo | particella (esperienza) | - | 2
+得 | de | particella (complemento) | - | 2
+离 | lí | distare da | - | 2
+比 | bǐ | rispetto a, di (comparativo) | - | 2
+跟 | gēn | con; seguire | - | 3
+向 | xiàng | verso | - | 3
+往 | wǎng | verso, in direzione di | - | 2
+被 | bèi | da (passivo) | - | 3
+让 | ràng | far fare, lasciare | - | 2
+为 | wèi | per, a favore di | - | 3
+为了 | wèile | per, allo scopo di | - | 3
+关于 | guānyú | riguardo a | - | 3
+除了 | chúle | tranne, oltre a | - | 3
+地 | de | particella (avverbiale) | - | 3
+啊 | a | particella esclamativa | - | 3
+按照 | ànzhào | secondo | - | 4
+根据 | gēnjù | in base a | - | 4
+通过 | tōngguò | attraverso, tramite | - | 4
+对于 | duìyú | riguardo a, per | - | 4
+朝 | cháo | verso | - | 4
+自从 | zìcóng | da quando | - | 4
+替 | tì | al posto di | - | 4
+呀 | ya | particella esclamativa | - | 4

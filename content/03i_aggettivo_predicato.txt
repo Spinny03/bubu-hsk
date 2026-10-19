@@ -1,0 +1,165 @@
+# L'aggettivo
+
+L'aggettivo (形容词 xíngróngcí) cinese è molto più vicino al verbo di quello italiano: non concorda in genere e numero, può fare da predicato senza alcun verbo «essere» e, come il verbo, si nega con 不 e prende 了 per indicare un cambiamento. Per questo alcune grammatiche lo chiamano «verbo di qualità». Quando modifica un nome, invece, lo precede sempre.
+
+## L'aggettivo come predicato
+
+### Niente 是
+
+Nella frase con predicato aggettivale (形容词谓语句 xíngróngcí wèiyǔ jù) l'aggettivo segue direttamente il soggetto: «essere» non si traduce.
+
+= S + 很 + Agg
+= S + 不 + Agg
+
+ex: 今天**很冷**。 | Jīntiān **hěn lěng**. | Oggi fa freddo.
+ex: 她**很漂亮**。 | Tā **hěn piàoliang**. | È carina.
+ex: 我最近**很忙**。 | Wǒ zuìjìn **hěn máng**. | Ultimamente sono molto impegnato.
+ex: 这个菜**很好吃**。 | Zhège cài **hěn hǎochī**. | Questo piatto è buono.
+ex: 北京的冬天**很干燥**。 | Běijīng de dōngtiān **hěn gānzào**. | L'inverno a Pechino è molto secco.
+
+no: 我是很高。 | Wǒ shì hěn gāo. | Errato: davanti all'aggettivo predicato non si usa 是.
+ex: 我**很高**。 | Wǒ **hěn gāo**. | Sono alto.
+
+### 很 con valore attenuato
+
+Nelle frasi affermative l'aggettivo da solo suona incompleto o implicitamente contrastivo; per questo vi si premette quasi automaticamente 很 hěn, che in questa funzione non significa davvero «molto». Per dire «molto» in modo esplicito si accentua 很 oppure si usa un avverbio più forte come 非常, 特别, 真.
+
+L'aggettivo senza 很 si usa invece:
+- nei contrasti e nei confronti espliciti;
+- nelle risposte che scelgono tra più elementi;
+- nelle domande con 吗 e nella forma affermativa-negativa.
+
+ex: 这个**贵**，那个**便宜**。 | Zhège **guì**, nàge **piányi**. | Questo è caro, quello è economico.
+ex: 我的房间**大**，他的房间**小**。 | Wǒ de fángjiān **dà**, tā de fángjiān **xiǎo**. | La mia stanza è grande, la sua è piccola.
+ex: A：哪件衣服好看？B：这件**好看**。 | A: Nǎ jiàn yīfu hǎokàn? B: Zhè jiàn **hǎokàn**. | A: Quale vestito sta meglio? B: Questo.
+
+! Una frase come 今天冷。 senza 很 suona come l'inizio di un confronto («oggi fa freddo, ieri no»). In una semplice constatazione si dice 今天很冷。
+
+### Le domande
+
+ex: 汉语**难**吗？ | Hànyǔ **nán** ma? | Il cinese è difficile?
+ex: 这件衣服**贵不贵**？ | Zhè jiàn yīfu **guì bu guì**? | Questo vestito è caro?
+ex: 她**漂不漂亮**？ | Tā **piào bu piàoliang**? | È carina?
+ex: 你**高兴不高兴**？ | Nǐ **gāoxìng bu gāoxìng**? | Sei contento?
+ex: 那儿的天气**怎么样**？ | Nàr de tiānqì **zěnmeyàng**? | Com'è il tempo lì?
+
+Con gli aggettivi bisillabici la forma affermativa-negativa può ripetere l'aggettivo intero (高兴不高兴) o solo la prima sillaba (高不高兴), più colloquiale. In una domanda con 吗, 很 conserva il suo pieno valore: 汉语很难吗？ significa «Il cinese è molto difficile?».
+
+no: 这个很贵不贵？ | Zhège hěn guì bu guì? | Errato: la forma affermativa-negativa non accetta 很.
+ex: 这个**贵不贵**？ | Zhège **guì bu guì**? | Questo è caro?
+
+### La negazione
+
+L'aggettivo si nega con 不, senza 很. Per attenuare si usa 不太 «non molto» o 不怎么 «non granché»; 很不 significa invece «per niente, molto poco».
+
+| Forma | Significato | Esempio |
+| 很 + Agg | (molto) Agg | 很好 |
+| 不 + Agg | non Agg | 不好 |
+| 不太 + Agg | non molto Agg | 不太好 |
+| 不怎么 + Agg | non granché Agg | 不怎么好 |
+| 很不 + Agg | per niente Agg | 很不好 |
+
+ex: 今天**不冷**。 | Jīntiān **bù lěng**. | Oggi non fa freddo.
+ex: 这个问题**不太难**。 | Zhège wèntí **bú tài nán**. | Questo problema non è molto difficile.
+ex: 我**不怎么饿**。 | Wǒ **bù zěnme è**. | Non ho molta fame.
+ex: 他今天**很不高兴**。 | Tā jīntiān **hěn bù gāoxìng**. | Oggi è di pessimo umore.
+
+! 没 si usa con gli aggettivi solo per negare un cambiamento non ancora avvenuto: 天还没黑。«Non si è ancora fatto buio.» (vedi il capitolo «La negazione»).
+
+### Agg + 了: il cambiamento
+
+Seguito da 了, l'aggettivo indica che si è prodotto un cambiamento di stato: «è diventato…, si è fatto…» (vedi il capitolo «La particella 了»).
+
+ex: 天**冷了**。 | Tiān **lěng le**. | Si è fatto freddo.
+ex: 你**瘦了**！ | Nǐ **shòu le**! | Sei dimagrito!
+ex: 苹果**红了**。 | Píngguǒ **hóng le**. | Le mele sono diventate rosse.
+ex: 他的汉语**好多了**。 | Tā de Hànyǔ **hǎo duō le**. | Il suo cinese è molto migliorato.
+
+! Con 是 accentato davanti a 很 + Agg si conferma un'affermazione, spesso prima di un'obiezione: 他是很聪明，可是不太努力。«Intelligente lo è davvero, ma non si impegna molto.» (vedi il capitolo «L'enfasi»).
+
+## Gli avverbi di grado
+
+Gli avverbi di grado (程度副词 chéngdù fùcí) precedono l'aggettivo (e i verbi psicologici) e ne precisano l'intensità.
+
+| Avverbio | Pinyin | Significato | Esempio |
+| 很 | hěn | molto (spesso neutro) | 很好 |
+| 非常 | fēicháng | moltissimo | 非常好 |
+| 特别 | tèbié | particolarmente | 特别冷 |
+| 十分 | shífēn | estremamente (formale) | 十分重要 |
+| 真 | zhēn | davvero (esclamativo) | 真漂亮！ |
+| 太……了 | tài…le | troppo; così tanto! | 太贵了！ |
+| 好 | hǎo | proprio, che… (colloquiale) | 好冷啊！ |
+| 挺……的 | tǐng…de | proprio, piuttosto (colloquiale) | 挺好的 |
+| 比较 | bǐjiào | relativamente, abbastanza | 比较便宜 |
+| 有点儿 | yǒudiǎnr | un po' (sgradito) | 有点儿贵 |
+| 更 | gèng | ancora più | 更好 |
+| 最 | zuì | il più | 最好 |
+| 极 / 极其 | jí / jíqí | estremamente (scritto) | 极其重要 |
+| 相当 | xiāngdāng | piuttosto, parecchio | 相当不错 |
+| 多 / 多么 | duō / duōme | quanto! (esclamativo) | 多么美啊！ |
+| 稍微 | shāowēi | un pochino (+ 一点儿) | 稍微大一点儿 |
+
+ex: 这个问题**非常**重要。 | Zhège wèntí **fēicháng** zhòngyào. | Questa questione è importantissima.
+ex: 今天**特别**热。 | Jīntiān **tèbié** rè. | Oggi fa particolarmente caldo.
+ex: 他对工作**十分**认真。 | Tā duì gōngzuò **shífēn** rènzhēn. | È estremamente scrupoloso nel lavoro.
+ex: 你女儿**真**可爱！ | Nǐ nǚ'ér **zhēn** kě'ài! | Tua figlia è davvero adorabile!
+ex: 这件衣服**太**贵**了**。 | Zhè jiàn yīfu **tài** guì **le**. | Questo vestito è troppo caro.
+ex: **太**好**了**！ | **Tài** hǎo **le**! | Fantastico!
+ex: **好**冷啊！ | **Hǎo** lěng a! | Che freddo!
+ex: 这个餐厅**挺**不错**的**。 | Zhège cāntīng **tǐng** búcuò **de**. | Questo ristorante è proprio niente male.
+ex: 这儿的东西**比较**便宜。 | Zhèr de dōngxi **bǐjiào** piányi. | Qui la roba è relativamente economica.
+ex: 我**更**喜欢这个。 | Wǒ **gèng** xǐhuan zhège. | Questo mi piace di più.
+ex: 他是我们班**最**高的。 | Tā shì wǒmen bān **zuì** gāo de. | È il più alto della nostra classe.
+ex: 这次考试**相当**难。 | Zhè cì kǎoshì **xiāngdāng** nán. | Questo esame è stato piuttosto difficile.
+ex: 这里的风景**多么**美啊！ | Zhèlǐ de fēngjǐng **duōme** měi a! | Com'è bello il paesaggio qui!
+ex: 能不能**稍微**便宜一点儿？ | Néng bu néng **shāowēi** piányi yìdiǎnr? | Può fare un piccolo sconto?
+
+### Gradi espressi dopo l'aggettivo
+
+Alcune espressioni di grado seguono l'aggettivo, come complementi (vedi il capitolo «Il complemento di grado»). 得多 e 多了 si usano solo nei confronti (vedi il capitolo «Le frasi comparative»).
+
+| Forma | Pinyin | Valore | Esempio |
+| Agg + 极了 | jí le | estremamente | 好极了 |
+| Agg + 得很 | de hěn | molto | 好得很 |
+| Agg + 得多 | de duō | molto più (confronto) | 好得多 |
+| Agg + 多了 | duō le | molto più (confronto) | 好多了 |
+| Agg + 死了 | sǐ le | da morire (colloquiale) | 累死了 |
+| Agg + 坏了 | huài le | tremendamente | 饿坏了 |
+| Agg + 透了 | tòu le | del tutto (negativo) | 糟透了 |
+| Agg + 得不得了 | de bùdéliǎo | incredibilmente | 高兴得不得了 |
+| Agg + 得要命 | de yàomìng | da morire | 疼得要命 |
+| Agg + 得厉害 | de lìhai | terribilmente | 疼得厉害 |
+
+ex: 这个主意**好极了**！ | Zhège zhǔyi **hǎo jí le**! | È un'idea eccellente!
+ex: 今天**热死了**。 | Jīntiān **rè sǐ le**. | Oggi si muore dal caldo.
+ex: 一天没吃东西，我**饿坏了**。 | Yì tiān méi chī dōngxi, wǒ **è huài le**. | Non ho mangiato niente per tutto il giorno: sto morendo di fame.
+ex: 今天的天气**糟透了**。 | Jīntiān de tiānqì **zāo tòu le**. | Oggi il tempo è pessimo.
+ex: 听到这个消息，她**高兴得不得了**。 | Tīngdào zhège xiāoxi, tā **gāoxìng de bùdéliǎo**. | Quando ha saputo la notizia, era felicissima.
+ex: 我的牙**疼得要命**。 | Wǒ de yá **téng de yàomìng**. | Ho un mal di denti tremendo.
+ex: 吃了药以后，我**好多了**。 | Chī le yào yǐhòu, wǒ **hǎo duō le**. | Dopo aver preso la medicina sto molto meglio.
+
+### Osservazioni
+
+- 真 si usa solo nel predicato, con valore esclamativo; non compare mai in un attributo davanti al nome.
+
+no: 她是一个真漂亮的女孩。 | Tā shì yí ge zhēn piàoliang de nǚhái. | Errato: 真 non si usa nell'attributo.
+ex: 她是一个**很**漂亮的女孩。 | Tā shì yí ge **hěn** piàoliang de nǚhái. | È una ragazza molto carina.
+ex: 这个女孩**真**漂亮！ | Zhège nǚhái **zhēn** piàoliang! | Com'è carina questa ragazza!
+
+- 太……了 esprime un eccesso (太贵了 «troppo caro») oppure, con aggettivi positivi, un'esclamazione entusiastica (太好了 «fantastico!»). Nel predicato affermativo 了 non si omette; 不太 significa semplicemente «non molto».
+
+no: 这个电影太好。 | Zhège diànyǐng tài hǎo. | Errato: nel predicato affermativo 太 richiede 了.
+ex: 这个电影**太**好**了**！ | Zhège diànyǐng **tài** hǎo **le**! | Questo film è fantastico!
+
+- 挺……的 è colloquiale e molto frequente nel parlato; il 的 finale si può omettere.
+- Si usa un solo avverbio di grado, e un avverbio prima dell'aggettivo non si combina con un'espressione di grado dopo di esso.
+
+no: 他非常很高。 | Tā fēicháng hěn gāo. | Errato: si usa un solo avverbio di grado.
+ex: 他**非常**高。 | Tā **fēicháng** gāo. | È altissimo.
+no: 很好极了。 | Hěn hǎo jí le. | Errato: 很 non si combina con 极了.
+ex: **好极了**。 | **Hǎo jí le**. | Benissimo.
+
+- Nelle frasi con 比 non si usano 很, 非常, 太, ma solo 更 o 还 (vedi il capitolo «Le frasi comparative»).
+
+no: 今天比昨天很冷。 | Jīntiān bǐ zuótiān hěn lěng. | Errato: nel confronto con 比 non si usa 很.
+ex: 今天比昨天**更**冷。 | Jīntiān bǐ zuótiān **gèng** lěng. | Oggi fa ancora più freddo di ieri.

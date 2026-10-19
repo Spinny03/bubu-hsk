@@ -1,0 +1,175 @@
+## I quattro toni e il tono neutro
+
+Il cinese è una lingua tonale: ogni sillaba ha un andamento melodico fisso, il tono (声调 shēngdiào), che fa parte della parola esattamente come le consonanti e le vocali. Cambiando il tono cambia il significato: mā, má, mǎ, mà sono quattro parole diverse.
+
+Per descrivere i toni si usa una scala di cinque altezze, dalla più bassa (1) alla più alta (5), proposta dal linguista Zhao Yuanren (赵元任 Zhào Yuánrèn): ogni tono è indicato dalle cifre dei punti di partenza e di arrivo della voce. Le altezze sono relative alla voce di chi parla, non assolute.
+
+| Tono | Nome cinese | Andamento | Segno | Esempio |
+| 1° | 阴平 yīnpíng | 55: alto e piatto | ā | 妈 mā «mamma» |
+| 2° | 阳平 yángpíng | 35: ascendente | á | 麻 má «canapa» |
+| 3° | 上声 shǎngshēng | 214: basso, scende e risale | ǎ | 马 mǎ «cavallo» |
+| 4° | 去声 qùshēng | 51: discendente | à | 骂 mà «sgridare» |
+| neutro | 轻声 qīngshēng | breve e leggero | nessuno | 吗 ma (particella) |
+
+ex: 妈妈骂马吗？ | Māma mà mǎ ma? | La mamma sgrida il cavallo?
+
+### Come si pronunciano
+
+- **Primo tono (55).** La voce resta alta e ferma, come quando si tiene una nota cantando o si chiama qualcuno da lontano. Errore tipico degli italiani: farlo calare alla fine.
+- **Secondo tono (35).** La voce parte da un'altezza media e sale, come nell'italiano «Eh?» detto per far ripetere qualcosa o in un «Davvero?» stupito.
+- **Terzo tono (214).** La voce parte medio-bassa, scende fino al punto più basso e poi risale. La risalita completa si sente solo quando la sillaba è isolata o in fine di frase; nel discorso il terzo tono è quasi sempre realizzato come un tono basso (vedi «I cambiamenti tonali»). Conviene pensarlo come «il tono basso».
+- **Quarto tono (51).** La voce cade rapidamente dall'alto in basso, come in un «No!» deciso o in un ordine secco: «Vai!».
+- **Tono neutro.** La sillaba è breve, debole e senza un andamento proprio: la sua altezza dipende dal tono precedente.
+
+! I toni non vanno confusi con l'intonazione italiana. Una sillaba di quarto tono resta discendente anche in una domanda e una di secondo tono resta ascendente anche in un'affermazione (vedi «Intonazione e accento»).
+
+### Coppie minime
+
+Molte parole si distinguono solo per il tono:
+
+| 1° tono | 2° tono | 3° tono | 4° tono |
+| 妈 mā «mamma» | 麻 má «canapa» | 马 mǎ «cavallo» | 骂 mà «sgridare» |
+| 八 bā «otto» | 拔 bá «estrarre» | 把 bǎ «impugnare» | 爸 bà «papà» |
+| 汤 tāng «zuppa» | 糖 táng «zucchero» | 躺 tǎng «sdraiarsi» | 烫 tàng «scottante» |
+| 诗 shī «poesia» | 十 shí «dieci» | 使 shǐ «usare» | 是 shì «essere» |
+| 书 shū «libro» | 熟 shú «maturo» | 鼠 shǔ «topo» | 树 shù «albero» |
+
+Sbagliare il tono può cambiare completamente il senso della frase:
+ex: 我想**买**房子。 | Wǒ xiǎng **mǎi** fángzi. | Voglio comprare una casa.
+ex: 我想**卖**房子。 | Wǒ xiǎng **mài** fángzi. | Voglio vendere la casa.
+ex: 我想**问**你一个问题。 | Wǒ xiǎng **wèn** nǐ yí ge wèntí. | Vorrei farti una domanda.
+ex: 我想**吻**你。 | Wǒ xiǎng **wěn** nǐ. | Vorrei baciarti.
+ex: 我要**睡觉**。 | Wǒ yào **shuì jiào**. | Voglio dormire.
+ex: 我要**水饺**。 | Wǒ yào **shuǐjiǎo**. | Vorrei dei ravioli bolliti.
+
+### Le combinazioni di toni
+
+Poiché le parole sono per lo più bisillabiche, conviene esercitarsi sulle sedici combinazioni di due toni:
+
+| 1ª sillaba | + 1° | + 2° | + 3° | + 4° |
+| 1° | 星期 xīngqī | 中国 Zhōngguó | 铅笔 qiānbǐ | 车站 chēzhàn |
+| 2° | 明天 míngtiān | 学习 xuéxí | 啤酒 píjiǔ | 学校 xuéxiào |
+| 3° | 老师 lǎoshī | 美国 Měiguó | 你好 nǐ hǎo | 考试 kǎoshì |
+| 4° | 面包 miànbāo | 问题 wèntí | 汉语 Hànyǔ | 再见 zàijiàn |
+
+### Il tono neutro
+
+Molte sillabe perdono il loro tono e si pronunciano brevi e leggere: è il tono neutro (轻声 qīngshēng). Nel pinyin non ha segno. La sua altezza dipende dalla sillaba precedente: è medio-bassa dopo il 1° tono (妈妈 māma), media dopo il 2° (朋友 péngyou), più alta dopo il 3° (姐姐 jiějie) e bassa dopo il 4° (爸爸 bàba).
+
+Il tono neutro compare soprattutto nei casi seguenti:
+
+| Caso | Esempi |
+| particelle | 的 de, 了 le, 着 zhe, 过 guo, 吗 ma, 呢 ne, 吧 ba |
+| suffissi 子, 们, 头, 么 | 桌子 zhuōzi, 我们 wǒmen, 石头 shítou, 什么 shénme |
+| nomi di parentela raddoppiati | 妈妈 māma, 哥哥 gēge, 弟弟 dìdi, 奶奶 nǎinai |
+| verbi raddoppiati | 看看 kànkan, 试试 shìshi, 想想 xiǎngxiang |
+| seconda sillaba di molte parole | 朋友 péngyou, 东西 dōngxi, 衣服 yīfu |
+| complementi di direzione | 进来 jìnlai, 出去 chūqu, 拿起来 ná qilai |
+| parole di posizione dopo il nome | 桌子上 zhuōzi shang, 家里 jiā li |
+| 一 e 不 in mezzo a un'espressione | 看一看 kàn yi kàn, 好不好 hǎo bu hǎo |
+
+Non esiste una regola per sapere quali parole bisillabiche abbiano la seconda sillaba neutra: vanno imparate una per una. Tra le più frequenti: 先生 xiānsheng, 学生 xuésheng, 认识 rènshi, 知道 zhīdao, 喜欢 xǐhuan, 意思 yìsi, 告诉 gàosu, 漂亮 piàoliang, 时候 shíhou, 舒服 shūfu, 休息 xiūxi, 明白 míngbai, 清楚 qīngchu, 事情 shìqing, 消息 xiāoxi.
+
+In alcuni casi il tono neutro distingue due parole diverse:
+ex: 这是什么**东西**？ | Zhè shì shénme **dōngxi**? | Che cos'è questa cosa?
+ex: 这个城市**东西**长二十公里。 | Zhège chéngshì **dōngxī** cháng èrshí gōnglǐ. | Questa città si estende per venti chilometri da est a ovest.
+ex: 这家饭馆的菜很**地道**。 | Zhè jiā fànguǎn de cài hěn **dìdao**. | La cucina di questo ristorante è molto autentica.
+ex: 这条**地道**很长。 | Zhè tiáo **dìdào** hěn cháng. | Questo tunnel è molto lungo.
+
+! Nel Sud della Cina e a Taiwan il tono neutro si usa molto meno che a Pechino: si sente spesso, per esempio, 朋友 péngyǒu o 东西 dōngxī anche nel senso di «cosa». In questo libro si segue la pronuncia standard.
+
+## Regole di ortografia del pinyin
+
+Il pinyin ha regole ortografiche precise, fissate dallo Schema ufficiale (汉语拼音方案 Hànyǔ Pīnyīn Fāng'àn) e dalle norme sulla scrittura delle parole.
+
+### Dove si mette il segno del tono
+
+Il segno del tono si mette sulla vocale principale della sillaba, secondo quest'ordine di precedenza:
+- se c'è una a, il segno va sulla a: hǎo, kuài, tiān, zhuāng;
+- se non c'è la a, va sulla o o sulla e: zǒu, wǒ, gěi, xiè, yuè;
+- nelle combinazioni iu e ui va sulla seconda vocale: liù, jiǔ, duì, huí;
+- negli altri casi va sull'unica vocale: nǐ, bù, nǚ, lǜ.
+
+Sulla i il segno del tono sostituisce il puntino (nǐ, yī), mentre sulla ü si scrivono sia i due puntini sia il segno del tono (nǚ, lǜ).
+
+| Sillaba | Regola |
+| hǎo, kuài, tiān | c'è la a: segno sulla a |
+| gěi, zǒu, xué | non c'è la a: segno su o/e |
+| liù, jiǔ | iu: segno sulla u |
+| duì, huí | ui: segno sulla i |
+| nǚ, lǜ | segno sulla ü |
+
+### Le lettere y e w
+
+Quando le finali che cominciano con i, u, ü non sono precedute da un'iniziale, si scrivono con y e w:
+- la i diventa y se è seguita da un'altra vocale (ia → ya, ie → ye), mentre se è l'unica vocale si aggiunge una y davanti (i → yi, in → yin, ing → ying);
+- la u diventa w se è seguita da un'altra vocale (ua → wa, uo → wo), mentre da sola diventa wu;
+- la ü si scrive yu, senza puntini (ü → yu, üe → yue, üan → yuan, ün → yun).
+
+| Finale | Senza iniziale | Esempio |
+| i, in, ing | yi, yin, ying | 一 yī, 音 yīn, 英 yīng |
+| ia, ie, iao | ya, ye, yao | 牙 yá, 也 yě, 要 yào |
+| iou, ian | you, yan | 有 yǒu, 眼 yǎn |
+| iang, iong | yang, yong | 样 yàng, 用 yòng |
+| u, ua, uo | wu, wa, wo | 五 wǔ, 袜 wà, 我 wǒ |
+| uai, uei | wai, wei | 外 wài, 为 wèi |
+| uan, uen | wan, wen | 晚 wǎn, 问 wèn |
+| uang, ueng | wang, weng | 网 wǎng, 翁 wēng |
+| ü, üe | yu, yue | 鱼 yú, 月 yuè |
+| üan, ün | yuan, yun | 远 yuǎn, 云 yún |
+
+### La ü e la u
+
+I due puntini della ü si scrivono solo dopo n e l, dove distinguono la ü dalla u:
+ex: 路 / 绿 | lù / lǜ | strada / verde
+ex: 努力 / 女儿 | nǔlì / nǚ'ér | impegnarsi / figlia
+
+Dopo j, q, x e y i puntini si omettono, perché dopo queste lettere la u semplice non esiste: ju, qu, xu, yu si leggono sempre con la ü.
+ex: 去 / 学 / 句子 / 鱼 | qù / xué / jùzi / yú | andare / studiare / frase / pesce
+
+! Sulle tastiere la ü si digita di solito con la lettera v: lv per lǜ, nv per nǚ.
+
+### Le forme contratte iu, ui, un
+
+Dopo un'iniziale, tre finali si scrivono in forma abbreviata:
+- iou → iu: l + iou = liu (六 liù «sei»), j + iou = jiu (九 jiǔ «nove»);
+- uei → ui: d + uei = dui (对 duì «giusto»), g + uei = gui (贵 guì «caro»);
+- uen → un: ch + uen = chun (春 chūn «primavera»), l + uen = lun (论 lùn «discutere»).
+
+La vocale omessa si sente comunque, debolmente, soprattutto al 3° e 4° tono: 九 jiǔ suona quasi «jiou», 贵 guì quasi «guei». Senza iniziale si usano le forme piene: you, wei, wen.
+
+### L'apostrofo
+
+Quando, all'interno di una parola, una sillaba che comincia con a, o, e segue un'altra sillaba, si mette un apostrofo per segnare il confine ed evitare ambiguità:
+
+| Parola | Pinyin | Senza apostrofo |
+| 西安 | Xī'ān | xian, letto come 先 xiān |
+| 天安门 | Tiān'ānmén | confine incerto |
+| 平安 | píng'ān | pin-gan o ping-an? |
+| 晚安 | wǎn'ān | wa-nan o wan-an? |
+| 女儿 | nǚ'ér | confine incerto |
+| 十二 | shí'èr | confine incerto |
+
+### Le maiuscole
+
+- Si scrive con la maiuscola la prima parola della frase: Wǒ shì xuésheng.
+- Si scrivono con la maiuscola i nomi propri: Běijīng, Zhōngguó, Yìdàlì «Italia», Hànyǔ, Zhōngguórén.
+- Nei nomi di persona cognome e nome si scrivono separati, entrambi con la maiuscola: Wáng Míng, Lǐ Xiǎolóng. Anche i prefissi 小 e 老 davanti al cognome hanno la maiuscola: Xiǎo Wáng, Lǎo Lǐ.
+- I titoli che seguono il nome si scrivono separati e con la minuscola: Lǐ lǎoshī «il professor Li», Wáng xiānsheng «il signor Wang».
+- Nei nomi geografici composti, il nome proprio e la parola che indica il tipo di luogo si scrivono separati, con la maiuscola: Běijīng Shì «municipalità di Pechino», Hǎidiàn Qū «distretto di Haidian», Tài Shān «monte Tai».
+
+### La separazione delle parole
+
+Nel pinyin si scrivono unite le sillabe che formano una parola e separate le parole tra loro:
+- parole composte: péngyou, xuésheng, diànnǎo, túshūguǎn «biblioteca»;
+- verbo e oggetto si scrivono separati: kàn shū «leggere», chī fàn «mangiare», shuì jiào «dormire»;
+- particelle e classificatori si scrivono separati: wǒ de shū, tā lái le, yí ge rén, sān běn shū;
+- le parole di posizione si scrivono separate dal nome: zhuōzi shang, jiā li;
+- la negazione si scrive separata: bù hǎo, bú qù, méi lái;
+- i numeri fino a novantanove si scrivono uniti: shíwǔ, sānshí'èr; gli ordinali con il trattino: dì-yī, dì-èr.
+
+ex: 我的朋友是意大利人。 | Wǒ de péngyou shì Yìdàlìrén. | Il mio amico è italiano.
+ex: 他在图书馆看书。 | Tā zài túshūguǎn kàn shū. | Legge in biblioteca.
+ex: 桌子上有三本书。 | Zhuōzi shang yǒu sān běn shū. | Sul tavolo ci sono tre libri.
+
+! La separazione delle parole nel pinyin non è applicata in modo uniforme nei manuali e nei dizionari. Questo libro segue le norme ufficiali con qualche semplificazione: l'importante è riconoscere che in cinese l'unità di significato è spesso la parola bisillabica, non il singolo carattere.

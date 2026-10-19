@@ -1,0 +1,135 @@
+# Azione in corso e stato continuato: 在, 正在, 着
+
+Il cinese distingue con cura due situazioni che chi parla italiano tende a confondere quando traduce: l'azione in corso di svolgimento (aspetto progressivo: «sta leggendo») e lo stato che perdura come risultato di un'azione (aspetto durativo: «è seduto», «la porta è aperta»). La prima si esprime con gli avverbi 在, 正在, 正 e con la particella 呢; la seconda con la particella aspettuale 着.
+
+## 在, 正在, 正 + V (+ 呢)
+
+= S + 在 + V (+ O) (+ 呢)
+= S + 正在 + V (+ O) (+ 呢)
+= S + 正 + V (+ O) + 呢
+= S + V (+ O) + 呢
+
+ex: 他**在**看书。 | Tā **zài** kàn shū. | Sta leggendo.
+ex: 妈妈**正在**做饭**呢**。 | Māma **zhèngzài** zuò fàn **ne**. | La mamma sta preparando da mangiare.
+ex: 我们**正**开会**呢**，等一会儿再打给你。 | Wǒmen **zhèng** kāihuì **ne**, děng yíhuìr zài dǎ gěi nǐ. | Siamo in riunione proprio adesso, ti richiamo tra un po'.
+ex: 他睡觉**呢**，别叫他。 | Tā shuìjiào **ne**, bié jiào tā. | Sta dormendo, non chiamarlo.
+ex: 孩子们**在**院子里玩儿**呢**。 | Háizimen **zài** yuànzi li wánr **ne**. | I bambini stanno giocando in cortile.
+
+### Le differenze
+
+- 在 zài presenta l'azione come in corso; può riferirsi anche a un'attività che si svolge, magari in modo ripetuto, in un periodo più lungo (最近, 这几年, 一直).
+- 正在 zhèngzài unisce le due idee: l'azione è in corso proprio nel momento considerato.
+- 正 zhèng mette l'accento sul momento preciso («proprio allora»); non si usa con un verbo semplice isolato, ma richiede 呢, 着 o altri elementi.
+- 呢 da solo in fondo alla frase basta, nel parlato, a indicare l'azione in corso; si combina volentieri con le forme precedenti.
+
+ex: 他最近**在**学开车。 | Tā zuìjìn **zài** xué kāichē. | Ultimamente sta imparando a guidare.
+ex: 这几年她一直**在**研究中国历史。 | Zhè jǐ nián tā yìzhí **zài** yánjiū Zhōngguó lìshǐ. | In questi anni ha continuato a studiare la storia cinese.
+ex: 我一直**在**等你的电话。 | Wǒ yìzhí **zài** děng nǐ de diànhuà. | Ho aspettato la tua telefonata tutto il tempo.
+
+no: 他最近正学开车。 | Tā zuìjìn zhèng xué kāichē. | Errato: per un'attività che dura un periodo non si usa 正.
+ex: 他最近**在**学开车。 | Tā zuìjìn **zài** xué kāichē. | Ultimamente sta imparando a guidare.
+
+no: 他正看书。 | Tā zhèng kàn shū. | Poco naturale: 正 richiede 呢, 着 o altri elementi.
+ex: 他**正**看书**呢**。 | Tā **zhèng** kàn shū **ne**. | Sta leggendo proprio adesso.
+ex: 他**正**看着书**呢**。 | Tā **zhèng** kàn zhe shū **ne**. | Sta leggendo proprio adesso.
+
+| Forma | Sfumatura | Con 一直 / 最近 |
+| 在 + V | azione in corso, anche ripetuta | sì |
+| 正在 + V | in corso proprio in quel momento | con 最近 sì; con 一直 no |
+| 正 + V + 呢 / 着 | proprio in quel momento | no |
+| V + 呢 | in corso (parlato) | no |
+
+### Progressivo nel passato e nel futuro
+
+Il progressivo non indica il presente: con un'espressione di tempo o una frase con ……的时候 si colloca nel passato o nel futuro, come l'italiano «stavo facendo» o «starò facendo».
+
+ex: 昨天晚上八点我**正在**看电视。 | Zuótiān wǎnshang bā diǎn wǒ **zhèngzài** kàn diànshì. | Ieri sera alle otto stavo guardando la TV.
+ex: 你来的时候，我**正**吃饭**呢**。 | Nǐ lái de shíhou, wǒ **zhèng** chī fàn **ne**. | Quando sei arrivato, stavo mangiando.
+ex: 他进来的时候，大家**在**讨论明天的计划。 | Tā jìnlai de shíhou, dàjiā **zài** tǎolùn míngtiān de jìhuà. | Quando è entrato, tutti stavano discutendo il programma del giorno dopo.
+ex: 明天这个时候，我可能**正在**开会。 | Míngtiān zhège shíhou, wǒ kěnéng **zhèngzài** kāihuì. | Domani a quest'ora probabilmente sarò in riunione.
+
+### 在 avverbio e 在 preposizione
+
+Se il verbo è preceduto da 在 + luogo (preposizione), il 在 progressivo non si ripete: un solo 在 svolge entrambe le funzioni. Per sottolineare il progressivo si aggiunge 正 o 呢.
+
+no: 他在在图书馆看书。 | Tā zài zài túshūguǎn kàn shū. | Errato: 在 non si ripete.
+ex: 他**正**在图书馆看书**呢**。 | Tā **zhèng** zài túshūguǎn kàn shū **ne**. | Sta leggendo in biblioteca.
+
+### La negazione
+
+Il progressivo si nega con 没(在) + V, oppure semplicemente con 没有 nelle risposte brevi. 不在 + V va evitato: 不在 significa di solito «non c'è», «non è a…». Per correggere un'idea dell'interlocutore si usa anche 不是在 + V.
+
+no: 他不在看电视。 | Tā bú zài kàn diànshì. | Errato: il progressivo si nega con 没(在).
+ex: 他**没在**看电视。 | Tā **méi zài** kàn diànshì. | Non sta guardando la TV.
+ex: A：你在看电视吗？B：**没有**，我在看书**呢**。 | A: Nǐ zài kàn diànshì ma? B: **Méiyǒu**, wǒ zài kàn shū **ne**. | A: Stai guardando la TV? B: No, sto leggendo.
+ex: 他**没在**睡觉，他在玩儿手机。 | Tā **méi zài** shuìjiào, tā zài wánr shǒujī. | Non sta dormendo, sta giocando con il cellulare.
+ex: 我**不是在**批评你，我是想帮你。 | Wǒ **bú shì zài** pīpíng nǐ, wǒ shì xiǎng bāng nǐ. | Non ti sto criticando, voglio aiutarti.
+
+### Le domande
+
+ex: 你**在**做什么**呢**？ | Nǐ **zài** zuò shénme **ne**? | Che cosa stai facendo?
+ex: 他**在**上课**吗**？ | Tā **zài** shàngkè **ma**? | È a lezione?
+ex: 你**是不是在**等人？ | Nǐ **shì bu shì zài** děng rén? | Stai aspettando qualcuno?
+ex: A：小王呢？B：他**在**打电话**呢**。 | A: Xiǎo Wáng ne? B: Tā **zài** dǎ diànhuà **ne**. | A: E Xiao Wang? B: Sta telefonando.
+
+! Il progressivo richiede un verbo d'azione che possa durare. I verbi di stato (是, 有, 在 «trovarsi», 知道, 认识, 像) e i verbi puntuali (来, 到, 死, 毕业, 结婚 nel senso del singolo evento) non lo ammettono: si dice 我知道这件事 «lo so», non 我在知道这件事.
+
+## V + 着: lo stato che perdura
+
+La particella aspettuale 着 zhe, posta subito dopo il verbo, presenta la situazione come uno stato che perdura: spesso è il risultato di un'azione già compiuta (la porta è stata aperta e ora *è aperta*), oppure un modo di essere che continua nel tempo. È un aspetto statico e descrittivo, molto usato per descrivere persone, ambienti e posizioni.
+
+= S + V + 着 (+ O)
+= Luogo + V + 着 + Num + CL + N
+
+ex: 门开**着**。 | Mén kāi **zhe**. | La porta è aperta.
+ex: 灯还亮**着**。 | Dēng hái liàng **zhe**. | La luce è ancora accesa.
+ex: 他穿**着**一件红衬衫。 | Tā chuān **zhe** yí jiàn hóng chènshān. | Indossa una camicia rossa.
+ex: 她手里拿**着**一本书。 | Tā shǒu li ná **zhe** yì běn shū. | Ha in mano un libro.
+ex: 他戴**着**一副眼镜。 | Tā dài **zhe** yí fù yǎnjìng. | Porta un paio di occhiali.
+ex: 墙上挂**着**一张画。 | Qiáng shang guà **zhe** yì zhāng huà. | Alla parete è appeso un quadro.
+ex: 桌子上放**着**很多书。 | Zhuōzi shang fàng **zhe** hěn duō shū. | Sul tavolo ci sono molti libri.
+ex: 老师站**着**，学生们坐**着**。 | Lǎoshī zhàn **zhe**, xuéshengmen zuò **zhe**. | L'insegnante è in piedi, gli studenti sono seduti.
+
+### I verbi tipici
+
+| Tipo di verbo | Verbi | Esempio |
+| postura | 坐, 站, 躺, 蹲 | 他在沙发上躺着。 |
+| collocazione | 放, 挂, 贴, 摆, 停, 写 | 门口停着一辆车。 |
+| indossare | 穿, 戴 | 她戴着一顶帽子。 |
+| tenere, portare | 拿, 抱, 背, 带 | 她抱着一个孩子。 |
+| apertura, accensione | 开, 关, 亮 | 窗户关着。 |
+
+Con alcuni verbi d'azione che possono durare (下雨, 等, 听, 看, 说话), 着 indica anche l'azione che continua, spesso insieme a 正……呢: 外面正下着雨呢。«Fuori sta piovendo.»
+
+### La negazione
+
+V + 着 si nega con 没(有); 着 si mantiene soprattutto nelle risposte e nei contrasti, mentre in molte frasi si omette.
+
+no: 门不开着。 | Mén bù kāi zhe. | Errato: V + 着 si nega con 没(有), non con 不.
+ex: A：门开着吗？B：**没**开**着**，关着呢。 | A: Mén kāi zhe ma? B: **Méi** kāi **zhe**, guān zhe ne. | A: La porta è aperta? B: No, è chiusa.
+ex: 他今天**没**戴眼镜。 | Tā jīntiān **méi** dài yǎnjìng. | Oggi non porta gli occhiali.
+
+### Le domande
+
+ex: 你带**着**护照**吗**？ | Nǐ dài **zhe** hùzhào **ma**? | Hai con te il passaporto?
+ex: 空调开**着没有**？ | Kōngtiáo kāi **zhe méiyǒu**? | Il condizionatore è acceso?
+
+### 着 e 在 a confronto
+
+Con i verbi come 穿, 戴, 挂, 放, 在 indica l'azione che si sta compiendo, 着 lo stato che ne risulta.
+
+| Frase | Aspetto | Significato |
+| 他在穿衣服。 | progressivo | si sta vestendo |
+| 他穿着新衣服。 | durativo | indossa un vestito nuovo |
+| 她在戴帽子。 | progressivo | si sta mettendo il cappello |
+| 她戴着帽子。 | durativo | porta il cappello |
+| 他在挂画。 | progressivo | sta appendendo un quadro |
+| 墙上挂着画。 | durativo | alla parete è appeso un quadro |
+
+ex: 他**在**穿衣服，请等一下。 | Tā **zài** chuān yīfu, qǐng děng yíxià. | Si sta vestendo, aspetta un attimo per favore.
+ex: 他穿**着**新衣服去参加婚礼。 | Tā chuān **zhe** xīn yīfu qù cānjiā hūnlǐ. | Va al matrimonio con un vestito nuovo.
+
+! 着 descrive uno stato, non misura un'azione: non si combina con un complemento di durata. Per dire «è rimasto seduto due ore» si usa 了: 他在那儿坐了两个小时。
+
+no: 他在那儿坐着两个小时。 | Tā zài nàr zuò zhe liǎng ge xiǎoshí. | Errato: 着 non si combina con un complemento di durata.
+ex: 他在那儿坐**了**两个小时。 | Tā zài nàr zuò **le** liǎng ge xiǎoshí. | È rimasto seduto lì per due ore.

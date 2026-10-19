@@ -1,0 +1,150 @@
+## Verbi che reggono una frase come oggetto
+
+Molti verbi di opinione, di conoscenza, di comunicazione, di percezione e di decisione reggono come oggetto un'intera frase, oppure un verbo con il suo oggetto. La frase oggetto segue direttamente il verbo principale: in cinese non c'è alcuna congiunzione corrispondente a «che», non c'è congiuntivo e non c'è concordanza dei tempi.
+
+= S + V + [S + V + O]
+= S + V + [V + O] (stesso soggetto)
+
+| Verbo | Pinyin | Significato |
+| 觉得 | juéde | trovare, pensare |
+| 知道 | zhīdao | sapere |
+| 希望 | xīwàng | sperare |
+| 说 | shuō | dire |
+| 听说 | tīngshuō | sentir dire |
+| 发现 | fāxiàn | accorgersi, scoprire |
+| 决定 | juédìng | decidere |
+| 打算 | dǎsuan | avere intenzione di |
+| 记得 | jìde | ricordare, ricordarsi di |
+| 忘(了) | wàng (le) | dimenticare |
+| 相信 | xiāngxìn | credere, essere convinto |
+| 看见 | kànjiàn | vedere |
+
+ex: 我**觉得**汉语语法不太难。 | Wǒ **juéde** Hànyǔ yǔfǎ bú tài nán. | Trovo che la grammatica cinese non sia molto difficile.
+ex: 你**知道**他为什么没来吗？ | Nǐ **zhīdao** tā wèi shénme méi lái ma? | Sai perché non è venuto?
+ex: 他**说**他明天不来了。 | Tā **shuō** tā míngtiān bù lái le. | Ha detto che domani non viene.
+ex: **听说**你要结婚了，恭喜恭喜！ | **Tīngshuō** nǐ yào jiéhūn le, gōngxǐ gōngxǐ! | Ho sentito che ti sposi: congratulazioni!
+ex: 我**发现**他瘦了很多。 | Wǒ **fāxiàn** tā shòu le hěn duō. | Mi sono accorto che è dimagrito molto.
+ex: 我们**决定**明年夏天去云南旅行。 | Wǒmen **juédìng** míngnián xiàtiān qù Yúnnán lǚxíng. | Abbiamo deciso di fare un viaggio nello Yunnan la prossima estate.
+ex: 你**打算**什么时候回国？ | Nǐ **dǎsuan** shénme shíhou huí guó? | Quando hai intenzione di tornare in patria?
+ex: 你还**记得**我们第一次见面的地方吗？ | Nǐ hái **jìde** wǒmen dì-yī cì jiànmiàn de dìfang ma? | Ti ricordi ancora il posto dove ci siamo visti la prima volta?
+ex: 出门的时候**记得**带伞！ | Chūmén de shíhou **jìde** dài sǎn! | Quando esci, ricordati di prendere l'ombrello!
+ex: 我**忘了**他叫什么名字。 | Wǒ **wàng le** tā jiào shénme míngzi. | Ho dimenticato come si chiama.
+ex: 我**相信**你一定能成功。 | Wǒ **xiāngxìn** nǐ yídìng néng chénggōng. | Sono sicuro che ce la farai.
+ex: 我**看见**他进了那家咖啡馆。 | Wǒ **kànjiàn** tā jìn le nà jiā kāfēiguǎn. | L'ho visto entrare in quel caffè.
+
+### Nessuna congiunzione «che»
+
+no: 他说那他明天不来。 | Tā shuō nà tā míngtiān bù lái. | Errato: il cinese non ha una congiunzione corrispondente a «che».
+ex: 他**说**他明天不来。 | Tā **shuō** tā míngtiān bù lái. | Dice che domani non viene.
+
+! Nella frase oggetto il soggetto viene di solito espresso, anche quando coincide con quello della principale: 他说他很忙。«Dice di essere molto occupato.» (lett. lui dice lui molto occupato)
+
+### Le interrogative indirette
+
+Nelle interrogative indirette la frase dipendente conserva l'ordine della domanda diretta: la parola interrogativa resta al suo posto e non c'è inversione (vedi il capitolo «Le frasi interrogative»). Il «se» interrogativo dell'italiano («non so se viene») si rende con la forma affermativa-negativa del verbo, mai con 如果 rúguǒ, che introduce solo le ipotesi.
+
+ex: 我不知道**他是谁**。 | Wǒ bù zhīdao **tā shì shéi**. | Non so chi sia.
+ex: 你知道**图书馆几点关门**吗？ | Nǐ zhīdao **túshūguǎn jǐ diǎn guān mén** ma? | Sai a che ora chiude la biblioteca?
+ex: 我想问问**他来不来**。 | Wǒ xiǎng wènwen **tā lái bu lái**. | Voglio chiedergli se viene.
+
+no: 我不知道如果他来。 | Wǒ bù zhīdao rúguǒ tā lái. | Errato: il «se» interrogativo non si traduce con 如果.
+ex: 我不知道他**来不来**。 | Wǒ bù zhīdao tā **lái bu lái**. | Non so se viene.
+
+### Niente 了 dopo il verbo principale
+
+Quando l'oggetto è una frase, dopo il verbo principale normalmente non si mette 了: l'eventuale 了 va alla fine della frase dipendente. Con un oggetto nominale, invece, 了 è normale. 忘了 wàng le «ho dimenticato» è un caso a sé, quasi un'unica parola.
+
+no: 我听说了他要结婚。 | Wǒ tīngshuō le tā yào jiéhūn. | Errato: davanti a una frase oggetto non si mette 了.
+ex: 我**听说**他要结婚了。 | Wǒ **tīngshuō** tā yào jiéhūn le. | Ho sentito dire che si sposa.
+no: 我发现了他不在家。 | Wǒ fāxiàn le tā bú zài jiā. | Errato: 了 non va dopo il verbo che regge una frase.
+ex: 我**发现**他不在家。 | Wǒ **fāxiàn** tā bú zài jiā. | Mi sono accorto che non era in casa.
+ex: 我**听说了**这件事。 | Wǒ **tīngshuō le** zhè jiàn shì. | Ho sentito parlare di questa faccenda. (oggetto nominale)
+ex: 我**决定了**：明年去中国！ | Wǒ **juédìng le**: míngnián qù Zhōngguó! | Ho deciso: l'anno prossimo vado in Cina! (con una pausa dopo 了)
+
+## I verbi 在, 到, 来, 去 e 回
+
+### 在: trovarsi
+
+Come verbo, 在 zài significa «trovarsi, essere (in un luogo)». Si nega con 不在; nel parlato, riferito al passato, si trova anche 没在. Senza complemento di luogo significa «esserci, essere presente».
+
+= N + 在 + Luogo
+= N + 不在 + Luogo
+
+ex: 我**在**家。 | Wǒ **zài** jiā. | Sono a casa.
+ex: 你的手机**在**桌子上。 | Nǐ de shǒujī **zài** zhuōzi shang. | Il tuo cellulare è sul tavolo.
+ex: 王老师**不在**办公室。 | Wáng lǎoshī **bú zài** bàngōngshì. | Il professor Wang non è in ufficio.
+ex: A：你**在**哪儿？B：我**在**地铁站。 | A: Nǐ **zài** nǎr? B: Wǒ **zài** dìtiězhàn. | A: Dove sei? B: Sono alla stazione della metro.
+ex: A：请问，李经理**在**吗？B：对不起，他**不在**。 | A: Qǐngwèn, Lǐ jīnglǐ **zài** ma? B: Duìbuqǐ, tā **bú zài**. | A: Scusi, c'è il direttore Li? B: Mi dispiace, non c'è.
+ex: 我的书**在**小王那儿。 | Wǒ de shū **zài** Xiǎo Wáng nàr. | Il mio libro ce l'ha Xiao Wang. (lett. è presso Xiao Wang)
+
+- I nomi di città e di paesi si usano direttamente; gli oggetti comuni richiedono di solito un localizzatore come 上 shang o 里 li (桌子上, 房间里); le persone richiedono 这儿/那儿 (vedi il capitolo «Il sostantivo»).
+- L'italiano «essere» corrisponde a 在 quando indica la posizione, a 是 quando indica l'identità.
+
+no: 他是办公室。 | Tā shì bàngōngshì. | Errato: per la posizione si usa 在, non 是.
+ex: 他**在**办公室。 | Tā **zài** bàngōngshì. | È in ufficio.
+no: 北京在一个大城市。 | Běijīng zài yí ge dà chéngshì. | Errato: per l'identità si usa 是, non 在.
+ex: 北京**是**一个大城市。 | Běijīng **shì** yí ge dà chéngshì. | Pechino è una grande città.
+
+! Per «c'è un libro sul tavolo» (oggetto indeterminato) si usa invece 有: 桌子上有一本书 (vedi il capitolo «Le frasi con 有 e le frasi esistenziali»). 在 è anche preposizione (我在家吃饭, vedi il capitolo «Le preposizioni») e avverbio di azione in corso (我在吃饭, vedi il capitolo «Azione in corso e stato continuato: 在, 正在, 着»).
+
+### 到: arrivare
+
+到 dào «arrivare» regge direttamente il luogo, senza preposizione. Seguito da 来 o 去 equivale a «venire, andare in»: 他到上海去了 = 他去上海了 «È andato a Shanghai».
+
+= S + 到 + (Luogo) + (了)
+
+ex: 我们**到**了！ | Wǒmen **dào** le! | Siamo arrivati!
+ex: 火车几点**到**北京？ | Huǒchē jǐ diǎn **dào** Běijīng? | A che ora arriva il treno a Pechino?
+ex: 你**到**家了吗？ | Nǐ **dào** jiā le ma? | Sei arrivato a casa?
+ex: 他还没**到**。 | Tā hái méi **dào**. | Non è ancora arrivato.
+ex: 春天**到**了。 | Chūntiān **dào** le. | È arrivata la primavera.
+
+no: 我们到在北京了。 | Wǒmen dào zài Běijīng le. | Errato: 到 regge direttamente il luogo.
+ex: 我们**到**北京了。 | Wǒmen **dào** Běijīng le. | Siamo arrivati a Pechino.
+
+### 来 e 去: il punto di vista di chi parla
+
+来 lái indica un movimento verso il luogo in cui si trova chi parla, 去 qù un movimento che se ne allontana. Anche 来 e 去 reggono il luogo direttamente; seguiti da un altro verbo indicano lo scopo del movimento (vedi il capitolo «Le frasi a verbi in serie»).
+
+= S + 来/去 + Luogo
+= S + 来/去 + (Luogo) + V (+ O)
+
+ex: 你什么时候**来**我家？ | Nǐ shénme shíhou **lái** wǒ jiā? | Quando vieni a casa mia?
+ex: 我明天**去**北京。 | Wǒ míngtiān **qù** Běijīng. | Domani vado a Pechino.
+ex: 他**去**学校了。 | Tā **qù** xuéxiào le. | È andato a scuola.
+ex: 欢迎你**来**意大利！ | Huānyíng nǐ **lái** Yìdàlì! | Benvenuto in Italia!
+ex: 我**去**超市买点儿东西。 | Wǒ **qù** chāoshì mǎi diǎnr dōngxi. | Vado al supermercato a comprare qualcosa.
+ex: 他**来**中国学习汉语。 | Tā **lái** Zhōngguó xuéxí Hànyǔ. | È venuto in Cina a studiare il cinese. (detto da chi è in Cina)
+
+no: 我明天去在北京。 | Wǒ míngtiān qù zài Běijīng. | Errato: 去 regge direttamente il luogo.
+ex: 我明天**去**北京。 | Wǒ míngtiān **qù** Běijīng. | Domani vado a Pechino.
+no: 我明天去你。 | Wǒ míngtiān qù nǐ. | Errato: una persona non è un luogo; serve 这儿/那儿.
+ex: 我明天**去你那儿**。 | Wǒ míngtiān **qù nǐ nàr**. | Domani vengo da te.
+ex: 有空**来我这儿**坐坐吧。 | Yǒu kòng **lái wǒ zhèr** zuòzuo ba. | Quando hai tempo, passa da me.
+
+! In italiano «venire» si usa anche per il movimento verso chi ascolta: «domani vengo da te». In cinese conta solo la posizione di chi parla, quindi si usa 去: 我明天去你家。 Viceversa, a chi ci chiama si risponde 来了！«Arrivo!», dal punto di vista di chi chiama.
+
+ex: A：小王，快来！B：**来**了，**来**了！ | A: Xiǎo Wáng, kuài lái! B: **Lái** le, **lái** le! | A: Xiao Wang, vieni, presto! B: Arrivo, arrivo!
+
+### 来 come verbo sostituto
+
+Nel parlato 来 può sostituire un verbo più specifico, che si ricava dalla situazione: «fare, occuparsi di, prendere, servire». Davanti a un altro verbo, 我来 significa «me ne occupo io».
+
+ex: 你休息吧，我**来**！ | Nǐ xiūxi ba, wǒ **lái**! | Riposati, ci penso io!
+ex: 我自己**来**。 | Wǒ zìjǐ **lái**. | Faccio da me. (per esempio a tavola)
+ex: 服务员，**来**两瓶啤酒！ | Fúwùyuán, **lái** liǎng píng píjiǔ! | Cameriere, due birre!
+ex: 再**来**一个！ | Zài **lái** yí ge! | Bis! / Ancora uno!
+ex: 我**来**介绍一下。 | Wǒ **lái** jièshào yíxià. | Lasciate che vi presenti.
+
+### 回: tornare
+
+回 huí significa «tornare» in un luogo a cui si appartiene o da cui si è partiti (casa, patria, scuola, ufficio) e regge il luogo direttamente. Le forme 回来 huílai e 回去 huíqu precisano la direzione rispetto a chi parla (vedi il capitolo «Il complemento di direzione»). 回 significa anche «rispondere» (回信 «rispondere a una lettera», 回电话 «richiamare»).
+
+ex: 我想**回家**。 | Wǒ xiǎng **huí jiā**. | Voglio tornare a casa.
+ex: 他下个月**回国**。 | Tā xià ge yuè **huí guó**. | Il mese prossimo torna nel suo paese.
+ex: 暑假我**回**意大利。 | Shǔjià wǒ **huí** Yìdàlì. | Durante le vacanze estive torno in Italia.
+ex: 你几点**回来**？ | Nǐ jǐ diǎn **huílai**? | A che ora torni?
+ex: 我一会儿**回**你电话。 | Wǒ yíhuìr **huí** nǐ diànhuà. | Ti richiamo tra poco.
+
+no: 我回去家。 | Wǒ huíqu jiā. | Errato: il luogo si inserisce tra 回 e 去.
+ex: 我**回家去**。 | Wǒ **huí jiā qu**. | Torno a casa.

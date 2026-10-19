@@ -1,0 +1,177 @@
+# Le particelle modali
+
+## Che cosa sono le particelle modali (语气词)
+
+Le particelle modali (语气词 yǔqìcí) sono brevi parole che si collocano alla fine della frase (talvolta dopo il tema, a metà frase) e ne esprimono il «tono» (语气 yǔqì): domanda, supposizione, proposta, esclamazione, insistenza, ovvietà, attenuazione. Sono sempre atone (tono neutro) e non hanno un significato lessicale proprio: non si traducono parola per parola, ma con l'intonazione, con avverbi e interiezioni («dai», «pure», «mica», «eh», «no?», «allora») o con la scelta del modo verbale. Una frase cinese senza particella può suonare secca o brusca; la stessa frase con la particella giusta può diventare gentile, amichevole o persuasiva.
+
+ex: 走。 | Zǒu. | Si va. / Vai. (secco)
+ex: 走**吧**。 | Zǒu **ba**. | Andiamo, dai.
+ex: 走**啊**！ | Zǒu **a**! | Su, andiamo!
+ex: 走**了**。 | Zǒu **le**. | Io vado. / Me ne vado.
+
+| Particella | Pinyin | Funzione principale | Esempio |
+| 吗 | ma | domanda sì/no | 你好吗？ |
+| 呢 | ne | domanda di ritorno; azione in corso; enfasi | 你呢？ |
+| 吧 | ba | proposta; supposizione; consenso | 我们走吧。 |
+| 啊 | a | esclamazione; tono vivace o morbido | 好啊！ |
+| 了 | le | cambiamento di situazione | 下雨了。 |
+| 嘛 | ma | ovvietà; insistenza | 他是孩子嘛。 |
+| 呗 | bei | «e allora…, basta…» | 不懂就问呗。 |
+| 罢了 / 而已 | bàle / éryǐ | «soltanto, niente di più» | 开个玩笑罢了。 |
+| 的 | de | certezza, convinzione | 他会来的。 |
+| 着呢 | zhene | grado elevato (parlato) | 好着呢。 |
+| 哦 | o | avvertimento affettuoso | 别忘了哦。 |
+| 啦 | la | fusione di 了 e 啊 | 下雨啦！ |
+
+Alcune caratteristiche comuni:
+
+- stanno alla fine della frase; alcune (呢, 啊, 吧, 嘛) possono stare anche dopo il tema o dopo una frase subordinata, dove segnano una pausa;
+- sono sempre in tono neutro e non sono mai accentate;
+- di norma se ne usa una sola per frase; alcune combinazioni sono però possibili (vedi più avanti «Combinazioni di particelle»);
+- sono molto più frequenti nel parlato che nello scritto, dove compaiono soprattutto 吗, 呢, 了 e 的.
+
+## 吗
+
+吗 ma trasforma una frase dichiarativa in una domanda sì/no (vedi il capitolo «Le frasi interrogative»). Si usa anche nelle domande retoriche con 难道 e 不是.
+
+= Frase + 吗？
+
+ex: 你是老师**吗**？ | Nǐ shì lǎoshī **ma**? | Sei un insegnante?
+ex: 你明天有空**吗**？ | Nǐ míngtiān yǒu kòng **ma**? | Domani sei libero?
+ex: 你**不是**很忙**吗**？怎么有时间来？ | Nǐ **bú shì** hěn máng **ma**? Zěnme yǒu shíjiān lái? | Ma non eri tanto occupato? Come mai hai il tempo di venire?
+ex: **难道**你忘了**吗**？ | **Nándào** nǐ wàng le **ma**? | Non vorrai dirmi che te ne sei dimenticato?
+
+吗 non si usa nelle domande con pronome interrogativo, nelle domande affermativo-negative, in quelle alternative con 还是 e insieme a 呢.
+
+### 吗 e 嘛
+
+吗 e 嘛 si pronunciano entrambi ma, ma hanno funzioni diverse: 吗 forma domande, 嘛 sottolinea che qualcosa è ovvio oppure insiste in una richiesta (vedi più avanti «嘛, 呗, 罢了, 而已, 的, 着呢, 哦»). L'intonazione è ascendente con 吗, discendente con 嘛.
+
+| | 吗 | 嘛 |
+| Funzione | domanda sì/no | ovvietà; insistenza |
+| Tipo di frase | interrogativa | dichiarativa o imperativa |
+| Punteggiatura | ？ | 。 o ！ |
+| Esempio | 你去吗？ | 你去嘛！ |
+| Traduzione | Ci vai? | Dai, vacci! |
+
+ex: 他是孩子**吗**？ | Tā shì háizi **ma**? | È un bambino?
+ex: 他是孩子**嘛**。 | Tā shì háizi **ma**. | È un bambino, no? (è ovvio, bisogna capirlo)
+
+! Nella scrittura informale anche i parlanti nativi confondono talvolta 吗 e 嘛; per uno studente è importante non usare 嘛 nelle domande.
+
+## 呢
+
+呢 ne è la particella con il maggior numero di funzioni.
+
+### Domande di ritorno e domande su dove si trova qualcosa
+
+N + 呢？ significa «e…?» se riprende un discorso già avviato, «dov'è…?» se è detto senza contesto (vedi il capitolo «Le frasi interrogative»):
+
+ex: 我喝咖啡，**你呢**？ | Wǒ hē kāfēi, **nǐ ne**? | Io prendo un caffè, e tu?
+ex: **我的手机呢**？ | **Wǒ de shǒujī ne**? | Dov'è il mio cellulare?
+
+### Attenuazione nelle domande
+
+Nelle domande con pronome interrogativo, affermativo-negative e alternative, 呢 rende il tono più morbido e riflessivo, come se chi parla si interrogasse anche fra sé:
+
+ex: 你在做**什么呢**？ | Nǐ zài zuò **shénme ne**? | Che cosa stai facendo?
+ex: 你**去不去呢**？ | Nǐ **qù bu qù ne**? | Allora, ci vai o no?
+ex: 这个问题**怎么**解决**呢**？ | Zhège wèntí **zěnme** jiějué **ne**? | Come si potrebbe risolvere questo problema?
+
+### Azione in corso
+
+In una frase dichiarativa, 呢 finale indica che l'azione è in corso o che uno stato continua; si combina spesso con 在, 正在 o 着, ma può anche bastare da solo (vedi il capitolo «Azione in corso e stato continuato: 在, 正在, 着»).
+
+ex: 别说话，孩子**睡觉呢**。 | Bié shuō huà, háizi **shuì jiào ne**. | Non parlare, il bambino dorme.
+ex: 他**在**开会**呢**。 | Tā **zài** kāi huì **ne**. | È in riunione.
+ex: 外面下**着**雨**呢**。 | Wàimiàn xià **zhe** yǔ **ne**. | Fuori sta piovendo.
+ex: A：你干什么呢？B：我**做饭呢**。 | A: Nǐ gàn shénme ne? B: Wǒ **zuò fàn ne**. | A: Che stai facendo? B: Sto cucinando.
+
+### 还……呢 e 才……呢
+
+Con 还 «ancora» e con 才 «solo, appena», 呢 sottolinea che c'è ancora tempo o che la quantità è minore del previsto:
+
+ex: 时间**还**早**呢**。 | Shíjiān **hái** zǎo **ne**. | È ancora presto.
+ex: 离考试**还**有一个月**呢**。 | Lí kǎoshì **hái** yǒu yí ge yuè **ne**. | Manca ancora un mese all'esame.
+ex: 我**还没**吃饭**呢**。 | Wǒ **hái méi** chī fàn **ne**. | Non ho ancora mangiato.
+ex: **才**八点**呢**，再睡一会儿吧。 | **Cái** bā diǎn **ne**, zài shuì yíhuìr ba. | Sono solo le otto, dormi ancora un po'.
+
+还 + N + 呢 può anche esprimere un rimprovero ironico: «e saresti un…!».
+
+ex: 你**还**是大学生**呢**，连这个都不知道！ | Nǐ **hái** shì dàxuéshēng **ne**, lián zhège dōu bù zhīdao! | E saresti uno studente universitario! Non sai neanche questo!
+
+### Enfasi
+
+Con 可 «davvero» davanti all'aggettivo, 呢 rafforza un'affermazione con tono vivace e un po' esagerato; con 才不……呢 esprime un rifiuto deciso.
+
+ex: 那个地方**可**好看**呢**！ | Nàge dìfang **kě** hǎokàn **ne**! | Quel posto è davvero bellissimo!
+ex: 他做的菜**可**好吃**呢**。 | Tā zuò de cài **kě** hǎochī **ne**. | I piatti che cucina sono buonissimi, sai.
+ex: 我**才**不去**呢**！ | Wǒ **cái** bú qù **ne**! | Figurati se ci vado!
+
+### Pausa dopo il tema
+
+Dopo il tema o dopo una frase ipotetica, 呢 segna una pausa e mette in rilievo ciò che precede, spesso con valore contrastivo («io, invece…», «quanto a…»):
+
+ex: **我呢**，不太喜欢吃辣的。 | **Wǒ ne**, bú tài xǐhuan chī là de. | Io, invece, non amo molto il piccante.
+ex: 这件事**呢**，我们明天再说。 | Zhè jiàn shì **ne**, wǒmen míngtiān zài shuō. | Quanto a questa faccenda, ne riparliamo domani.
+ex: 要是你同意**呢**，我们就这么办。 | Yàoshi nǐ tóngyì **ne**, wǒmen jiù zhème bàn. | Se tu sei d'accordo, facciamo così.
+
+### 呢 e 吗 non si combinano
+
+呢 non forma domande sì/no e non si unisce mai a 吗:
+
+no: 你累吗呢？ | Nǐ lèi ma ne? | Errato: 吗 e 呢 non si combinano mai.
+ex: 你累**吗**？ | Nǐ lèi **ma**? | Sei stanco?
+ex: 你累不累**呢**？ | Nǐ lèi bu lèi **ne**? | Allora, sei stanco o no?
+
+## 吧
+
+吧 ba attenua la frase e la rende meno categorica: trasforma un ordine in un invito, un'affermazione in una supposizione, una risposta secca in un consenso. Ha sei usi principali.
+
+### Proposta
+
+Con 我们 o 咱们, oppure con un verbo che esprime un'iniziativa di chi parla, 吧 formula una proposta («…, dai», «facciamo…»):
+
+ex: 我们走**吧**。 | Wǒmen zǒu **ba**. | Andiamo.
+ex: 咱们一起去**吧**！ | Zánmen yìqǐ qù **ba**! | Andiamoci insieme!
+ex: 今天我请客**吧**。 | Jīntiān wǒ qǐng kè **ba**. | Oggi offro io, dai.
+ex: 你还是坐出租车去**吧**。 | Nǐ háishi zuò chūzūchē qù **ba**. | Faresti meglio a prendere un taxi.
+
+### Supposizione
+
+In una domanda, 吧 chiede conferma di ciò che si suppone (vedi il capitolo «Le frasi interrogative»):
+
+ex: 你是学生**吧**？ | Nǐ shì xuésheng **ba**? | Sei uno studente, vero?
+ex: 明天不会下雨**吧**？ | Míngtiān bú huì xià yǔ **ba**? | Domani non pioverà, vero?
+
+### Ordine attenuato
+
+Dopo un imperativo, 吧 lo trasforma in un invito o in un'esortazione cortese:
+
+ex: 你快点儿**吧**！ | Nǐ kuài diǎnr **ba**! | Su, sbrigati!
+ex: 进来**吧**。 | Jìnlai **ba**. | Entra pure.
+ex: 你再想想**吧**。 | Nǐ zài xiǎngxiang **ba**. | Pensaci ancora un po'.
+
+### Consenso
+
+Con 好, 行, 可以, 吧 esprime un consenso, spesso un po' riluttante («e va bene»):
+
+ex: A：我们明天再去吧。B：**好吧**。 | A: Wǒmen míngtiān zài qù ba. B: **Hǎo ba**. | A: Andiamoci domani. B: E va bene.
+ex: **行吧**，就听你的。 | **Xíng ba**, jiù tīng nǐ de. | D'accordo, facciamo come dici tu.
+ex: 那就这样**吧**。 | Nà jiù zhèyàng **ba**. | Allora facciamo così.
+
+### Pausa ed esitazione
+
+A metà frase, 吧 segna una pausa mentre si cerca un esempio o si riflette:
+
+ex: 就拿我来说**吧**，我每天都要工作十个小时。 | Jiù ná wǒ lái shuō **ba**, wǒ měi tiān dōu yào gōngzuò shí ge xiǎoshí. | Prendi me, per esempio: io lavoro dieci ore al giorno.
+ex: 他这个人**吧**，就是有点儿懒。 | Tā zhège rén **ba**, jiù shì yǒudiǎnr lǎn. | Lui, come dire… è un po' pigro.
+
+### Dilemma
+
+Due frasi parallele, una affermativa e una negativa, entrambe seguite da 吧, presentano un dilemma: «se faccio così…, se non faccio così…».
+
+= V + 吧，……；不 + V + 吧，又……
+
+ex: 去**吧**，没时间；不去**吧**，又不好意思。 | Qù **ba**, méi shíjiān; bú qù **ba**, yòu bù hǎoyìsi. | Se ci vado, non ho tempo; se non ci vado, mi sento in imbarazzo.
+ex: 买**吧**，太贵；不买**吧**，又真喜欢。 | Mǎi **ba**, tài guì; bù mǎi **ba**, yòu zhēn xǐhuan. | Comprarlo? Costa troppo. Non comprarlo? Mi piace proprio tanto.

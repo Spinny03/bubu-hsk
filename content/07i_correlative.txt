@@ -1,0 +1,162 @@
+## Altre strutture correlative
+
+In questa sezione si raccolgono alcune strutture correlative molto frequenti, formate da due elementi che «incorniciano» una parola o una proposizione. Molte di esse (对……来说, 在……下, 从……来看) sono composte da una preposizione e da un elemento finale; le altre (越……越……, 一来……二来……) collegano due proposizioni.
+
+### 越……越……
+
+= S + 越 + V/Agg₁ + 越 + Agg/V₂   (più…, più…)
+= S₁ + 越 + V₁，S₂ + 越 + V₂/Agg
+= S + 越来越 + Agg/V   (sempre più)
+
+越……越…… yuè… yuè… indica che una qualità o un'azione cresce in proporzione a un'altra («più…, più…»). 越 è un avverbio: con soggetti diversi, ciascun 越 segue il proprio soggetto. La forma fissa 越来越 yuè lái yuè («sempre più») indica un cambiamento progressivo nel tempo.
+
+ex: 雨**越**下**越**大。 | Yǔ **yuè** xià **yuè** dà. | Piove sempre più forte. (lett. la pioggia più cade più è grande)
+ex: 汉语**越**学**越**有意思。 | Hànyǔ **yuè** xué **yuè** yǒu yìsi. | Più si studia il cinese, più diventa interessante.
+ex: 你**越**着急，**越**容易出错。 | Nǐ **yuè** zháojí, **yuè** róngyì chū cuò. | Più ti agiti, più facilmente sbagli.
+ex: 他**越**说，我**越**糊涂。 | Tā **yuè** shuō, wǒ **yuè** hútu. | Più lui parla, più io mi confondo.
+ex: **越**快**越**好。 | **Yuè** kuài **yuè** hǎo. | Prima è, meglio è.
+ex: 天气**越来越**冷了。 | Tiānqì **yuè lái yuè** lěng le. | Fa sempre più freddo.
+
+no: 天气越来越很冷。 | Tiānqì yuè lái yuè hěn lěng. | Errato: dopo 越来越 non si usano avverbi di grado come 很.
+ex: 天气**越来越**冷了。 | Tiānqì **yuè lái yuè** lěng le. | Fa sempre più freddo.
+no: 越他说，越我糊涂。 | Yuè tā shuō, yuè wǒ hútu. | Errato: 越 è un avverbio e va dopo il soggetto.
+ex: 他**越**说，我**越**糊涂。 | Tā **yuè** shuō, wǒ **yuè** hútu. | Più lui parla, più io mi confondo.
+
+### 一来……二来……
+
+一来……二来…… yìlái… èrlái… («primo…, secondo…»; «da un lato…, dall'altro…») elenca due ragioni o due scopi che si sommano. È tipico del parlato.
+
+ex: 我今天来，**一来**是看看你，**二来**是还你的书。 | Wǒ jīntiān lái, **yìlái** shì kànkan nǐ, **èrlái** shì huán nǐ de shū. | Oggi sono venuto un po' per vederti e un po' per restituirti il libro.
+ex: 我不想去，**一来**太远，**二来**太贵。 | Wǒ bù xiǎng qù, **yìlái** tài yuǎn, **èrlái** tài guì. | Non voglio andarci: primo, è troppo lontano; secondo, costa troppo.
+ex: 骑自行车上班，**一来**可以锻炼身体，**二来**可以保护环境。 | Qí zìxíngchē shàng bān, **yìlái** kěyǐ duànliàn shēntǐ, **èrlái** kěyǐ bǎohù huánjìng. | Andare al lavoro in bicicletta permette da un lato di fare esercizio, dall'altro di proteggere l'ambiente.
+
+### 先……后……
+
+先……后…… xiān… hòu… («prima…, poi…») è la versione compatta e un po' formale di 先……再/然后……; ricorre in molte espressioni di quattro caratteri e nelle istruzioni.
+
+ex: 做练习要**先**易**后**难。 | Zuò liànxí yào **xiān** yì **hòu** nán. | Negli esercizi conviene procedere dal facile al difficile.
+ex: 排队买票，**先**来**后**到。 | Pái duì mǎi piào, **xiān** lái **hòu** dào. | In coda per i biglietti si rispetta l'ordine di arrivo.
+ex: 我们**先**讨论，**后**投票。 | Wǒmen **xiān** tǎolùn, **hòu** tóu piào. | Prima discutiamo, poi votiamo.
+ex: 他**先**在北京工作了两年，**后**去了上海。 | Tā **xiān** zài Běijīng gōngzuò le liǎng nián, **hòu** qù le Shànghǎi. | Prima ha lavorato due anni a Pechino, poi è andato a Shanghai.
+
+### 对……来说
+
+= 对(于) + N + 来说，…
+
+对……来说 duì… lái shuō («per…, dal punto di vista di…») indica la persona o la cosa per cui vale l'affermazione.
+
+ex: **对**我**来说**，汉字比语法难。 | **Duì** wǒ **lái shuō**, Hànzì bǐ yǔfǎ nán. | Per me i caratteri sono più difficili della grammatica.
+ex: **对**孩子**来说**，玩儿也是一种学习。 | **Duì** háizi **lái shuō**, wánr yě shì yì zhǒng xuéxí. | Per i bambini anche giocare è un modo di imparare.
+ex: 这点儿钱**对**他**来说**不算什么。 | Zhè diǎnr qián **duì** tā **lái shuō** bú suàn shénme. | Per lui questi soldi non sono niente.
+
+no: 对我来看，这个问题很简单。 | Duì wǒ lái kàn, zhège wèntí hěn jiǎndān. | Errato: si dice 对……来说 oppure 在……看来.
+ex: **对**我**来说**，这个问题很简单。 | **Duì** wǒ **lái shuō**, zhège wèntí hěn jiǎndān. | Per me questo problema è semplice.
+
+### 拿……来说
+
+= 拿 + N + 来说，…
+
+拿……来说 ná… lái shuō («prendiamo per esempio…») introduce un esempio concreto a sostegno di quanto detto.
+
+ex: **拿**我**来说**，我每天只睡六个小时。 | **Ná** wǒ **lái shuō**, wǒ měi tiān zhǐ shuì liù ge xiǎoshí. | Prendi me, per esempio: dormo solo sei ore per notte.
+ex: 中国菜很丰富，**拿**饺子**来说**，就有几百种馅儿。 | Zhōngguó cài hěn fēngfù, **ná** jiǎozi **lái shuō**, jiù yǒu jǐ bǎi zhǒng xiànr. | La cucina cinese è molto varia: prendiamo i ravioli, esistono centinaia di ripieni diversi.
+
+### 在……看来
+
+= 在 + N/Pron + 看来，…
+
+在……看来 zài… kànlái («secondo…, a giudizio di…») introduce un'opinione.
+
+ex: **在**我**看来**，这个计划不太现实。 | **Zài** wǒ **kànlái**, zhège jìhuà bú tài xiànshí. | A mio avviso, questo progetto non è molto realistico.
+ex: **在**很多外国人**看来**，汉语是最难的语言之一。 | **Zài** hěn duō wàiguórén **kànlái**, Hànyǔ shì zuì nán de yǔyán zhī yī. | Secondo molti stranieri, il cinese è una delle lingue più difficili.
+
+### 在……下
+
+= 在 + (N + 的) + N + 下，…
+
+在……下 zài… xià («sotto, con») indica le circostanze, la guida o l'aiuto grazie a cui avviene qualcosa. Il nome è spesso un verbo bisillabico usato come nome: 帮助, 支持, 领导, 努力, 影响.
+
+ex: **在**老师的帮助**下**，我的成绩提高了很多。 | **Zài** lǎoshī de bāngzhù **xià**, wǒ de chéngjì tígāo le hěn duō. | Con l'aiuto dell'insegnante, i miei voti sono migliorati molto.
+ex: **在**大家的努力**下**，问题终于解决了。 | **Zài** dàjiā de nǔlì **xià**, wèntí zhōngyú jiějué le. | Grazie agli sforzi di tutti, il problema è stato finalmente risolto.
+ex: **在**这种情况**下**，我们只能放弃。 | **Zài** zhè zhǒng qíngkuàng **xià**, wǒmen zhǐ néng fàngqì. | In questa situazione possiamo solo rinunciare.
+
+no: 在老师的帮助，我的成绩提高了。 | Zài lǎoshī de bāngzhù, wǒ de chéngjì tígāo le. | Errato: manca l'elemento finale 下.
+ex: **在**老师的帮助**下**，我的成绩提高了。 | **Zài** lǎoshī de bāngzhù **xià**, wǒ de chéngjì tígāo le. | Con l'aiuto dell'insegnante i miei voti sono migliorati.
+
+### 在……中/上/方面
+
+- **在……中** zài… zhōng: «nel corso di, nell'ambito di» (un processo, un gruppo): 在学习中, 在生活中.
+- **在……上** zài… shang: «quanto a, sul piano di»: 在工作上, 在这个问题上.
+- **在……方面** zài… fāngmiàn: «per quanto riguarda, nel campo di»: 在教育方面.
+
+ex: **在**学习**中**遇到问题，要及时问老师。 | **Zài** xuéxí **zhōng** yùdào wèntí, yào jíshí wèn lǎoshī. | Se nello studio incontri dei problemi, chiedi subito all'insegnante.
+ex: **在**这个问题**上**，我们的看法不一样。 | **Zài** zhège wèntí **shang**, wǒmen de kànfǎ bù yíyàng. | Su questa questione abbiamo opinioni diverse.
+ex: 他**在**工作**上**很认真，**在**生活**上**却很随便。 | Tā **zài** gōngzuò **shang** hěn rènzhēn, **zài** shēnghuó **shang** què hěn suíbiàn. | Nel lavoro è molto scrupoloso, ma nella vita privata è piuttosto disordinato.
+ex: **在**环境保护**方面**，这个城市做得很好。 | **Zài** huánjìng bǎohù **fāngmiàn**, zhège chéngshì zuò de hěn hǎo. | Per quanto riguarda la tutela dell'ambiente, questa città si comporta molto bene.
+
+### 就……而言
+
+= 就 + N + 而言，…
+
+就……而言 jiù… ér yán («per quanto riguarda, in termini di») è l'equivalente scritto di 对……来说 / 从……来看.
+
+ex: **就**价格**而言**，这款手机很有竞争力。 | **Jiù** jiàgé **ér yán**, zhè kuǎn shǒujī hěn yǒu jìngzhēnglì. | Quanto al prezzo, questo modello di cellulare è molto competitivo.
+ex: **就**我个人**而言**，我更喜欢住在小城市。 | **Jiù** wǒ gèrén **ér yán**, wǒ gèng xǐhuan zhù zài xiǎo chéngshì. | Per quanto mi riguarda, preferisco vivere in una piccola città.
+
+### 以……为……
+
+= 以 + A + 为 + B
+
+以……为…… yǐ… wéi… («prendere A come B, considerare A come B») è una struttura scritta di origine classica, molto produttiva in espressioni come 以……为主 («basarsi principalmente su»), 以……为中心, 以……为荣 («essere fieri di»). Vedi anche il capitolo «Registro scritto e registro parlato».
+
+ex: 这家公司**以**上海**为**中心，向全国发展。 | Zhè jiā gōngsī **yǐ** Shànghǎi **wéi** zhōngxīn, xiàng quánguó fāzhǎn. | Quest'azienda ha il suo centro a Shanghai e si espande in tutto il paese.
+ex: 这部小说**以**真实的故事**为**基础。 | Zhè bù xiǎoshuō **yǐ** zhēnshí de gùshi **wéi** jīchǔ. | Questo romanzo si basa su una storia vera.
+ex: 他**以**教书**为**生。 | Tā **yǐ** jiāo shū **wéi** shēng. | Si guadagna da vivere insegnando.
+ex: 父母**以**你**为**荣。 | Fùmǔ **yǐ** nǐ **wéi** róng. | I tuoi genitori sono fieri di te.
+
+### 作为……
+
+= 作为 + N，…
+
+作为 zuòwéi («in quanto, come») indica il ruolo o la qualità in cui qualcuno agisce.
+
+ex: **作为**老师，我们应该关心每一个学生。 | **Zuòwéi** lǎoshī, wǒmen yīnggāi guānxīn měi yí ge xuésheng. | In quanto insegnanti, dobbiamo occuparci di ogni studente.
+ex: **作为**朋友，我得提醒你。 | **Zuòwéi** péngyou, wǒ děi tíxǐng nǐ. | Da amico, devo avvertirti.
+ex: 他**作为**中国代表参加了会议。 | Tā **zuòwéi** Zhōngguó dàibiǎo cānjiā le huìyì. | Ha partecipato alla conferenza come rappresentante della Cina.
+
+### 从……来看
+
+= 从 + N + 来看，…
+
+从……来看 cóng… lái kàn («a giudicare da, dal punto di vista di») indica la base di una valutazione.
+
+ex: **从**他的表情**来看**，他不太满意。 | **Cóng** tā de biǎoqíng **lái kàn**, tā bú tài mǎnyì. | A giudicare dalla sua espressione, non è molto soddisfatto.
+ex: **从**目前的情况**来看**，项目可以按时完成。 | **Cóng** mùqián de qíngkuàng **lái kàn**, xiàngmù kěyǐ ànshí wánchéng. | Stando alla situazione attuale, il progetto potrà essere completato nei tempi previsti.
+ex: **从**长远**来看**，这个投资是值得的。 | **Cóng** chángyuǎn **lái kàn**, zhège tóuzī shì zhíde de. | Nel lungo periodo, questo investimento vale la pena.
+
+### 随着……
+
+= 随着 + N (+ 的 + V)，…
+
+随着 suízhe («con, man mano che, di pari passo con») introduce un cambiamento che ne provoca un altro. La principale contiene spesso 越来越, 不断, 逐渐 o un verbo di cambiamento.
+
+ex: **随着**经济的发展，人们的生活水平不断提高。 | **Suízhe** jīngjì de fāzhǎn, rénmen de shēnghuó shuǐpíng búduàn tígāo. | Con lo sviluppo economico, il tenore di vita della gente migliora costantemente.
+ex: **随着**年龄的增长，他变得越来越成熟了。 | **Suízhe** niánlíng de zēngzhǎng, tā biàn de yuè lái yuè chéngshú le. | Con l'età è diventato sempre più maturo.
+ex: **随着**天气变冷，感冒的人多了起来。 | **Suízhe** tiānqì biàn lěng, gǎnmào de rén duō le qilai. | Con l'arrivo del freddo, sono aumentate le persone raffreddate.
+
+### Riepilogo
+
+| Struttura | Significato | Registro |
+| 越……越…… / 越来越 | più… più… / sempre più | neutro |
+| 一来……二来…… | primo…, secondo… | parlato |
+| 先……后…… | prima…, poi… | formale, espressioni fisse |
+| 对……来说 | per (qualcuno) | neutro |
+| 拿……来说 | prendiamo ad esempio… | parlato |
+| 在……看来 | secondo, a giudizio di | neutro |
+| 从……来看 | a giudicare da | neutro |
+| 在……下 | con (l'aiuto, la guida di) | neutro, scritto |
+| 在……中/上/方面 | in, quanto a, nel campo di | neutro |
+| 就……而言 | per quanto riguarda | scritto |
+| 以……为…… | considerare A come B | scritto |
+| 作为…… | in quanto, come | neutro |
+| 随着…… | con, man mano che | neutro, scritto |

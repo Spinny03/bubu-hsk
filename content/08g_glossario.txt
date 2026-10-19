@@ -1,0 +1,105 @@
+# Glossario della terminologia grammaticale
+
+Il glossario raccoglie i termini grammaticali usati in questo libro, in ordine alfabetico italiano, con il corrispondente termine cinese: conoscerlo è utile per consultare grammatiche, dizionari e libri di testo scritti in cinese.
+
+## A–C
+| Termine | 汉字 | Pinyin | Spiegazione |
+| aggettivo | 形容词 | xíngróngcí | indica qualità o stato; può fare da predicato |
+| aggettivo non predicativo | 区别词 | qūbiécí | usato solo come attributo: 男, 女, 大型 |
+| aspetto | 体 | tǐ | modo di presentare lo svolgimento dell'azione |
+| aspetto durativo | 持续体 | chíxùtǐ | stato o azione che perdura (着) |
+| aspetto esperienziale | 经历体 | jīnglìtǐ | esperienza avvenuta almeno una volta (过) |
+| aspetto perfettivo | 完成体 | wánchéngtǐ | azione vista come compiuta (了) |
+| aspetto progressivo | 进行体 | jìnxíngtǐ | azione in corso (在, 正在) |
+| attributo | 定语 | dìngyǔ | modificatore che precede il nome |
+| avverbiale | 状语 | zhuàngyǔ | modificatore che precede verbo o aggettivo |
+| avverbio | 副词 | fùcí | modifica verbi e aggettivi |
+| avverbio di grado | 程度副词 | chéngdù fùcí | indica l'intensità: 很, 非常, 太 |
+| carattere | 汉字 | Hànzì | segno di scrittura, di norma una sillaba |
+| chengyu | 成语 | chéngyǔ | espressione fissa, di solito di 4 caratteri |
+| classificatore | 量词 | liàngcí | unità di conto tra numerale e nome |
+| classificatore nominale | 名量词 | míngliàngcí | conta persone e cose: 个, 本, 张 |
+| classificatore verbale | 动量词 | dòngliàngcí | conta le azioni: 次, 遍, 下 |
+| complemento | 补语 | bǔyǔ | elemento che segue il verbo e lo completa |
+| complemento di direzione | 趋向补语 | qūxiàng bǔyǔ | direzione del movimento: 进来, 拿出去 |
+| complemento di durata | 时量补语 | shíliàng bǔyǔ | per quanto tempo: 等了一个小时 |
+| complemento di frequenza | 动量补语 | dòngliàng bǔyǔ | quante volte: 去过两次 |
+| complemento di grado | 程度补语 / 情态补语 | chéngdù bǔyǔ / qíngtài bǔyǔ | modo o grado dopo 得: 说得很好 |
+| complemento di risultato | 结果补语 | jiéguǒ bǔyǔ | risultato dell'azione: 看完, 听懂 |
+| complemento potenziale | 可能补语 | kěnéng bǔyǔ | possibilità: 听得懂, 买不到 |
+| congiunzione | 连词 | liáncí | collega parole o frasi: 和, 但是, 因为 |
+| connettivi correlativi | 关联词语 | guānlián cíyǔ | coppie di connettivi: 因为……所以…… |
+! Il «complemento» (补语) della grammatica cinese non corrisponde ai complementi dell'analisi logica italiana: è sempre un elemento che segue il verbo o l'aggettivo e ne precisa risultato, direzione, possibilità, grado o quantità.
+
+## D–O
+| Termine | 汉字 | Pinyin | Spiegazione |
+| domanda affermativo-negativa | 正反问句 | zhèngfǎn wènjù | domanda del tipo V不V: 去不去？ |
+| domanda alternativa | 选择问句 | xuǎnzé wènjù | domanda del tipo A 还是 B？ |
+| domanda retorica | 反问句 | fǎnwènjù | domanda che presuppone la risposta |
+| durata | 时段 | shíduàn | quantità di tempo: 两个小时 |
+| enfasi | 强调 | qiángdiào | messa in rilievo di un elemento |
+| espressione di tempo | 时间词 | shíjiāncí | indica il tempo: 今天, 以前, 三点 |
+| finale | 韵母 | yùnmǔ | parte della sillaba dopo l'iniziale |
+| frase a perno | 兼语句 | jiānyǔjù | un nome è oggetto di V1 e soggetto di V2 |
+| frase a verbi in serie | 连动句 | liándòngjù | più verbi in fila con lo stesso soggetto |
+| frase comparativa | 比较句 | bǐjiàojù | frase di paragone: 比, 跟……一样 |
+| frase complessa | 复句 | fùjù | frase formata da più proposizioni |
+| frase con 把 | 把字句 | bǎzìjù | l'oggetto è anticipato da 把 |
+| frase con 是……的 | “是……的”句 | shì…de jù | mette in rilievo tempo, luogo, modo |
+| frase esclamativa | 感叹句 | gǎntànjù | esprime un'emozione forte |
+| frase esistenziale | 存现句 | cúnxiànjù | esistenza, comparsa, scomparsa |
+| frase imperativa | 祈使句 | qíshǐjù | ordine, richiesta, divieto |
+| frase interrogativa | 疑问句 | yíwènjù | frase che pone una domanda |
+| frase passiva | 被动句 | bèidòngjù | il soggetto subisce l'azione: 被, 叫, 让 |
+| frase semplice | 单句 | dānjù | frase con un solo nucleo predicativo |
+| iniziale | 声母 | shēngmǔ | consonante a inizio sillaba |
+| interiezione | 叹词 | tàncí | parola esclamativa: 啊, 哎, 哇 |
+| lingua parlata | 口语 | kǒuyǔ | registro della conversazione |
+| lingua scritta | 书面语 | shūmiànyǔ | registro dei testi formali |
+| morfema | 语素 | yǔsù | minima unità dotata di significato |
+| negazione | 否定 | fǒudìng | espressa con 不, 没, 别 |
+| nome (sostantivo) | 名词 | míngcí | indica persone, cose, concetti |
+| numerale | 数词 | shùcí | parola che indica un numero |
+| oggetto | 宾语 | bīnyǔ | elemento retto dal verbo, che lo segue |
+| onomatopea | 拟声词 | nǐshēngcí | parola che imita un suono: 哈哈, 汪汪 |
+| ordinale | 序数词 | xùshùcí | numero d'ordine: 第一, 第二 |
+
+## P–Z
+| Termine | 汉字 | Pinyin | Spiegazione |
+| parola | 词 | cí | minima unità libera del lessico |
+| parola composta | 复合词 | fùhécí | formata da due o più morfemi: 电脑 |
+| parola di localizzazione | 方位词 | fāngwèicí | indica una posizione: 上, 里, 前边 |
+| parola funzionale | 虚词 | xūcí | particelle, preposizioni, congiunzioni… |
+| parola piena | 实词 | shící | con significato lessicale: nomi, verbi… |
+| particella | 助词 | zhùcí | parola atona con funzione grammaticale |
+| particella aspettuale | 动态助词 | dòngtài zhùcí | indica l'aspetto: 了, 着, 过 |
+| particella modale | 语气助词 | yǔqì zhùcí | a fine frase, indica il tono: 吗, 呢, 吧 |
+| particella strutturale | 结构助词 | jiégòu zhùcí | lega gli elementi: 的, 地, 得 |
+| pinyin | 拼音 | pīnyīn | trascrizione ufficiale in alfabeto latino |
+| predicato | 谓语 | wèiyǔ | ciò che si dice del soggetto |
+| prefisso | 前缀 | qiánzhuì | affisso iniziale: 老, 第, 初 |
+| preposizione | 介词 | jiècí | introduce un nome prima del verbo: 在, 从, 给 |
+| pronome | 代词 | dàicí | parola che sostituisce un nome |
+| pronome dimostrativo | 指示代词 | zhǐshì dàicí | 这, 那 e derivati |
+| pronome interrogativo | 疑问代词 | yíwèn dàicí | 谁, 什么, 哪儿, 怎么 |
+| pronome personale | 人称代词 | rénchēng dàicí | 我, 你, 他, 我们… |
+| proposizione | 分句 | fēnjù | ciascuna parte di una frase complessa |
+| punto nel tempo | 时点 | shídiǎn | momento preciso: 八点, 昨天 |
+| radicale | 部首 | bùshǒu | componente usato per ordinare i caratteri |
+| reduplicazione | 重叠 | chóngdié | ripetizione di una parola: 看看, 高高兴兴 |
+| registro | 语体 | yǔtǐ | varietà d'uso: parlato o scritto |
+| retroflessione (儿化) | 儿化 | érhuà | aggiunta della -r finale: 哪儿, 一点儿 |
+| sandhi tonale | 变调 | biàndiào | cambiamento di tono nel contesto: 你好, 不是 |
+| sillaba | 音节 | yīnjié | iniziale + finale + tono |
+| soggetto | 主语 | zhǔyǔ | elemento di cui si parla, prima del predicato |
+| suffisso | 后缀 | hòuzhuì | affisso finale: 们, 子, 头 |
+| tema / commento | 话题 / 述题 | huàtí / shùtí | ciò di cui si parla e ciò che se ne dice |
+| tono | 声调 | shēngdiào | andamento della voce che distingue le sillabe |
+| tono neutro | 轻声 | qīngshēng | sillaba atona, breve, senza tono proprio |
+| tratto | 笔画 | bǐhuà | segno elementare della scrittura |
+| verbo | 动词 | dòngcí | indica azioni, processi, stati |
+| verbo a doppio oggetto | 双宾语动词 | shuāngbīnyǔ dòngcí | regge persona e cosa: 给, 教, 告诉 |
+| verbo intransitivo | 不及物动词 | bù jíwù dòngcí | verbo senza oggetto: 休息, 出发 |
+| verbo modale | 能愿动词 | néngyuàn dòngcí | capacità, volontà, dovere: 会, 能, 要 |
+| verbo separabile | 离合词 | líhécí | verbo + oggetto separabili: 见面, 睡觉 |
+| verbo transitivo | 及物动词 | jíwù dòngcí | verbo con oggetto: 吃, 看, 买 |

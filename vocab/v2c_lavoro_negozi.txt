@@ -1,0 +1,61 @@
+@ Lavoro e professioni | 💼
+工作 | gōngzuò | lavoro; lavorare | 💼 | 1
+上班 | shàngbān | andare al lavoro | - | 2
+下班 | xiàbān | staccare dal lavoro | - | 2
+公司 | gōngsī | ditta, azienda (家) | - | 2
+忙 | máng | occupato, impegnato | - | 2
+办公室 | bàngōngshì | ufficio | - | 3
+同事 | tóngshì | collega | - | 3
+经理 | jīnglǐ | direttore, manager | - | 3
+司机 | sījī | autista | - | 3
+会议 | huìyì | riunione | - | 3
+开会 | kāihuì | fare una riunione | - | 3
+请假 | qǐngjià | chiedere un permesso | - | 3
+机会 | jīhuì | occasione, opportunità | - | 3
+老板 | lǎobǎn | capo, padrone | - | 4
+警察 | jǐngchá | poliziotto | 👮 | 4
+律师 | lǜshī | avvocato | 🧑‍⚖️ | 4
+工人 | gōngrén | operaio | 👷 | 4
+农民 | nóngmín | contadino | 🧑‍🌾 | 4
+记者 | jìzhě | giornalista | - | 4
+演员 | yǎnyuán | attore | 🎭 | 4
+作家 | zuòjiā | scrittore | - | 4
+科学家 | kēxuéjiā | scienziato | 🧑‍🔬 | 4
+工程师 | gōngchéngshī | ingegnere | - | 4
+工资 | gōngzī | stipendio | - | 4
+职业 | zhíyè | professione | - | 4
+面试 | miànshì | colloquio di lavoro | - | 4
+经验 | jīngyàn | esperienza | - | 4
+加班 | jiābān | fare gli straordinari | - | 4
+@ Negozi, soldi e acquisti | 🛍️
+买 | mǎi | comprare | - | 1
+多少钱 | duōshao qián | quanto costa? | - | 1
+商店 | shāngdiàn | negozio (家) | 🏪 | 1
+卖 | mài | vendere | - | 2
+贵 | guì | caro | - | 2
+便宜 | piányi | economico | - | 2
+新 | xīn | nuovo | 🆕 | 2
+开门 | kāi mén | aprire | - | 2
+元 | yuán | yuan | - | 3
+人民币 | rénmínbì | renminbi | 💴 | 4
+超市 | chāoshì | supermercato (家) | 🛒 | 3
+银行 | yínháng | banca (家) | 🏦 | 3
+信用卡 | xìnyòngkǎ | carta di credito (张) | 💳 | 3
+旧 | jiù | vecchio (di cose) | - | 3
+关门 | guān mén | chiudere | - | 3
+借 | jiè | prestare, prendere in prestito | - | 3
+还 | huán | restituire | - | 3
+商场 | shāngchǎng | centro commerciale (家) | 🏬 | 4
+市场 | shìchǎng | mercato | - | 4
+书店 | shūdiàn | libreria (家) | - | 4
+毛 | máo | 10 centesimi di yuan (coll.) | - | 4
+价格 | jiàgé | prezzo | 🏷️ | 4
+打折 | dǎzhé | fare lo sconto | - | 4
+付钱 | fù qián | pagare | - | 4
+现金 | xiànjīn | contanti | 💵 | 4
+找钱 | zhǎo qián | dare il resto | - | 4
+换钱 | huàn qián | cambiare soldi | - | 4
+排队 | páiduì | fare la fila | - | 4
+顾客 | gùkè | cliente | - | 4
+售货员 | shòuhuòyuán | commesso | - | 4
+质量 | zhìliàng | qualità | - | 4

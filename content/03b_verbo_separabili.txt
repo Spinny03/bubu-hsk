@@ -1,0 +1,163 @@
+## I verbi separabili (离合词)
+
+I verbi separabili (离合词 líhécí, lett. «parole che si separano e si riuniscono») sono verbi bisillabici formati, in origine, da un verbo + il suo oggetto: in 睡觉 shuìjiào «dormire» 睡 è «dormire» e 觉 è «il sonno»; in 见面 jiànmiàn «incontrarsi» 见 è «vedere» e 面 è «la faccia». Quando le due sillabe sono unite si comportano come un'unica parola, ma tra di esse si possono inserire particelle aspettuali, complementi, espressioni di quantità e attributi, proprio come tra un verbo e il suo oggetto.
+
+Dalla loro struttura deriva anche la regola più importante: poiché la seconda sillaba è già un oggetto, i verbi separabili non possono reggere un altro oggetto diretto.
+
+= V + 了/过/着 + O
+= V + durata / frequenza + (的) + O
+= V + (一/这/那) + CL + O
+= V + persona + 的 + O
+= V + complemento + O
+
+| Verbo | Pinyin | Significato | Forma separata | Pinyin |
+| 睡觉 | shuìjiào | dormire | 睡了一觉 | shuì le yí jiào |
+| 见面 | jiànmiàn | incontrarsi | 见过一次面 | jiàn guo yí cì miàn |
+| 帮忙 | bāngmáng | aiutare | 帮我一个忙 | bāng wǒ yí ge máng |
+| 结婚 | jiéhūn | sposarsi | 结过两次婚 | jié guo liǎng cì hūn |
+| 离婚 | líhūn | divorziare | 离了婚 | lí le hūn |
+| 游泳 | yóuyǒng | nuotare | 游了一会儿泳 | yóu le yíhuìr yǒng |
+| 跑步 | pǎobù | correre | 跑完步 | pǎowán bù |
+| 唱歌 | chàng gē | cantare | 唱了一首歌 | chàng le yì shǒu gē |
+| 跳舞 | tiàowǔ | ballare | 跳个舞 | tiào ge wǔ |
+| 洗澡 | xǐzǎo | lavarsi, fare la doccia | 洗个澡 | xǐ ge zǎo |
+| 生气 | shēngqì | arrabbiarsi | 生他的气 | shēng tā de qì |
+| 考试 | kǎoshì | sostenere un esame | 考完试 | kǎowán shì |
+| 毕业 | bìyè | diplomarsi, laurearsi | 毕了业 | bì le yè |
+| 请假 | qǐngjià | chiedere un permesso | 请了三天假 | qǐng le sān tiān jià |
+| 上课 | shàngkè | fare lezione | 上了两节课 | shàng le liǎng jié kè |
+| 下班 | xiàbān | finire il lavoro | 下了班 | xià le bān |
+| 上班 | shàngbān | andare al lavoro | 上了一天班 | shàng le yì tiān bān |
+| 吃饭 | chī fàn | mangiare | 吃过饭 | chī guo fàn |
+| 说话 | shuōhuà | parlare | 说了几句话 | shuō le jǐ jù huà |
+| 聊天(儿) | liáotiān(r) | chiacchierare | 聊了一会儿天 | liáo le yíhuìr tiān |
+| 散步 | sànbù | passeggiare | 散了一会儿步 | sàn le yíhuìr bù |
+| 照相 | zhàoxiàng | fare fotografie | 照几张相 | zhào jǐ zhāng xiàng |
+| 理发 | lǐfà | tagliarsi i capelli | 理个发 | lǐ ge fà |
+| 排队 | páiduì | fare la fila | 排了半天队 | pái le bàntiān duì |
+| 打针 | dǎzhēn | fare un'iniezione | 打了两次针 | dǎ le liǎng cì zhēn |
+| 开会 | kāihuì | fare una riunione | 开了一上午会 | kāi le yí shàngwǔ huì |
+| 上网 | shàngwǎng | navigare in internet | 上了一会儿网 | shàng le yíhuìr wǎng |
+| 起床 | qǐchuáng | alzarsi dal letto | 起不了床 | qǐ bu liǎo chuáng |
+| 放假 | fàngjià | essere in vacanza | 放三天假 | fàng sān tiān jià |
+| 加班 | jiābān | fare gli straordinari | 加了三天班 | jiā le sān tiān bān |
+| 出差 | chūchāi | andare in trasferta | 出了一趟差 | chū le yí tàng chāi |
+| 道歉 | dàoqiàn | chiedere scusa | 道个歉 | dào ge qiàn |
+| 吵架 | chǎojià | litigare | 吵了一架 | chǎo le yí jià |
+| 发烧 | fāshāo | avere la febbre | 发了三天烧 | fā le sān tiān shāo |
+| 做梦 | zuòmèng | sognare | 做了一个梦 | zuò le yí ge mèng |
+| 握手 | wòshǒu | stringersi la mano | 握了握手 | wò le wò shǒu |
+
+! In pinyin i verbi separabili si scrivono uniti quando le due sillabe sono vicine (shuìjiào) e staccati quando sono separate (shuì le yí jiào). Combinazioni come 吃饭 chī fàn e 唱歌 chàng gē, che si comportano allo stesso modo ma sono considerate gruppi liberi verbo + oggetto, si scrivono sempre staccate. Nei dizionari cinesi i verbi separabili sono segnalati da una doppia barretta fra le due sillabe (shuì//jiào).
+
+### Le particelle aspettuali 了, 过, 着
+
+Le particelle aspettuali si inseriscono subito dopo la prima sillaba, cioè dopo la parte verbale.
+
+ex: 我们**见过**面。 | Wǒmen **jiàn guo** miàn. | Ci siamo già incontrati.
+ex: 他**结了**婚以后就搬走了。 | Tā **jié le** hūn yǐhòu jiù bānzǒu le. | Dopo essersi sposato si è trasferito.
+ex: 你**洗了**澡再睡吧。 | Nǐ **xǐ le** zǎo zài shuì ba. | Fatti la doccia prima di andare a dormire.
+ex: 她还**生着**气呢，别去找她。 | Tā hái **shēng zhe** qì ne, bié qù zhǎo tā. | È ancora arrabbiata, non andarla a cercare.
+
+no: 我们见面过。 | Wǒmen jiànmiàn guo. | Errato: 过 va inserito dopo 见.
+ex: 我们**见过面**。 | Wǒmen **jiàn guo miàn**. | Ci siamo già incontrati.
+
+! Il 了 di fine frase, che segnala un cambiamento di situazione, si mette invece dopo l'intera parola: 他们结婚了。«Si sono sposati.» 我们下课了。«La lezione è finita.» (vedi il capitolo «La particella 了»).
+
+### Durata e frequenza
+
+Le espressioni di durata e di frequenza (vedi il capitolo «I complementi di quantità») si inseriscono tra le due sillabe, spesso seguite da 的. In alternativa si può ripetere la parte verbale: V + O + V + 了 + durata.
+
+ex: 我昨天**睡了八个小时的觉**。 | Wǒ zuótiān **shuì le bā ge xiǎoshí de jiào**. | Ieri ho dormito otto ore.
+ex: 我们**见过两次面**。 | Wǒmen **jiàn guo liǎng cì miàn**. | Ci siamo visti due volte.
+ex: 昨天我们**开了三个小时的会**。 | Zuótiān wǒmen **kāi le sān ge xiǎoshí de huì**. | Ieri abbiamo fatto una riunione di tre ore.
+ex: 我**请了两天假**。 | Wǒ **qǐng le liǎng tiān jià**. | Ho chiesto due giorni di permesso.
+ex: 我们**聊了一晚上的天**。 | Wǒmen **liáo le yì wǎnshang de tiān**. | Abbiamo chiacchierato tutta la sera.
+ex: 我**睡觉睡了**八个小时。 | Wǒ **shuìjiào shuì le** bā ge xiǎoshí. | Ho dormito otto ore. (con ripetizione del verbo)
+
+no: 我睡觉了八个小时。 | Wǒ shuìjiào le bā ge xiǎoshí. | Errato: la durata non può seguire l'intero verbo separabile.
+ex: 我**睡了八个小时的觉**。 | Wǒ **shuì le bā ge xiǎoshí de jiào**. | Ho dormito otto ore.
+
+### Classificatori e attributi
+
+Tra le due sillabe si può inserire un classificatore, spesso il generico 个 ge con 一 sottinteso: questa forma dà all'azione un tono leggero e informale («farsi una doccia», «fare un salto da qualcuno»). Si possono inserire anche aggettivi e attributi con 的, compresi i pronomi personali.
+
+ex: 我先**洗个澡**。 | Wǒ xiān **xǐ ge zǎo**. | Prima mi faccio una doccia.
+ex: 祝你**睡个好觉**！ | Zhù nǐ **shuì ge hǎo jiào**! | Dormi bene! (lett. ti auguro di dormire un buon sonno)
+ex: 我们找个时间**见个面**吧。 | Wǒmen zhǎo ge shíjiān **jiàn ge miàn** ba. | Troviamo un momento per vederci.
+ex: 你能**帮我一个忙**吗？ | Nǐ néng **bāng wǒ yí ge máng** ma? | Puoi farmi un favore?
+ex: 你别**生他的气**了。 | Nǐ bié **shēng tā de qì** le. | Non essere più arrabbiato con lui.
+ex: 这次你**帮了我的大忙**。 | Zhè cì nǐ **bāng le wǒ de dà máng**. | Questa volta mi hai fatto un enorme favore.
+ex: 我们**上**王老师**的课**。 | Wǒmen **shàng** Wáng lǎoshī **de kè**. | Seguiamo le lezioni del professor Wang.
+
+### I complementi
+
+I complementi di risultato e i complementi potenziali si attaccano alla parte verbale e precedono la seconda sillaba (vedi i capitoli «Il complemento di risultato» e «Il complemento potenziale»).
+
+ex: **考完试**我们去旅行吧。 | **Kǎowán shì** wǒmen qù lǚxíng ba. | Finiti gli esami, andiamo in viaggio.
+ex: 他**吃完饭**就走了。 | Tā **chīwán fàn** jiù zǒu le. | Finito di mangiare, se n'è andato.
+ex: 我昨天晚上**睡不着觉**。 | Wǒ zuótiān wǎnshang **shuì bu zháo jiào**. | Ieri sera non riuscivo a prendere sonno.
+ex: 他这样下去会**毕不了业**的。 | Tā zhèyàng xiàqu huì **bì bu liǎo yè** de. | Se continua così, non riuscirà a laurearsi.
+
+no: 他睡觉不着。 | Tā shuìjiào bu zháo. | Errato: il complemento si inserisce dopo 睡.
+ex: 他**睡不着觉**。 | Tā **shuì bu zháo jiào**. | Non riesce a prendere sonno.
+
+### Le parole interrogative
+
+Anche 什么 shénme si può inserire tra le due sillabe; spesso la domanda è retorica ed esprime disapprovazione.
+
+ex: 你**生什么气**啊？ | Nǐ **shēng shénme qì** a? | Ma perché ti arrabbi?
+ex: 我能**帮**你**什么忙**吗？ | Wǒ néng **bāng** nǐ **shénme máng** ma? | Posso aiutarti in qualcosa?
+
+### La persona coinvolta
+
+Per indicare la persona con cui o per cui si compie l'azione ci sono due possibilità: introdurla con una preposizione (跟, 给, 向, 对…) davanti al verbo, oppure inserirla tra le due sillabe, da sola o seguita da 的.
+
+= S + 跟/给/向 + persona + V + O
+= S + V + persona + (的) + (Num + CL) + O
+
+ex: 我想**跟你见**个**面**。 | Wǒ xiǎng **gēn nǐ jiàn** ge **miàn**. | Vorrei incontrarti.
+ex: 他下个月**跟**玛丽亚**结婚**。 | Tā xià ge yuè **gēn** Mǎlìyà **jiéhūn**. | Il mese prossimo sposa Maria.
+ex: 护士正在**给**病人**打针**。 | Hùshi zhèngzài **gěi** bìngrén **dǎzhēn**. | L'infermiera sta facendo un'iniezione al paziente.
+ex: 我要**跟**老师**请**两天**假**。 | Wǒ yào **gēn** lǎoshī **qǐng** liǎng tiān **jià**. | Devo chiedere all'insegnante due giorni di permesso.
+ex: 我只**见**过**他**一**面**。 | Wǒ zhǐ **jiàn** guo **tā** yí **miàn**. | L'ho visto una volta sola.
+
+no: 我昨天见面他了。 | Wǒ zuótiān jiànmiàn tā le. | Errato: 见面 non regge un oggetto diretto.
+ex: 我昨天**跟他见面**了。 | Wǒ zuótiān **gēn tā jiànmiàn** le. | Ieri l'ho incontrato.
+no: 你能帮忙我吗？ | Nǐ néng bāngmáng wǒ ma? | Errato: 帮忙 non regge un oggetto diretto.
+ex: 你能**帮我的忙**吗？ | Nǐ néng **bāng wǒ de máng** ma? | Puoi aiutarmi?
+no: 他想结婚她。 | Tā xiǎng jiéhūn tā. | Errato: 结婚 non regge un oggetto diretto.
+ex: 他想**跟她结婚**。 | Tā xiǎng **gēn tā jiéhūn**. | Vuole sposarla.
+no: 他生气我了。 | Tā shēngqì wǒ le. | Errato: 生气 non regge un oggetto diretto.
+ex: 他**生我的气**了。 | Tā **shēng wǒ de qì** le. | Si è arrabbiato con me.
+ex: 他**对我很生气**。 | Tā **duì wǒ hěn shēngqì**. | È molto arrabbiato con me.
+
+! Molti verbi separabili hanno un corrispondente monosillabico transitivo, che regge normalmente un oggetto: 帮 bāng «aiutare» (帮帮我), 见 jiàn «vedere, incontrare» (我想见你), 考 kǎo «esaminare» (明天考数学), 聊 liáo «chiacchierare di» (我们聊聊工作吧). Per un italiano è spesso la soluzione più semplice: 你能帮帮我吗？«Puoi aiutarmi?»
+
+### La reduplicazione AAB
+
+I verbi separabili si reduplicano ripetendo solo la prima sillaba: A + A + B. Il significato è quello della reduplicazione verbale (azione breve, rilassata; vedi la sezione «La reduplicazione del verbo»).
+
+= A + A + B
+
+ex: 吃完饭我们去**散散步**吧。 | Chīwán fàn wǒmen qù **sànsan bù** ba. | Dopo cena andiamo a fare due passi.
+ex: 周末我喜欢跟朋友**聊聊天**、**喝喝茶**。 | Zhōumò wǒ xǐhuan gēn péngyou **liáoliao tiān**, **hēhe chá**. | Nel fine settimana mi piace chiacchierare e bere un tè con gli amici.
+ex: 你太累了，**洗洗澡**早点儿睡吧。 | Nǐ tài lèi le, **xǐxi zǎo** zǎo diǎnr shuì ba. | Sei stanchissimo: fatti una doccia e vai a letto presto.
+ex: **帮帮忙**吧！ | **Bāngbang máng** ba! | Dai, dammi una mano!
+
+no: 我们散步散步吧。 | Wǒmen sànbù sànbù ba. | Errato: i verbi separabili si reduplicano nella forma AAB.
+ex: 我们**散散步**吧。 | Wǒmen **sànsan bù** ba. | Facciamo due passi.
+
+### Casi particolari
+
+- 担心 dānxīn «preoccuparsi» e 放心 fàngxīn «stare tranquillo», pur avendo la struttura V + O, possono reggere un oggetto (una persona, una cosa o un'intera frase). Nel parlato si possono anche separare: 你担什么心？«Di che ti preoccupi?» Lo stesso vale per 关心 guānxīn «interessarsi a» e 注意 zhùyì «fare attenzione a».
+
+ex: 妈妈总是**担心我**。 | Māma zǒngshì **dānxīn wǒ**. | La mamma si preoccupa sempre per me.
+ex: 我**不放心**你一个人回家。 | Wǒ **bú fàngxīn** nǐ yí ge rén huí jiā. | Non sono tranquillo se torni a casa da solo.
+ex: 你应该多**关心**别人。 | Nǐ yīnggāi duō **guānxīn** biérén. | Dovresti interessarti di più agli altri.
+
+- 毕业 bìyè non regge il nome della scuola come oggetto. Nella lingua scritta si usa 毕业于 bìyè yú «laurearsi presso»; nel parlato si dice 从 + scuola + 毕业 oppure si usa la costruzione 是……的.
+
+no: 他毕业北京大学。 | Tā bìyè Běijīng Dàxué. | Errato: 毕业 non regge un oggetto diretto.
+ex: 他**毕业于**北京大学。 | Tā **bìyè yú** Běijīng Dàxué. | Si è laureato all'Università di Pechino. (scritto)
+ex: 他是**从**北京大学**毕业**的。 | Tā shì **cóng** Běijīng Dàxué **bìyè** de. | Si è laureato all'Università di Pechino. (parlato)

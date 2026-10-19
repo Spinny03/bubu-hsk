@@ -1,0 +1,157 @@
+## Quando non si usa 了
+
+Molte frasi riferite al passato non vogliono 了. Ecco i casi principali; molti corrispondono a contesti in cui l'italiano userebbe l'imperfetto.
+
+### Azioni abituali nel passato
+
+Le abitudini passate, soprattutto con 常常, 经常, 每天, 总是, 一直, non prendono 了.
+
+no: 以前我常常去了那儿。 | Yǐqián wǒ chángcháng qù le nàr. | Errato: un'azione abituale non prende 了.
+ex: 以前我**常常**去那儿。 | Yǐqián wǒ **chángcháng** qù nàr. | Prima ci andavo spesso.
+ex: 小时候他**每天**都跟爷爷去公园。 | Xiǎo shíhou tā **měi tiān** dōu gēn yéye qù gōngyuán. | Da piccolo andava ogni giorno al parco con il nonno.
+ex: 那时候她**总是**第一个到办公室。 | Nà shíhou tā **zǒngshì** dì-yī ge dào bàngōngshì. | A quel tempo arrivava sempre per prima in ufficio.
+
+no: 他每天都喝了咖啡。 | Tā měi tiān dōu hē le kāfēi. | Errato: con 每天 non si usa 了.
+ex: 他每天都喝咖啡。 | Tā měi tiān dōu hē kāfēi. | Beve caffè tutti i giorni.
+
+! Eccezione: nelle sequenze di due azioni, 了₁ sul primo verbo è possibile anche con le abitudini, perché indica solo che la prima azione precede la seconda: 他每天下了班就去健身房。«Ogni giorno, appena finito il lavoro, va in palestra.»
+
+### Verbi di stato e verbi psicologici
+
+I verbi che non descrivono un'azione ma uno stato, come 是, 在, 有 (nel senso di «possedere»), 像, 姓, 叫, 知道, 认识, 觉得, 认为, 希望, 需要, 喜欢, 爱, non prendono 了₁ quando descrivono uno stato passato.
+
+no: 我昨天觉得了很累。 | Wǒ zuótiān juéde le hěn lèi. | Errato: 觉得 descrive uno stato e non prende 了.
+ex: 我昨天**觉得**很累。 | Wǒ zuótiān **juéde** hěn lèi. | Ieri mi sentivo molto stanco.
+ex: 他小时候很**像**他爸爸。 | Tā xiǎo shíhou hěn **xiàng** tā bàba. | Da piccolo somigliava molto a suo padre.
+ex: 那时候我**在**北京，不**在**上海。 | Nà shíhou wǒ **zài** Běijīng, bú **zài** Shànghǎi. | In quel periodo ero a Pechino, non a Shanghai.
+ex: 我爷爷以前**是**中学老师。 | Wǒ yéye yǐqián **shì** zhōngxué lǎoshī. | Mio nonno era un insegnante di scuola media.
+
+! Questi verbi possono però prendere 了₂ per indicare un cambiamento: 他是大学生了 «ormai è universitario», 我知道了 «ho capito / ora lo so».
+
+### Verbi che introducono una frase
+
+I verbi che reggono un'intera frase, come 说, 告诉, 问, 觉得, 认为, 以为, 希望, 决定, 发现, 听说, non prendono 了 prima della frase che introducono.
+
+no: 他说了他明天来。 | Tā shuō le tā míngtiān lái. | Errato: 了 non si mette su un verbo che introduce una frase.
+ex: 他**说**他明天来。 | Tā **shuō** tā míngtiān lái. | Ha detto che viene domani.
+ex: 老师**告诉**我们明天不上课。 | Lǎoshī **gàosu** wǒmen míngtiān bú shàngkè. | L'insegnante ci ha detto che domani non c'è lezione.
+ex: 我们**决定**下个月去西安。 | Wǒmen **juédìng** xià ge yuè qù Xī'ān. | Abbiamo deciso di andare a Xi'an il mese prossimo.
+
+Lo stesso vale per 开始 seguito da un verbo: 了 va in fondo alla frase.
+
+no: 他开始了学汉语。 | Tā kāishǐ le xué Hànyǔ. | Errato: con 开始 + verbo, 了 va in fondo.
+ex: 他去年**开始**学汉语**了**。 | Tā qùnián **kāishǐ** xué Hànyǔ **le**. | L'anno scorso ha cominciato a studiare cinese.
+
+### Le frasi con 是……的
+
+La costruzione 是……的, che mette in rilievo una circostanza di un'azione passata, esclude 了 (vedi il capitolo «La costruzione 是……的»).
+
+no: 我是昨天来了的。 | Wǒ shì zuótiān lái le de. | Errato: dentro 是……的 non si usa 了.
+ex: 我**是**昨天来**的**。 | Wǒ **shì** zuótiān lái **de**. | Sono arrivato ieri.
+
+### Il primo verbo di una serie
+
+Nelle frasi a verbi in serie (连动句 liándòngjù) il primo verbo indica di solito il movimento, il mezzo o il modo; 了₁ va sul verbo principale, che è l'ultimo. In alternativa si mette 了₂ in fondo alla frase (vedi il capitolo «Le frasi a verbi in serie»).
+
+no: 我去了商店买东西。 | Wǒ qù le shāngdiàn mǎi dōngxi. | Errato: 了 non va sul primo verbo della serie.
+ex: 我去商店买**了**一些东西。 | Wǒ qù shāngdiàn mǎi **le** yìxiē dōngxi. | Sono andato al negozio e ho comprato alcune cose.
+ex: 我去商店买东西**了**。 | Wǒ qù shāngdiàn mǎi dōngxi **le**. | Sono andato al negozio a fare acquisti.
+ex: 他坐飞机去**了**上海。 | Tā zuò fēijī qù **le** Shànghǎi. | È andato a Shanghai in aereo.
+ex: 朋友请我吃**了**一顿饭。 | Péngyou qǐng wǒ chī **le** yí dùn fàn. | Un amico mi ha offerto un pranzo.
+
+### Descrizioni di situazioni passate
+
+Le descrizioni di luoghi, persone e situazioni passate, che fanno da sfondo a un racconto, non vogliono 了: l'italiano userebbe l'imperfetto.
+
+ex: 那天天气很好，街上人很多。 | Nà tiān tiānqì hěn hǎo, jiē shang rén hěn duō. | Quel giorno il tempo era bello e per strada c'era molta gente.
+ex: 小时候我家很穷，房子也很小。 | Xiǎo shíhou wǒ jiā hěn qióng, fángzi yě hěn xiǎo. | Quando ero piccolo la mia famiglia era molto povera e anche la casa era piccola.
+ex: 他年轻的时候身体非常好。 | Tā niánqīng de shíhou shēntǐ fēicháng hǎo. | Da giovane godeva di ottima salute.
+
+### Altri casi
+
+- Con l'aspetto progressivo 了 non si usa: si dice semplicemente 他在看书 «sta leggendo» (vedi il capitolo «Azione in corso e stato continuato: 在, 正在, 着»).
+- Nelle relative con 的, di norma 了 si omette: 我昨天买的书 «il libro che ho comprato ieri».
+- Nella negazione con 没: 我没去 (vedi «La negazione: 没(有)»).
+
+## Azioni imminenti: 要……了, 快……了, 快要……了, 就要……了
+
+Per dire che un'azione o un cambiamento sta per avvenire si usano quattro strutture, tutte chiuse da 了₂. Corrispondono all'italiano «stare per…», «tra poco…», «quasi…».
+
+= (S) + 要 + V + 了
+= (S) + 快 + V / Agg / Num + 了
+= (S) + 快要 + V + 了
+= (S) + (Tempo) + 就要 + V + 了
+
+ex: 火车**要**开**了**。 | Huǒchē **yào** kāi **le**. | Il treno sta per partire.
+ex: 天**要**黑**了**，我们快回去吧。 | Tiān **yào** hēi **le**, wǒmen kuài huíqu ba. | Sta per fare buio, sbrighiamoci a tornare.
+ex: **快**下雨**了**。 | **Kuài** xià yǔ **le**. | Sta per piovere.
+ex: 我**快**三十岁**了**。 | Wǒ **kuài** sānshí suì **le**. | Ho quasi trent'anni.
+ex: **快**十二点**了**，该睡觉了。 | **Kuài** shí'èr diǎn **le**, gāi shuìjiào le. | È quasi mezzanotte, è ora di andare a dormire.
+ex: 我们**快要**毕业**了**。 | Wǒmen **kuàiyào** bìyè **le**. | Stiamo per laurearci.
+ex: **明天就要**考试**了**，你准备好了吗？ | **Míngtiān jiù yào** kǎoshì **le**, nǐ zhǔnbèi hǎo le ma? | Domani c'è già l'esame, sei pronto?
+ex: 他**下个星期就要**回国**了**。 | Tā **xià ge xīngqī jiù yào** huí guó **le**. | La settimana prossima torna già nel suo paese.
+
+### Le differenze
+
+- 要……了 è la forma più neutra; ammette un'espressione di tempo (他明天要走了).
+- 快……了 indica una grande vicinanza ed è la forma più usata con numeri e nomi (快十点了, 快春节了); non ammette espressioni di tempo.
+- 快要……了 ha lo stesso valore di 快……了, con un leggero rafforzamento; anch'esso non ammette espressioni di tempo.
+- 就要……了 sottolinea che il momento è vicino e si usa volentieri con un'espressione di tempo o con 马上.
+
+no: 明天快要考试了。 | Míngtiān kuàiyào kǎoshì le. | Errato: 快要 e 快 non si usano con un'espressione di tempo.
+ex: 明天**就要**考试**了**。 | Míngtiān **jiù yào** kǎoshì **le**. | Domani c'è già l'esame.
+
+| Struttura | Vicinanza | Con espressione di tempo |
+| 要……了 | neutra | sì (明天要走了) |
+| 快……了 | molto vicina | no |
+| 快要……了 | molto vicina | no |
+| 就要……了 | molto vicina, enfatica | sì (明天就要走了) |
+
+### Domande e risposte
+
+Le domande si fanno con 吗 o 吧; per rispondere negativamente non si nega la struttura, ma si dice 还没(呢) o 还早呢.
+
+ex: A：你**快**毕业**了**吧？B：**还没呢**，明年才毕业。 | A: Nǐ **kuài** bìyè **le** ba? B: **Hái méi ne**, míngnián cái bìyè. | A: Stai per laurearti, vero? B: Non ancora, mi laureo solo l'anno prossimo.
+ex: A：电影**要**开始**了**吗？B：**还早呢**，还有二十分钟。 | A: Diànyǐng **yào** kāishǐ **le** ma? B: **Hái zǎo ne**, hái yǒu èrshí fēnzhōng. | A: Sta per cominciare il film? B: C'è ancora tempo, mancano venti minuti.
+
+! Senza 了, 要 è il verbo modale «volere / dovere»: 我要走 «voglio andare / devo andare»; 我要走了 «sto per andare / ora vado». Per un riepilogo sull'espressione del futuro vedi il capitolo «Il futuro e le azioni imminenti».
+
+## Usi idiomatici di 了
+
+### 太……了
+
+太 + aggettivo è quasi sempre seguito da 了. Esprime un eccesso («troppo») oppure, in esclamazioni, un apprezzamento molto forte. Nella forma negativa 不太 («non molto») 了 non si usa.
+
+= 太 + Agg + 了
+
+ex: 这件衣服**太**贵**了**。 | Zhè jiàn yīfu **tài** guì **le**. | Questo vestito è troppo caro.
+ex: **太**好**了**！ | **Tài** hǎo **le**! | Fantastico!
+ex: 你**太**客气**了**。 | Nǐ **tài** kèqi **le**. | Sei troppo gentile.
+ex: 这个菜**不太**辣。 | Zhège cài **bú tài** là. | Questo piatto non è molto piccante.
+
+### ……极了
+
+Aggettivo + 极了 significa «estremamente», «-issimo» (vedi anche il capitolo «Il complemento di grado»).
+
+ex: 这儿的风景美**极了**。 | Zhèr de fēngjǐng měi **jí le**. | Il paesaggio qui è bellissimo.
+ex: 听到这个消息，我高兴**极了**。 | Tīngdào zhège xiāoxi, wǒ gāoxìng **jí le**. | Quando ho sentito la notizia, ero felicissimo.
+
+### Espressioni fisse: 好了, 算了, 得了, 行了, 对了
+
+| Espressione | Significato |
+| 好了 hǎo le | è pronto; basta così; su, dai |
+| 算了 suàn le | lascia perdere, non importa |
+| 得了 dé le | ma dai! basta! (colloquiale) |
+| 行了 xíng le | va bene così; basta |
+| 对了 duì le | ah, a proposito… |
+
+ex: 饭**好了**，快来吃吧！ | Fàn **hǎo le**, kuài lái chī ba! | La cena è pronta, vieni a mangiare!
+ex: **好了**，**好了**，别哭了。 | **Hǎo le**, **hǎo le**, bié kū le. | Su, su, non piangere più.
+ex: **算了**，我们明天再说吧。 | **Suàn le**, wǒmen míngtiān zài shuō ba. | Lascia perdere, ne riparliamo domani.
+ex: **得了**，别开玩笑了！ | **Dé le**, bié kāi wánxiào le! | Ma dai, smettila di scherzare!
+ex: **行了**，就这样吧。 | **Xíng le**, jiù zhèyàng ba. | Va bene, facciamo così.
+ex: **对了**，你明天有空吗？ | **Duì le**, nǐ míngtiān yǒu kòng ma? | Ah, a proposito, domani sei libero?
+
+### 了 letto liǎo
+
+Lo stesso carattere si legge liǎo quando è un verbo («finire, concludere») o un complemento: 了解 liǎojiě «conoscere a fondo», 了不起 liǎobuqǐ «straordinario», 吃不了 chī bu liǎo «non riuscire a mangiare (tutto)», 受不了 shòubuliǎo «non sopportare». Questi usi sono trattati nel capitolo «Il complemento potenziale».

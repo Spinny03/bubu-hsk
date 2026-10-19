@@ -1,0 +1,153 @@
+# Le frasi complesse: i connettivi
+## Principi generali (复句 fùjù)
+Legano due frasi con connettivi, spesso in coppia. Prima la subordinata, poi la principale.
+- Il secondo connettivo (就 jiù, 也 yě, 都 dōu, 才 cái, 还 hái) va dopo il soggetto; il primo prima o dopo.
+no: 我就去，如果你去。 | Wǒ jiù qù, rúguǒ nǐ qù. | Errato: la condizione va prima.
+ex: **如果**你去，我**就**去。 | **Rúguǒ** nǐ qù, wǒ **jiù** qù. | Se ci vai tu, ci vado anch'io.
+## Coordinate, successive e progressive
+Sommano qualità o azioni, o le mettono in ordine.
+| Connettivo | Significato |
+| 又……又 yòu……yòu | sia… sia… (qualità) |
+| 既……又/也 jì……yòu/yě | sia… sia… (scritto) |
+| 一边……一边 yìbiān……yìbiān | mentre (insieme) |
+| 一方面……另一方面 yì fāngmiàn……lìng yì fāngmiàn | da un lato… dall'altro |
+| 先……再/然后 xiān……zài/ránhòu | prima… poi… |
+| 一……就 yī……jiù | appena… subito |
+| 不但……而且/还 búdàn……érqiě/hái | non solo… ma anche |
+| 不仅……也 bùjǐn……yě | non solo… (scritto) |
+| 甚至 shènzhì | perfino |
+| 何况 hékuàng, 更不用说 gèng búyòng shuō | tanto più |
+ex: 他**一边**吃饭**一边**看电视。 | Tā **yìbiān** chī fàn **yìbiān** kàn diànshì. | Mangia guardando la TV.
+ex: 我**一**到家**就**睡了。 | Wǒ **yí** dào jiā **jiù** shuì le. | Appena a casa, ho dormito.
+## Alternative
+Per scegliere fra due possibilità.
+| Connettivo | Significato |
+| 还是 háishi | o (nelle domande) |
+| 或者 huòzhě | o (nelle affermazioni) |
+| 要么……要么 yàome……yàome | o… o… |
+| 不是……就是 bú shì……jiù shì | o… o… (una delle due) |
+| 不是……而是 bú shì……ér shì | non… bensì… |
+| 与其……不如 yǔqí……bùrú | piuttosto che… meglio… |
+| 宁可……也不 nìngkě……yě bù | piuttosto… che… |
+ex: **与其**坐车，**不如**走路。 | **Yǔqí** zuò chē, **bùrú** zǒu lù. | Meglio a piedi che in auto.
+ex: 我**宁可**饿着，**也不**吃这个。 | Wǒ **nìngkě** è zhe, **yě bù** chī zhège. | Piuttosto digiuno, ma questo no.
+## Avversative e concessive
+Per dire «ma», «anche se», «comunque».
+| Connettivo | Significato |
+| 虽然……但是/可是 suīrán……dànshì/kěshì | sebbene… però |
+| 尽管……还是 jǐnguǎn……háishi | nonostante… |
+| 不过 búguò, 可是 kěshì, 却 què | ma, però |
+| 即使……也 jíshǐ……yě | anche se (ipotesi) |
+| 哪怕……也 nǎpà……yě | anche se (parlato) |
+| 就是……也 jiùshì……yě | anche se (parlato) |
+| 无论/不管……都/也 wúlùn/bùguǎn……dōu/yě | qualunque, comunque |
+ex: **虽然**很累，**但是**很开心。 | **Suīrán** hěn lèi, **dànshì** hěn kāixīn. | Sono stanco, ma contento.
+ex: **不管**多忙，他**都**锻炼。 | **Bùguǎn** duō máng, tā **dōu** duànliàn. | Per quanto occupato, si allena.
+- Dopo 无论/不管 wúlùn/bùguǎn serve una domanda: 谁 shéi, 什么 shénme, 多 duō, V 不 bu V, 还是 háishi.
+no: 不管很忙，他都锻炼。 | Bùguǎn hěn máng, tā dōu duànliàn. | Errato: manca la parola interrogativa.
+## Causali e consecutive
+Per dire la causa e la conseguenza.
+| Connettivo | Significato |
+| 因为……所以 yīnwèi……suǒyǐ | siccome… quindi |
+| 由于……因此 yóuyú……yīncǐ | a causa di… (scritto) |
+| 是因为 shì yīnwèi | (è) perché… |
+| 既然……就 jìrán……jiù | visto che… allora |
+| 因此 yīncǐ, 于是 yúshì | perciò, allora |
+| 之所以……是因为 zhīsuǒyǐ……shì yīnwèi | se… è perché… (scritto) |
+ex: **既然**你来了，**就**坐吧。 | **Jìrán** nǐ lái le, **jiù** zuò ba. | Visto che sei qui, siediti.
+## Ipotetiche e condizionali
+Per ipotesi e condizioni.
+| Connettivo | Significato |
+| 如果/要是……就 rúguǒ/yàoshi……jiù | se… allora (anche + 的话 dehuà) |
+| 假如 jiǎrú, 假设 jiǎshè | se, supponendo (scritto) |
+| 只要……就 zhǐyào……jiù | basta che… |
+| 只有……才 zhǐyǒu……cái | solo se… |
+| 除非……才/否则 chúfēi……cái/fǒuzé | a meno che… |
+| 否则 fǒuzé, 不然 bùrán | altrimenti |
+| 万一 wànyī | nel caso (sgradito) che |
+ex: **只要**努力，**就**能学好。 | **Zhǐyào** nǔlì, **jiù** néng xué hǎo. | Basta impegnarsi per imparare.
+ex: **只有**多练，**才**能说好。 | **Zhǐyǒu** duō liàn, **cái** néng shuō hǎo. | Solo con la pratica si parla bene.
+no: 只有努力，就能学好。 | Zhǐyǒu nǔlì, jiù néng xué hǎo. | Errato: 只有 vuole 才, 只要 vuole 就.
+## Finali
+Per dire lo scopo.
+| Connettivo | Significato |
+| 为了 wèile + scopo | per, allo scopo di |
+| 好 hǎo, 以便 yǐbiàn + V | in modo da (以便 yǐbiàn scritto) |
+| 以免 yǐmiǎn, 免得 miǎnde + V | per evitare che |
+| 省得 shěngde + V | così non serve (parlato) |
+ex: **为了**学中文，他来了中国。 | **Wèile** xué Zhōngwén, tā lái le Zhōngguó. | È venuto in Cina per il cinese.
+## Temporali
+Per dire quando avviene un'azione rispetto a un'altra.
+| Connettivo | Significato |
+| ……的时候 de shíhou | quando |
+| ……以前/之前 yǐqián/zhīqián | prima di |
+| ……以后/之后 yǐhòu/zhīhòu | dopo |
+| 自从……以来 zìcóng……yǐlái | da quando |
+| 等……再/就 děng……zài/jiù | quando… (aspettare) poi |
+| 刚……就 gāng……jiù | appena… già |
+| 每当 měi dāng | ogni volta che (scritto) |
+ex: 吃饭**以前**要洗手。 | Chī fàn **yǐqián** yào xǐ shǒu. | Prima di mangiare lavati le mani.
+no: 以前吃饭 | yǐqián chī fàn | Errato per «prima di mangiare»: 以前 va dopo.
+# La formazione delle parole
+## Composizione
+Quasi tutte le parole uniscono due elementi, così:
+| Tipo | Esempio |
+| Due elementi simili | 朋友 péngyou |
+| Modificatore + testa | 火车 huǒchē |
+| V + O | 见面 jiàn miàn |
+| V + risultato | 提高 tígāo |
+| S + predicato | 地震 dìzhèn |
+| N + CL (collettivo) | 车辆 chēliàng |
+## Prefissi e suffissi
+Aggiungono un valore fisso alla radice.
+| Affisso | Valore | Esempio |
+| 老 lǎo- | familiarità, ordine | 老王 Lǎo Wáng |
+| 小 xiǎo- | affetto (nomi) | 小李 Xiǎo Lǐ |
+| 第 dì- | ordinale | 第一 dì-yī |
+| 初 chū- | primi giorni del mese | 初五 chūwǔ |
+| 可 kě- | -bile | 可爱 kě'ài |
+| 非 fēi-, 反 fǎn-, 超 chāo- | non-, anti-, super- | 超市 chāoshì |
+| -子 zi, -儿 r, -头 tou | nomi | 桌子 zhuōzi |
+| -们 men | plurale (persone) | 老师们 lǎoshīmen |
+| -家 jiā, -者 zhě, -员 yuán | persone, professioni | 记者 jìzhě |
+| -化 huà | -izzare | 现代化 xiàndàihuà |
+| -性 xìng, -度 dù, -感 gǎn | -ità, grado, senso | 温度 wēndù |
+| -式 shì, -型 xíng, -率 lǜ | stile, tipo, tasso | 效率 xiàolǜ |
+## Abbreviazioni, prestiti e 成语 chéngyǔ
+Si accorcia, si prende da altre lingue, si usano frasi fatte.
+| Tipo | Esempio |
+| Abbreviazione | 北大 Běi-Dà ← 北京大学 Běijīng Dàxué |
+| Prestito fonetico | 咖啡 kāfēi |
+| Prestito di significato | 电脑 diànnǎo |
+| 成语 chéngyǔ (4 caratteri) | 一路平安 yílù píng'ān |
+## Reduplicazione ed erhua
+Ripetere attenua o intensifica; -儿 r è tipico del parlato.
+| Forma | Valore | Esempio |
+| V raddoppiato | «un po'», provare | 看看 kànkan |
+| Agg raddoppiato | intensità, vivacità | 高高兴兴 gāogāoxìngxìng |
+| -儿 r (erhua) | diminutivo, parlato | 玩儿 wánr |
+# Registro scritto e registro parlato
+## Lessico grammaticale a confronto
+Molte parole hanno una forma parlata e una scritta.
+| Parlato | Scritto | Significato |
+| 和/跟 hé/gēn | 与/及 yǔ/jí | e, con |
+| 在 zài | 于 yú | in, a |
+| 把 bǎ | 将 jiāng | (oggetto anticipato) |
+| 被/叫/让 bèi/jiào/ràng | 为……所 wéi……suǒ | (passivo) |
+| 的 de | 之 zhī | di |
+| 没有 méiyǒu | 未/无 wèi/wú | non, senza |
+| 不要/别 búyào/bié | 勿/切勿 wù/qièwù | non (divieto) |
+| 因为/所以 yīnwèi/suǒyǐ | 由于/因此 yóuyú/yīncǐ | perché, quindi |
+| 可是/不过 kěshì/búguò | 然而/但 rán'ér/dàn | però |
+| 如果/要是 rúguǒ/yàoshi | 若/假如 ruò/jiǎrú | se |
+| 虽然 suīrán | 尽管/虽 jǐnguǎn/suī | sebbene |
+| 这个 zhège | 此/该 cǐ/gāi | questo, il suddetto |
+| 怎么/为什么 zěnme/wèishénme | 如何/为何 rúhé/wèihé | come, perché |
+| 说 shuō | 称/表示 chēng/biǎoshì | dire, dichiarare |
+## Caratteristiche
+Come riconoscerli.
+| Parlato | Scritto |
+| frasi brevi, particelle modali | frasi lunghe, nominalizzazioni |
+| erhua, reduplicazione | 成语 chéngyǔ, monosillabi classici |
+| 挺 tǐng, 特别 tèbié, 老 lǎo (molto) | 颇 pō, 极为 jíwéi, 十分 shífēn |
+| 甭 béng, 啥 shá, 咋 zǎ | evitati |

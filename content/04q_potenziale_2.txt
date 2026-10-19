@@ -1,0 +1,111 @@
+## Domande, oggetto e restrizioni
+
+### Le domande
+
+= S + V + 得 + C + (O) + 吗？
+= S + V + 得 + C + V + 不 + C (+ O)？
+
+ex: 你**听得懂**吗？ | Nǐ **tīng de dǒng** ma? | Riesci a capire?
+ex: 你**听得懂听不懂**？ | Nǐ **tīng de dǒng tīng bu dǒng**? | Riesci a capire o no?
+ex: 这么多书，你**拿得了拿不了**？ | Zhème duō shū, nǐ **ná de liǎo ná bu liǎo**? | Tutti questi libri, ce la fai a portarli?
+ex: 八点以前你**回得来回不来**？ | Bā diǎn yǐqián nǐ **huí de lái huí bu lái**? | Riesci a tornare prima delle otto?
+
+Nelle risposte si ripete la forma potenziale positiva o negativa: 听得懂。/ 听不懂。
+
+### La posizione dell'oggetto
+
+L'oggetto segue di norma il complemento potenziale; molto spesso, però, viene anteposto e diventa il tema della frase.
+
+= S + V + 得 / 不 + C + O
+= O + S + V + 得 / 不 + C
+
+ex: 我**听不懂**他的话。 | Wǒ **tīng bu dǒng** tā de huà. | Non capisco quello che dice.
+ex: 他的话我**听不懂**。 | Tā de huà wǒ **tīng bu dǒng**. | Quello che dice non lo capisco.
+ex: 我**买不到**去上海的火车票。 | Wǒ **mǎi bu dào** qù Shànghǎi de huǒchēpiào. | Non riesco a trovare biglietti del treno per Shanghai.
+ex: 这么难的题，我**做不出来**。 | Zhème nán de tí, wǒ **zuò bu chūlái**. | Un esercizio così difficile non riesco a risolverlo.
+
+Con i complementi di direzione composti, l'oggetto si inserisce di solito tra C₁ e 来 / 去, oppure si antepone:
+
+ex: 我**想不起**他的名字**来**了。 | Wǒ **xiǎng bu qǐ** tā de míngzi **lai** le. | Non mi viene in mente il suo nome.
+ex: 他的名字我**想不起来**了。 | Tā de míngzi wǒ **xiǎng bu qǐlái** le. | Il suo nome non mi viene in mente.
+
+### Le restrizioni
+
+Il complemento potenziale non si usa nelle frasi con 把 e con 被, che presuppongono un risultato effettivamente ottenuto o subito.
+
+no: 我把这本书看不懂。 | Wǒ bǎ zhè běn shū kàn bu dǒng. | Errato: il complemento potenziale non si usa con 把.
+ex: 这本书我**看不懂**。 | Zhè běn shū wǒ **kàn bu dǒng**. | Questo libro non riesco a capirlo.
+no: 这个问题被他回答不了。 | Zhège wèntí bèi tā huídá bu liǎo. | Errato: il complemento potenziale non si usa con 被.
+ex: 这个问题他**回答不了**。 | Zhège wèntí tā **huídá bu liǎo**. | A questa domanda lui non sa rispondere.
+
+Inoltre:
+
+- non si combina con 了₁ né con 过; 了₂ in fondo alla frase è invece possibile e indica una situazione nuova: 现在我看得懂中文报纸了。«Adesso riesco a capire i giornali cinesi.»;
+- non si usa negli imperativi, che riguardano azioni da compiere e non possibilità;
+- non si combina con avverbi di grado come 很 (si dice 听不太懂 «non capisco molto», con 太 tra 不 e il complemento).
+
+ex: 现在我**看得懂**中文报纸**了**。 | Xiànzài wǒ **kàn de dǒng** Zhōngwén bàozhǐ **le**. | Adesso riesco a capire i giornali cinesi.
+ex: 他说的上海话，我**听不太懂**。 | Tā shuō de Shànghǎihuà, wǒ **tīng bu tài dǒng**. | Il suo shanghaiese non lo capisco molto.
+
+### 没听懂, 听不懂, 不懂
+
+| Frase | Significato |
+| 我没听懂。 | Non ho capito. (fatto concreto: quella volta) |
+| 我听不懂。 | Non riesco a capire. (impossibilità) |
+| 我不懂。 | Non capisco, non me ne intendo. (stato) |
+
+ex: 对不起，我**没听懂**，请再说一遍。 | Duìbuqǐ, wǒ **méi tīngdǒng**, qǐng zài shuō yí biàn. | Scusa, non ho capito, ripeti per favore.
+ex: 我**听不懂**广东话。 | Wǒ **tīng bu dǒng** Guǎngdōnghuà. | Non capisco il cantonese.
+ex: 我**不懂**电脑。 | Wǒ **bù dǒng** diànnǎo. | Non me ne intendo di computer.
+
+## Espressioni lessicalizzate
+
+Molte forme potenziali sono diventate espressioni fisse, con un significato che non sempre si ricava dalle parti. Sono molto frequenti e vanno imparate come parole. In alcune esiste solo la forma negativa, o solo quella positiva, oppure le due forme hanno significati non simmetrici.
+
+| Espressione | Pinyin | Significato |
+| 来得及 / 来不及 | láidejí / láibují | fare / non fare in tempo |
+| 买得起 / 买不起 | mǎi de qǐ / mǎi bu qǐ | potersi / non potersi permettere |
+| 看得起 / 看不起 | kàndeqǐ / kànbuqǐ | stimare / disprezzare |
+| 对得起 / 对不起 | duìdeqǐ / duìbuqǐ | essere / non essere all'altezza; scusa |
+| 受得了 / 受不了 | shòudeliǎo / shòubuliǎo | sopportare / non sopportare |
+| 舍得 / 舍不得 | shěde / shěbude | sentirsela / non sentirsela di separarsi da |
+| 怪不得 | guàibude | ecco perché, non c'è da stupirsi |
+| 说不定 | shuōbudìng | forse, chissà |
+| 了不起 | liǎobuqǐ | straordinario, formidabile |
+| 巴不得 | bābude | non vedere l'ora di |
+| 恨不得 | hènbude | morire dalla voglia di |
+| 不见得 | bújiànde | non è detto, non necessariamente |
+| 靠得住 / 靠不住 | kàodezhù / kàobuzhù | affidabile / inaffidabile |
+| 合得来 / 合不来 | hédelái / hébulái | andare / non andare d'accordo |
+| 用不着 | yòngbuzháo | non c'è bisogno di |
+| 吃得消 / 吃不消 | chīdexiāo / chībuxiāo | reggere / non reggere |
+| 想不到 | xiǎngbudào | inaspettato, chi l'avrebbe detto |
+| 顾不上 | gùbushàng | non avere il tempo di occuparsi di |
+| 忍不住 | rěnbuzhù | non riuscire a trattenersi |
+| 睡不着 | shuì bu zháo | non riuscire ad addormentarsi |
+| 数不清 | shǔ bu qīng | innumerevole |
+
+ex: 现在走还**来得及**。 | Xiànzài zǒu hái **láidejí**. | Se partiamo adesso, facciamo ancora in tempo.
+ex: 我起晚了，**来不及**吃早饭了。 | Wǒ qǐwǎn le, **láibují** chī zǎofàn le. | Mi sono alzato tardi e non ho fatto in tempo a fare colazione.
+ex: 这么贵的车，我**买不起**。 | Zhème guì de chē, wǒ **mǎi bu qǐ**. | Una macchina così cara non posso permettermela.
+ex: 你别**看不起**人！ | Nǐ bié **kànbuqǐ** rén! | Non guardare dall'alto in basso la gente!
+ex: 我不能做**对不起**父母的事。 | Wǒ bù néng zuò **duìbuqǐ** fùmǔ de shì. | Non posso fare cose che deluderebbero i miei genitori.
+ex: 我真**受不了**他的脾气。 | Wǒ zhēn **shòubuliǎo** tā de píqi. | Non sopporto proprio il suo caratteraccio.
+ex: 我**舍不得**离开这个城市。 | Wǒ **shěbude** líkāi zhège chéngshì. | Mi dispiace troppo lasciare questa città.
+ex: 他感冒了，**怪不得**今天没来。 | Tā gǎnmào le, **guàibude** jīntiān méi lái. | Ha il raffreddore: ecco perché oggi non è venuto.
+ex: 别等了，他**说不定**已经走了。 | Bié děng le, tā **shuōbudìng** yǐjīng zǒu le. | Non aspettare più, magari se n'è già andato.
+ex: 她一个人养大了三个孩子，真**了不起**！ | Tā yí ge rén yǎngdà le sān ge háizi, zhēn **liǎobuqǐ**! | Ha cresciuto tre figli da sola, è davvero formidabile!
+ex: 我**巴不得**马上放假。 | Wǒ **bābude** mǎshàng fàngjià. | Non vedo l'ora che comincino le vacanze.
+ex: 听到这个消息，我**恨不得**马上飞回家。 | Tīngdào zhège xiāoxi, wǒ **hènbude** mǎshàng fēi huí jiā. | Quando ho sentito la notizia, avrei voluto volare subito a casa.
+ex: 贵的东西**不见得**好。 | Guì de dōngxi **bújiànde** hǎo. | Le cose care non sono necessariamente buone.
+ex: 他这个人**靠不住**。 | Tā zhège rén **kàobuzhù**. | È una persona di cui non ci si può fidare.
+ex: 我跟他**合不来**。 | Wǒ gēn tā **hébulái**. | Con lui non vado d'accordo.
+ex: 这点儿小事，**用不着**担心。 | Zhè diǎnr xiǎo shì, **yòngbuzháo** dānxīn. | Per una cosa così da poco non c'è bisogno di preoccuparsi.
+ex: 每天工作十二个小时，谁也**吃不消**。 | Měi tiān gōngzuò shí'èr ge xiǎoshí, shéi yě **chībuxiāo**. | Lavorare dodici ore al giorno non lo regge nessuno.
+ex: 真**想不到**会在这儿见到你！ | Zhēn **xiǎngbudào** huì zài zhèr jiàndào nǐ! | Chi l'avrebbe mai detto di incontrarti qui!
+ex: 他忙得**顾不上**吃饭。 | Tā máng de **gùbushàng** chī fàn. | È così occupato che non ha nemmeno il tempo di mangiare.
+ex: 她**忍不住**笑了起来。 | Tā **rěnbuzhù** xiào le qilai. | Non è riuscita a trattenere una risata.
+ex: 我一喝咖啡就**睡不着**。 | Wǒ yì hē kāfēi jiù **shuì bu zháo**. | Appena bevo un caffè non riesco più a dormire.
+ex: 天上的星星**数不清**。 | Tiān shang de xīngxing **shǔ bu qīng**. | Le stelle in cielo sono innumerevoli.
+
+! Alcune osservazioni: 了不起 esiste solo in questa forma; 舍得 «non dispiacersi di dare o di separarsi da qualcosa» si usa senza complemento (你舍得吗？«Te la senti di separartene?»); 巴不得 e 恨不得 esprimono entrambi un desiderio intenso, ma 恨不得 si usa per desideri impossibili o esagerati; 想不到 equivale a 没想到, ma è più enfatico.

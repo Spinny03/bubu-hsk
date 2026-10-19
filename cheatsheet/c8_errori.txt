@@ -1,0 +1,71 @@
+# Errori da evitare
+## 是 shì davanti all'aggettivo
+L'aggettivo fa già da verbo: niente 是 shì.
+no: 她是很漂亮。 | Tā shì hěn piàoliang. | Errato.
+ex: 她**很**漂亮。 | Tā **hěn** piàoliang. | È molto bella.
+## Tempo e luogo dopo il verbo
+Tempo e luogo vanno prima del verbo, non in fondo.
+no: 我吃饭在家明天。 | Wǒ chī fàn zài jiā míngtiān. | Errato.
+ex: 我**明天在家**吃饭。 | Wǒ **míngtiān zài jiā** chī fàn. | Domani mangio a casa.
+## Numero senza classificatore
+Tra numero e nome serve sempre il classificatore.
+no: 三书 | sān shū | Errato.
+ex: 三**本**书 | sān **běn** shū | tre libri
+## 二 èr al posto di 两 liǎng
+«Due» davanti a un classificatore si dice 两 liǎng.
+no: 二个人 | èr ge rén | Errato.
+ex: **两**个人 | **liǎng** ge rén | due persone
+## 了 le come passato italiano
+了 le non è un passato: con le abitudini non si usa.
+no: 我以前常常去了。 | Wǒ yǐqián chángcháng qù le. | Errato.
+ex: 我以前**常常**去。 | Wǒ yǐqián **chángcháng** qù. | Prima ci andavo spesso.
+## 不 bù al posto di 没 méi
+Un fatto passato si nega con 没 méi, non con 不 bù.
+no: 我昨天不去学校。 | Wǒ zuótiān bú qù xuéxiào. | Errato.
+ex: 我昨天**没**去学校。 | Wǒ zuótiān **méi** qù xuéxiào. | Ieri non sono andato a scuola.
+## 和 hé per unire frasi
+和 hé unisce solo nomi; due azioni si legano con 然后 ránhòu «poi».
+no: 我吃饭和看电视。 | Wǒ chī fàn hé kàn diànshì. | Errato.
+ex: 我吃饭，**然后**看电视。 | Wǒ chī fàn, **ránhòu** kàn diànshì. | Mangio e poi guardo la TV.
+## Relativa dopo il nome
+La relativa (+ 的 de) va prima del nome.
+no: 人的我认识 | rén de wǒ rènshi | Errato.
+ex: **我认识的**人 | **wǒ rènshi de** rén | la persona che conosco
+## Durata dopo il verbo
+La durata («due ore») va dopo il verbo.
+no: 我两个小时学习了。 | Wǒ liǎng ge xiǎoshí xuéxí le. | Errato.
+ex: 我学习了**两个小时**。 | Wǒ xuéxí le **liǎng ge xiǎoshí**. | Ho studiato due ore.
+## 很 hěn con 比 bǐ
+Con 比 bǐ niente 很 hěn: «molto più» = Agg + 多了 duō le.
+no: 他比我很忙。 | Tā bǐ wǒ hěn máng. | Errato.
+ex: 他比我**忙多了**。 | Tā bǐ wǒ **máng duō le**. | È molto più occupato di me.
+## Verbo separabile con oggetto
+见面 jiàn miàn è separabile: niente oggetto, si usa 跟 gēn.
+no: 我见面他。 | Wǒ jiàn miàn tā. | Errato.
+ex: 我**跟他**见面。 | Wǒ **gēn tā** jiàn miàn. | Lo incontro.
+## 吗 ma con pronome interrogativo
+Con 哪儿 nǎr, 什么 shénme, 谁 shéi la frase è già domanda: niente 吗 ma.
+no: 你去哪儿吗？ | Nǐ qù nǎr ma? | Errato.
+ex: 你去**哪儿**？ | Nǐ qù **nǎr**? | Dove vai?
+## 会 huì, 能 néng, 可以 kěyǐ
+Abilità imparata 会 huì; capacità o possibilità 能 néng; permesso 可以 kěyǐ.
+no: 我能说中文一点儿。 | Wǒ néng shuō Zhōngwén yìdiǎnr. | Errato: serve 会; 一点儿 prima dell'O.
+ex: 我**会**说**一点儿**中文。 | Wǒ **huì** shuō **yìdiǎnr** Zhōngwén. | So parlare un po' di cinese.
+## 有点儿 yǒudiǎnr e 一点儿 yìdiǎnr
+«Un po'» prima dell'Agg = 有点儿 yǒudiǎnr; dopo l'Agg o prima del N = 一点儿 yìdiǎnr.
+no: 今天一点儿冷。 | Jīntiān yìdiǎnr lěng. | Errato.
+ex: 今天**有点儿**冷。 | Jīntiān **yǒudiǎnr** lěng. | Oggi fa un po' freddo.
+## Complemento di grado con oggetto
+Per dire come si fa qualcosa (V + 得 de), con l'oggetto si ripete il verbo.
+no: 他说中文得很好。 | Tā shuō Zhōngwén de hěn hǎo. | Errato.
+ex: 他说中文**说得**很好。 | Tā shuō Zhōngwén **shuō de** hěn hǎo. | Parla bene il cinese.
+## Risposta con «sì/no»
+Per dire «sì» si ripete il verbo della domanda.
+no: A：你去吗？B：是。 | A: Nǐ qù ma? B: Shì. | Errato.
+ex: A：你去吗？B：**去**。 | A: Nǐ qù ma? B: **Qù**. | A: Ci vai? B: Sì.
+## «Pensare» e «chiedere»
+Opinione = 觉得 juéde; «chiedere di fare» = 请 qǐng o 让 ràng (问 wèn = domandare).
+no: 我想他是对的。 | Wǒ xiǎng tā shì duì de. | Poco naturale.
+ex: 我**觉得**他是对的。 | Wǒ **juéde** tā shì duì de. | Penso che abbia ragione.
+no: 我问他帮我。 | Wǒ wèn tā bāng wǒ. | Errato.
+ex: 我**请**他帮我。 | Wǒ **qǐng** tā bāng wǒ. | Gli chiedo di aiutarmi.

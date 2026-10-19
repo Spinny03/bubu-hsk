@@ -1,0 +1,253 @@
+# La negazione
+
+La negazione (否定 fǒudìng) in cinese si esprime soprattutto con due avverbi, 不 bù e 没(有) méi(yǒu), a cui si aggiunge 别 bié per i divieti. A differenza dell'italiano «non», che si usa in ogni caso, la scelta fra 不 e 没 dipende dal tipo di predicato e dal punto di vista aspettuale: si nega una volontà, un'abitudine, una qualità, oppure un fatto? Come tutti gli avverbi, la negazione precede il verbo (o l'aggettivo, il verbo modale, il sintagma preposizionale) che nega.
+
+! Pronuncia: 不 è bù, ma diventa bú davanti a un quarto tono (bú qù, bú shì, bú duì) ed è in tono neutro nelle domande affermativo-negative e nel complemento potenziale (qù bu qù, tīng bu dǒng). 没 è sempre méi (vedi il capitolo «La pronuncia e il pinyin»).
+
+## 不 e 没(有): le regole fondamentali
+
+### La regola generale
+
+不 nega la volontà, l'abitudine, le azioni future, le verità generali, gli stati e le qualità; si usa con 是, con il verbo 在, con i verbi modali, con gli aggettivi e con i verbi che indicano stati psicologici e di conoscenza. 没(有) nega il fatto: dice che un'azione non è avvenuta o non si è compiuta, o che un cambiamento non si è (ancora) verificato; è inoltre l'unica negazione di 有.
+
+| Ambito | 不 bù | 没(有) méi(yǒu) |
+| azione | volontà, intenzione: 我不去 | fatto non avvenuto: 我没去 |
+| abitudine | 他不抽烟。 | — |
+| futuro | 明天我不来。 | — |
+| 是 | 他不是老师。 | — |
+| 有 | — | 我没有钱。 |
+| 在 (verbo) | 他不在家。 | — |
+| verbi modali | 不能, 不会, 不想, 不应该 | (没能 «non è riuscito») |
+| aggettivi | qualità: 不贵, 不忙 | cambiamento: 天还没黑 |
+| esperienza (过) | — | 我没去过。 |
+| azione in corso | — | 他没在看电视。 |
+| stati psicologici | 不知道, 不认识, 不喜欢 | — |
+
+### Volontà e fatto: le coppie contrastive
+
+La differenza più importante è quella fra 不 + V, che nega la volontà, l'abitudine o un'azione futura, e 没 + V, che nega che un'azione sia avvenuta. In italiano la differenza è espressa soprattutto dal tempo verbale:
+
+ex: 我**不**去。 | Wǒ **bú** qù. | Non ci vado. (decisione, volontà)
+ex: 我**没**去。 | Wǒ **méi** qù. | Non ci sono andato. (fatto)
+ex: 他**不**吃肉。 | Tā **bù** chī ròu. | Non mangia carne. (abitudine: per esempio è vegetariano)
+ex: 他**没**吃肉。 | Tā **méi** chī ròu. | Non ha mangiato la carne. (in quell'occasione)
+ex: 我**不**买。 | Wǒ **bù** mǎi. | Non lo compro.
+ex: 我**没**买。 | Wǒ **méi** mǎi. | Non l'ho comprato.
+ex: 昨天我**不**想去，所以**没**去。 | Zuótiān wǒ **bù** xiǎng qù, suǒyǐ **méi** qù. | Ieri non avevo voglia di andarci, perciò non ci sono andato.
+
+| Con 不 | Traduzione | Con 没 | Traduzione |
+| 我不去。 | Non ci vado. | 我没去。 | Non ci sono andato. |
+| 他不喝酒。 | Non beve alcolici. | 他没喝酒。 | Non ha bevuto. |
+| 我不看。 | Non lo guardo. | 我没看。 | Non l'ho guardato. |
+| 她不哭。 | Lei non piange. | 她没哭。 | Lei non ha pianto. |
+
+不 si usa anche per il passato, quando si nega una volontà o un'abitudine:
+
+ex: 以前他**不**抽烟，现在抽了。 | Yǐqián tā **bù** chōu yān, xiànzài chōu le. | Prima non fumava, adesso sì.
+ex: 昨天我请他来，他**不**来。 | Zuótiān wǒ qǐng tā lái, tā **bù** lái. | Ieri l'ho invitato, ma non ha voluto venire.
+
+不 + V + 了 indica invece che si è cambiato idea (vedi il capitolo «La particella 了»):
+
+ex: 明天我**不**来**了**。 | Míngtiān wǒ **bù** lái **le**. | Domani non vengo più.
+
+### 是, 在 e 有
+
+是 si nega solo con 不, anche al passato; 有 si nega solo con 没 (vedi il capitolo «Le frasi con 有 e le frasi esistenziali»); il verbo 在 «trovarsi» si nega con 不.
+
+no: 他以前没是老师。 | Tā yǐqián méi shì lǎoshī. | Errato: 是 si nega solo con 不.
+ex: 他以前**不**是老师。 | Tā yǐqián **bú** shì lǎoshī. | Prima non era insegnante.
+ex: 我**没有**兄弟。 | Wǒ **méiyǒu** xiōngdì. | Non ho fratelli.
+ex: 昨天下午他**不**在办公室。 | Zuótiān xiàwǔ tā **bú** zài bàngōngshì. | Ieri pomeriggio non era in ufficio.
+
+### Gli stati psicologici e di conoscenza
+
+Verbi come 知道, 认识, 喜欢, 觉得, 希望, 相信, 怕, 像 indicano uno stato, non un'azione: si negano con 不 anche quando si riferiscono al passato.
+
+ex: 我以前**不**知道这件事。 | Wǒ yǐqián **bù** zhīdao zhè jiàn shì. | Prima non sapevo questa cosa.
+ex: 小时候我**不**喜欢吃青菜。 | Xiǎoshíhou wǒ **bù** xǐhuan chī qīngcài. | Da piccolo non mi piaceva la verdura.
+ex: 那时候我还**不**认识他。 | Nà shíhou wǒ hái **bú** rènshi tā. | All'epoca non lo conoscevo ancora.
+no: 我昨天没知道他病了。 | Wǒ zuótiān méi zhīdao tā bìng le. | Errato: 知道 è un verbo di stato e si nega con 不, anche al passato.
+ex: 我昨天**不**知道他病了。 | Wǒ zuótiān **bù** zhīdao tā bìng le. | Ieri non sapevo che fosse malato.
+
+### I verbi modali
+
+I verbi modali si negano con 不: 不能, 不会, 不想, 不应该, 不可以, 不敢, 不愿意 (vedi il capitolo «I verbi modali»). Con alcuni modali (能, 敢) si usa 没 per dire che in una certa occasione non si è riusciti o non si è osato fare qualcosa.
+
+ex: 我明天**不能**来。 | Wǒ míngtiān **bù néng** lái. | Domani non posso venire.
+ex: 他**不会**开车。 | Tā **bú huì** kāi chē. | Non sa guidare.
+ex: 我**不想**说。 | Wǒ **bù xiǎng** shuō. | Non ho voglia di parlarne.
+ex: 那天我**没能**去。 | Nà tiān wǒ **méi néng** qù. | Quel giorno non sono riuscito ad andarci.
+ex: 他**没敢**告诉妈妈。 | Tā **méi gǎn** gàosu māma. | Non ha osato dirlo alla mamma.
+
+! La negazione di 要 «dovere, bisognare» è 不用 «non c'è bisogno» (o 不必), non 不要, che è un divieto: 你不用去 «non c'è bisogno che tu vada», 你不要去 «non andare» (vedi più avanti «Divieti e inviti a non fare»).
+
+### Gli aggettivi: qualità e cambiamento
+
+Con gli aggettivi, 不 nega una qualità o uno stato; 没 nega che un cambiamento sia avvenuto e si usa soprattutto con 还 «ancora».
+
+ex: 这件衣服**不**干净。 | Zhè jiàn yīfu **bù** gānjìng. | Questo vestito non è pulito.
+ex: 衣服还**没**干。 | Yīfu hái **méi** gān. | I vestiti non sono ancora asciutti.
+ex: 天还**没**黑。 | Tiān hái **méi** hēi. | Non è ancora buio.
+ex: 苹果**不**红。 | Píngguǒ **bù** hóng. | Le mele non sono rosse.
+ex: 苹果还**没**红。 | Píngguǒ hái **méi** hóng. | Le mele non sono ancora diventate rosse.
+ex: 他的病还**没**好。 | Tā de bìng hái **méi** hǎo. | Non è ancora guarito.
+
+### Esperienza e azione in corso
+
+Le esperienze con 过 e le azioni in corso con 在 si negano con 没:
+
+ex: 我**没**去**过**中国。 | Wǒ **méi** qù **guo** Zhōngguó. | Non sono mai stato in Cina.
+ex: 我**没在**看电视，我在看书。 | Wǒ **méi zài** kàn diànshì, wǒ zài kàn shū. | Non sto guardando la tv, sto leggendo.
+
+! Davanti a un verbo 没 e 没有 sono intercambiabili; 没 è più frequente nel parlato. In fine di frase e nelle risposte brevi si usa 没有: A：你看了吗？B：没有。
+
+## Negazione, aspetto e complementi
+
+### 没 e 了 non si combinano
+
+没 nega il compimento dell'azione e per questo non si combina con 了₁ (vedi il capitolo «La particella 了»): nella frase negativa 了 scompare.
+
+no: 我没去了。 | Wǒ méi qù le. | Errato: con 没 non si usa 了.
+ex: 我**没**去。 | Wǒ **méi** qù. | Non ci sono andato.
+no: 我昨天没吃了早饭。 | Wǒ zuótiān méi chī le zǎofàn. | Errato: con 没 non si usa 了.
+ex: 我昨天**没**吃早饭。 | Wǒ zuótiān **méi** chī zǎofàn. | Ieri non ho fatto colazione.
+
+Con un'espressione di durata, invece, 了₂ in fine di frase è possibile: indica che la situazione negativa dura fino al presente.
+
+ex: 我们好久**没**见面**了**。 | Wǒmen hǎo jiǔ **méi** jiàn miàn **le**. | È da tanto che non ci vediamo.
+ex: 他三天**没**睡好觉**了**。 | Tā sān tiān **méi** shuì hǎo jiào **le**. | Sono tre giorni che non dorme bene.
+
+### 没……过
+
+过, a differenza di 了, resta nella frase negativa (vedi il capitolo «La particella 过»):
+
+= S + 没(有) + V + 过 + (O)
+
+ex: 我**没**吃**过**北京烤鸭。 | Wǒ **méi** chī **guo** Běijīng kǎoyā. | Non ho mai mangiato l'anatra laccata alla pechinese.
+ex: 他**没**学**过**中文。 | Tā **méi** xué **guo** Zhōngwén. | Non ha mai studiato cinese.
+
+### 还没……呢
+
+还没(有) + V + (呢) significa «non ancora»; il 呢 finale è frequente nel parlato.
+
+= S + 还没(有) + V + (O) + (呢)
+
+ex: 我**还没**吃饭**呢**。 | Wǒ **hái méi** chī fàn **ne**. | Non ho ancora mangiato.
+ex: 电影**还没**开始**呢**。 | Diànyǐng **hái méi** kāishǐ **ne**. | Il film non è ancora cominciato.
+ex: A：你作业做完了吗？B：**还没呢**。 | A: Nǐ zuòyè zuòwán le ma? B: **Hái méi ne**. | A: Hai finito i compiti? B: Non ancora.
+
+### Negazione e complementi
+
+Con i complementi di risultato e di direzione si usa 没: 没听懂 «non ho capito», 没找到 «non ho trovato» (vedi il capitolo «Il complemento di risultato»). Per esprimere l'impossibilità si usa invece il complemento potenziale V + 不 + C: 听不懂 «non riesco a capire» (vedi il capitolo «Il complemento potenziale»). Nel complemento di grado la negazione si mette davanti all'aggettivo, dopo 得: 说得不好 «non parla bene» (vedi il capitolo «Il complemento di grado»).
+
+= S + 没 + V + C
+= S + V + 不 + C
+= S + V + 得 + 不 + Agg
+
+ex: 他**没**找到钥匙。 | Tā **méi** zhǎodào yàoshi. | Non ha trovato le chiavi.
+ex: 作业我还**没**写完。 | Zuòyè wǒ hái **méi** xiěwán. | I compiti non li ho ancora finiti.
+ex: 他**没**回来。 | Tā **méi** huílai. | Non è tornato.
+ex: 这么多菜，我**吃不完**。 | Zhème duō cài, wǒ **chī bu wán**. | Tutti questi piatti non riesco a finirli.
+ex: 黑板上的字我**看不清楚**。 | Hēibǎn shang de zì wǒ **kàn bu qīngchu**. | Non riesco a leggere bene quello che c'è scritto alla lavagna.
+ex: 我中文说**得不好**。 | Wǒ Zhōngwén shuō **de bù hǎo**. | Non parlo bene il cinese.
+ex: 他昨天睡**得不太好**。 | Tā zuótiān shuì **de bú tài hǎo**. | Ieri non ha dormito molto bene.
+no: 他不说得好。 | Tā bù shuō de hǎo. | Errato: nel complemento di grado la negazione va davanti all'aggettivo.
+ex: 他说**得不好**。 | Tā shuō **de bù hǎo**. | Non parla bene.
+no: 我不听懂。 | Wǒ bù tīngdǒng. | Errato: con il complemento di risultato si usa 没, oppure il potenziale 听不懂.
+ex: 我**没听懂**。 | Wǒ **méi tīngdǒng**. | Non ho capito.
+
+### 不听, 没听, 没听懂, 听不懂
+
+Il verbo 听 «ascoltare» mostra bene come le diverse forme negative abbiano significati diversi:
+
+| Forma | Che cosa nega | Traduzione |
+| 不听 | la volontà | Non ascolta. / Non vuole ascoltare. |
+| 没听 | il fatto | Non ho ascoltato. |
+| 没听懂 | il risultato | Ho ascoltato, ma non ho capito. |
+| 听不懂 | la possibilità | Non riesco a capire. |
+
+ex: 我跟他说了好几次，他就是**不听**。 | Wǒ gēn tā shuō le hǎo jǐ cì, tā jiù shì **bù tīng**. | Gliel'ho detto un sacco di volte, ma lui niente, non ascolta.
+ex: 对不起，刚才我**没听**。 | Duìbuqǐ, gāngcái wǒ **méi tīng**. | Scusa, poco fa non stavo ascoltando.
+ex: 他说得太快，我**没听懂**。 | Tā shuō de tài kuài, wǒ **méi tīngdǒng**. | Ha parlato troppo velocemente, non ho capito.
+ex: 他说的是广东话，我**听不懂**。 | Tā shuō de shì Guǎngdōnghuà, wǒ **tīng bu dǒng**. | Parla cantonese, io non lo capisco.
+
+! Nelle frasi condizionali e nelle prescrizioni, 不 può precedere un verbo con complemento di risultato: 不洗干净不能吃 «se non lo lavi bene non si può mangiare», 不写完作业不许看电视 «finché non hai finito i compiti, niente televisione».
+
+## La posizione della negazione
+
+La negazione precede l'elemento che nega, e la sua posizione determina il significato della frase. Quando la frase contiene un verbo modale, un sintagma preposizionale o un avverbio, spostare 不 cambia ciò che viene negato.
+
+### Con i verbi modali
+
+ex: 我**不能**去。 | Wǒ **bù néng** qù. | Non posso andarci.
+ex: 我**能不**去吗？ | Wǒ **néng bú** qù ma? | Posso non andarci?
+ex: 你**不可以**来。 | Nǐ **bù kěyǐ** lái. | Non puoi venire. (non ti è permesso)
+ex: 你**可以不**来。 | Nǐ **kěyǐ bù** lái. | Puoi anche non venire.
+
+### Con i sintagmi preposizionali
+
+Normalmente la negazione precede il sintagma preposizionale e nega l'intero predicato; dopo il sintagma preposizionale nega soltanto il verbo:
+
+ex: 我今天**不在**家吃饭。 | Wǒ jīntiān **bú zài** jiā chī fàn. | Oggi non mangio a casa. (mangio fuori)
+ex: 我在家**不**吃早饭，到公司再吃。 | Wǒ zài jiā **bù** chī zǎofàn, dào gōngsī zài chī. | A casa non faccio colazione: la faccio quando arrivo in ufficio.
+ex: 他**不在**家说中文。 | Tā **bú zài** jiā shuō Zhōngwén. | Il cinese non lo parla a casa. (lo parla altrove)
+ex: 他在家**不**说中文。 | Tā zài jiā **bù** shuō Zhōngwén. | A casa non parla cinese. (parla un'altra lingua)
+ex: 他**没**跟我说。 | Tā **méi** gēn wǒ shuō. | Non me l'ha detto.
+
+### Con gli avverbi
+
+Con molti avverbi l'ordine «negazione + avverbio» e quello «avverbio + negazione» hanno significati diversi: la negazione nega tutto ciò che la segue.
+
+ex: 他们**不都**是中国人。 | Tāmen **bù dōu** shì Zhōngguórén. | Non sono tutti cinesi. (alcuni sì, altri no)
+ex: 他们**都不**是中国人。 | Tāmen **dōu bú** shì Zhōngguórén. | Nessuno di loro è cinese.
+ex: 这个菜**不太**好吃。 | Zhège cài **bú tài** hǎochī. | Questo piatto non è un granché.
+ex: 这个菜**太不**好吃了。 | Zhège cài **tài bù** hǎochī le. | Questo piatto è proprio cattivo.
+ex: 他**不很**满意。 | Tā **bù hěn** mǎnyì. | Non è molto soddisfatto.
+ex: 他**很不**满意。 | Tā **hěn bù** mǎnyì. | È molto insoddisfatto.
+ex: 他明天**不一定**来。 | Tā míngtiān **bù yídìng** lái. | Non è detto che venga domani.
+ex: 他明天**一定不**来。 | Tā míngtiān **yídìng bù** lái. | Domani di sicuro non viene.
+ex: 我**不常**去电影院。 | Wǒ **bù cháng** qù diànyǐngyuàn. | Non vado spesso al cinema.
+ex: 他**常常不**吃早饭。 | Tā **chángcháng bù** chī zǎofàn. | Spesso salta la colazione.
+
+| Ordine | Significato | Esempio |
+| 不都 | non tutti | 他们不都来。 |
+| 都不 | nessuno | 他们都不来。 |
+| 不太 | non molto | 不太好 |
+| 太不 | per niente, davvero non | 太不好了 |
+| 不很 | non molto | 不很满意 |
+| 很不 | molto poco, per niente | 很不满意 |
+| 不一定 | non necessariamente | 不一定去 |
+| 一定不 | sicuramente non | 一定不去 |
+| 不常 | non spesso | 不常去 |
+| 常(常)不 | spesso non | 常常不去 |
+
+! 不很 è poco frequente nel parlato, dove si preferisce 不太 o 不怎么: 他不怎么满意 «non è granché soddisfatto».
+
+### 也不, 还不, 还没
+
+Gli avverbi 也, 还, 都, 就, 再 precedono sempre la negazione. 还不 significa «ancora non» (stato, volontà); 还没 significa «non ancora» (l'azione non è avvenuta).
+
+ex: 我**也不**知道。 | Wǒ **yě bù** zhīdao. | Non lo so neanch'io.
+ex: 都十点了，他**还不**起床。 | Dōu shí diǎn le, tā **hái bù** qǐ chuáng. | Sono già le dieci e ancora non si alza.
+ex: 他**还没**起床。 | Tā **hái méi** qǐ chuáng. | Non si è ancora alzato.
+ex: 他**还不**知道这件事。 | Tā **hái bù** zhīdao zhè jiàn shì. | Non sa ancora niente di questa faccenda.
+no: 我不也去。 | Wǒ bù yě qù. | Errato: 也 precede sempre la negazione.
+ex: 我**也不**去。 | Wǒ **yě bú** qù. | Non ci vado neanch'io.
+
+### 从来不 e 从来没
+
+从来 cónglái «da sempre» + negazione significa «mai»: 从来不 nega un'abitudine o un principio, 从来没 (spesso con 过) nega un'esperienza.
+
+ex: 他**从来不**喝酒。 | Tā **cónglái bù** hē jiǔ. | Non beve mai alcolici. (per principio)
+ex: 她**从来不**迟到。 | Tā **cónglái bù** chídào. | Non arriva mai in ritardo.
+ex: 我**从来没**见过他。 | Wǒ **cónglái méi** jiàn guo tā. | Non l'ho mai visto.
+
+### 再也不 e 再也没
+
+再也不 «mai più» riguarda il futuro (o una decisione), di solito con 了 finale; 再也没 «non… mai più» riguarda il passato.
+
+ex: 我**再也不**相信他了。 | Wǒ **zài yě bù** xiāngxìn tā le. | Non gli crederò mai più.
+ex: 我**再也不**去那家饭馆了。 | Wǒ **zài yě bú** qù nà jiā fànguǎn le. | In quel ristorante non ci vado mai più.
+ex: 他走了以后，**再也没**回来过。 | Tā zǒu le yǐhòu, **zài yě méi** huílai guo. | Dopo che se n'è andato, non è mai più tornato.
+
+! Nel registro più formale si usa 不再 «non più»: 他不再抽烟了 «non fuma più».

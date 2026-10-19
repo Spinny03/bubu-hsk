@@ -1,0 +1,116 @@
+## Abbreviazioni, chengyu e prestiti
+
+### Le abbreviazioni
+
+Le espressioni lunghe, soprattutto i nomi di istituzioni, eventi e concetti molto usati, vengono spesso ridotte a due o tre sillabe (缩略语 suōlüèyǔ). Di solito si prende un morfema significativo da ciascuna parola, spesso il primo, ma non esiste una regola fissa: ogni abbreviazione va imparata come parola a sé.
+
+| Forma completa | Abbreviazione | Pinyin | Significato |
+| 北京大学 | 北大 | Běidà | Università di Pechino |
+| 世界博览会 | 世博会 | Shìbóhuì | Esposizione universale |
+| 高等学校招生考试 | 高考 | gāokǎo | esame di ammissione all'università |
+| 奥林匹克运动会 | 奥运会 | Àoyùnhuì | Giochi olimpici |
+| 超级市场 | 超市 | chāoshì | supermercato |
+| 空气调节器 | 空调 | kōngtiáo | condizionatore |
+| 环境保护 | 环保 | huánbǎo | tutela dell'ambiente |
+| 科学技术 | 科技 | kējì | scienza e tecnologia |
+
+ex: 他考上了**北大**。 | Tā kǎoshàng le **Běidà**. | È stato ammesso all'Università di Pechino.
+ex: 明年我弟弟要参加**高考**。 | Míngnián wǒ dìdi yào cānjiā **gāokǎo**. | L'anno prossimo mio fratello minore sosterrà l'esame di ammissione all'università.
+ex: 2010年的**世博会**在上海举办。 | Èr líng yī líng nián de **Shìbóhuì** zài Shànghǎi jǔbàn. | L'Esposizione universale del 2010 si è tenuta a Shanghai.
+ex: 天太热了，开**空调**吧。 | Tiān tài rè le, kāi **kōngtiáo** ba. | Fa troppo caldo, accendiamo il condizionatore.
+
+! Esistono anche abbreviazioni numeriche, che riassumono una serie con un numero: 五一 Wǔ-Yī «il Primo maggio», 十一 Shí-Yī «il Primo ottobre» (festa nazionale), 四季 sìjì «le quattro stagioni».
+
+### I 成语
+
+I 成语 chéngyǔ sono espressioni fisse, quasi sempre di quattro caratteri, che derivano in gran parte dal cinese classico, da opere letterarie, aneddoti storici o favole. La loro struttura interna segue la grammatica classica e il loro significato è spesso figurato. Sono frequenti nello scritto e nei discorsi formali, ma molti appartengono anche alla conversazione quotidiana.
+
+| 成语 | Pinyin | Letteralmente | Significato |
+| 马马虎虎 | mǎmǎhūhū | cavallo-cavallo tigre-tigre | così così; superficiale |
+| 一路平安 | yílù-píng'ān | tutta la strada in pace | buon viaggio |
+| 入乡随俗 | rùxiāng-suísú | entrati nel villaggio, seguirne i costumi | paese che vai, usanza che trovi |
+| 半途而废 | bàntú-érfèi | a metà strada abbandonare | lasciare a metà |
+| 画蛇添足 | huàshé-tiānzú | disegnare un serpente e aggiungere i piedi | guastare con aggiunte inutili |
+| 一举两得 | yìjǔ-liǎngdé | un gesto, due guadagni | due piccioni con una fava |
+| 千方百计 | qiānfāng-bǎijì | mille metodi, cento piani | in tutti i modi possibili |
+| 自言自语 | zìyán-zìyǔ | da sé parlare, da sé dire | parlare da solo |
+| 乱七八糟 | luànqībāzāo | disordine sette, otto confusione | in completo disordine |
+| 一模一样 | yìmú-yíyàng | uno stampo, un aspetto | identico |
+
+! 画蛇添足 deriva da un aneddoto antico: alcuni uomini gareggiano per una brocca di vino, che spetterà a chi disegnerà per primo un serpente. Il più veloce, avendo finito in anticipo, aggiunge al serpente anche i piedi; un altro termina, gli strappa la brocca e osserva che i serpenti non hanno piedi.
+
+Nella frase i 成语 svolgono le funzioni di un aggettivo o di un sintagma verbale: predicato, attributo (con 的), avverbiale (con 地); alcuni si usano come formule a sé (auguri, proverbi).
+
+ex: 他做事总是**马马虎虎**的。 | Tā zuò shì zǒngshì **mǎmǎhūhū** de. | Fa sempre le cose alla buona.
+ex: A：你的汉语怎么样？B：**马马虎虎**。 | A: Nǐ de Hànyǔ zěnmeyàng? B: **Mǎmǎhūhū**. | A: Com'è il tuo cinese? B: Così così.
+ex: 学习不能**半途而废**。 | Xuéxí bù néng **bàntú-érfèi**. | Lo studio non si può lasciare a metà.
+ex: 这是一个**一举两得**的好办法。 | Zhè shì yí ge **yìjǔ-liǎngdé** de hǎo bànfǎ. | È un ottimo modo per prendere due piccioni con una fava.
+ex: 他**千方百计**地帮助我们。 | Tā **qiānfāng-bǎijì** de bāngzhù wǒmen. | Ci aiuta in tutti i modi possibili.
+ex: 你别**画蛇添足**了，这样已经很好了。 | Nǐ bié **huàshé-tiānzú** le, zhèyàng yǐjīng hěn hǎo le. | Non aggiungere altro: va già benissimo così.
+ex: 到了中国，我们就要**入乡随俗**。 | Dào le Zhōngguó, wǒmen jiù yào **rùxiāng-suísú**. | Arrivati in Cina, dobbiamo adattarci agli usi locali.
+ex: 祝你**一路平安**！ | Zhù nǐ **yílù-píng'ān**! | Buon viaggio!
+ex: 这对双胞胎长得**一模一样**。 | Zhè duì shuāngbāotāi zhǎng de **yìmú-yíyàng**. | Questi gemelli sono identici.
+
+! I 成语 vanno usati con cautela: il significato non è quasi mai letterale, alcuni hanno una connotazione negativa (马马虎虎 detto di una persona significa «sciatto») e molti appartengono a un registro elevato. Prima di usarne uno conviene verificarne il significato e le combinazioni abituali in un dizionario.
+
+### I prestiti
+
+Il cinese accoglie le parole straniere (外来词 wàiláicí) in quattro modi: per trascrizione fonetica, per traduzione del significato, con una combinazione dei due procedimenti, oppure mantenendo lettere dell'alfabeto latino. In generale il cinese preferisce la traduzione del significato; molti prestiti fonetici sono stati sostituiti nel tempo da calchi (per esempio 德律风 délǜfēng «telefono» è stato sostituito da 电话).
+
+### Prestiti fonetici (音译 yīnyì)
+
+Si scelgono caratteri dal suono simile a quello della parola straniera; il loro significato è irrilevante, anche se spesso si preferiscono caratteri dal valore neutro o positivo.
+
+| Parola | Pinyin | Origine |
+| 咖啡 | kāfēi | caffè |
+| 沙发 | shāfā | sofà |
+| 巧克力 | qiǎokèlì | cioccolato |
+| 沙拉 | shālā | insalata (salad) |
+| 披萨 | pīsà | pizza |
+| 幽默 | yōumò | umorismo (humour) |
+| 吉他 | jítā | chitarra (guitar) |
+| 马拉松 | mǎlāsōng | maratona |
+| 卡布奇诺 | kǎbùqínuò | cappuccino |
+| 提拉米苏 | tílāmǐsū | tiramisù |
+
+### Prestiti semantici (意译 yìyì)
+
+La parola straniera viene tradotta con morfemi cinesi: è il procedimento preferito, perché il significato resta trasparente.
+
+| Parola | Pinyin | Letteralmente | Significato |
+| 电脑 | diànnǎo | cervello elettrico | computer |
+| 手机 | shǒujī | macchina da mano | cellulare |
+| 热狗 | règǒu | cane caldo | hot dog |
+| 蜜月 | mìyuè | mese di miele | luna di miele |
+| 软件 | ruǎnjiàn | pezzo morbido | software |
+| 足球 | zúqiú | palla del piede | calcio (football) |
+
+### Prestiti misti
+
+Una parte della parola è trascritta foneticamente, l'altra è un morfema cinese che indica la categoria o traduce una parte del significato.
+
+| Parola | Pinyin | Composizione | Significato |
+| 啤酒 | píjiǔ | pí (beer) + 酒 bevanda alcolica | birra |
+| 冰淇淋 | bīngqílín | 冰 ghiaccio + qílín (cream) | gelato |
+| 迷你裙 | mínǐqún | mínǐ (mini) + 裙 gonna | minigonna |
+| 卡车 | kǎchē | kǎ (car) + 车 veicolo | camion |
+| 汉堡包 | hànbǎobāo | hànbǎo (hamburger) + 包 panino | hamburger |
+| 芭蕾舞 | bālěiwǔ | bālěi (ballet) + 舞 danza | balletto |
+
+### Parole con lettere latine (字母词 zìmǔcí)
+
+Nel cinese contemporaneo sono sempre più comuni le parole che contengono lettere dell'alfabeto latino, sole o combinate con caratteri.
+
+| Parola | Pinyin | Significato |
+| 卡拉OK | kǎlā OK | karaoke |
+| T恤 | T xù | maglietta (T-shirt) |
+| X光 | X guāng | raggi X, radiografia |
+| AA制 | AA zhì | pagare alla romana |
+| B超 | B chāo | ecografia |
+
+ex: 周末我们去唱**卡拉OK**吧。 | Zhōumò wǒmen qù chàng **kǎlā OK** ba. | Nel fine settimana andiamo a cantare al karaoke.
+ex: 今天我们**AA制**，好不好？ | Jīntiān wǒmen **AA zhì**, hǎo bu hǎo? | Oggi paghiamo alla romana, va bene?
+ex: 这件**T恤**多少钱？ | Zhè jiàn **T xù** duōshao qián? | Quanto costa questa maglietta?
+
+! Molti nomi propri italiani sono entrati in cinese per via fonetica: 意大利 Yìdàlì «Italia», 罗马 Luómǎ «Roma», 米兰 Mǐlán «Milano», 威尼斯 Wēinísī «Venezia», 佛罗伦萨 Fóluólúnsà «Firenze». Alcuni sono misti: 意大利面 Yìdàlìmiàn «pasta» (lett. «noodles italiani»).
+! Una parte importante del lessico moderno (经济 «economia», 社会 «società», 科学 «scienza», 哲学 «filosofia») è stata creata in Giappone con caratteri cinesi alla fine dell'Ottocento e poi adottata dal cinese: sono prestiti «grafici», che non si percepiscono come stranieri.

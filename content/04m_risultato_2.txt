@@ -1,0 +1,123 @@
+## V + 在 / 到 / 给 / 成
+
+Quattro elementi, 在, 到, 给 e 成, si attaccano al verbo e introducono un oggetto che indica dove va a finire o dove si trova qualcosa (在), il punto d'arrivo nello spazio e nel tempo (到), il destinatario (给) o il risultato di una trasformazione (成). Formano con il verbo un'unità simile a un verbo con complemento di risultato. Sono molto frequenti nelle frasi con 把 (vedi il capitolo «La costruzione con 把»).
+
+| Forma | Significato | Esempio |
+| V + 在 + Luogo | dove si trova, dove va a finire | 住在北京, 放在桌子上 |
+| V + 到 + Luogo / Tempo | fino a, arrivare a | 走到学校, 学到十点 |
+| V + 给 + Persona | a chi è destinato | 送给他, 交给老师 |
+| V + 成 + N | trasformazione in | 翻译成中文, 看成 |
+
+### V + 在 + luogo
+
+= S + V + 在 + Luogo
+
+ex: 我住**在**北京。 | Wǒ zhù **zài** Běijīng. | Abito a Pechino.
+ex: 他坐**在**我旁边。 | Tā zuò **zài** wǒ pángbiān. | È seduto accanto a me.
+ex: 请把书放**在**桌子上。 | Qǐng bǎ shū fàng **zài** zhuōzi shang. | Per favore, metti il libro sul tavolo.
+ex: 请把你的名字写**在**这儿。 | Qǐng bǎ nǐ de míngzi xiě **zài** zhèr. | Scrivi qui il tuo nome, per favore.
+ex: 钱包掉**在**地上了。 | Qiánbāo diào **zài** dì shang le. | Il portafoglio è caduto per terra.
+
+Attenzione alla differenza con 在 + luogo davanti al verbo. Prima del verbo, 在 + luogo indica dove si svolge l'azione; dopo il verbo, il luogo in cui qualcosa o qualcuno si trova come risultato dell'azione. Con 住 le due posizioni sono quasi equivalenti; con verbi come 放, 挂, 写 (dove si mette qualcosa), 掉, 倒 si usa la posizione dopo il verbo; con verbi come 工作, 学习, 吃饭 si usa quella prima del verbo (vedi il capitolo «Le preposizioni»).
+
+ex: 他**在**黑板上写字。 | Tā **zài** hēibǎn shang xiě zì. | Scrive alla lavagna. (luogo dell'azione)
+ex: 他把字写**在**黑板上。 | Tā bǎ zì xiě **zài** hēibǎn shang. | Ha scritto le parole sulla lavagna. (dove finisce il risultato)
+
+no: 我吃饭在食堂。 | Wǒ chī fàn zài shítáng. | Errato: il luogo in cui si svolge l'azione va prima del verbo.
+ex: 我**在**食堂吃饭。 | Wǒ **zài** shítáng chī fàn. | Mangio in mensa.
+
+### V + 到 + luogo o tempo
+
+到 indica il punto d'arrivo di un movimento, il limite temporale («fino a») o il punto raggiunto da un'azione. In parole lessicalizzate come 收到 «ricevere», 得到 «ottenere», 遇到 «incontrare» indica che l'azione è andata a buon fine.
+
+= S + V + 到 + Luogo / Tempo
+
+ex: 我们走**到**学校用了二十分钟。 | Wǒmen zǒu **dào** xuéxiào yòng le èrshí fēnzhōng. | Per arrivare a scuola a piedi ci abbiamo messo venti minuti.
+ex: 他们去年搬**到**了上海。 | Tāmen qùnián bān **dào** le Shànghǎi. | L'anno scorso si sono trasferiti a Shanghai.
+ex: 他昨天学**到**晚上十点。 | Tā zuótiān xué **dào** wǎnshang shí diǎn. | Ieri ha studiato fino alle dieci di sera.
+ex: 周末我常常睡**到**中午。 | Zhōumò wǒ chángcháng shuì **dào** zhōngwǔ. | Nel fine settimana dormo spesso fino a mezzogiorno.
+ex: 这本书我已经看**到**第五十页了。 | Zhè běn shū wǒ yǐjīng kàn **dào** dì-wǔshí yè le. | Questo libro l'ho già letto fino a pagina cinquanta.
+ex: 你**收到**我的邮件了吗？ | Nǐ **shōudào** wǒ de yóujiàn le ma? | Hai ricevuto la mia e-mail?
+
+### V + 给 + persona
+
+给 dopo il verbo introduce la persona a cui qualcosa è destinato o trasferito. Si usa con verbi come 送 «regalare», 借 «prestare», 还 «restituire», 交 «consegnare», 寄 «spedire», 卖 «vendere», 递 «porgere», 传 «passare».
+
+= S + V + 给 + Persona + O
+
+ex: 他生日的时候，我送**给**他一本书。 | Tā shēngrì de shíhou, wǒ sòng **gěi** tā yì běn shū. | Per il suo compleanno gli ho regalato un libro.
+ex: 作业要交**给**老师。 | Zuòyè yào jiāo **gěi** lǎoshī. | I compiti vanno consegnati all'insegnante.
+ex: 请把盐递**给**我。 | Qǐng bǎ yán dì **gěi** wǒ. | Passami il sale, per favore.
+ex: 这封信是寄**给**你的。 | Zhè fēng xìn shì jì **gěi** nǐ de. | Questa lettera è indirizzata a te.
+ex: 我借**给**他一百块钱。 | Wǒ jiè **gěi** tā yìbǎi kuài qián. | Gli ho prestato cento yuan.
+
+! 借给 significa «prestare» (dare in prestito); per «prendere in prestito» si usa 借 con 跟 o 向: 我跟他借了一百块钱。«Ho preso in prestito cento yuan da lui.» Per 给 come preposizione davanti al verbo (我给他打电话 «gli telefono») vedi il capitolo «Le preposizioni».
+
+### V + 成 + nome
+
+成 indica che qualcosa si trasforma in qualcos'altro, viene reso o scambiato per qualcos'altro.
+
+= S + V + 成 + N
+
+ex: 请把这句话翻译**成**中文。 | Qǐng bǎ zhè jù huà fānyì **chéng** Zhōngwén. | Per favore, traduci questa frase in cinese.
+ex: 水变**成**了冰。 | Shuǐ biàn**chéng** le bīng. | L'acqua si è trasformata in ghiaccio.
+ex: 我们把这间屋子改**成**了书房。 | Wǒmen bǎ zhè jiān wūzi gǎi**chéng** le shūfáng. | Abbiamo trasformato questa stanza in uno studio.
+ex: 他把“十”听**成**了“四”。 | Tā bǎ "shí" tīng**chéng** le "sì". | Ha capito «quattro» invece di «dieci».
+ex: 对不起，我把你看**成**我的一个朋友了。 | Duìbuqǐ, wǒ bǎ nǐ kàn**chéng** wǒ de yí ge péngyou le. | Scusi, l'avevo scambiata per un mio amico.
+
+### La posizione di 了
+
+Con 在, 到, 给 e 成, 了 si colloca di norma in fondo alla frase; nel parlato è molto frequente anche subito dopo 在, 到, 给 o 成.
+
+ex: 他把书放在桌子上**了**。 | Tā bǎ shū fàng zài zhuōzi shang **le**. | Ha messo il libro sul tavolo.
+ex: 他把书放在**了**桌子上。 | Tā bǎ shū fàng zài **le** zhuōzi shang. | Ha messo il libro sul tavolo. (parlato)
+
+## Negazione e domande
+
+### La negazione: 没(有) + V + C
+
+Poiché indica un risultato raggiunto, il complemento di risultato si nega con 没(有); come sempre con 没, 了 scompare.
+
+= S + 没(有) + V + C (+ O)
+
+ex: 我**没**听懂。 | Wǒ **méi** tīngdǒng. | Non ho capito.
+ex: 作业我还**没**做完**呢**。 | Zuòyè wǒ hái **méi** zuòwán **ne**. | Non ho ancora finito i compiti.
+ex: 我找了半天，**没**找到。 | Wǒ zhǎo le bàntiān, **méi** zhǎodào. | Ho cercato a lungo, ma non l'ho trovato.
+ex: 他说得太快，我**没**听清楚。 | Tā shuō de tài kuài, wǒ **méi** tīng qīngchu. | Ha parlato troppo veloce e non ho sentito bene.
+
+no: 我不听懂。 | Wǒ bù tīngdǒng. | Errato: il complemento di risultato si nega con 没.
+ex: 我**没**听懂。 | Wǒ **méi** tīngdǒng. | Non ho capito. (quella volta)
+ex: 我**听不懂**。 | Wǒ **tīng bu dǒng**. | Non capisco. (non riesco a capire: forma potenziale)
+
+! L'italiano «non capisco» corrisponde in cinese a forme diverse: 我没听懂 «non ho capito (quello che hai detto)», 我听不懂 «non riesco a capire (per esempio la lingua)», 我不懂 «non capisco, non ne so niente». Vedi il capitolo «Il complemento potenziale».
+
+### 不 + V + C nelle condizioni
+
+不 davanti a V + C si usa solo in frasi ipotetiche o condizionali, dove il risultato non è ancora raggiunto.
+
+ex: **不**做完作业，**不**能看电视。 | **Bú** zuòwán zuòyè, **bù** néng kàn diànshì. | Se non finisci i compiti, non puoi guardare la TV.
+ex: 你**不**说清楚，我怎么帮你？ | Nǐ **bù** shuō qīngchu, wǒ zěnme bāng nǐ? | Se non ti spieghi chiaramente, come faccio ad aiutarti?
+ex: **不**吃饱怎么有力气干活儿？ | **Bù** chībǎo zěnme yǒu lìqi gànhuór? | Se non mangi a sazietà, come fai ad avere la forza di lavorare?
+
+### Le domande
+
+= S + V + C + 了 + (O) + 吗？
+= S + V + C + (O) + 了 + 没有？
+
+ex: 你听懂**了吗**？ | Nǐ tīngdǒng **le ma**? | Hai capito?
+ex: 你听懂**了没有**？ | Nǐ tīngdǒng **le méiyǒu**? | Hai capito o no?
+ex: 你找到钥匙**了没有**？ | Nǐ zhǎodào yàoshi **le méiyǒu**? | Hai trovato le chiavi?
+ex: 晚饭做好**了吗**？ | Wǎnfàn zuòhǎo **le ma**? | La cena è pronta?
+ex: A：信写完了吗？B：写完**了**。/ **还没**写完。 | A: Xìn xiěwán le ma? B: Xiěwán **le**. / **Hái méi** xiěwán. | A: Hai finito di scrivere la lettera? B: Sì. / Non ancora.
+
+### Posizione di 了 e dell'oggetto
+
+Con un complemento di risultato la frase è già «compiuta»: per questo 了₁ seguito da un oggetto anche determinato suona naturale. Sono possibili tre costruzioni; molto frequente è quella con l'oggetto anteposto come tema della frase.
+
+= S + V + C + 了 + O
+= S + V + C + O + 了
+= O + S + V + C + 了
+
+ex: 我看完**了**这本书。 | Wǒ kànwán **le** zhè běn shū. | Ho finito di leggere questo libro.
+ex: 我看完这本书**了**。 | Wǒ kànwán zhè běn shū **le**. | Ho finito di leggere questo libro.
+ex: 这本书我看完**了**。 | Zhè běn shū wǒ kànwán **le**. | Questo libro l'ho finito.

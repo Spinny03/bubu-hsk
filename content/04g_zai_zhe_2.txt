@@ -1,0 +1,102 @@
+## V₁ + 着 + V₂: il modo di un'azione
+
+Quando due verbi si susseguono e il primo è seguito da 着, il primo descrive lo stato o il modo in cui si compie la seconda azione, che è quella principale. L'italiano usa in questi casi il gerundio («sorridendo»), un participio o un aggettivo («seduto», «in piedi») oppure una locuzione («a piedi»).
+
+= S + V₁ + 着 (+ O₁) + V₂ (+ O₂)
+
+ex: 我们**坐着**吃饭吧。 | Wǒmen **zuò zhe** chī fàn ba. | Mangiamo seduti.
+ex: 她**笑着**说：“没关系。” | Tā **xiào zhe** shuō: "Méi guānxi." | Ha detto sorridendo: «Non fa niente.»
+ex: 我们**走着**去吧，不远。 | Wǒmen **zǒu zhe** qù ba, bù yuǎn. | Andiamo a piedi, non è lontano.
+ex: 他喜欢**躺着**看书。 | Tā xǐhuan **tǎng zhe** kàn shū. | Gli piace leggere sdraiato.
+ex: 孩子**哭着**找妈妈。 | Háizi **kū zhe** zhǎo māma. | Il bambino cercava la mamma piangendo.
+ex: 她**低着头**，一句话也不说。 | Tā **dī zhe tóu**, yí jù huà yě bù shuō. | Teneva la testa bassa e non diceva una parola.
+ex: 他**带着**孩子去公园了。 | Tā **dài zhe** háizi qù gōngyuán le. | È andato al parco con il bambino.
+
+Le particelle aspettuali e i complementi riguardano l'azione principale, quindi si collocano sul secondo verbo:
+
+ex: 他**笑着**点了点头。 | Tā **xiào zhe** diǎn le diǎn tóu. | Ha annuito sorridendo.
+ex: 老人**拄着**拐杖走了进来。 | Lǎorén **zhǔ zhe** guǎizhàng zǒu le jinlai. | L'anziano entrò appoggiandosi al bastone.
+
+Con alcuni verbi e aggettivi, come 忙 «essere occupato» e 急 «avere fretta», V₁ + 着 indica che si è presi da un'attività o impazienti di compierla:
+
+ex: 他**忙着**准备考试。 | Tā **máng zhe** zhǔnbèi kǎoshì. | È impegnato a prepararsi per l'esame.
+ex: 你**急着**去哪儿？ | Nǐ **jí zhe** qù nǎr? | Dove vai così di fretta?
+
+## Altri usi di 着
+
+### V着V着 = «mentre…, a un tratto»
+
+La ripetizione V着V着 indica un'azione che si sta svolgendo quando, quasi senza accorgersene, sopraggiunge un'altra cosa. La seconda parte è spesso introdotta da 就 o contiene 了.
+
+= V着V着 + (就) + V₂ + 了
+
+ex: 她**说着说着**就哭了。 | Tā **shuō zhe shuō zhe** jiù kū le. | Mentre parlava, è scoppiata a piangere.
+ex: 孩子**看着看着**睡着了。 | Háizi **kàn zhe kàn zhe** shuìzháo le. | Il bambino, mentre guardava, si è addormentato.
+ex: 我们**走着走着**就迷路了。 | Wǒmen **zǒu zhe zǒu zhe** jiù mílù le. | Cammina cammina, ci siamo persi.
+
+### Agg + 着呢 = «eccome!»
+
+Nel parlato, aggettivo + 着呢 sottolinea con enfasi, spesso con tono rassicurante o di contraddizione, che una qualità è presente in alto grado. Con 着呢 non si usano 很 né altri avverbi di grado.
+
+= S + Agg + 着呢
+
+ex: 这个西瓜甜**着呢**。 | Zhège xīguā tián **zhe ne**. | Questa anguria è dolcissima, eccome!
+ex: 时间还早**着呢**，别着急。 | Shíjiān hái zǎo **zhe ne**, bié zháojí. | È ancora prestissimo, non avere fretta.
+ex: 离春节还远**着呢**。 | Lí Chūnjié hái yuǎn **zhe ne**. | Al Capodanno cinese manca ancora parecchio.
+ex: A：你身体好吗？B：好**着呢**！ | A: Nǐ shēntǐ hǎo ma? B: Hǎo **zhe ne**! | A: Come stai di salute? B: Benissimo!
+
+no: 这个西瓜很甜着呢。 | Zhège xīguā hěn tián zhe ne. | Errato: con 着呢 non si usano 很 o altri avverbi di grado.
+ex: 这个西瓜甜**着呢**。 | Zhège xīguā tián **zhe ne**. | Questa anguria è dolcissima.
+
+### Negli imperativi
+
+Con alcuni verbi, V + 着 forma un imperativo che chiede di mantenere uno stato o un'azione: «tieni!», «aspetta lì!», «ascolta bene!». Il tono può essere cordiale o, in certi casi, minaccioso.
+
+ex: 你听**着**！ | Nǐ tīng **zhe**! | Ascoltami bene!
+ex: 拿**着**，这是给你的。 | Ná **zhe**, zhè shì gěi nǐ de. | Tieni, questo è per te.
+ex: 你在这儿等**着**，我马上回来。 | Nǐ zài zhèr děng **zhe**, wǒ mǎshàng huílai. | Aspetta qui, torno subito.
+ex: 记**着**，明天早上八点出发。 | Jì **zhe**, míngtiān zǎoshang bā diǎn chūfā. | Ricordati: si parte domani mattina alle otto.
+ex: 你给我等**着**！ | Nǐ gěi wǒ děng **zhe**! | Me la pagherai! (minaccia)
+
+### Nelle frasi esistenziali
+
+着 è molto frequente nelle frasi che descrivono che cosa si trova in un luogo e in quale stato (墙上挂着一张地图。«Alla parete è appesa una carta geografica.»): vedi il capitolo «Le frasi con 有 e le frasi esistenziali».
+
+### Parole e preposizioni con 着
+
+着 fa parte di alcune parole d'uso frequente, che vanno imparate come unità lessicali: le preposizioni 沿着 yánzhe «lungo», 顺着 shùnzhe «seguendo», 朝着 cháozhe «verso», 随着 suízhe «con, man mano che», 为着 wèizhe «per», e l'avverbio 接着 jiēzhe «poi, di seguito».
+
+ex: **沿着**这条路一直走就到了。 | **Yánzhe** zhè tiáo lù yìzhí zǒu jiù dào le. | Proseguite dritto lungo questa strada e ci siete.
+ex: **随着**经济的发展，人们的生活越来越好。 | **Suízhe** jīngjì de fāzhǎn, rénmen de shēnghuó yuè lái yuè hǎo. | Con lo sviluppo dell'economia, la vita della gente migliora sempre di più.
+
+! Lo stesso carattere ha altre letture: zháo come complemento di risultato (睡着 shuìzháo «addormentarsi», 找着 zhǎozháo «trovare»: vedi il capitolo «Il complemento di risultato») e in 着急 zháojí «essere in ansia»; zhuó in parole come 着想 zhuóxiǎng «pensare a» e 穿着 chuānzhuó «abbigliamento».
+
+## Le combinazioni naturali
+
+Le marche del progressivo e del durativo si possono combinare, ma non tutte le combinazioni sono ugualmente naturali. La tabella riassume le più frequenti.
+
+| Combinazione | Esempio | Uso |
+| 在 + V + 呢 | 他在看书呢。 | molto comune |
+| 正在 + V + 呢 | 他正在开会呢。 | comune |
+| 正 + V + 呢 | 我正吃饭呢。 | comune |
+| 正 + V + 着 + O + 呢 | 外面正下着雨呢。 | comune, descrittivo |
+| V + 着 + 呢 | 门开着呢。 | comune (stato) |
+| 正在 + V + 着 + O + 呢 | 他正在打着电话呢。 | parlato, enfatico |
+
+ex: 外面**正**下**着**雨**呢**，你带把伞吧。 | Wàimiàn **zhèng** xià **zhe** yǔ **ne**, nǐ dài bǎ sǎn ba. | Fuori sta piovendo, prendi un ombrello.
+ex: A：灯关了吗？B：没有，还亮**着呢**。 | A: Dēng guān le ma? B: Méiyǒu, hái liàng **zhe ne**. | A: Hai spento la luce? B: No, è ancora accesa.
+ex: 我进去的时候，他**正在**打**着**电话**呢**。 | Wǒ jìnqu de shíhou, tā **zhèngzài** dǎ **zhe** diànhuà **ne**. | Quando sono entrato, stava telefonando.
+
+Alcune combinazioni sono invece escluse:
+
+- il progressivo non si combina con 了 o con 过;
+- 着 non si combina con i complementi di risultato, di durata e di frequenza: 他坐了两个小时 «è rimasto seduto due ore»;
+- i verbi di stato e quelli puntuali non prendono né il progressivo né 着.
+
+no: 他在看了书。 | Tā zài kàn le shū. | Errato: il progressivo non si combina con 了.
+ex: 他**在**看书。 | Tā **zài** kàn shū. | Sta leggendo.
+
+no: 我认识着他。 | Wǒ rènshi zhe tā. | Errato: 认识 è un verbo di stato e non prende 着.
+ex: 我认识他。 | Wǒ rènshi tā. | Lo conosco.
+
+! Riepilogo per italiani: se potete dire «sta + gerundio» (*sta mangiando*), pensate a 在 / 正在 / 呢; se potete dire «è + participio» o «ha / tiene / porta…» descrivendo uno stato (*è seduto*, *è aperto*, *porta gli occhiali*), pensate a 着.

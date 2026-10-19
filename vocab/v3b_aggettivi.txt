@@ -1,0 +1,86 @@
+@ Aggettivi: coppie di opposti | ⚖️
+大 | dà | grande | - | 1
+小 | xiǎo | piccolo | - | 1
+好 | hǎo | buono, bene | 👍 | 1
+坏 | huài | cattivo, rotto | 👎 | 3
+高 | gāo | alto | - | 2
+矮 | ǎi | basso (di statura) | - | 3
+低 | dī | basso (altezza, livello) | - | 4
+长 | cháng | lungo | - | 2
+短 | duǎn | corto | - | 3
+快 | kuài | veloce | - | 2
+慢 | màn | lento | 🐢 | 2
+错 | cuò | sbagliato | ❌ | 2
+老 | lǎo | vecchio, anziano | 👴 | 3
+年轻 | niánqīng | giovane | - | 3
+闲 | xián | libero, ozioso | - | 4
+难 | nán | difficile | - | 3
+容易 | róngyì | facile | - | 3
+简单 | jiǎndān | semplice | - | 3
+复杂 | fùzá | complicato | - | 4
+胖 | pàng | grasso | - | 3
+瘦 | shòu | magro | - | 3
+重 | zhòng | pesante | - | 4
+轻 | qīng | leggero | 🪶 | 4
+脏 | zāng | sporco | - | 4
+难看 | nánkàn | brutto | - | 4
+难吃 | nánchī | cattivo (di sapore) | 🤢 | 4
+安静 | ānjìng | silenzioso, tranquillo | 🤫 | 3
+吵 | chǎo | rumoroso | 🔊 | 4
+难受 | nánshòu | stare male | - | 4
+安全 | ānquán | sicuro | - | 4
+危险 | wēixiǎn | pericoloso | ⚠️ | 4
+亮 | liàng | luminoso | 💡 | 4
+暗 | àn | buio, scuro | 🌑 | 4
+干 | gān | asciutto, secco | - | 3
+湿 | shī | bagnato, umido | 💧 | 4
+厚 | hòu | spesso | - | 4
+薄 | báo | sottile | - | 4
+软 | ruǎn | morbido | - | 4
+硬 | yìng | duro | 🪨 | 4
+有钱 | yǒu qián | ricco | 💰 | 3
+穷 | qióng | povero | - | 4
+@ Emozioni e carattere | 😊
+高兴 | gāoxìng | contento, felice | 😄 | 1
+喜欢 | xǐhuan | piacere, amare | - | 1
+快乐 | kuàilè | felice, allegro | - | 2
+开心 | kāixīn | allegro, felice | 😊 | 4
+难过 | nánguò | triste, addolorato | 😢 | 3
+生气 | shēngqì | arrabbiarsi | 😠 | 3
+害怕 | hàipà | avere paura | 😨 | 3
+担心 | dānxīn | preoccuparsi | 😟 | 3
+着急 | zháojí | essere in ansia, avere fretta | - | 3
+满意 | mǎnyì | soddisfatto | - | 3
+感觉 | gǎnjué | sentire, sensazione | - | 4
+心情 | xīnqíng | umore, stato d'animo | - | 4
+伤心 | shāngxīn | addolorato | 💔 | 4
+紧张 | jǐnzhāng | nervoso, teso | 😬 | 4
+放心 | fàngxīn | stare tranquillo | 😌 | 3
+兴奋 | xīngfèn | eccitato, emozionato | 🤩 | 4
+激动 | jīdòng | emozionato, commosso | - | 4
+感动 | gǎndòng | commuovere, commosso | 🥲 | 4
+失望 | shīwàng | deluso | 😞 | 4
+吃惊 | chījīng | sorpreso, stupito | 😲 | 4
+害羞 | hàixiū | timido, vergognarsi | 😳 | 4
+无聊 | wúliáo | annoiato, noioso | 🥱 | 4
+讨厌 | tǎoyàn | detestare, antipatico | - | 4
+羡慕 | xiànmù | invidiare, ammirare | - | 4
+幸福 | xìngfú | felice, felicità | - | 4
+性格 | xìnggé | carattere | - | 4
+脾气 | píqi | temperamento | - | 4
+热情 | rèqíng | caloroso, accogliente | - | 3
+认真 | rènzhēn | serio, diligente | - | 3
+努力 | nǔlì | impegnarsi, diligente | 💪 | 3
+聪明 | cōngming | intelligente | - | 3
+可爱 | kě'ài | carino, adorabile | 🥰 | 3
+友好 | yǒuhǎo | amichevole | - | 4
+耐心 | nàixīn | paziente, pazienza | - | 4
+幽默 | yōumò | spiritoso, umorismo | - | 4
+诚实 | chéngshí | onesto | - | 4
+礼貌 | lǐmào | educato, cortesia | - | 4
+活泼 | huópō | vivace | - | 4
+马虎 | mǎhu | sbadato, trascurato | - | 4
+懒 | lǎn | pigro | - | 4
+笨 | bèn | stupido, goffo | - | 4
+骄傲 | jiāo'ào | orgoglioso, superbo | - | 4
+自信 | zìxìn | sicuro di sé | - | 4

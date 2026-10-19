@@ -1,0 +1,301 @@
+# Gli avverbi
+
+Gli avverbi (副词 fùcí) cinesi sono parole invariabili che modificano un verbo, un aggettivo o l'intero predicato, esprimendo grado, tempo, frequenza, ambito, negazione o il giudizio di chi parla. A differenza dell'italiano, in cui l'avverbio gode di una certa libertà («Parlo **bene** il cinese», «**Già** l'ho visto», «L'ho **già** visto»), in cinese la posizione è molto rigida: l'avverbio sta quasi sempre **dopo il soggetto e prima del verbo** (o dell'aggettivo). Un piccolo gruppo di avverbi che commentano l'intera frase può stare anche davanti al soggetto.
+
+Gli avverbi cinesi non si formano da aggettivi con un suffisso come «-mente»: sono per lo più parole a sé (已经, 常常, 也). Gli aggettivi che descrivono il modo di un'azione si usano come avverbiali con la particella 地 (认真地学习 «studiare con impegno»): vedi il capitolo «Le particelle strutturali 的, 地, 得».
+
+## La posizione degli avverbi
+
+### Dopo il soggetto, davanti al verbo
+
+= S + Avv + V (+ O)
+= S + Avv + Agg
+
+ex: 我**也**是学生。 | Wǒ **yě** shì xuésheng. | Anch'io sono uno studente.
+ex: 他**已经**回家了。 | Tā **yǐjīng** huí jiā le. | È già tornato a casa.
+ex: 我们**都**喜欢吃中国菜。 | Wǒmen **dōu** xǐhuan chī Zhōngguó cài. | A tutti noi piace la cucina cinese.
+ex: 她**常常**去图书馆看书。 | Tā **chángcháng** qù túshūguǎn kàn shū. | Va spesso in biblioteca a leggere.
+ex: 这个问题**真**难。 | Zhège wèntí **zhēn** nán. | Questo problema è davvero difficile.
+
+no: 我喜欢也咖啡。 | Wǒ xǐhuan yě kāfēi. | Errato: l'avverbio non si mette dopo il verbo né davanti all'oggetto.
+ex: 我**也**喜欢咖啡。 | Wǒ **yě** xǐhuan kāfēi. | Anche a me piace il caffè. / Mi piace anche il caffè.
+no: 也我是学生。 | Yě wǒ shì xuésheng. | Errato: 也 non può precedere il soggetto.
+ex: 我**也**是学生。 | Wǒ **yě** shì xuésheng. | Anch'io sono uno studente.
+
+### Avverbi, verbi modali e sintagmi preposizionali
+
+Quando nel predicato ci sono anche un verbo modale e un sintagma preposizionale, l'ordine normale è: avverbio → modale → preposizione + nome → verbo. Le espressioni di tempo (今天, 明天, 下午) precedono di solito anche l'avverbio.
+
+= S + (Tempo) + Avv + Modale + Prep + N + V + O
+
+ex: 我**也**想跟你一起去。 | Wǒ **yě** xiǎng gēn nǐ yìqǐ qù. | Anch'io vorrei venire con te.
+ex: 他**常常**在家做饭。 | Tā **chángcháng** zài jiā zuò fàn. | Cucina spesso a casa.
+ex: 她**已经**给妈妈打了电话。 | Tā **yǐjīng** gěi māma dǎ le diànhuà. | Ha già telefonato alla mamma.
+ex: 你**一定**要跟他说清楚。 | Nǐ **yídìng** yào gēn tā shuō qīngchu. | Devi assolutamente chiarire le cose con lui.
+ex: 我们明天**都**会在学校等你。 | Wǒmen míngtiān **dōu** huì zài xuéxiào děng nǐ. | Domani ti aspetteremo tutti a scuola.
+
+no: 我要也学汉语。 | Wǒ yào yě xué Hànyǔ. | Errato: 也 precede il verbo modale.
+ex: 我**也**要学汉语。 | Wǒ **yě** yào xué Hànyǔ. | Anch'io voglio studiare cinese.
+
+! Alcuni avverbi di tempo e di modo che riguardano solo il verbo principale possono seguire il modale: 你应该马上去 «Dovresti andarci subito», 我们要好好学习 «Dobbiamo studiare bene», 我想再看一遍 «Vorrei rileggerlo». 再 in particolare segue sempre il modale (vedi il paragrafo su 又, 再 e 还).
+
+### Più avverbi insieme
+
+Quando si combinano più avverbi, l'ordine più comune è: avverbi modali e valutativi → avverbi di tempo → avverbi di ambito (都, 也) → negazione → avverbi di grado. L'ordine 也都 è fisso (non *都也*).
+
+ex: 他们**也都**来了。 | Tāmen **yě dōu** lái le. | Sono venuti anche loro, tutti.
+ex: 我**其实一直**很想去中国。 | Wǒ **qíshí yìzhí** hěn xiǎng qù Zhōngguó. | In realtà ho sempre desiderato molto andare in Cina.
+ex: 他们**大概都已经**走了。 | Tāmen **dàgài dōu yǐjīng** zǒu le. | Probabilmente se ne sono già andati tutti.
+ex: 我**也不太**喜欢这个颜色。 | Wǒ **yě bú tài** xǐhuan zhège yánsè. | Neanche a me piace molto questo colore.
+
+### Avverbi e negazione
+
+La posizione reciproca dell'avverbio e della negazione cambia il significato: ciò che sta a destra della negazione è ciò che viene negato.
+
+| Ordine | Significato | Esempio |
+| 都不 | nessuno, tutti non | 他们都不去。 |
+| 不都 | non tutti | 他们不都去。 |
+| 常常不 | spesso non | 他常常不吃早饭。 |
+| 不常 | non spesso | 他不常吃早饭。 |
+| 一定不 | sicuramente non | 他一定不来。 |
+| 不一定 | non è detto che | 他不一定来。 |
+| 很不 | per niente | 很不高兴 |
+| 不很 / 不太 | non molto | 不太高兴 |
+
+ex: 他们**都不**是中国人。 | Tāmen **dōu bú** shì Zhōngguó rén. | Nessuno di loro è cinese.
+ex: 他们**不都**是中国人。 | Tāmen **bù dōu** shì Zhōngguó rén. | Non sono tutti cinesi.
+ex: 他**不一定**知道。 | Tā **bù yídìng** zhīdao. | Non è detto che lo sappia.
+
+### Avverbi che possono precedere il soggetto
+
+Alcuni avverbi che esprimono il punto di vista del parlante o che collegano la frase al contesto (avverbi di frase) possono stare all'inizio, davanti al soggetto, spesso seguiti da una pausa. I principali sono: 其实, 也许, 大概, 当然, 难道, 幸亏, 反正, 到底, 究竟, 本来, 原来, 突然, 忽然, 果然, 偏偏, 恐怕.
+
+ex: **其实**我不太喜欢他。 | **Qíshí** wǒ bú tài xǐhuan tā. | In realtà lui non mi piace molto.
+ex: **也许**他今天不来了。 | **Yěxǔ** tā jīntiān bù lái le. | Forse oggi non viene più.
+ex: **幸亏**你提醒了我。 | **Xìngkuī** nǐ tíxǐng le wǒ. | Per fortuna me l'hai ricordato.
+ex: **难道**你不知道吗？ | **Nándào** nǐ bù zhīdao ma? | Possibile che tu non lo sappia?
+ex: **突然**，电话响了。 | **Tūrán**, diànhuà xiǎng le. | All'improvviso squillò il telefono.
+ex: **到底**谁说的？ | **Dàodǐ** shéi shuō de? | Ma insomma, chi l'ha detto?
+
+! La maggior parte degli avverbi, e in particolare 也, 都, 还, 又, 再, 就, 才, 已经, 常常, 一定, 很, non può mai precedere il soggetto.
+
+no: 已经我吃了。 | Yǐjīng wǒ chī le. | Errato: 已经 va dopo il soggetto.
+ex: 我**已经**吃了。 | Wǒ **yǐjīng** chī le. | Ho già mangiato.
+
+## Gli avverbi di grado
+
+Gli avverbi di grado (程度副词 chéngdù fùcí) sono trattati per esteso nel capitolo «L'aggettivo», che contiene anche la tabella completa. Qui si riassume il loro uso con i **verbi**. Davanti ai verbi d'azione (吃, 去, 学习) non si usano: si combinano solo con verbi psicologici e di desiderio (喜欢, 爱, 想, 怕, 希望, 担心), con i modali (会, 能, 愿意), con 有 + nome astratto (有意思, 有名, 有用) e con alcune locuzioni verbo-oggetto (感兴趣, 受欢迎).
+
+| Avverbio | Pinyin | Valore | Con verbi |
+| 很 | hěn | molto | 很喜欢, 很会做饭 |
+| 非常 | fēicháng | moltissimo | 非常想家 |
+| 太……了 | tài…le | troppo; così tanto! | 太感谢你了 |
+| 最 | zuì | più di tutto | 最喜欢 |
+| 更 | gèng | ancora di più | 更爱 |
+| 比较 | bǐjiào | piuttosto, abbastanza | 比较喜欢 |
+| 挺……的 | tǐng…de | proprio (colloquiale) | 挺想去的 |
+| 特别 | tèbié | particolarmente | 特别怕冷 |
+| 十分 | shífēn | estremamente (formale) | 十分希望 |
+| 有点儿 | yǒudiǎnr | un po' (sgradito) | 有点儿担心 |
+
+ex: 我**很**喜欢这本书。 | Wǒ **hěn** xǐhuan zhè běn shū. | Questo libro mi piace molto.
+ex: 她**非常**想家。 | Tā **fēicháng** xiǎng jiā. | Ha moltissima nostalgia di casa.
+ex: 他**很**会做饭。 | Tā **hěn** huì zuò fàn. | È molto bravo a cucinare.
+ex: 这个电影**很**有意思。 | Zhège diànyǐng **hěn** yǒu yìsi. | Questo film è molto interessante.
+ex: 我**最**喜欢吃饺子。 | Wǒ **zuì** xǐhuan chī jiǎozi. | Più di tutto mi piace mangiare i ravioli.
+ex: 我**特别**怕冷。 | Wǒ **tèbié** pà lěng. | Soffro particolarmente il freddo.
+ex: 她**挺**喜欢你**的**。 | Tā **tǐng** xǐhuan nǐ **de**. | Le piaci proprio.
+ex: 我**有点儿**担心他。 | Wǒ **yǒudiǎnr** dānxīn tā. | Sono un po' preoccupato per lui.
+ex: **太**感谢你**了**！ | **Tài** gǎnxiè nǐ **le**! | Grazie infinite!
+
+### Osservazioni
+
+- «Molto» in italiano si mette spesso dopo il verbo («ti amo molto», «ho studiato molto»): in cinese l'avverbio di grado precede sempre il verbo, oppure il grado si esprime con un complemento (vedi il capitolo «Il complemento di grado»).
+
+no: 我爱你很多。 | Wǒ ài nǐ hěn duō. | Errato: calco dell'italiano «ti amo molto».
+ex: 我**很**爱你。 | Wǒ **hěn** ài nǐ. | Ti amo molto.
+no: 我很学习汉语。 | Wǒ hěn xuéxí Hànyǔ. | Errato: 很 non modifica i verbi d'azione.
+ex: 我学习汉语**很**努力。 | Wǒ xuéxí Hànyǔ **hěn** nǔlì. | Studio il cinese con molto impegno.
+
+- 比较 bǐjiào non è un comparativo: significa «relativamente, piuttosto». Per il confronto si usa 比 (vedi il capitolo «Le frasi comparative»).
+- 更 gèng implica un confronto con qualcosa già menzionato o sottinteso; 最 zuì è il superlativo e di solito fa riferimento a un gruppo.
+
+ex: 我喜欢猫，**更**喜欢狗。 | Wǒ xǐhuan māo, **gèng** xǐhuan gǒu. | Mi piacciono i gatti, ma ancora di più i cani.
+ex: 在所有的季节里，我**最**喜欢秋天。 | Zài suǒyǒu de jìjié li, wǒ **zuì** xǐhuan qiūtiān. | Di tutte le stagioni, la mia preferita è l'autunno.
+
+- 有点儿 indica un grado lieve di qualcosa di sgradito e non va confuso con 一点儿, che segue l'aggettivo (vedi il capitolo «L'aggettivo»).
+
+## Gli avverbi di tempo
+
+Gli avverbi di tempo (时间副词 shíjiān fùcí) collocano l'azione rispetto al momento dell'enunciazione o ad altri eventi. Non vanno confusi con le espressioni di tempo (今天, 去年, 三点), che sono nomi e possono precedere il soggetto (vedi il capitolo «Le espressioni di tempo»).
+
+| Avverbio | Pinyin | Significato |
+| 已经 | yǐjīng | già |
+| 曾经 | céngjīng | una volta, in passato (esperienza) |
+| 刚 / 刚刚 | gāng / gānggāng | appena |
+| 马上 / 立刻 | mǎshàng / lìkè | subito |
+| 一直 | yìzhí | sempre, di continuo, ininterrottamente |
+| 终于 | zhōngyú | finalmente |
+| 早就 | zǎo jiù | già da tempo |
+| 从来 | cónglái | mai (con la negazione) |
+| 先 | xiān | prima |
+| 正 / 正在 | zhèng / zhèngzài | stare facendo |
+| 快 / 就要 | kuài / jiù yào | stare per |
+| 将 | jiāng | (futuro, scritto) |
+
+! Per 正在 e 快……了 / 就要……了 vedi i capitoli «Azione in corso e stato continuato: 在, 正在, 着» e «Il futuro e le azioni imminenti».
+
+### 已经 «già»
+
+已经 yǐjīng indica che un'azione è compiuta o che uno stato è stato raggiunto; di solito è accompagnato da 了 alla fine della frase o dopo il verbo. Può precedere anche espressioni numeriche: 已经三十岁了 «ha già trent'anni».
+
+ex: 他**已经**回家**了**。 | Tā **yǐjīng** huí jiā **le**. | È già tornato a casa.
+ex: 天**已经**黑**了**。 | Tiān **yǐjīng** hēi **le**. | Si è già fatto buio.
+ex: 她**已经**三十岁**了**。 | Tā **yǐjīng** sānshí suì **le**. | Ha già trent'anni.
+ex: 我们**已经**认识十年**了**。 | Wǒmen **yǐjīng** rènshi shí nián **le**. | Ci conosciamo già da dieci anni.
+
+La forma negativa corrispondente non contiene 已经: si usa 还没(有)……(呢) «non ancora».
+
+ex: A：你吃饭了吗？B：**还没**吃**呢**。 | A: Nǐ chī fàn le ma? B: **Hái méi** chī **ne**. | A: Hai mangiato? B: Non ancora.
+no: 我已经没吃。 | Wǒ yǐjīng méi chī. | Errato: «non ancora» non si esprime con 已经 + 没.
+ex: 我**还没**吃。 | Wǒ **hái méi** chī. | Non ho ancora mangiato.
+
+! 已经不 / 已经没 esistono, ma significano «non più»: 他已经不在这儿工作了 «Non lavora più qui».
+
+### 曾经 «in passato, una volta»
+
+曾经 céngjīng indica che un'azione o uno stato si è verificato in un periodo passato ormai concluso; si combina spesso con 过 (vedi il capitolo «La particella 过»). È più frequente nella lingua scritta e formale. La negazione è 没(有)……过 o, nello scritto, 不曾 bùcéng / 未曾 wèicéng.
+
+ex: 我**曾经**在上海工作**过**两年。 | Wǒ **céngjīng** zài Shànghǎi gōngzuò **guo** liǎng nián. | In passato ho lavorato due anni a Shanghai.
+ex: 他**曾经**是我的老师。 | Tā **céngjīng** shì wǒ de lǎoshī. | Un tempo è stato mio insegnante.
+ex: 我**从来没**去**过**西藏。 | Wǒ **cónglái méi** qù **guo** Xīzàng. | Non sono mai stato in Tibet.
+
+| | 已经 | 曾经 |
+| Valore | azione compiuta, stato raggiunto | esperienza in un passato concluso |
+| Particella tipica | 了 | 过 |
+| Lo stato dura ancora? | spesso sì | di solito no |
+| Esempio | 他已经结婚了。(è sposato) | 他曾经结过婚。(è stato sposato) |
+
+### 刚 e 刚才
+
+刚 gāng (anche 刚刚 gānggāng) è un avverbio: «appena», indica che l'azione è avvenuta da poco (anche giorni o mesi, in senso soggettivo). Sta sempre davanti al verbo e di solito non vuole 了 finale. 刚才 gāngcái è invece un nome di tempo, «poco fa» (pochi minuti): può precedere il soggetto, si può far seguire dalla negazione e ammette 了.
+
+ex: 我**刚**到家。 | Wǒ **gāng** dào jiā. | Sono appena arrivato a casa.
+ex: 他**刚**来北京三个月。 | Tā **gāng** lái Běijīng sān ge yuè. | È a Pechino solo da tre mesi.
+ex: 电影**刚刚**开始。 | Diànyǐng **gānggāng** kāishǐ. | Il film è appena cominciato.
+ex: **刚才**有人给你打电话了。 | **Gāngcái** yǒu rén gěi nǐ dǎ diànhuà le. | Poco fa ti ha telefonato qualcuno.
+ex: 你**刚才**说什么？ | Nǐ **gāngcái** shuō shénme? | Che cosa hai detto poco fa?
+ex: 我**刚才**没听清楚。 | Wǒ **gāngcái** méi tīng qīngchu. | Prima non ho sentito bene.
+
+| | 刚 | 刚才 |
+| Categoria | avverbio | nome di tempo |
+| Prima del soggetto | no | sì |
+| Con 不 / 没 dopo | no | sì |
+| Con 了 finale | di solito no | sì |
+| Distanza temporale | soggettiva (anche mesi) | pochi minuti |
+
+no: 刚我看见他了。 | Gāng wǒ kànjiàn tā le. | Errato: 刚 non precede il soggetto.
+ex: **刚才**我看见他了。 | **Gāngcái** wǒ kànjiàn tā le. | Poco fa l'ho visto.
+no: 我刚不在家。 | Wǒ gāng bú zài jiā. | Errato: 刚 non si combina con la negazione.
+ex: 我**刚才**不在家。 | Wǒ **gāngcái** bú zài jiā. | Poco fa non ero a casa.
+
+### 马上 e 立刻 «subito»
+
+马上 mǎshàng (parlato) e 立刻 lìkè (più formale, «immediatamente») indicano un'azione che segue subito; 马上 si usa spesso con 就 e anche per il futuro imminente.
+
+ex: 我**马上**就来！ | Wǒ **mǎshàng** jiù lái! | Arrivo subito!
+ex: 电影**马上**就要开始了。 | Diànyǐng **mǎshàng** jiù yào kāishǐ le. | Il film sta per cominciare.
+ex: 听到这个消息，他**立刻**给家里打了电话。 | Tīngdào zhège xiāoxi, tā **lìkè** gěi jiāli dǎ le diànhuà. | Appena saputa la notizia, telefonò immediatamente a casa.
+
+### 一直 «sempre, continuamente»
+
+一直 yìzhí indica che un'azione o uno stato continua senza interruzione per un certo periodo, fino a ora o fino a un dato momento. Con i verbi di movimento significa anche «sempre dritto».
+
+ex: 我**一直**在等你。 | Wǒ **yìzhí** zài děng nǐ. | Ti ho aspettato tutto il tempo.
+ex: 这几天**一直**下雨。 | Zhè jǐ tiān **yìzhí** xià yǔ. | In questi giorni piove di continuo.
+ex: 他**一直**没给我回信。 | Tā **yìzhí** méi gěi wǒ huí xìn. | Non mi ha mai più risposto.
+ex: 我**一直**住在罗马。 | Wǒ **yìzhí** zhù zài Luómǎ. | Ho sempre abitato a Roma.
+ex: 从这儿**一直**往前走。 | Cóng zhèr **yìzhí** wǎng qián zǒu. | Da qui vada sempre dritto.
+
+### 终于, 早就, 从来
+
+- 终于 zhōngyú «finalmente, alla fine»: un risultato atteso arriva dopo un'attesa o uno sforzo; di solito con 了.
+- 早就 zǎo jiù «già da tempo»: l'azione è avvenuta molto prima di quanto si pensi.
+- 从来 cónglái «mai, da sempre»: si usa quasi solo con la negazione; 从来不 per abitudini, 从来没(有)……过 per esperienze.
+
+ex: 我们**终于**到了！ | Wǒmen **zhōngyú** dào le! | Finalmente siamo arrivati!
+ex: 等了半天，车**终于**来了。 | Děng le bàntiān, chē **zhōngyú** lái le. | Dopo un'attesa interminabile, l'autobus è finalmente arrivato.
+ex: 这件事我**早就**知道了。 | Zhè jiàn shì wǒ **zǎo jiù** zhīdao le. | Questa cosa la sapevo già da un pezzo.
+ex: 他**从来不**喝酒。 | Tā **cónglái bù** hē jiǔ. | Non beve mai alcolici.
+ex: 我**从来没**见**过**这么大的雪。 | Wǒ **cónglái méi** jiàn **guo** zhème dà de xuě. | Non ho mai visto una nevicata così.
+
+no: 我从来喝咖啡。 | Wǒ cónglái hē kāfēi. | Errato: per «sempre» (abitudine) non si usa 从来 senza negazione.
+ex: 我**总是**喝咖啡。 | Wǒ **zǒngshì** hē kāfēi. | Bevo sempre caffè.
+
+### 先……再 / 然后
+
+先 xiān «prima» introduce la prima di due azioni in sequenza; la seconda è introdotta da 再 zài (per azioni future o abituali) o dalla congiunzione 然后 ránhòu «poi».
+
+= S + 先 + V₁ + (O)，再 / 然后 + V₂
+
+ex: 我们**先**吃饭，**再**去看电影。 | Wǒmen **xiān** chī fàn, **zài** qù kàn diànyǐng. | Prima mangiamo, poi andiamo al cinema.
+ex: 你**先**洗手，**然后**吃饭。 | Nǐ **xiān** xǐ shǒu, **ránhòu** chī fàn. | Prima lavati le mani, poi mangia.
+ex: 他**先**去了银行，**然后**去了邮局。 | Tā **xiān** qù le yínháng, **ránhòu** qù le yóujú. | Prima è andato in banca, poi alla posta.
+
+## Gli avverbi di frequenza
+
+Gli avverbi di frequenza (频率副词 pínlǜ fùcí) precedono il verbo come gli altri avverbi.
+
+| Avverbio | Pinyin | Significato |
+| 总是 | zǒngshì | sempre (abitudine) |
+| 老 / 老是 | lǎo / lǎoshì | sempre, continuamente (spesso con fastidio) |
+| 常常 / 经常 | chángcháng / jīngcháng | spesso |
+| 往往 | wǎngwǎng | di solito, tende a (regola) |
+| 有时候 | yǒu shíhou | a volte |
+| 偶尔 | ǒu'ěr | ogni tanto, di rado |
+| 很少 | hěn shǎo | raramente |
+| 从来不 / 从来没 | cónglái bù / cónglái méi | mai |
+
+ex: 他**常常**迟到。 | Tā **chángcháng** chídào. | Arriva spesso in ritardo.
+ex: 我**经常**去那家咖啡馆。 | Wǒ **jīngcháng** qù nà jiā kāfēiguǎn. | Vado spesso in quel caffè.
+ex: 她**总是**很忙。 | Tā **zǒngshì** hěn máng. | È sempre impegnatissima.
+ex: 你怎么**老**迟到？ | Nǐ zěnme **lǎo** chídào? | Com'è che arrivi sempre in ritardo?
+ex: 我**有时候**坐地铁，**有时候**骑自行车。 | Wǒ **yǒu shíhou** zuò dìtiě, **yǒu shíhou** qí zìxíngchē. | A volte prendo la metro, a volte vado in bicicletta.
+ex: 我**偶尔**也喝一点儿酒。 | Wǒ **ǒu'ěr** yě hē yìdiǎnr jiǔ. | Ogni tanto bevo anche un po' di alcol.
+ex: 我**很少**看电视。 | Wǒ **hěn shǎo** kàn diànshì. | Guardo raramente la televisione.
+
+! La negazione di 常常 è normalmente 不常 «non spesso» (non *不常常*); con 经常 si dice anche 不经常. 常常不 significa invece «spesso non»: 他常常不吃早饭 «Spesso salta la colazione».
+
+### 常常 e 往往
+
+Entrambi si traducono «spesso», ma 往往 wǎngwǎng esprime una regolarità ricavata dall'esperienza: ciò che di solito accade in certe condizioni. Per questo richiede una circostanza esplicita (quando, se, in un dato luogo), non si usa per il futuro né per desideri o esortazioni. 常常 indica semplicemente la frequenza e si usa anche nel futuro e nelle esortazioni.
+
+ex: 周末他**往往**睡到中午。 | Zhōumò tā **wǎngwǎng** shuì dào zhōngwǔ. | Il fine settimana di solito dorme fino a mezzogiorno.
+ex: 天热的时候，我**往往**去游泳。 | Tiān rè de shíhou, wǒ **wǎngwǎng** qù yóuyǒng. | Quando fa caldo, di solito vado a nuotare.
+ex: 南方人**往往**不太习惯北方的冬天。 | Nánfāng rén **wǎngwǎng** bú tài xíguàn běifāng de dōngtiān. | Chi viene dal sud spesso fatica ad abituarsi all'inverno del nord.
+ex: 以后请**常常**来玩儿。 | Yǐhòu qǐng **chángcháng** lái wánr. | In futuro venite a trovarci spesso.
+
+no: 以后请往往来玩儿。 | Yǐhòu qǐng wǎngwǎng lái wánr. | Errato: 往往 non si usa nelle esortazioni né per il futuro.
+no: 我往往去游泳。 | Wǒ wǎngwǎng qù yóuyǒng. | Errato: 往往 richiede una circostanza esplicita.
+ex: 我**常常**去游泳。 | Wǒ **chángcháng** qù yóuyǒng. | Vado spesso a nuotare.
+
+| | 常常 | 往往 |
+| Valore | frequenza | regolarità in certe condizioni |
+| Serve una circostanza? | no | sì |
+| Futuro, esortazioni | sì | no |
+| Esempio | 我常常去。 | 周末他往往在家。 |
+
+### «Sempre»: 总是, 一直, 从来, 永远
+
+L'italiano «sempre» corrisponde a più avverbi cinesi.
+
+| Avverbio | Valore | Esempio |
+| 总是 zǒngshì | ogni volta, per abitudine | 他总是迟到。 |
+| 一直 yìzhí | senza interruzione | 我一直在等你。 |
+| 从来 cónglái | mai (+ negazione) | 他从来不迟到。 |
+| 永远 yǒngyuǎn | per sempre | 我永远爱你。 |
+| 一向 yíxiàng | da sempre (abitudine) | 他一向很准时。 |
+
+ex: 他**总是**第一个到办公室。 | Tā **zǒngshì** dì-yī ge dào bàngōngshì. | È sempre il primo ad arrivare in ufficio.
+ex: 我**永远**不会忘记你。 | Wǒ **yǒngyuǎn** bú huì wàngjì nǐ. | Non ti dimenticherò mai.
+ex: 他**一向**很准时。 | Tā **yíxiàng** hěn zhǔnshí. | È sempre stato puntuale.

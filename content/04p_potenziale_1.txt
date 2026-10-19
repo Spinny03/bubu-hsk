@@ -1,0 +1,91 @@
+# Il complemento potenziale
+
+Il complemento potenziale (可能补语 kěnéng bǔyǔ) indica se un risultato o una direzione *possono* essere raggiunti: «riuscire / non riuscire a…». Si forma inserendo 得 (forma positiva) o 不 (forma negativa) tra il verbo e un complemento di risultato o di direzione. In questa costruzione 得 e 不 si pronunciano in tono neutro, mentre il complemento conserva di solito il suo tono: 听得懂 tīng de dǒng, 听不懂 tīng bu dǒng.
+
+## Struttura: V + 得/不 + C
+
+= S + V + 得 + C (+ O)
+= S + V + 不 + C (+ O)
+
+| Complemento | Forma positiva | Forma negativa | Significato |
+| 听懂 | 听得懂 | 听不懂 | (non) riuscire a capire |
+| 看见 | 看得见 | 看不见 | (non) riuscire a vedere |
+| 做完 | 做得完 | 做不完 | (non) riuscire a finire |
+| 洗干净 | 洗得干净 | 洗不干净 | (non) riuscire a pulire |
+| 回来 | 回得来 | 回不来 | (non) riuscire a tornare |
+| 进去 | 进得去 | 进不去 | (non) riuscire a entrare |
+| 拿出来 | 拿得出来 | 拿不出来 | (non) riuscire a tirar fuori |
+
+ex: 他说得太快，我**听不懂**。 | Tā shuō de tài kuài, wǒ **tīng bu dǒng**. | Parla troppo veloce, non riesco a capire.
+ex: 你坐在后面**看得见**吗？ | Nǐ zuò zài hòumiàn **kàn de jiàn** ma? | Da lì dietro riesci a vedere?
+ex: 今天的作业太多了，我**做不完**。 | Jīntiān de zuòyè tài duō le, wǒ **zuò bu wán**. | Oggi ci sono troppi compiti, non riesco a finirli.
+ex: 这件衣服太脏了，**洗不干净**了。 | Zhè jiàn yīfu tài zāng le, **xǐ bu gānjìng** le. | Questo vestito è troppo sporco, non si riesce più a pulirlo.
+ex: 他今天晚上**回得来**吗？ | Tā jīntiān wǎnshang **huí de lái** ma? | Riesce a tornare stasera?
+ex: 门锁了，我们**进不去**。 | Mén suǒ le, wǒmen **jìn bu qù**. | La porta è chiusa a chiave, non possiamo entrare.
+ex: 箱子太重了，我**拿不动**。 | Xiāngzi tài zhòng le, wǒ **ná bu dòng**. | La valigia è troppo pesante, non riesco a sollevarla.
+ex: 刚来的时候，我**吃不惯**这里的菜。 | Gāng lái de shíhou, wǒ **chī bu guàn** zhèlǐ de cài. | Appena arrivato, non riuscivo ad abituarmi alla cucina di qui.
+ex: 我昨天晚上**睡不着**。 | Wǒ zuótiān wǎnshang **shuì bu zháo**. | Ieri notte non riuscivo a dormire.
+
+Il complemento potenziale esprime soprattutto la possibilità o l'impossibilità oggettiva di ottenere un risultato, data la situazione (rumore, distanza, quantità, difficoltà, capacità fisiche o intellettuali). La forma negativa è molto più frequente di quella positiva, che compare soprattutto nelle domande, nelle risposte a domande e nei contrasti.
+
+ex: A：你听得懂上海话吗？B：**听不懂**。 | A: Nǐ tīng de dǒng Shànghǎihuà ma? B: **Tīng bu dǒng**. | A: Riesci a capire lo shanghaiese? B: No.
+ex: A：黑板上的字你看得清楚吗？B：**看得清楚**。 | A: Hēibǎn shang de zì nǐ kàn de qīngchu ma? B: **Kàn de qīngchu**. | A: Riesci a leggere bene quello che c'è sulla lavagna? B: Sì.
+
+! Non confondete il complemento potenziale con il complemento di grado. Nella forma affermativa possono coincidere (跑得快), ma le forme negative sono diverse: 他跑得不快 «non corre veloce» (grado), 他跑不快 «non riesce a correre veloce» (potenziale). Vedi il capitolo «Il complemento di grado».
+
+## V + 得了 / V + 不了 (liǎo)
+
+Con il complemento 了, letto liǎo, si forma un potenziale molto comune, che non indica un risultato particolare ma la possibilità stessa di compiere l'azione («riuscire a, poter…»), oppure la possibilità di portarla a termine quando si tratta di una quantità («riuscire a… tutto»).
+
+= S + V + 得了 / 不了 (+ O)
+
+ex: 这么多菜，我们**吃不了**。 | Zhème duō cài, wǒmen **chī bu liǎo**. | Tutto questo cibo non riusciamo a mangiarlo.
+ex: 我明天有事，**去不了**。 | Wǒ míngtiān yǒu shì, **qù bu liǎo**. | Domani ho un impegno, non posso andarci.
+ex: 你放心，我**忘不了**你。 | Nǐ fàngxīn, wǒ **wàng bu liǎo** nǐ. | Stai tranquillo, non ti dimenticherò.
+ex: 这儿太吵了，我**受不了**。 | Zhèr tài chǎo le, wǒ **shòubuliǎo**. | Qui c'è troppo rumore, non lo sopporto.
+ex: 他病了，今天**来不了**了。 | Tā bìng le, jīntiān **lái bu liǎo** le. | È malato, oggi non potrà venire.
+ex: 放心吧，**错不了**。 | Fàngxīn ba, **cuò bu liǎo**. | Stai tranquillo, non ci si può sbagliare.
+ex: A：这么多东西，你一个人**拿得了**吗？B：**拿得了**。 | A: Zhème duō dōngxi, nǐ yí ge rén **ná de liǎo** ma? B: **Ná de liǎo**. | A: Con tutta questa roba, ce la fai a portarla da solo? B: Sì, ce la faccio.
+
+Anche alcuni aggettivi si combinano con 不了: 他的病一时**好不了**。«La sua malattia non guarirà tanto presto.»
+
+! 吃不完 e 吃不了 sono spesso intercambiabili quando si parla di quantità («non riuscire a mangiare tutto»); 不了 ha però un valore più ampio e può indicare l'impossibilità in generale: 他牙疼，什么都吃不了。«Ha mal di denti, non riesce a mangiare niente.»
+
+## Complemento potenziale e verbi modali a confronto
+
+Anche i verbi modali 能 néng, 可以 kěyǐ e 会 huì esprimono possibilità e capacità (vedi il capitolo «I verbi modali»), ma con valori diversi:
+
+- 能 indica una capacità o una possibilità in generale, spesso legata alle condizioni; 不能 indica anche che qualcosa non è permesso o non è opportuno;
+- 可以 indica soprattutto il permesso;
+- 会 indica una capacità appresa («sapere»);
+- il complemento potenziale indica se, nelle circostanze date, l'azione può raggiungere un determinato risultato.
+
+Quando si vuole dire che un risultato non si può raggiungere, si usa il complemento potenziale e non 不能 + V + C.
+
+no: 我不能听懂。 | Wǒ bù néng tīngdǒng. | Errato: per «non riesco a capire» si usa il complemento potenziale.
+ex: 我**听不懂**。 | Wǒ **tīng bu dǒng**. | Non riesco a capire.
+no: 我不能看见黑板上的字。 | Wǒ bù néng kànjiàn hēibǎn shang de zì. | Errato: si usa la forma potenziale.
+ex: 我**看不见**黑板上的字。 | Wǒ **kàn bu jiàn** hēibǎn shang de zì. | Non riesco a vedere quello che c'è scritto sulla lavagna.
+
+Al contrario, per un divieto si usa 不能 e non il complemento potenziale:
+
+ex: 你**不能**进去，这是办公室。 | Nǐ **bù néng** jìnqu, zhè shì bàngōngshì. | Non puoi entrare, questo è un ufficio. (divieto)
+ex: 门锁了，你**进不去**。 | Mén suǒ le, nǐ **jìn bu qù**. | La porta è chiusa a chiave, non riesci a entrare. (impossibilità)
+
+Nella forma positiva 能 si può combinare con il complemento di risultato o con il potenziale stesso, per rafforzare l'idea di possibilità:
+
+ex: 坐在最后一排也**能看见**。 | Zuò zài zuìhòu yì pái yě **néng kànjiàn**. | Anche seduti nell'ultima fila si riesce a vedere.
+ex: 你**能看得见**吗？ | Nǐ **néng kàn de jiàn** ma? | Riesci a vedere?
+
+Per le richieste cortesi si usano 能 o 可以, non il complemento potenziale:
+
+ex: 你**能**帮我一下吗？ | Nǐ **néng** bāng wǒ yíxià ma? | Puoi darmi una mano?
+
+| Frase | Struttura | Significato |
+| 你不能进去。 | 不能 + V | divieto: non ti è permesso |
+| 你进不去。 | V + 不 + C | impossibilità: non ci riesci |
+| 我不会游泳。 | 不会 + V | non so nuotare |
+| 我游不过去。 | V + 不 + C | non riesco ad arrivare a nuoto di là |
+| 我能看见。 | 能 + V + C | riesco a vedere |
+| 我看得见。 | V + 得 + C | riesco a vedere |
+| 你可以走了。 | 可以 + V | permesso: puoi andare |

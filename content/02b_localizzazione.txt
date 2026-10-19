@@ -1,0 +1,209 @@
+## Le parole di localizzazione
+
+Le parole di localizzazione (方位词 fāngwèicí) indicano una posizione nello spazio (sopra, sotto, dentro, davanti…) e, per estensione, nel tempo o in un ambito astratto. A differenza dell'italiano, che usa preposizioni poste **prima** del nome (*sul* tavolo, *nella* stanza), il cinese colloca il localizzatore **dopo** il nome: 桌子上 zhuōzi shang, lett. «tavolo-sopra».
+
+= N + parola di localizzazione
+= 在 + N + parola di localizzazione
+
+ex: 书在桌子**上**。 | Shū zài zhuōzi **shang**. | Il libro è sul tavolo. (lett. libro essere-a tavolo-sopra)
+ex: 他在房间**里**看书。 | Tā zài fángjiān **li** kàn shū. | Sta leggendo in camera.
+
+### Le forme semplici
+Le forme monosillabiche si attaccano direttamente al nome, senza 的. Dopo un nome, 上 e 里 sono normalmente atoni: zhuōzi shang, fángjiān li.
+
+| Localizzatore | Pinyin | Significato |
+| 上 | shàng | sopra, su |
+| 下 | xià | sotto |
+| 里 | lǐ | dentro, in |
+| 外 | wài | fuori |
+| 前 | qián | davanti; prima |
+| 后 | hòu | dietro; dopo |
+| 左 | zuǒ | sinistra |
+| 右 | yòu | destra |
+| 东 | dōng | est |
+| 南 | nán | sud |
+| 西 | xī | ovest |
+| 北 | běi | nord |
+| 中 | zhōng | in mezzo, in (formale) |
+| 内 | nèi | dentro, entro (formale) |
+| 旁 | páng | accanto |
+
+ex: 猫在床**下**。 | Māo zài chuáng **xià**. | Il gatto è sotto il letto.
+ex: 门**外**有人。 | Mén **wài** yǒu rén. | C'è qualcuno fuori dalla porta.
+ex: 山**上**有很多树。 | Shān **shang** yǒu hěn duō shù. | Sulla montagna ci sono molti alberi.
+
+### Le forme composte
+Aggiungendo 边 bian, 面 mian o 头 tou (atoni) si ottengono forme bisillabiche, che sono veri e propri sostantivi di luogo. Le forme in 边 e in 面 sono in genere intercambiabili; quelle in 头 sono più colloquiali e tipiche del nord.
+
+| Base | + 边 | + 面 | + 头 | Significato |
+| 上 | 上边 shàngbian | 上面 shàngmian | 上头 shàngtou | sopra |
+| 下 | 下边 xiàbian | 下面 xiàmian | 下头 xiàtou | sotto |
+| 里 | 里边 lǐbian | 里面 lǐmian | 里头 lǐtou | dentro |
+| 外 | 外边 wàibian | 外面 wàimian | 外头 wàitou | fuori |
+| 前 | 前边 qiánbian | 前面 qiánmian | 前头 qiántou | davanti |
+| 后 | 后边 hòubian | 后面 hòumian | 后头 hòutou | dietro |
+| 左 / 右 | 左边 zuǒbian, 右边 yòubian | 左面, 右面 | — | a sinistra, a destra |
+| 东 / 南 / 西 / 北 | 东边 dōngbian ecc. | 东面 dōngmian ecc. | — | a est, sud, ovest, nord |
+
+Altre parole di localizzazione composte molto comuni:
+
+| Parola | Pinyin | Significato |
+| 旁边 | pángbiān | accanto, a fianco |
+| 对面 | duìmiàn | di fronte, dall'altra parte |
+| 中间 | zhōngjiān | in mezzo, tra |
+| 附近 | fùjìn | nei dintorni, vicino |
+| 周围 | zhōuwéi | intorno, attorno |
+| 底下 | dǐxia | sotto (colloquiale) |
+
+! I punti cardinali intermedi si formano mettendo per primo est od ovest: 东北 dōngběi «nord-est», 东南 dōngnán «sud-est», 西北 xīběi «nord-ovest», 西南 xīnán «sud-ovest». L'ordine è quindi opposto a quello italiano.
+
+### Forme semplici e forme composte a confronto
+- Le forme **semplici** seguono direttamente il nome (桌子上, 房间里, 门外) e, salvo espressioni fisse, non possono stare da sole.
+- Le forme **composte** possono seguire un nome, con o senza 的 (桌子(的)上边, 学校(的)旁边), ma possono anche stare da sole come soggetto, oggetto o attributo.
+
+ex: 银行在邮局**旁边**。 | Yínháng zài yóujú **pángbiān**. | La banca è accanto all'ufficio postale.
+ex: 我家**对面**有一个超市。 | Wǒ jiā **duìmiàn** yǒu yí ge chāoshì. | Di fronte a casa mia c'è un supermercato.
+ex: 他坐在我和小王**中间**。 | Tā zuò zài wǒ hé Xiǎo Wáng **zhōngjiān**. | È seduto tra me e Xiao Wang.
+ex: 学校**附近**有很多饭馆。 | Xuéxiào **fùjìn** yǒu hěn duō fànguǎn. | Vicino alla scuola ci sono molti ristoranti.
+ex: **外面**很冷，**里边**很暖和。 | **Wàimian** hěn lěng, **lǐbian** hěn nuǎnhuo. | Fuori fa freddo, dentro si sta al caldo.
+ex: **前面**就是火车站。 | **Qiánmian** jiù shì huǒchēzhàn. | Lì davanti c'è proprio la stazione.
+ex: **上边**的那本书是我的。 | **Shàngbian** de nà běn shū shì wǒ de. | Il libro lì sopra è mio.
+
+no: 书在桌子的上。 | Shū zài zhuōzi de shàng. | Errato: davanti a un localizzatore monosillabico non si mette 的.
+ex: 书在桌子**上边**。 | Shū zài zhuōzi **shàngbian**. | Il libro è sul tavolo.
+no: 他在里房间。 | Tā zài lǐ fángjiān. | Errato: il localizzatore va dopo il nome, non prima.
+ex: 他在**房间里**。 | Tā zài **fángjiān li**. | È in camera.
+
+! Con un localizzatore all'inizio della frase si costruiscono le frasi esistenziali del tipo 桌子上有一本书 «sul tavolo c'è un libro» (vedi il capitolo «Le frasi con 有 e le frasi esistenziali»).
+
+### Il localizzatore obbligatorio dopo 在, 从, 到
+I nomi comuni di oggetti (桌子, 书包, 冰箱, 床…) non indicano di per sé un luogo. Per poterli usare come luogo dopo preposizioni come 在 zài, 从 cóng, 到 dào, occorre aggiungere un localizzatore, di solito 上 o 里.
+
+= 在 / 从 / 到 + N comune + 上 / 里 / …
+
+ex: 你的手机在**桌子上**。 | Nǐ de shǒujī zài **zhuōzi shang**. | Il tuo cellulare è sul tavolo.
+ex: 牛奶在**冰箱里**。 | Niúnǎi zài **bīngxiāng li**. | Il latte è in frigorifero.
+ex: 我从**书包里**拿了一支笔。 | Wǒ cóng **shūbāo li** ná le yì zhī bǐ. | Ho preso una penna dallo zaino.
+ex: 我们到**房间里**去吧。 | Wǒmen dào **fángjiān li** qù ba. | Andiamo in camera.
+ex: 他的照片在**墙上**。 | Tā de zhàopiàn zài **qiáng shang**. | La sua foto è appesa al muro.
+
+no: 你的手机在桌子。 | Nǐ de shǒujī zài zhuōzi. | Errato: 桌子 non è un luogo; serve un localizzatore.
+ex: 你的手机在桌子**上**。 | Nǐ de shǒujī zài zhuōzi **shang**. | Il tuo cellulare è sul tavolo.
+
+### Nomi propri di luogo: niente 里
+I nomi di paesi, regioni e città sono già luoghi: dopo di essi non si aggiunge 里.
+
+ex: 他在**中国**工作。 | Tā zài **Zhōngguó** gōngzuò. | Lavora in Cina.
+ex: 我从**意大利**来。 | Wǒ cóng **Yìdàlì** lái. | Vengo dall'Italia.
+ex: 玛丽亚住在**罗马**。 | Mǎlìyà zhù zài **Luómǎ**. | Maria abita a Roma.
+
+no: 他在中国里工作。 | Tā zài Zhōngguó li gōngzuò. | Errato: con i nomi propri di luogo non si usa 里.
+ex: 他在中国工作。 | Tā zài Zhōngguó gōngzuò. | Lavora in Cina.
+
+### Nomi che indicano già un luogo
+Molti nomi comuni designano luoghi o istituzioni: 家 jiā, 学校 xuéxiào, 图书馆 túshūguǎn, 银行 yínháng, 医院 yīyuàn, 公司 gōngsī, 饭馆 fànguǎn, 商店 shāngdiàn, 机场 jīchǎng, 教室 jiàoshì. Con questi il localizzatore è facoltativo; se si aggiunge 里, si sottolinea l'idea di «dentro, all'interno».
+
+ex: 我在**家**。 | Wǒ zài **jiā**. | Sono a casa.
+ex: 他在**学校**学习。 | Tā zài **xuéxiào** xuéxí. | Studia a scuola.
+ex: 我在**图书馆**等你。 | Wǒ zài **túshūguǎn** děng nǐ. | Ti aspetto in biblioteca.
+ex: **教室里**没有人。 | **Jiàoshì li** méiyǒu rén. | In aula non c'è nessuno.
+ex: **学校里**有很多树。 | **Xuéxiào li** yǒu hěn duō shù. | All'interno della scuola ci sono molti alberi.
+
+| Tipo di nome | Esempi | Localizzatore |
+| nome comune di oggetto | 桌子, 书包, 冰箱 | obbligatorio: 在桌子上 |
+| nome di luogo o istituzione | 家, 学校, 银行 | facoltativo: 在学校(里) |
+| nome proprio di luogo | 中国, 北京, 罗马 | escluso: 在中国 |
+| persona o pronome | 老师, 我 | + 这儿 / 那儿: 在老师那儿 |
+
+### Usi astratti e figurati
+Molti localizzatori hanno anche usi astratti, frequenti soprattutto nella lingua scritta e formale.
+
+| Espressione | Pinyin | Significato |
+| 在……上 | zài… shang | in, per quanto riguarda |
+| 在……中 | zài… zhōng | in, durante, nel corso di |
+| 在……下 | zài… xià | sotto, con (condizione, aiuto) |
+| 以上 / 以下 | yǐshàng / yǐxià | oltre, sopra / sotto, meno di |
+| 之间 | zhījiān | tra, fra |
+| 之内 / 以内 | zhīnèi / yǐnèi | entro, all'interno di |
+| 世界上, 网上, 电视上 | shìjiè shang, wǎngshang, diànshì shang | al mondo, in rete, in TV |
+| 心里, 手里 | xīnli, shǒu li | dentro di sé, in mano |
+
+ex: 他**在学习上**很努力。 | Tā **zài xuéxí shang** hěn nǔlì. | Nello studio si impegna molto.
+ex: **在这个问题上**，我们的看法不一样。 | **Zài zhège wèntí shang**, wǒmen de kànfǎ bù yíyàng. | Su questa questione abbiamo opinioni diverse.
+ex: **在**生活**中**，我们会遇到很多困难。 | **Zài** shēnghuó **zhōng**, wǒmen huì yùdào hěn duō kùnnan. | Nella vita incontriamo molte difficoltà.
+ex: **在**老师的帮助**下**，我的汉语进步很快。 | **Zài** lǎoshī de bāngzhù **xià**, wǒ de Hànyǔ jìnbù hěn kuài. | Con l'aiuto dell'insegnante il mio cinese è migliorato in fretta.
+ex: 这个电影十八岁**以上**才能看。 | Zhège diànyǐng shíbā suì **yǐshàng** cái néng kàn. | Questo film è vietato ai minori di diciotto anni.
+ex: 今天晚上气温在零度**以下**。 | Jīntiān wǎnshang qìwēn zài líng dù **yǐxià**. | Stasera la temperatura scende sotto lo zero.
+ex: 这是我们**之间**的秘密。 | Zhè shì wǒmen **zhījiān** de mìmì. | È un segreto tra noi.
+ex: 请在三天**之内**回答。 | Qǐng zài sān tiān **zhīnèi** huídá. | Si prega di rispondere entro tre giorni.
+ex: 我在**网上**买了一件衣服。 | Wǒ zài **wǎngshang** mǎi le yí jiàn yīfu. | Ho comprato un vestito su internet.
+ex: 他**心里**很难过。 | Tā **xīnli** hěn nánguò. | Dentro di sé è molto triste.
+
+! Con 以上 e 以下 il numero indicato è in genere compreso (e lo è sempre nei testi ufficiali): 十八岁以上 vuol dire «dai diciotto anni in su».
+! 前 e 后 si usano anche dopo espressioni di tempo: 三天前 «tre giorni fa», 饭后 «dopo i pasti» (vedi il capitolo «Le espressioni di tempo»).
+
+## Sostantivi di tempo e di luogo
+
+I sostantivi di tempo (今天 jīntiān, 明天 míngtiān, 现在 xiànzài, 去年 qùnián, 早上 zǎoshang, 星期一 xīngqīyī…) e quelli di luogo (这儿 zhèr, 外边 wàibian, 前面 qiánmian, 附近 fùjìn, 北京 Běijīng…) hanno un comportamento particolare: possono fare da **soggetto**, da **attributo** (con 的) e da **complemento avverbiale** senza bisogno di preposizioni. In italiano diciamo *a* Natale, *di* sera, *nel* 2020; in cinese basta il nome: 2020年我在北京 «nel 2020 ero a Pechino».
+
+= Tempo + S + V
+= S + Tempo + V
+= Tempo / Luogo + 的 + N
+
+ex: **今天**很冷。 | **Jīntiān** hěn lěng. | Oggi fa freddo. (soggetto)
+ex: 我们**明天**见。 | Wǒmen **míngtiān** jiàn. | Ci vediamo domani. (complemento di tempo)
+ex: **北京**的冬天很冷。 | **Běijīng** de dōngtiān hěn lěng. | L'inverno di Pechino è molto freddo. (attributo)
+ex: **明天**的会很重要。 | **Míngtiān** de huì hěn zhòngyào. | La riunione di domani è molto importante.
+ex: **现在**几点？ | **Xiànzài** jǐ diǎn? | Che ore sono adesso?
+ex: **外边**下雨了。 | **Wàibian** xià yǔ le. | Fuori piove.
+ex: **前面**有一家银行。 | **Qiánmian** yǒu yì jiā yínháng. | Più avanti c'è una banca.
+ex: **明天**星期六。 | **Míngtiān** xīngqīliù. | Domani è sabato. (predicato nominale)
+
+Come complemento, il sostantivo di tempo precede sempre il verbo, prima o dopo il soggetto (vedi i capitoli «L'ordine delle parole» e «Le espressioni di tempo»).
+
+no: 我们见明天。 | Wǒmen jiàn míngtiān. | Errato: l'espressione di tempo va prima del verbo.
+ex: 我们**明天**见。 | Wǒmen **míngtiān** jiàn. | Ci vediamo domani.
+
+### Da una persona a un luogo: 这儿 e 那儿
+I nomi di persona e i pronomi non indicano un luogo. Per dire «da me», «dal professore», «a casa di Maria» si aggiunge 这儿 / 这里 (vicino a chi parla) oppure 那儿 / 那里 (lontano da chi parla).
+
+= N (persona) / Pron + 这儿 / 那儿
+
+ex: 你**到我这儿**来吧。 | Nǐ **dào wǒ zhèr** lái ba. | Vieni da me.
+ex: 我要**去老师那儿**。 | Wǒ yào **qù lǎoshī nàr**. | Devo andare dal professore.
+ex: 你的书**在我这儿**。 | Nǐ de shū **zài wǒ zhèr**. | Il tuo libro ce l'ho io. (lett. è presso di me)
+ex: 我刚**从小王那儿**回来。 | Wǒ gāng **cóng Xiǎo Wáng nàr** huílai. | Sono appena tornato da Xiao Wang.
+ex: 周末我们**去玛丽亚那里**吃饭。 | Zhōumò wǒmen **qù Mǎlìyà nàli** chī fàn. | Nel fine settimana andiamo a mangiare da Maria.
+
+no: 我要去老师。 | Wǒ yào qù lǎoshī. | Errato: un nome di persona non può indicare un luogo; serve 那儿.
+ex: 我要去**老师那儿**。 | Wǒ yào qù **lǎoshī nàr**. | Devo andare dal professore.
+
+## Sostantivi numerabili e collettivi
+
+In cinese non c'è una distinzione grammaticale netta tra nomi numerabili e non numerabili: per contare qualsiasi nome si usa sempre un classificatore, secondo lo schema Num + CL + N. La differenza sta nel tipo di classificatore: i nomi di oggetti individuali hanno un classificatore specifico (一本书), mentre le sostanze si misurano con unità di misura o contenitori (一杯水, 一斤肉). Tutti i dettagli sono nel capitolo «I classificatori».
+
+ex: 三**本**书 | sān **běn** shū | tre libri
+ex: 两**杯**水 | liǎng **bēi** shuǐ | due bicchieri d'acqua
+ex: 一**斤**肉 | yì **jīn** ròu | mezzo chilo di carne
+
+### I nomi collettivi
+Alcuni nomi, formati da un nome seguito dal suo classificatore, indicano un'intera categoria in senso collettivo. Appartengono soprattutto al registro scritto e formale e **non si contano con un classificatore**.
+
+| Nome individuale | Classificatore | Nome collettivo | Significato |
+| 车 chē | 辆 liàng | 车辆 chēliàng | veicoli |
+| 书 shū | 本 běn | 书本 shūběn | libri (in generale) |
+| 纸 zhǐ | 张 zhāng | 纸张 zhǐzhāng | carta, fogli |
+| 船 chuán | 只 zhī | 船只 chuánzhī | imbarcazioni |
+| 马 mǎ | 匹 pǐ | 马匹 mǎpǐ | cavalli |
+| 花 huā | 朵 duǒ | 花朵 huāduǒ | fiori |
+| 信 xìn | 件 jiàn | 信件 xìnjiàn | corrispondenza |
+| 人 rén | 口 kǒu | 人口 rénkǒu | popolazione |
+
+ex: 这条路上**车辆**很多。 | Zhè tiáo lù shang **chēliàng** hěn duō. | Su questa strada passano molti veicoli.
+ex: 请节约**纸张**。 | Qǐng jiéyuē **zhǐzhāng**. | Si prega di non sprecare la carta.
+ex: 中国有十四亿多**人口**。 | Zhōngguó yǒu shísì yì duō **rénkǒu**. | La Cina ha più di un miliardo e quattrocento milioni di abitanti.
+
+no: 三辆车辆 | sān liàng chēliàng | Errato: i nomi collettivi non si contano con il classificatore.
+ex: 三辆**车** | sān liàng **chē** | tre veicoli
+
+! 人口 può essere preceduto direttamente da un numero (十四亿人口), ma mai da un classificatore.

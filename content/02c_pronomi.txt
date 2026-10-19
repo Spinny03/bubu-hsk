@@ -1,0 +1,213 @@
+# I pronomi
+
+I pronomi (代词 dàicí) cinesi sono **invariabili**: la stessa forma vale come soggetto e come oggetto, e con l'aggiunta di 的 de esprime il possesso. Non esistono forme atone come *mi*, *ti*, *lo*, *gli*, né concordanze di genere e numero con il verbo. Si distinguono i pronomi personali (人称代词 rénchēng dàicí), i dimostrativi (指示代词 zhǐshì dàicí) e gli interrogativi (疑问代词 yíwèn dàicí), oltre ad alcuni pronomi speciali come 自己, 大家, 别人.
+
+## I pronomi personali
+
+| Persona | Singolare | Plurale |
+| 1ª | 我 wǒ «io, me» | 我们 wǒmen «noi»; 咱们 zánmen «noi (inclusivo)» |
+| 2ª | 你 nǐ «tu, te»; 您 nín «Lei» | 你们 nǐmen «voi» |
+| 3ª maschile | 他 tā «lui» | 他们 tāmen «loro» |
+| 3ª femminile | 她 tā «lei» | 她们 tāmen «loro (solo donne)» |
+| 3ª non umana | 它 tā «esso, essa» | 它们 tāmen «essi, esse» |
+
+他, 她 e 它 si pronunciano allo stesso modo, tā: la distinzione esiste solo nella scrittura. Il plurale si forma sempre con il suffisso 们 men.
+
+= S (Pron) + V + O (Pron)
+
+ex: **我**认识**他**。 | **Wǒ** rènshi **tā**. | Io lo conosco.
+ex: **他**认识**我**。 | **Tā** rènshi **wǒ**. | Lui mi conosce.
+ex: 我明天给**你**打电话。 | Wǒ míngtiān gěi **nǐ** dǎ diànhuà. | Domani ti telefono.
+ex: 老师在等**我们**。 | Lǎoshī zài děng **wǒmen**. | L'insegnante ci sta aspettando.
+ex: **她们**是我的同学。 | **Tāmen** shì wǒ de tóngxué. | Sono mie compagne di classe.
+
+Il pronome oggetto occupa la stessa posizione di un nome oggetto, cioè **dopo il verbo**; non si anticipa mai come i pronomi atoni italiani (*ti* amo, *lo* conosco).
+
+no: 我你爱。 | Wǒ nǐ ài. | Errato: il pronome oggetto segue il verbo.
+ex: 我爱**你**。 | Wǒ ài **nǐ**. | Ti amo.
+
+Poiché il verbo cinese non si coniuga, il pronome soggetto si esprime molto più spesso che in italiano. Si omette però quando il contesto è chiaro, soprattutto nelle risposte e nelle frasi in sequenza.
+
+ex: A：你去吗？B：去。 | A: Nǐ qù ma? B: Qù. | A: Ci vai? B: Sì.
+ex: 我昨天去了超市，买了很多东西。 | Wǒ zuótiān qù le chāoshì, mǎi le hěn duō dōngxi. | Ieri sono andato al supermercato e ho comprato tante cose.
+
+### 您
+您 nín è la forma di cortesia della seconda persona singolare, equivalente al *Lei* italiano: si usa con persone anziane, superiori, clienti e sconosciuti, non tra amici. Il plurale 您们 è raro e limitato allo scritto (lettere, avvisi); a voce si dice 你们, 各位 gèwèi «signori, tutti voi», oppure 您 + Num + 位.
+
+ex: **您**好！ | **Nín** hǎo! | Buongiorno! (forma di cortesia)
+ex: 李老师，**您**明天有时间吗？ | Lǐ lǎoshī, **nín** míngtiān yǒu shíjiān ma? | Professor Li, domani ha tempo?
+ex: **您**贵姓？ | **Nín** guìxìng? | Qual è il Suo cognome?
+ex: 欢迎光临！**您几位**？ | Huānyíng guānglín! **Nín jǐ wèi**? | Benvenuti! Quanti siete?
+ex: **您两位**请坐。 | **Nín liǎng wèi** qǐng zuò. | Prego, accomodatevi tutti e due.
+
+! Non esiste un pronome di cortesia per la terza persona: per parlare con rispetto di qualcuno si usa 这位 / 那位 + titolo, per esempio 这位先生 zhè wèi xiānsheng «questo signore».
+
+### 我们 e 咱们
+我们 wǒmen può includere o escludere l'ascoltatore; 咱们 zánmen lo include sempre («noi, io e te / io e voi») ed è tipico del parlato, soprattutto nel nord.
+
+ex: **咱们**走吧！ | **Zánmen** zǒu ba! | Andiamo! (tu compreso)
+ex: 今天晚上**咱们**一起吃饭吧。 | Jīntiān wǎnshang **zánmen** yìqǐ chī fàn ba. | Stasera mangiamo insieme.
+ex: **我们**明天去长城，你们呢？ | **Wǒmen** míngtiān qù Chángchéng, nǐmen ne? | Noi domani andiamo alla Grande Muraglia, e voi?
+
+no: 咱们是中国人，你们是意大利人。 | Zánmen shì Zhōngguórén, nǐmen shì Yìdàlìrén. | Errato: 咱们 include sempre l'ascoltatore.
+ex: **我们**是中国人，你们是意大利人。 | **Wǒmen** shì Zhōngguórén, nǐmen shì Yìdàlìrén. | Noi siamo cinesi, voi siete italiani.
+
+### 他们, 她们 e 它们
+他们 tāmen si usa per gruppi di uomini e per **gruppi misti**; 她们 solo per gruppi composti esclusivamente da donne. 它 tā e 它们 tāmen si riferiscono ad animali e cose. Per le cose, però, il cinese preferisce di solito ripetere il nome oppure ometterlo del tutto: in particolare il pronome oggetto *lo*, *la*, *li* dell'italiano non si traduce quasi mai.
+
+ex: 我有一个哥哥和两个姐姐，**他们**都在北京工作。 | Wǒ yǒu yí ge gēge hé liǎng ge jiějie, **tāmen** dōu zài Běijīng gōngzuò. | Ho un fratello e due sorelle maggiori: lavorano tutti a Pechino.
+ex: 玛丽亚和安娜是我的朋友，**她们**都是老师。 | Mǎlìyà hé Ānnà shì wǒ de péngyou, **tāmen** dōu shì lǎoshī. | Maria e Anna sono mie amiche: sono entrambe insegnanti.
+ex: 我家有一只猫，**它**叫咪咪。 | Wǒ jiā yǒu yì zhī māo, **tā** jiào Mīmī. | A casa abbiamo un gatto, si chiama Mimi.
+ex: 这本书很有意思，我很喜欢。 | Zhè běn shū hěn yǒu yìsi, wǒ hěn xǐhuan. | Questo libro è molto interessante, mi piace molto. (nessun pronome per «lo»)
+ex: A：你看到我的钥匙了吗？B：看到了，在桌子上。 | A: Nǐ kàndào wǒ de yàoshi le ma? B: Kàndào le, zài zhuōzi shang. | A: Hai visto le mie chiavi? B: Sì, sono sul tavolo.
+
+! Nella lingua scritta 他 si usa anche quando il sesso della persona non è noto o non è rilevante (他 «lui o lei»); in testi moderni si trova anche 他/她.
+
+## Il possesso
+
+Il possesso si esprime con il pronome (o il nome) seguito da 的 de e dal nome posseduto. Non c'è articolo e il possessivo non concorda: 我的 vale *il mio*, *la mia*, *i miei*, *le mie*.
+
+= Pron / N + 的 + N
+
+ex: 这是**我的**书。 | Zhè shì **wǒ de** shū. | Questo è il mio libro.
+ex: **你的**手机真漂亮。 | **Nǐ de** shǒujī zhēn piàoliang. | Il tuo cellulare è davvero bello.
+ex: **他们的**老师是北京人。 | **Tāmen de** lǎoshī shì Běijīngrén. | Il loro insegnante è di Pechino.
+ex: **王明的**妹妹在银行工作。 | **Wáng Míng de** mèimei zài yínháng gōngzuò. | La sorella minore di Wang Ming lavora in banca.
+ex: **它的**名字叫咪咪。 | **Tā de** míngzi jiào Mīmī. | Il suo nome è Mimi.
+
+### L'omissione di 的
+Con i nomi di parentela, con le persone vicine e con i gruppi o le istituzioni a cui si appartiene, 的 si omette di solito dopo il pronome. Per le istituzioni si usa spesso il pronome plurale anche quando si parla a titolo personale: 我们学校 «la mia (lett. nostra) scuola».
+
+= Pron + N (parenti, persone vicine, gruppi di appartenenza)
+
+ex: **我妈妈**是医生。 | **Wǒ māma** shì yīshēng. | Mia madre è medico.
+ex: **我朋友**明天来。 | **Wǒ péngyou** míngtiān lái. | Un mio amico viene domani.
+ex: **他哥哥**在上海工作。 | **Tā gēge** zài Shànghǎi gōngzuò. | Suo fratello maggiore lavora a Shanghai.
+ex: **我家**有四口人。 | **Wǒ jiā** yǒu sì kǒu rén. | La mia famiglia è di quattro persone.
+ex: **我们学校**很大。 | **Wǒmen xuéxiào** hěn dà. | La nostra scuola è molto grande.
+ex: **你们公司**在哪儿？ | **Nǐmen gōngsī** zài nǎr? | Dov'è la vostra ditta?
+ex: **我们老师**是上海人。 | **Wǒmen lǎoshī** shì Shànghǎirén. | Il nostro insegnante è di Shanghai.
+
+Con i nomi di oggetti, invece, 的 non si omette.
+
+no: 这是我书。 | Zhè shì wǒ shū. | Errato: con i nomi di oggetti 的 è obbligatorio.
+ex: 这是我**的**书。 | Zhè shì wǒ **de** shū. | Questo è il mio libro.
+
+! Con i parenti 的 resta possibile e serve a sottolineare il possessore: 这是我的妈妈，不是他的。 «Questa è mia madre, non la sua.»
+! Con le parti del corpo e quando il possessore è ovvio, il possessivo si omette, come spesso in italiano: 我去洗手。 Wǒ qù xǐ shǒu. «Vado a lavarmi le mani.»
+
+### Possessivo e dimostrativo insieme
+Per tradurre *questo mio libro*, *quei tuoi amici* il possessore si mette **prima** del dimostrativo; 的 è facoltativo.
+
+= Pron (+ 的) + 这 / 那 + (Num) + CL + N
+
+ex: **我(的)这本**书是在北京买的。 | **Wǒ (de) zhè běn** shū shì zài Běijīng mǎi de. | Questo mio libro l'ho comprato a Pechino.
+ex: **你那两个**朋友是哪国人？ | **Nǐ nà liǎng ge** péngyou shì nǎ guó rén? | Di che nazionalità sono quei tuoi due amici?
+no: 这本我的书很贵。 | Zhè běn wǒ de shū hěn guì. | Poco naturale: il possessore precede il dimostrativo.
+ex: **我的这本**书很贵。 | **Wǒ de zhè běn** shū hěn guì. | Questo mio libro è molto caro.
+
+### 的 senza nome
+Quando il nome è chiaro dal contesto, si può omettere: Pron + 的 corrisponde allora a *il mio*, *il tuo*… oppure, come predicato, a *mio*, *tuo*… (vedi il capitolo «Le particelle strutturali 的, 地, 得»).
+
+ex: 这本书是**我的**。 | Zhè běn shū shì **wǒ de**. | Questo libro è mio.
+ex: A：这是谁的伞？B：是**小王的**。 | A: Zhè shì shéi de sǎn? B: Shì **Xiǎo Wáng de**. | A: Di chi è quest'ombrello? B: È di Xiao Wang.
+ex: 我的手机没电了，用一下**你的**，好吗？ | Wǒ de shǒujī méi diàn le, yòng yíxià **nǐ de**, hǎo ma? | Il mio cellulare è scarico: posso usare un attimo il tuo?
+ex: **我的**是红的，**他的**是黑的。 | **Wǒ de** shì hóng de, **tā de** shì hēi de. | Il mio è rosso, il suo è nero.
+
+## 自己, 大家, 别人, 人家, 各, 每
+
+### 自己
+自己 zìjǐ significa «se stesso, da sé, proprio». Ha quattro usi principali:
+- dopo un pronome o un nome, con valore enfatico: 我自己 «io stesso, da solo»;
+- come oggetto riflessivo: 他只关心自己 «pensa solo a se stesso»;
+- come possessivo, con 的: 自己的房间 «la propria camera»;
+- come soggetto generico: 自己的事情自己做 «ognuno faccia da sé le proprie cose».
+
+= Pron / N + 自己 + V
+= 自己的 + N
+
+ex: 这件事我**自己**做。 | Zhè jiàn shì wǒ **zìjǐ** zuò. | Questa cosa la faccio da me.
+ex: 你**自己**去吧，我不去了。 | Nǐ **zìjǐ** qù ba, wǒ bú qù le. | Vacci da solo, io non vengo più.
+ex: 他只关心**自己**。 | Tā zhǐ guānxīn **zìjǐ**. | Pensa solo a se stesso.
+ex: 我想有**自己的**房间。 | Wǒ xiǎng yǒu **zìjǐ de** fángjiān. | Vorrei una camera tutta mia.
+ex: **自己的**事情**自己**做。 | **Zìjǐ de** shìqing **zìjǐ** zuò. | Ognuno faccia da sé le proprie cose.
+ex: 门**自己**开了。 | Mén **zìjǐ** kāi le. | La porta si è aperta da sola.
+
+! I verbi riflessivi italiani (*chiamarsi*, *alzarsi*, *lavarsi*) non si traducono con 自己: 我叫马可 «mi chiamo Marco», 我七点起床 «mi alzo alle sette». 自己 si usa solo quando si intende davvero «se stesso, da sé».
+
+no: 我自己叫马可。 | Wǒ zìjǐ jiào Mǎkě. | Errato: «mi chiamo» non si rende con 自己.
+ex: 我叫马可。 | Wǒ jiào Mǎkě. | Mi chiamo Marco.
+
+### 大家
+大家 dàjiā significa «tutti» e si riferisce ai membri di un gruppo noto o alle persone presenti. Può seguire un pronome plurale (我们大家, 你们大家) e nel predicato è spesso accompagnato da 都 dōu.
+
+ex: **大家**好！ | **Dàjiā** hǎo! | Ciao a tutti!
+ex: **大家**都同意。 | **Dàjiā** dōu tóngyì. | Sono tutti d'accordo.
+ex: **我们大家**一起唱吧！ | **Wǒmen dàjiā** yìqǐ chàng ba! | Cantiamo tutti insieme!
+ex: 谢谢**大家**！ | Xièxie **dàjiā**! | Grazie a tutti!
+ex: 这是**大家**的意见。 | Zhè shì **dàjiā** de yìjiàn. | Questa è l'opinione di tutti.
+
+### 别人
+别人 biérén significa «gli altri, altre persone».
+
+ex: 这件事不要告诉**别人**。 | Zhè jiàn shì bú yào gàosu **biérén**. | Non dirlo a nessun altro.
+ex: 不要用**别人**的东西。 | Bú yào yòng **biérén** de dōngxi. | Non usare le cose degli altri.
+ex: **别人**都走了，只有他还在。 | **Biérén** dōu zǒu le, zhǐ yǒu tā hái zài. | Gli altri se ne sono andati, è rimasto solo lui.
+
+! Non confondere 别人 «le altre persone» con 别的 biéde + N «altro, diverso»: 别的东西 «altre cose», 还有别的问题吗？ «Ci sono altre domande?».
+
+### 人家
+人家 rénjia (con la seconda sillaba atona) è un pronome tipico del parlato, con tre valori:
+- «gli altri», come 别人;
+- una persona già nominata o presente («lui, lei, quella persona»), spesso per contrapporla a chi ascolta;
+- «io», in tono affettuoso, lamentoso o capriccioso, usato soprattutto da donne e bambini.
+
+ex: **人家**都不怕，你怕什么？ | **Rénjia** dōu bú pà, nǐ pà shénme? | Gli altri non hanno paura: di che cosa hai paura tu?
+ex: **人家**已经道歉了，你就别生气了。 | **Rénjia** yǐjīng dàoqiàn le, nǐ jiù bié shēngqì le. | Si è già scusato, smettila di arrabbiarti.
+ex: 你看**人家**小王，多努力啊！ | Nǐ kàn **rénjia** Xiǎo Wáng, duō nǔlì a! | Guarda Xiao Wang, quanto si impegna lui!
+ex: **人家**不想去嘛！ | **Rénjia** bù xiǎng qù ma! | Ma io non ci voglio andare!
+
+! Con il tono pieno sulla seconda sillaba, 人家 rénjiā è un nome che significa «famiglia, nucleo familiare»: 这个村子有一百多户人家。 Zhège cūnzi yǒu yìbǎi duō hù rénjiā. «In questo villaggio vivono più di cento famiglie.»
+
+### 每
+每 měi significa «ogni, ciascuno» e mette in rilievo tutti i membri di un insieme, senza eccezioni. Tra 每 e il nome serve di solito un classificatore (con un eventuale numerale), e nel predicato compare spesso 都 dōu. I nomi che fungono essi stessi da unità (天, 年, 次, 周) seguono direttamente 每.
+
+= 每 + (Num) + CL + N + 都 + V
+= 每 + 天 / 年 / 次 / 周 + (都) + V
+
+ex: **每个**人**都**有自己的爱好。 | **Měi ge** rén **dōu** yǒu zìjǐ de àihào. | Ognuno ha i propri hobby.
+ex: 我**每天都**六点起床。 | Wǒ **měi tiān dōu** liù diǎn qǐchuáng. | Mi alzo tutti i giorni alle sei.
+ex: 这里**每本**书**都**很贵。 | Zhèli **měi běn** shū **dōu** hěn guì. | Qui ogni libro è caro.
+ex: 他**每个星期**去一次超市。 | Tā **měi ge xīngqī** qù yí cì chāoshì. | Va al supermercato una volta alla settimana.
+ex: 这种药**每四个小时**吃一次。 | Zhè zhǒng yào **měi sì ge xiǎoshí** chī yí cì. | Questa medicina si prende ogni quattro ore.
+ex: **每次**见到她，她都在看书。 | **Měi cì** jiàndào tā, tā dōu zài kàn shū. | Ogni volta che la vedo, sta leggendo.
+
+no: 每学生都来了。 | Měi xuésheng dōu lái le. | Errato: tra 每 e il nome serve il classificatore.
+ex: **每个**学生都来了。 | **Měi ge** xuésheng dōu lái le. | Sono venuti tutti gli studenti.
+
+! Con 月 e 星期 il classificatore 个 si può omettere nello stile più conciso o scritto: 每月, 每星期. 每人 senza classificatore si trova nelle formule distributive: 每人一本 «uno a testa».
+
+### 各
+各 gè significa «ciascuno, i vari, i rispettivi» e presenta i membri di un insieme come entità distinte. Si mette direttamente davanti a nomi di paesi, luoghi, organizzazioni (各国, 各地, 各省, 各班) oppure davanti a pochi classificatori (各位, 各种, 各个, 各类). Può anche funzionare da avverbio davanti al verbo: «ciascuno, per uno».
+
+= 各 + N (paesi, luoghi, organizzazioni)
+= 各 + 位 / 种 / 个 / 类 + N
+
+ex: **各位**来宾，晚上好！ | **Gèwèi** láibīn, wǎnshang hǎo! | Gentili ospiti, buonasera!
+ex: 我们学校有来自世界**各国**的学生。 | Wǒmen xuéxiào yǒu láizì shìjiè **gè guó** de xuésheng. | Nella nostra scuola ci sono studenti di tutti i paesi del mondo.
+ex: 商店里有**各种**水果。 | Shāngdiàn li yǒu **gè zhǒng** shuǐguǒ. | Nel negozio c'è frutta di ogni tipo.
+ex: 中国**各地**的菜都不一样。 | Zhōngguó **gè dì** de cài dōu bù yíyàng. | In ogni regione della Cina la cucina è diversa.
+ex: 我们**各**有**各**的想法。 | Wǒmen **gè** yǒu **gè** de xiǎngfǎ. | Ognuno di noi ha le sue idee.
+ex: 我们**各**买了一本。 | Wǒmen **gè** mǎi le yì běn. | Ne abbiamo comprato uno a testa.
+
+### 每 e 各 a confronto
+| Aspetto | 每 měi | 各 gè |
+| Significato | ogni, tutti senza eccezione | i vari, ciascuno (diversi) |
+| Con classificatore | quasi sempre: 每个人, 每本书 | solo pochi: 各位, 各种 |
+| Direttamente + N | 每天, 每年, 每次 | 各国, 各地, 各班 |
+| Uso avverbiale | no | sì: 各买了一本 |
+
+ex: **每个**国家都有自己的文化。 | **Měi ge** guójiā dōu yǒu zìjǐ de wénhuà. | Ogni paese ha la propria cultura.
+ex: **各国**的文化都不一样。 | **Gè guó** de wénhuà dōu bù yíyàng. | Le culture dei vari paesi sono tutte diverse.
+no: 他各天都去跑步。 | Tā gè tiān dōu qù pǎobù. | Errato: con 天 si usa 每.
+ex: 他**每天**都去跑步。 | Tā **měi tiān** dōu qù pǎobù. | Va a correre tutti i giorni.

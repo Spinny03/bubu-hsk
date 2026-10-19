@@ -1,0 +1,300 @@
+1 | 爱 | ài | 动 | amare, voler bene | ❤️
+2 | 八 | bā | 数 | otto | 8️⃣
+3 | 爸爸 | bàba | 名 | papà, padre | 👨
+4 | 吧 | ba | 助 | particella: proposta, supposizione | -
+5 | 白天 | báitiān | 名 | giorno, di giorno | 🌞
+6 | 百 | bǎi | 数 | cento | 💯
+7 | 半 | bàn | 数、（副） | metà, mezzo | 🌓
+8 | 包子 | bāozi | 名 | panino al vapore ripieno | 🥟
+9 | 杯子 | bēizi | 名 | bicchiere, tazza | 🥛
+10 | 本 | běn | 量 | classificatore per libri | 📚
+11 | 边 | biān | 名、后缀 | lato, bordo, parte | -
+12 | 病 | bìng | 名、动 | malattia; ammalarsi | 🤒
+13 | 不 | bù | 副 | non, no | 🚫
+14 | 不客气 | bú kèqi |  | prego, non c'è di che | 🙏
+15 | 不要 | búyào | 副 | non (fare)!, non devi | 🚫
+16 | 菜 | cài | 名 | piatto, pietanza; verdura | 🥬
+17 | 茶 | chá | 名 | tè | 🍵
+18 | 唱 | chàng | 动 | cantare | 🎤
+19 | 超市 | chāoshì | 名 | supermercato | 🛒
+20 | 车 | chē | 名 | veicolo, auto (辆) | 🚗
+21 | 吃 | chī | 动 | mangiare | 😋
+22 | 出租车 | chūzūchē | 名 | taxi (辆) | 🚕
+23 | 穿 | chuān | 动 | indossare, vestirsi | 👕
+24 | 打电话 | dǎ diànhuà |  | telefonare | 📞
+25 | 大 | dà | 形 | grande; più vecchio | 🐘
+26 | 大家 | dàjiā | 代 | tutti | 👥
+27 | 大学 | dàxué | 名 | università (所) | 🎓
+28 | 大学生 | dàxuéshēng | 名 | studente universitario | 🎓
+29 | 到 | dào | 动 | arrivare; fino a | 🏁
+30 | 的 | de | 助 | particella: possesso, attributo | -
+31 | 第 | dì | 前缀 | prefisso per numeri ordinali | 🥇
+32 | 弟弟 | dìdi | 名 | fratello minore | 👦
+33 | 点 | diǎn | 量、（名） | punto; ora (orologio); ordinare | 🕐
+34 | 店 | diàn | 名 | negozio | 🏪
+35 | 电话 | diànhuà | 名 | telefono; telefonata | 📞
+36 | 电脑 | diànnǎo | 名 | computer (台) | 💻
+37 | 电视 | diànshì | 名 | televisione | 📺
+38 | 电影 | diànyǐng | 名 | film (部) | 🎬
+39 | 电影院 | diànyǐngyuàn | 名 | cinema (sala) | 🎦
+40 | 东西 | dōngxi | 名 | cosa, roba (件) | 📦
+41 | 都 | dōu | 副 | tutti, tutto; già | -
+42 | 读 | dú | 动 | leggere (ad alta voce); studiare | 📖
+43 | 读书 | dúshū | 动 | leggere; studiare | 📖
+44 | 对 | duì | 形、介、（动、量） | giusto, corretto; verso, a | ✅
+45 | 对不起 | duìbuqǐ | 动 | scusa, mi dispiace | 🙇
+46 | 多 | duō | 形、动、代、（数、副） | molto, molti; quanto | -
+47 | 多少 | duōshao | 代 | quanto, quanti | ❓
+48 | 儿子 | érzi | 名 | figlio (maschio) | 👦
+49 | 二 | èr | 数 | due | 2️⃣
+50 | 饭 | fàn | 名 | riso cotto; pasto | 🍚
+51 | 饭店 | fàndiàn | 名 | ristorante; hotel (家) | 🏨
+52 | 房间 | fángjiān | 名 | stanza, camera (间) | 🚪
+53 | 非常 | fēicháng | 副 | molto, estremamente | -
+54 | 飞机 | fēijī | 名 | aereo (架) | ✈️
+55 | 分 | fēn | 量、（动、名） | dividere; minuto; punto, voto | ➗
+56 | 分钟 | fēnzhōng | 量 | minuto | ⏱️
+57 | 高兴 | gāoxìng | 形 | contento, felice | 😄
+58 | 歌 | gē | 名 | canzone (首) | 🎵
+59 | 哥哥 | gēge | 名 | fratello maggiore | 👦
+60 | 个 | gè | 量 | classificatore generico | -
+61 | 给 | gěi | 动、（介） | dare; a, per | 🎁
+62 | 公司 | gōngsī | 名 | azienda, società (家) | 🏢
+63 | 工作 | gōngzuò | 动、名 | lavoro; lavorare | 💼
+64 | 狗 | gǒu | 名 | cane (只, 条) | 🐕
+65 | 贵 | guì | 形 | caro, costoso | 💰
+66 | 国 | guó | 名 | paese, nazione | 🏳️
+67 | 还 | hái | 副 | ancora; anche | -
+68 | 孩子 | háizi | 名 | bambino; figlio | 🧒
+69 | 汉语 | Hànyǔ | 名 | lingua cinese | 🇨🇳
+70 | 汉字 | Hànzì | 名 | carattere cinese | 🀄
+71 | 好 | hǎo | 形、（副）、（动） | buono, bene | 👍
+72 | 好吃 | hǎochī | 形 | buono (da mangiare) | 😋
+73 | 好看 | hǎokàn | 形 | bello (da vedere) | 😍
+74 | 好听 | hǎotīng | 形 | piacevole da ascoltare | 🎶
+75 | 好玩儿 | hǎowánr | 形 | divertente | 🎉
+76 | 号 | hào | 名、量 | numero; giorno del mese | #️⃣
+77 | 喝 | hē | 动 | bere | 🥤
+78 | 和 | hé | 介、连 | e, con | ➕
+79 | 很 | hěn | 副 | molto | -
+80 | 后 | hòu | 名 | dietro; dopo | 🔙
+81 | 回 | huí | 动、（量） | tornare; volta (class.) | ↩️
+82 | 会 | huì | 动 | sapere (fare); potere; riunione | -
+83 | 火车 | huǒchē | 名 | treno (列) | 🚆
+84 | 鸡蛋 | jīdàn | 名 | uovo (di gallina) | 🥚
+85 | 几 | jǐ | 代、数 | quanti?; alcuni | ❓
+86 | 家 | jiā | 名、量、（后缀） | casa, famiglia | 🏠
+87 | 家人 | jiārén | 名 | familiare, famiglia | 👨‍👩‍👧
+88 | 见 | jiàn | 动 | vedere, incontrare | 👀
+89 | 件 | jiàn | 量 | classificatore: vestiti, faccende | -
+90 | 饺子 | jiǎozi | 名 | ravioli cinesi | 🥟
+91 | 叫 | jiào | 动、（介） | chiamare; chiamarsi; gridare | 📣
+92 | 姐姐 | jiějie | 名 | sorella maggiore | 👧
+93 | 今年 | jīnnián | 名 | quest'anno | 📅
+94 | 今天 | jīntiān | 名 | oggi | 📅
+95 | 九 | jiǔ | 数 | nove | 9️⃣
+96 | 觉得 | juéde | 动 | pensare, sentire, trovare | 🤔
+97 | 开 | kāi | 动 | aprire; accendere; guidare | 🔓
+98 | 开车 | kāichē | 动 | guidare (un veicolo) | 🚗
+99 | 看 | kàn | 动 | guardare, vedere; leggere | 👀
+100 | 看病 | kànbìng | 动 | andare dal medico; visitare | 🩺
+101 | 看见 | kànjiàn | 动 | vedere, scorgere | 👀
+102 | 可以 | kěyǐ | 动、形 | potere, essere permesso | -
+103 | 课 | kè | 名 | lezione, corso (节, 门) | 📚
+104 | 口 | kǒu | 名、量 | bocca; class. per persone | 👄
+105 | 块 | kuài | 量 | pezzo; yuan (colloquiale) | 💴
+106 | 来 | lái | 动 | venire | 👋
+107 | 老师 | lǎoshī | 名 | insegnante, maestro | 🧑‍🏫
+108 | 了 | le | 助 | particella: azione compiuta | -
+109 | 冷 | lěng | 形 | freddo | 🥶
+110 | 里 | lǐ | 名 | dentro, in | -
+111 | 两 | liǎng | 数 | due (con classificatori) | ✌️
+112 | 零 | líng | 数 | zero | 0️⃣
+113 | 六 | liù | 数 | sei | 6️⃣
+114 | 妈妈 | māma | 名 | mamma, madre | 👩
+115 | 吗 | ma | 助 | particella interrogativa | ❓
+116 | 买 | mǎi | 动 | comprare | 🛒
+117 | 卖 | mài | 动 | vendere | 🏷️
+118 | 忙 | máng | 形、动 | occupato, indaffarato | 🏃
+119 | 猫 | māo | 名 | gatto (只) | 🐱
+120 | 没关系 | méi guānxi |  | non importa, non fa niente | 👌
+121 | 没事 | méishì | 动 | non è niente, tranquillo | -
+122 | 没有 | méiyǒu | 动、副 | non avere; non esserci | 🚫
+123 | 妹妹 | mèimei | 名 | sorella minore | 👧
+124 | 们 | men | 后缀 | suffisso plurale (persone) | 👥
+125 | 米饭 | mǐfàn | 名 | riso cotto (碗) | 🍚
+126 | 面包 | miànbāo | 名 | pane | 🍞
+127 | 面条儿 | miàntiáor | 名 | spaghetti cinesi, noodles | 🍜
+128 | 明年 | míngnián | 名 | l'anno prossimo | 📅
+129 | 明天 | míngtiān | 名 | domani | 📅
+130 | 名字 | míngzi | 名 | nome | 🏷️
+131 | 哪 | nǎ | 代 | quale?, dove? | ❓
+132 | 哪个 | nǎge | 代 | quale | -
+133 | 哪里 | nǎlǐ | 代 | dove | -
+134 | 哪儿 | nǎr | 代 | dove? | 📍
+135 | 哪些 | nǎxiē | 代 | quali? | ❓
+136 | 那 | nà | 代、（连） | quello, quella; allora | 👉
+137 | 那边 | nàbiān | 代 | là, da quella parte | 👉
+138 | 那个 | nàge | 代 |  | 
+139 | 那里 | nàlǐ | 代 | lì, là | -
+140 | 那儿 | nàr | 代 | là, lì | 👉
+141 | 那些 | nàxiē | 代 | quelli, quelle | 👉
+142 | 男 | nán | 形 | maschio, maschile | ♂️
+143 | 男朋友 | nánpéngyou | 名 | fidanzato, ragazzo | 💑
+144 | 呢 | ne | 助 | particella: «e...?», enfasi | -
+145 | 能 | néng | 动 | potere, essere in grado di | 💪
+146 | 你 | nǐ | 代 | tu | 🫵
+147 | 你好 | nǐ hǎo |  | ciao, buongiorno | 👋
+148 | 你们 | nǐmen | 代 | voi | 👥
+149 | 年 | nián | 名、量 | anno | 📅
+150 | 您 | nín | 代 | Lei (forma di cortesia) | 🙇
+151 | 牛奶 | niúnǎi | 名 | latte (di mucca) | 🥛
+152 | 女 | nǚ | 形 | femmina, femminile | ♀️
+153 | 女儿 | nǚ’ér | 名 | figlia | 👧
+154 | 女朋友 | nǚpéngyou | 名 | fidanzata, ragazza | 💑
+155 | 女士 | nǚshì | 名 |  | 
+156 | 朋友 | péngyou | 名 | amico | 🤝
+157 | 便宜 | piányi | 形 | economico, a buon prezzo | 🏷️
+158 | 漂亮 | piàoliang | 形 | bello, carino | ✨
+159 | 苹果 | píngguǒ | 名 | mela | 🍎
+160 | 七 | qī | 数 | sette | 7️⃣
+161 | 起床 | qǐchuáng | 动 | alzarsi dal letto | 🛏️
+162 | 千 | qiān | 数 | mille | -
+163 | 前 | qián | 名 | davanti; prima | -
+164 | 钱 | qián | 名 | soldi, denaro | 💰
+165 | 请 | qǐng | 动 | per favore; invitare, chiedere | 🙏
+166 | 请问 | qǐngwèn | 动 | scusi, posso chiedere...? | 🙋
+167 | 去 | qù | 动 | andare | 🚶
+168 | 去年 | qùnián | 名 | l'anno scorso | 📅
+169 | 热 | rè | 形 | caldo; riscaldare | 🥵
+170 | 人 | rén | 名 | persona, gente | 🧑
+171 | 认识 | rènshi | 动 | conoscere (qualcuno) | 🤝
+172 | 日 | rì | 量、（名） | giorno; sole | ☀️
+173 | 三 | sān | 数 | tre | 3️⃣
+174 | 商店 | shāngdiàn | 名 | negozio (家) | 🏪
+175 | 上 | shàng | 名、动 | sopra; salire; precedente | ⬆️
+176 | 上班 | shàngbān | 动 | andare al lavoro | 💼
+177 | 上课 | shàngkè | 动 | andare a lezione, fare lezione | 🏫
+178 | 上午 | shàngwǔ | 名 | mattina | 🌅
+179 | 上学 | shàngxué | 动 | andare a scuola | 🎒
+180 | 少 | shǎo | 形、动 | poco, pochi; mancare | 🤏
+181 | 谁 | shéi/shuí | 代 | chi? | ❓
+182 | 什么 | shénme | 代 | che cosa?; qualcosa | ❓
+183 | 生病 | shēngbìng | 动 | ammalarsi | 🤒
+184 | 十 | shí | 数 | dieci | 🔟
+185 | 时候 | shíhou | 名 | momento, quando | 🕒
+186 | 时间 | shíjiān | 名 | tempo | ⏳
+187 | 事 | shì | 名 | faccenda, cosa (件) | -
+188 | 是 | shì | 动 | essere; sì | ✅
+189 | 手机 | shǒujī | 名 | cellulare (部) | 📱
+190 | 书 | shū | 名 | libro (本) | 📖
+191 | 书店 | shūdiàn | 名 | libreria (negozio) (家) | 📚
+192 | 水 | shuǐ | 名 | acqua | 💧
+193 | 水果 | shuǐguǒ | 名 | frutta | 🍇
+194 | 睡 | shuì | 动 | dormire | 😴
+195 | 睡觉 | shuìjiào | 动 | dormire, andare a letto | 😴
+196 | 说 | shuō | 动 | dire, parlare | 🗣️
+197 | 说话 | shuōhuà | 动 | parlare | 🗣️
+198 | 四 | sì | 数 | quattro | 4️⃣
+199 | 岁 | suì | 量 | anni (di età) | 🎂
+200 | 他 | tā | 代 | lui | 👨
+201 | 它 | tā | 代 | esso, essa (cose, animali) | -
+202 | 她 | tā | 代 | lei | 👩
+203 | 他们 | tāmen | 代 | loro (maschile o misto) | 👥
+204 | 它们 | tāmen | 代 | essi, esse (cose, animali) | -
+205 | 她们 | tāmen | 代 | loro (femminile) | 👭
+206 | 太 | tài | 副 | troppo; molto | -
+207 | 天 | tiān | 名、量 | giorno; cielo | -
+208 | 天气 | tiānqì | 名 | tempo (meteo) | ⛅
+209 | 听 | tīng | 动 | ascoltare, sentire | 👂
+210 | 听见 | tīngjiàn | 动 | sentire, udire | 👂
+211 | 同学 | tóngxué | 名 | compagno di scuola | 🧑‍🎓
+212 | 外 | wài | 名 | fuori, esterno; straniero | -
+213 | 外边 | wàibian | 名 | fuori, esterno | -
+214 | 玩 | wán | 动 | giocare, divertirsi | -
+215 | 晚 | wǎn | 形 | sera; tardi | 🌙
+216 | 晚饭 | wǎnfàn | 名 | cena (顿) | 🍽️
+217 | 晚上 | wǎnshang | 名 | sera, di sera | 🌙
+218 | 喂 | wèi | 叹 | pronto? (telefono), ehi; nutrire | 📞
+219 | 问 | wèn | 动 | chiedere, domandare | 🙋
+220 | 问题 | wèntí | 名 | domanda, problema | ❓
+221 | 我 | wǒ | 代 | io, me | -
+222 | 我们 | wǒmen | 代 | noi | 👥
+223 | 五 | wǔ | 数 | cinque | 5️⃣
+224 | 午饭 | wǔfàn | 名 | pranzo (顿) | 🍱
+225 | 喜欢 | xǐhuan | 动 | piacere, amare | ❤️
+226 | 下 | xià | 名、动、量 | sotto; scendere; prossimo | ⬇️
+227 | 下雨 | xià yǔ |  | piovere | 🌧️
+228 | 下班 | xiàbān | 动 | finire di lavorare | 🏠
+229 | 下课 | xiàkè | 动 | finire la lezione | 🔔
+230 | 下午 | xiàwǔ | 名 | pomeriggio | 🕒
+231 | 先生 | xiānsheng | 名 | signore; marito | 🤵
+232 | 现在 | xiànzài | 名 | ora, adesso | ⏱️
+233 | 想 | xiǎng | 动 | pensare; volere; sentire la mancanza | 🤔
+234 | 小 | xiǎo | 形、前缀 | piccolo | 🤏
+235 | 小朋友 | xiǎopéngyǒu | 名 | bambino, bimbo | 🧒
+236 | 小时 | xiǎoshí | 名 | ora (durata) | 🕐
+237 | 小学 | xiǎoxué | 名 | scuola elementare | 🏫
+238 | 小学生 | xiǎoxuéshēng | 名 | alunno delle elementari | 🎒
+239 | 些 | xiē | 量 | alcuni, un po' (cl.) | -
+240 | 写 | xiě | 动 | scrivere | ✍️
+241 | 谢谢 | xièxie | 动 | grazie, ringraziare | 🙏
+242 | 新 | xīn | 形 | nuovo | 🆕
+243 | 星期 | xīngqī | 名 | settimana | 📅
+244 | 星期日 | xīngqīrì | 名 | domenica | 📅
+245 | 星期天 | xīngqītiān | 名 | domenica | 📅
+246 | 休息 | xiūxi | 动 | riposare; riposo | 🛋️
+247 | 学 | xué | 动 | studiare, imparare | 📖
+248 | 学生 | xuéshēng | 名 | studente | 🧑‍🎓
+249 | 学习 | xuéxí | 动 | studiare, imparare | 📚
+250 | 学校 | xuéxiào | 名 | scuola (所) | 🏫
+251 | 雪 | xuě | 名 | neve | ❄️
+252 | 要 | yào | 动 | volere; dovere; stare per | -
+253 | 也 | yě | 副 | anche | -
+254 | 一 | yī | 数 | uno | 1️⃣
+255 | 衣服 | yīfu | 名 | vestiti (件) | 👕
+256 | 医生 | yīshēng | 名 | medico (位) | 🧑‍⚕️
+257 | 医院 | yīyuàn | 名 | ospedale (家) | 🏥
+258 | 一半 | yíbàn | 数 | metà | 🌗
+259 | 一下 | yíxià | 数量、（副） |  | 
+260 | 椅子 | yǐzi | 名 | sedia (把) | 🪑
+261 | 一点儿 | yìdiǎnr | 数量 | un po' | 🤏
+262 | 一些 | yìxiē | 数量 | alcuni, un po' | -
+263 | 有 | yǒu | 动 | avere; esserci | -
+264 | 有的 | yǒude | 代 | alcuni, certi | -
+265 | 有点儿 | yǒudiǎnr | 副 | un po', alquanto | 🤏
+266 | 有些 | yǒuxiē | 代、（副） | alcuni; un po' | -
+267 | 雨 | yǔ | 名 | pioggia (场) | ☔
+268 | 元 | yuán | 量 | yuan (unità monetaria) | 💴
+269 | 月 | yuè | 名 | mese; luna | 🌕
+270 | 再 | zài | 副 | di nuovo, ancora; poi | 🔁
+271 | 在 | zài | 动、介、副 | essere (in un luogo); in, a | 📍
+272 | 再见 | zàijiàn | 动 | arrivederci | 👋
+273 | 早 | zǎo | 形 | presto; buongiorno! | 🌅
+274 | 早饭 | zǎofàn | 名 | colazione (顿) | 🍳
+275 | 早上 | zǎoshang | 名 | mattina (presto) | 🌅
+276 | 怎么 | zěnme | 代 | come?, perché? | ❓
+277 | 怎么样 | zěnmeyàng | 代 | come? come va? che ne dici? | 🤔
+278 | 找 | zhǎo | 动 | cercare | 🔍
+279 | 这 | zhè | 代 | questo, questa | 👇
+280 | 这边 | zhèbiān | 代 | da questa parte, qui | 👇
+281 | 这个 | zhège | 代 |  | 
+282 | 这里 | zhèlǐ | 代 | qui | -
+283 | 这儿 | zhèr | 代 | qui, qua | 👇
+284 | 这些 | zhèxiē | 代 | questi, queste | 👇
+285 | 真 | zhēn | 副、（形） | vero; davvero | -
+286 | 正在 | zhèngzài | 副 | stare facendo (azione in corso) | -
+287 | 只 | zhī | 量 | classificatore: animali, uno di un paio | -
+288 | 知道 | zhīdào | 动 | sapere | 💡
+289 | 中国 | Zhōngguó | 名 | Cina | 🇨🇳
+290 | 中文 | Zhōngwén | 名 | lingua cinese | 🇨🇳
+291 | 中午 | zhōngwǔ | 名 | mezzogiorno | 🕛
+292 | 中学 | zhōngxué | 名 | scuola media e superiore | 🏫
+293 | 中学生 | zhōngxuéshēng | 名 | studente delle medie/superiori | 🧑‍🎓
+294 | 住 | zhù | 动 | abitare, alloggiare | 🏠
+295 | 桌子 | zhuōzi | 名 | tavolo, scrivania (张) | -
+296 | 字 | zì | 名 | carattere (cinese), parola | -
+297 | 昨天 | zuótiān | 名 | ieri | 📅
+298 | 坐 | zuò | 动 | sedersi; prendere (un mezzo) | 🪑
+299 | 做 | zuò | 动 | fare | 🛠️
+300 | 做饭 | zuò fàn |  | cucinare, preparare da mangiare | 🍳

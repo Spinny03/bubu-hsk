@@ -1,0 +1,146 @@
+### 也 e 都 prima del soggetto
+也 «anche» e 都 «tutti, entrambi» sono avverbi: stanno dopo il soggetto e prima del verbo, mai all'inizio della frase come «anch'io» o «tutti noi» in italiano (vedi il capitolo «Gli avverbi»).
+no: **也**我是学生。 | **Yě** wǒ shì xuésheng. | Errato: 也 non può precedere il soggetto.
+ex: 我**也**是学生。 | Wǒ **yě** shì xuésheng. | Anch'io sono studente.
+no: **都**我们喜欢吃饺子。 | **Dōu** wǒmen xǐhuan chī jiǎozi. | Errato: 都 va dopo il soggetto.
+ex: 我们**都**喜欢吃饺子。 | Wǒmen **dōu** xǐhuan chī jiǎozi. | A tutti noi piacciono i ravioli cinesi.
+
+### L'ordine di 也, 都 e 不
+Nelle frasi negative 也 e 都 precedono 不: 也不 significa «neanche», 都不 «tutti non…», cioè «nessuno». L'ordine 不都 esiste, ma significa «non tutti» (vedi il capitolo «Gli avverbi»).
+no: 我**不也**去。 | Wǒ **bù yě** qù. | Errato: 也 va prima di 不.
+ex: 我**也不**去。 | Wǒ **yě bú** qù. | Non ci vado neanch'io.
+ex: 他们**都不**是中国人。 | Tāmen **dōu bú** shì Zhōngguórén. | Nessuno di loro è cinese.
+ex: 他们**不都**是中国人。 | Tāmen **bù dōu** shì Zhōngguórén. | Non sono tutti cinesi.
+
+### L'ordine degli attributi
+Gli attributi precedono sempre il nome, anche gli aggettivi. Se sono più d'uno, l'ordine abituale è: possessore, dimostrativo, numerale con classificatore, aggettivo, nome; gli aggettivi monosillabici si attaccano al nome senza 的 (vedi il capitolo «Le particelle strutturali 的, 地, 得»).
+no: 他是一个老师**好**。 | Tā shì yí ge lǎoshī **hǎo**. | Errato: l'aggettivo precede il nome.
+ex: 他是一个**好**老师。 | Tā shì yí ge **hǎo** lǎoshī. | È un buon insegnante.
+no: 这三本**我的**新书很贵。 | Zhè sān běn **wǒ de** xīn shū hěn guì. | Innaturale: il possessore va all'inizio.
+ex: **我的**这三本新书很贵。 | **Wǒ de** zhè sān běn xīn shū hěn guì. | Questi miei tre libri nuovi sono cari.
+
+### La frase relativa dopo il nome
+In italiano la relativa segue il nome («il libro che ho comprato»); in cinese tutta la frase si mette prima del nome, seguita da 的, e non esiste un pronome relativo come «che» (vedi il capitolo «Le particelle strutturali 的, 地, 得»).
+no: 书**我昨天买的**很有意思。 | Shū **wǒ zuótiān mǎi de** hěn yǒu yìsi. | Errato: la relativa va prima del nome.
+ex: **我昨天买的**书很有意思。 | **Wǒ zuótiān mǎi de** shū hěn yǒu yìsi. | Il libro che ho comprato ieri è molto interessante.
+ex: 那个**穿红衣服的**女孩是我妹妹。 | Nàge **chuān hóng yīfu de** nǚhái shì wǒ mèimei. | La ragazza vestita di rosso è mia sorella minore.
+
+### L'ordine di date e indirizzi
+Date, orari e indirizzi vanno dall'unità più grande alla più piccola: anno, mese, giorno, momento della giornata, ora; città, quartiere, via, numero civico (vedi il capitolo «Le espressioni di tempo»).
+no: 我的生日是**十二号五月**。 | Wǒ de shēngrì shì **shí'èr hào wǔ yuè**. | Errato: prima il mese, poi il giorno.
+ex: 我的生日是**五月十二号**。 | Wǒ de shēngrì shì **wǔ yuè shí'èr hào**. | Il mio compleanno è il 12 maggio.
+ex: 我们**明天晚上八点**见。 | Wǒmen **míngtiān wǎnshang bā diǎn** jiàn. | Ci vediamo domani sera alle otto.
+ex: 他住在**北京市海淀区学院路三十号**。 | Tā zhù zài **Běijīng Shì Hǎidiàn Qū Xuéyuàn Lù sānshí hào**. | Abita in via Xueyuan 30, distretto di Haidian, Pechino.
+
+### Il doppio oggetto
+Con i verbi a doppio oggetto come 给, 送, 教, 问, 告诉 l'ordine è verbo + persona + cosa, senza preposizione davanti alla persona (vedi il capitolo «Il verbo»).
+no: 他教**汉语我们**。 | Tā jiāo **Hànyǔ wǒmen**. | Errato: la persona precede la cosa.
+ex: 他教**我们汉语**。 | Tā jiāo **wǒmen Hànyǔ**. | Ci insegna il cinese.
+ex: 我想问**你一个问题**。 | Wǒ xiǎng wèn **nǐ yí ge wèntí**. | Vorrei farti una domanda.
+
+## Numeri, classificatori e 的
+
+### Il classificatore mancante
+Tra un numerale (o un dimostrativo come 这, 那, 哪) e il nome ci vuole sempre un classificatore: non si dice «tre libri», ma qualcosa come «tre volumi di libro» (vedi il capitolo «I classificatori»).
+no: 我买了三书。 | Wǒ mǎi le sān shū. | Errato: manca il classificatore 本.
+ex: 我买了三**本**书。 | Wǒ mǎi le sān **běn** shū. | Ho comprato tre libri.
+ex: 我家有两**只**猫。 | Wǒ jiā yǒu liǎng **zhī** māo. | A casa mia ci sono due gatti.
+ex: 那**张**桌子是新的。 | Nà **zhāng** zhuōzi shì xīn de. | Quel tavolo è nuovo.
+
+### 们 con i numerali
+Il suffisso 们 si usa con i pronomi e con i nomi di persona, ma non si combina con numerali o quantificatori come 很多 e 几, perché il plurale è già espresso; con i nomi di cose non si usa affatto (vedi il capitolo «Il sostantivo»).
+no: 我有三个**朋友们**。 | Wǒ yǒu sān ge **péngyoumen**. | Errato: dopo un numerale non si usa 们.
+ex: 我有三个**朋友**。 | Wǒ yǒu sān ge **péngyou**. | Ho tre amici.
+no: 桌子上有很多**书们**。 | Zhuōzi shang yǒu hěn duō **shūmen**. | Errato: 们 non si usa con i nomi di cose.
+ex: 桌子上有很多**书**。 | Zhuōzi shang yǒu hěn duō **shū**. | Sul tavolo ci sono molti libri.
+
+### 二 e 两
+Davanti a un classificatore «due» si dice 两; 二 si usa per contare, nei numeri composti (十二, 二十), negli ordinali, nelle date e nei numeri di piano, di stanza o di telefono (vedi il capitolo «I numeri»).
+no: 我有**二**个孩子。 | Wǒ yǒu **èr** ge háizi. | Errato: davanti al classificatore si usa 两.
+ex: 我有**两**个孩子。 | Wǒ yǒu **liǎng** ge háizi. | Ho due figli.
+ex: 他住在**二**楼。 | Tā zhù zài **èr** lóu. | Abita al secondo piano.
+ex: 我们班有**二十二**个学生。 | Wǒmen bān yǒu **èrshí'èr** ge xuésheng. | Nella nostra classe ci sono ventidue studenti.
+
+### 的 mancante o di troppo
+的 lega al nome le frasi relative, il possessore e gli aggettivi preceduti da un avverbio (很好的朋友); si omette invece, di norma, dopo gli aggettivi monosillabici (好朋友), dopo 很多 e tra un pronome e un parente o un gruppo a cui si appartiene (我妈妈, 我们学校) (vedi il capitolo «Le particelle strutturali 的, 地, 得»).
+no: 他是一个很好朋友。 | Tā shì yí ge hěn hǎo péngyou. | Errato: 很 + aggettivo vuole 的 davanti al nome.
+ex: 他是一个很好**的**朋友。 | Tā shì yí ge hěn hǎo **de** péngyou. | È un ottimo amico.
+no: 她是我的好**的**朋友。 | Tā shì wǒ de hǎo **de** péngyou. | Errato: dopo l'aggettivo monosillabico il 的 è di troppo.
+ex: 她是我的好朋友。 | Tā shì wǒ de hǎo péngyou. | È una mia cara amica.
+ex: 这是我买**的**书。 | Zhè shì wǒ mǎi **de** shū. | Questo è il libro che ho comprato.
+
+### 每 senza 都
+Con 每 «ogni», soprattutto quando 每 + nome è il soggetto, il cinese richiede di norma l'avverbio 都 prima del verbo, che riprende l'idea di totalità (vedi il capitolo «Gli avverbi»).
+no: 每个学生有一本词典。 | Měi ge xuésheng yǒu yì běn cídiǎn. | Innaturale: dopo 每 + nome soggetto si aggiunge 都.
+ex: 每个学生**都**有一本词典。 | Měi ge xuésheng **dōu** yǒu yì běn cídiǎn. | Ogni studente ha un dizionario.
+ex: 他每次来**都**带礼物。 | Tā měi cì lái **dōu** dài lǐwù. | Ogni volta che viene porta un regalo.
+
+## Parole facilmente confondibili
+
+### 认识 e 知道
+认识 significa «conoscere» una persona o un luogo, oppure saper riconoscere dei caratteri; 知道 significa «sapere» un fatto o un'informazione (vedi il capitolo «Il verbo»).
+no: 我**认识**他住在哪儿。 | Wǒ **rènshi** tā zhù zài nǎr. | Errato: un'informazione si «sa» con 知道.
+ex: 我**知道**他住在哪儿。 | Wǒ **zhīdao** tā zhù zài nǎr. | So dove abita.
+ex: 我**认识**他，可是不**知道**他叫什么名字。 | Wǒ **rènshi** tā, kěshì bù **zhīdao** tā jiào shénme míngzi. | Lo conosco, ma non so come si chiama.
+
+### 会, 能 e 可以
+会 indica un'abilità imparata (nuotare, guidare, parlare una lingua), 能 una capacità o una possibilità concreta in una data situazione, 可以 soprattutto un permesso. Attenzione: il «sapere» di «so nuotare» non è 知道 ma 会 (vedi il capitolo «I verbi modali»).
+no: 我**知道**游泳。 | Wǒ **zhīdao** yóuyǒng. | Errato: «saper fare» qualcosa si dice con 会.
+ex: 我**会**游泳。 | Wǒ **huì** yóuyǒng. | So nuotare.
+ex: 这儿**可以**抽烟吗？ | Zhèr **kěyǐ** chōuyān ma? | Qui si può fumare?
+ex: 我**会**游泳，可是今天不**能**游，我感冒了。 | Wǒ **huì** yóuyǒng, kěshì jīntiān bù **néng** yóu, wǒ gǎnmào le. | So nuotare, ma oggi non posso: ho il raffreddore.
+
+### 想 e 要
+Nel senso di «volere», 想 regge un verbo («vorrei fare…»), mentre 想 + nome significa «pensare a» o «sentire la mancanza di»; 要 regge sia un verbo sia un nome ed esprime una volontà più decisa. Al negativo «non voglio» si dice di norma 不想, perché 不要 + verbo è un divieto (vedi il capitolo «I verbi modali»).
+no: 我**想**一杯咖啡。 | Wǒ **xiǎng** yì bēi kāfēi. | Errato: 想 nel senso di «volere» vuole un verbo.
+ex: 我**要**一杯咖啡。 | Wǒ **yào** yì bēi kāfēi. | Vorrei un caffè. (lett. voglio una tazza di caffè)
+ex: 我**想**喝咖啡。 | Wǒ **xiǎng** hē kāfēi. | Ho voglia di un caffè.
+ex: 我很**想**你。 | Wǒ hěn **xiǎng** nǐ. | Mi manchi molto.
+
+### 不要 e 不用
+不要 (o 别) + verbo esprime un divieto («non…!»); per dire «non c'è bisogno, non serve» si usa 不用 (vedi il capitolo «Le frasi imperative ed esclamative»).
+no: A：谢谢！B：**不要**谢。 | A: Xièxie! B: **Búyào** xiè. | Errato: «non c'è di che» si dice 不用谢.
+ex: A：谢谢！B：**不用**谢。 | A: Xièxie! B: **Búyòng** xiè. | A: Grazie! B: Non c'è di che.
+ex: 明天是星期天，你**不用**早起。 | Míngtiān shì xīngqītiān, nǐ **búyòng** zǎo qǐ. | Domani è domenica, non c'è bisogno che ti alzi presto.
+ex: 上课的时候**不要**玩手机。 | Shàngkè de shíhou **búyào** wán shǒujī. | Durante la lezione non usate il cellulare.
+
+### 看 e 看见
+看 indica l'azione di guardare o di leggere, 看见 (o 看到) il risultato, cioè vedere davvero, percepire qualcosa; lo stesso vale per 听 e 听见 (vedi il capitolo «Il complemento di risultato»).
+no: 你**看**我的手机了吗？ | Nǐ **kàn** wǒ de shǒujī le ma? | Errato per «hai visto…?»: il risultato si esprime con 看见.
+ex: 你**看见**我的手机了吗？我找不到了。 | Nǐ **kànjiàn** wǒ de shǒujī le ma? Wǒ zhǎo bu dào le. | Hai visto il mio cellulare? Non lo trovo più.
+ex: 我**看**了半天，什么也没**看见**。 | Wǒ **kàn** le bàntiān, shénme yě méi **kànjiàn**. | Ho guardato a lungo, ma non ho visto niente.
+
+### 见面 e 帮忙 con l'oggetto
+见面, 帮忙, 结婚 e 聊天 sono verbi separabili, formati da verbo + oggetto, e non possono reggere un altro oggetto. La persona si introduce con una preposizione (跟, 和), si inserisce all'interno del verbo (帮他的忙) oppure si usa il verbo semplice (见, 帮) (vedi il capitolo «Il verbo»).
+no: 我明天**见面**我的老师。 | Wǒ míngtiān **jiànmiàn** wǒ de lǎoshī. | Errato: 见面 non regge un oggetto.
+ex: 我明天**跟**老师**见面**。 | Wǒ míngtiān **gēn** lǎoshī **jiànmiàn**. | Domani vedo l'insegnante.
+no: 你能**帮忙**我吗？ | Nǐ néng **bāngmáng** wǒ ma? | Errato: 帮忙 non regge un oggetto.
+ex: 你能**帮**我吗？ | Nǐ néng **bāng** wǒ ma? | Mi puoi aiutare?
+ex: 你能**帮**我一个**忙**吗？ | Nǐ néng **bāng** wǒ yí ge **máng** ma? | Mi puoi fare un favore?
+
+### 对, 对于 e 关于
+对 e 对于 indicano la persona o la cosa verso cui si rivolge un atteggiamento o un effetto («verso, nei confronti di, per»); 关于 introduce l'argomento di cui si parla («su, a proposito di») e sta all'inizio della frase o davanti a un nome con 的, non tra soggetto e verbo (vedi il capitolo «Le preposizioni»).
+no: 我**关于**中国历史很感兴趣。 | Wǒ **guānyú** Zhōngguó lìshǐ hěn gǎn xìngqù. | Errato: per l'oggetto di un interesse si usa 对.
+ex: 我**对**中国历史很感兴趣。 | Wǒ **duì** Zhōngguó lìshǐ hěn gǎn xìngqù. | Mi interessa molto la storia cinese.
+ex: 我看了一本**关于**中国历史的书。 | Wǒ kàn le yì běn **guānyú** Zhōngguó lìshǐ de shū. | Ho letto un libro sulla storia cinese.
+ex: 抽烟**对**身体不好。 | Chōuyān **duì** shēntǐ bù hǎo. | Fumare fa male alla salute.
+
+### 和 tra frasi o tra verbi
+和 «e» collega soprattutto nomi e pronomi, non frasi né predicati: tra due azioni o due qualità si usano la semplice giustapposizione, 也, 还, 又……又……, 然后 (vedi il capitolo «Frasi coordinate, successive e progressive»).
+no: 我去超市**和**买了水果。 | Wǒ qù chāoshì **hé** mǎi le shuǐguǒ. | Errato: 和 non collega due azioni.
+ex: 我去超市买了水果。 | Wǒ qù chāoshì mǎi le shuǐguǒ. | Sono andato al supermercato e ho comprato della frutta.
+no: 他很聪明**和**很努力。 | Tā hěn cōngming **hé** hěn nǔlì. | Errato: 和 non collega due predicati.
+ex: 他很聪明，**也**很努力。 | Tā hěn cōngming, **yě** hěn nǔlì. | È intelligente e anche molto diligente.
+ex: 他**又**聪明**又**努力。 | Tā **yòu** cōngming **yòu** nǔlì. | È intelligente e diligente.
+
+### 还是 e 或者
+Entrambi traducono «o, oppure», ma 还是 si usa nelle domande alternative («A o B?»), anche indirette, mentre 或者 si usa nelle frasi affermative («A oppure B, è uguale») (vedi il capitolo «Frasi alternative, avversative e concessive»).
+no: 你喝茶**或者**喝咖啡？ | Nǐ hē chá **huòzhě** hē kāfēi? | Errato: nella domanda alternativa si usa 还是.
+ex: 你喝茶**还是**喝咖啡？ | Nǐ hē chá **háishi** hē kāfēi? | Prendi tè o caffè?
+ex: 周末我常常看书**或者**看电影。 | Zhōumò wǒ chángcháng kàn shū **huòzhě** kàn diànyǐng. | Nel fine settimana di solito leggo o guardo un film.
+
+### «Chiedere»: 问 e 请
+L'italiano «chiedere» ha due traduzioni: 问 significa «domandare» per avere un'informazione, mentre «chiedere a qualcuno di fare qualcosa» si dice con 请 (o, in tono formale, 要求) in una frase a perno (vedi il capitolo «Le frasi causative e le frasi a perno»).
+no: 我**问**他帮我搬家。 | Wǒ **wèn** tā bāng wǒ bānjiā. | Errato: «chiedere di fare» non si dice con 问.
+ex: 我**请**他帮我搬家。 | Wǒ **qǐng** tā bāng wǒ bānjiā. | Gli ho chiesto di aiutarmi a traslocare.
+ex: 我**问**他明天有没有空。 | Wǒ **wèn** tā míngtiān yǒu méiyǒu kòng. | Gli ho chiesto se domani è libero.

@@ -1,0 +1,138 @@
+# Il complemento di risultato
+
+## Struttura e significato
+
+Il complemento di risultato (结果补语 jiéguǒ bǔyǔ) è un verbo o un aggettivo che segue immediatamente il verbo principale e ne indica l'esito: 看 «guardare» + 见 «percepire» = 看见 «vedere»; 洗 «lavare» + 干净 «pulito» = 洗干净 «lavare fino a rendere pulito». Verbo e complemento formano un'unità molto compatta, quasi una parola composta: nulla si inserisce tra i due, tranne 得 e 不 del complemento potenziale.
+
+= S + V + C (+ O)
+= S + V + C + 了 (+ O)
+
+ex: 我**看见**他了。 | Wǒ **kànjiàn** tā le. | L'ho visto.
+ex: 你**听懂**了吗？ | Nǐ **tīngdǒng** le ma? | Hai capito?
+ex: 我已经**做完**作业了。 | Wǒ yǐjīng **zuòwán** zuòyè le. | Ho già finito i compiti.
+ex: 衣服**洗干净**了。 | Yīfu **xǐ gānjìng** le. | I vestiti sono puliti. (lett. lavare-pulito)
+ex: 对不起，我**写错**了。 | Duìbuqǐ, wǒ **xiěcuò** le. | Scusa, ho scritto male.
+ex: 他已经**学会**开车了。 | Tā yǐjīng **xuéhuì** kāichē le. | Ha già imparato a guidare.
+
+Il complemento di risultato indica di solito un esito già raggiunto: per questo compare spesso con 了 o, nella negazione, con 没(有). È anche l'elemento tipico delle frasi con 把 (vedi il capitolo «La costruzione con 把»).
+
+### 看 e 看见
+
+Il verbo semplice indica l'attività, il verbo con il complemento il suo risultato. Questa differenza è essenziale e non va mai trascurata.
+
+ex: 我**看**了半天，什么也没**看见**。 | Wǒ **kàn** le bàntiān, shénme yě méi **kànjiàn**. | Ho guardato a lungo, ma non ho visto niente.
+ex: 你**听**，有人在唱歌。你**听见**了吗？ | Nǐ **tīng**, yǒu rén zài chànggē. Nǐ **tīngjiàn** le ma? | Ascolta, qualcuno sta cantando. L'hai sentito?
+ex: 我**找**了很久，终于**找到**了。 | Wǒ **zhǎo** le hěn jiǔ, zhōngyú **zhǎodào** le. | Ho cercato a lungo e finalmente l'ho trovato.
+
+### La posizione di 了
+
+了 va sempre dopo il complemento, mai tra il verbo e il complemento.
+
+no: 我看了见他。 | Wǒ kàn le jiàn tā. | Errato: 了 va dopo il complemento.
+ex: 我**看见了**他。 | Wǒ **kànjiàn le** tā. | L'ho visto.
+
+## I complementi di risultato più comuni
+
+| Complemento | Significato | Esempi |
+| 完 wán | finire, completare | 吃完 chīwán, 用完 yòngwán |
+| 好 hǎo | completare bene, essere pronto | 做好 zuòhǎo, 准备好 zhǔnbèi hǎo |
+| 到 dào | raggiungere lo scopo o la meta | 找到 zhǎodào, 买到 mǎidào |
+| 见 jiàn | percepire (vista, udito) | 看见 kànjiàn, 听见 tīngjiàn |
+| 懂 dǒng | capire | 听懂 tīngdǒng, 看懂 kàndǒng |
+| 会 huì | imparare a saper fare | 学会 xuéhuì |
+| 错 cuò | sbagliare | 写错 xiěcuò, 走错 zǒucuò |
+| 对 duì | fare correttamente | 做对 zuòduì, 猜对 cāiduì |
+| 清楚 qīngchu | chiaramente | 看清楚 kàn qīngchu, 说清楚 shuō qīngchu |
+| 干净 gānjìng | pulito | 洗干净 xǐ gānjìng, 擦干净 cā gānjìng |
+| 光 guāng | esaurire, senza lasciare nulla | 吃光 chīguāng, 花光 huāguāng |
+| 掉 diào | eliminare, «via» | 扔掉 rēngdiào, 忘掉 wàngdiào |
+| 走 zǒu | portare via, allontanare | 拿走 názǒu, 带走 dàizǒu |
+| 住 zhù | fissare, fermare, trattenere | 记住 jìzhù, 站住 zhànzhù |
+| 开 kāi | aprire, separare | 打开 dǎkāi, 拉开 lākāi |
+| 上 shàng | chiudere, unire, raggiungere | 关上 guānshang, 考上 kǎoshang |
+| 下 xià | staccare, deporre, far posto | 脱下 tuōxia, 放下 fàngxia |
+| 成 chéng | trasformare in, riuscire | 变成 biànchéng, 做成 zuòchéng |
+| 着 zháo | raggiungere lo scopo | 睡着 shuìzháo, 找着 zhǎozháo |
+| 饱 bǎo | sazio | 吃饱 chībǎo |
+| 累 lèi | stancarsi facendo l'azione | 走累 zǒulèi, 写累 xiělèi |
+| 坏 huài | rompere, rovinare | 弄坏 nònghuài, 摔坏 shuāihuài |
+| 死 sǐ | morire; «da morire» | 打死 dǎsǐ, 饿死 èsǐ |
+| 透 tòu | completamente, fino in fondo | 湿透 shītòu, 熟透 shútòu |
+| 遍 biàn | dappertutto | 找遍 zhǎobiàn, 走遍 zǒubiàn |
+| 满 mǎn | pieno, riempire | 坐满 zuòmǎn, 装满 zhuāngmǎn |
+| 够 gòu | abbastanza, fino a esserne stufi | 吃够 chīgòu, 玩儿够 wánrgòu |
+| 惯 guàn | abituarsi | 吃惯 chīguàn, 住惯 zhùguàn |
+| 动 dòng | spostare, smuovere | 搬动 bāndòng, 拿动 nádòng |
+| 倒 dǎo | cadere, far cadere | 摔倒 shuāidǎo, 推倒 tuīdǎo |
+
+! Alcuni complementi compaiono soprattutto nella forma potenziale: 动 (拿不动 «non riuscire a sollevare»), 惯 (吃不惯 «non riuscire ad abituarsi a un cibo»), 着 (睡不着 «non riuscire ad addormentarsi»). Vedi il capitolo «Il complemento potenziale».
+
+### 完
+
+完 indica che l'azione è stata portata a termine o che qualcosa è esaurito.
+
+ex: 你**吃完**了吗？ | Nǐ **chīwán** le ma? | Hai finito di mangiare?
+ex: 这本书我还没**看完**。 | Zhè běn shū wǒ hái méi **kànwán**. | Non ho ancora finito di leggere questo libro.
+ex: 钱都**用完**了。 | Qián dōu **yòngwán** le. | I soldi sono finiti tutti.
+
+### 好
+
+好 indica che l'azione è stata completata in modo soddisfacente, che qualcosa è pronto, oppure che si è raggiunto un accordo.
+
+ex: 晚饭**做好**了。 | Wǎnfàn **zuòhǎo** le. | La cena è pronta.
+ex: 你**准备好**了吗？ | Nǐ **zhǔnbèi hǎo** le ma? | Sei pronto?
+ex: 我们**说好**了，明天八点见。 | Wǒmen **shuōhǎo** le, míngtiān bā diǎn jiàn. | Siamo d'accordo: ci vediamo domani alle otto.
+ex: 请大家**坐好**，我们马上开始。 | Qǐng dàjiā **zuòhǎo**, wǒmen mǎshàng kāishǐ. | Accomodatevi, per favore: cominciamo subito.
+
+! 完 e 好 a confronto: 作业做完了 «ho finito i compiti» dice solo che il lavoro è terminato; 作业做好了 sottolinea che è stato completato come si deve.
+
+### 到
+
+到 indica che l'azione ha raggiunto il suo scopo (trovare, comprare, ottenere) o un punto nello spazio e nel tempo (vedi anche «V + 在 / 到 / 给 / 成»).
+
+ex: 我的手机你**找到**了吗？ | Wǒ de shǒujī nǐ **zhǎodào** le ma? | L'hai trovato il mio cellulare?
+ex: 我没**买到**火车票。 | Wǒ méi **mǎidào** huǒchēpiào. | Non sono riuscito a comprare il biglietto del treno.
+ex: 我在路上**遇到**了一个老朋友。 | Wǒ zài lù shang **yùdào** le yí ge lǎo péngyou. | Per strada ho incontrato un vecchio amico.
+ex: 我们上次**说到**哪儿了？ | Wǒmen shàng cì **shuōdào** nǎr le? | Dove eravamo rimasti l'ultima volta?
+
+### 见
+
+见 si usa con i verbi di percezione: 看见 «vedere», 听见 «sentire», 闻见 «sentire un odore», 遇见 «incontrare». Con 看 e 听 equivale in gran parte a 到 (看到, 听到).
+
+ex: 你**听见**了吗？有人敲门。 | Nǐ **tīngjiàn** le ma? Yǒu rén qiāo mén. | Hai sentito? Qualcuno bussa alla porta.
+ex: 我昨天在超市**看见**你了。 | Wǒ zuótiān zài chāoshì **kànjiàn** nǐ le. | Ieri ti ho visto al supermercato.
+
+### 懂
+
+懂 indica la comprensione raggiunta attraverso l'azione: 听懂 (ascoltando), 看懂 (leggendo o guardando), 弄懂 (in qualche modo, dopo uno sforzo).
+
+ex: 老师的话你**听懂**了吗？ | Lǎoshī de huà nǐ **tīngdǒng** le ma? | Hai capito quello che ha detto l'insegnante?
+ex: 我没**听懂**，请再说一遍。 | Wǒ méi **tīngdǒng**, qǐng zài shuō yí biàn. | Non ho capito, ripeti per favore.
+ex: 这个语法我终于**弄懂**了。 | Zhège yǔfǎ wǒ zhōngyú **nòngdǒng** le. | Questa regola di grammatica finalmente l'ho capita.
+
+### 住
+
+住 indica che qualcosa viene fissato, fermato o trattenuto saldamente.
+
+ex: 请**记住**我的电话号码。 | Qǐng **jìzhù** wǒ de diànhuà hàomǎ. | Per favore, memorizza il mio numero di telefono.
+ex: **站住**！别跑！ | **Zhànzhù**! Bié pǎo! | Fermo! Non scappare!
+ex: 你要**抓住**这个机会。 | Nǐ yào **zhuāzhù** zhège jīhuì. | Devi cogliere questa occasione.
+
+### 掉
+
+掉 indica che qualcosa viene eliminato, tolto, buttato via o perso.
+
+ex: 这些旧报纸可以**扔掉**了。 | Zhèxiē jiù bàozhǐ kěyǐ **rēngdiào** le. | Questi giornali vecchi si possono buttare.
+ex: 出门以前别忘了**关掉**空调。 | Chūmén yǐqián bié wàng le **guāndiào** kōngtiáo. | Prima di uscire non dimenticare di spegnere il condizionatore.
+ex: 他把旧车**卖掉**了。 | Tā bǎ jiù chē **màidiào** le. | Ha venduto la sua vecchia macchina.
+ex: 你应该**改掉**这个坏习惯。 | Nǐ yīnggāi **gǎidiào** zhège huài xíguàn. | Dovresti liberarti di questa cattiva abitudine.
+
+### 着 (zháo)
+
+Come complemento di risultato 着 si legge zháo e indica che l'azione ha raggiunto il suo scopo. È molto frequente in 睡着 «addormentarsi» e, nel parlato del nord, in combinazioni come 找着, 买着, 猜着 (= 找到, 买到, 猜对).
+
+ex: 我昨天晚上很晚才**睡着**。 | Wǒ zuótiān wǎnshang hěn wǎn cái **shuìzháo**. | Ieri sera mi sono addormentato molto tardi.
+ex: 你要的那本书我**买着**了。 | Nǐ yào de nà běn shū wǒ **mǎizháo** le. | Il libro che volevi sono riuscito a comprarlo.
+ex: 你**猜着**了！ | Nǐ **cāizháo** le! | Hai indovinato!
+
+! Non confondete 着 zháo (complemento di risultato) con 着 zhe (particella del durativo): 他睡着了 tā shuìzháo le «si è addormentato» / 他在床上躺着 tā zài chuáng shang tǎng zhe «è sdraiato sul letto».

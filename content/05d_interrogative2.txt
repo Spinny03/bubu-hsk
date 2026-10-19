@@ -1,0 +1,266 @@
+## Domande con 呢
+
+呢 ne è una particella con molti usi (vedi il capitolo «Le particelle modali»). Nelle domande ha quattro funzioni principali.
+
+### «E tu?»: domande di ritorno
+
+Dopo un nome o un pronome, 呢 forma una domanda abbreviata che riprende la domanda o il tema precedente: «e tu?», «e lui?», «e domani?».
+
+= N/Pronome + 呢？
+
+ex: 我很好，**你呢**？ | Wǒ hěn hǎo, **nǐ ne**? | Io sto bene, e tu?
+ex: 我是意大利人，**你呢**？ | Wǒ shì Yìdàlìrén, **nǐ ne**? | Io sono italiano, e tu?
+ex: 今天我没空，**明天呢**？ | Jīntiān wǒ méi kòng, **míngtiān ne**? | Oggi non sono libero; e domani?
+ex: A：我想喝咖啡，**你呢**？B：我喝茶。 | A: Wǒ xiǎng hē kāfēi, **nǐ ne**? B: Wǒ hē chá. | A: Io prendo un caffè, e tu? B: Io un tè.
+
+### «Dov'è…?»
+
+Senza un contesto precedente, N + 呢 chiede dove si trova una persona o una cosa:
+
+ex: **我的钥匙呢**？ | **Wǒ de yàoshi ne**? | Dove sono le mie chiavi?
+ex: 小王**呢**？他还没来吗？ | Xiǎo Wáng **ne**? Tā hái méi lái ma? | E Xiao Wang? Non è ancora arrivato?
+ex: 妈妈，**我的袜子呢**？ | Māma, **wǒ de wàzi ne**? | Mamma, dove sono i miei calzini?
+
+### «E se…?»
+
+Con 要是 o 如果 «se» seguiti da una frase, 呢 forma una domanda ipotetica:
+
+= 要是/如果 + frase + 呢？
+
+ex: **要是**明天下雨**呢**？ | **Yàoshi** míngtiān xià yǔ **ne**? | E se domani piove?
+ex: **如果**他不同意**呢**？ | **Rúguǒ** tā bù tóngyì **ne**? | E se lui non è d'accordo?
+ex: **要是**飞机晚点了**呢**？ | **Yàoshi** fēijī wǎndiǎn le **ne**? | E se l'aereo è in ritardo?
+
+### 呢 nelle altre domande
+
+Nelle domande con pronome interrogativo, alternative e affermativo-negative 呢 non è necessario, ma rende il tono più morbido e riflessivo o, insieme a 到底 «insomma», insistente:
+
+ex: 你**为什么**不早说**呢**？ | Nǐ **wèi shénme** bù zǎo shuō **ne**? | Perché non l'hai detto prima?
+ex: 你去**还是**不去**呢**？ | Nǐ qù **háishi** bú qù **ne**? | Allora, ci vai o non ci vai?
+ex: 他到底**来不来呢**？ | Tā dàodǐ **lái bu lái ne**? | Ma insomma, viene o no?
+ex: 这件事**怎么**办**呢**？ | Zhè jiàn shì **zěnme** bàn **ne**? | Come la risolviamo, questa faccenda?
+
+### 呢 e 吗 non si combinano
+
+呢 non forma da solo domande sì/no e non si unisce mai a 吗:
+
+no: 你是学生呢？ | Nǐ shì xuésheng ne? | Errato: 呢 non forma domande sì/no; si usa 吗.
+ex: 你是学生**吗**？ | Nǐ shì xuésheng **ma**? | Sei uno studente?
+no: 你去吗呢？ | Nǐ qù ma ne? | Errato: 吗 e 呢 non si combinano.
+ex: 你去**吗**？ | Nǐ qù **ma**? | Ci vai?
+
+## Domande con 吧
+
+吧 ba alla fine di una frase dichiarativa forma una domanda con cui chi parla esprime una supposizione e chiede conferma: pensa che la risposta sia «sì» e vuole sentirselo dire. Corrisponde all'italiano «…, vero?», «…, no?», «immagino che…», o al futuro di supposizione («sarai stanco»).
+
+= Frase + 吧？
+
+ex: 你是意大利人**吧**？ | Nǐ shì Yìdàlìrén **ba**? | Sei italiano, vero?
+ex: 你累了**吧**？ | Nǐ lèi le **ba**? | Sarai stanco.
+ex: 这个很贵**吧**？ | Zhège hěn guì **ba**? | Questo costerà parecchio, no?
+ex: 你们已经吃过饭了**吧**？ | Nǐmen yǐjīng chī guo fàn le **ba**? | Avete già mangiato, immagino?
+ex: 他不会不来**吧**？ | Tā bú huì bù lái **ba**? | Non è che non viene, vero?
+ex: 他**大概**已经到家了**吧**？ | Tā **dàgài** yǐjīng dào jiā le **ba**? | Probabilmente è già arrivato a casa, no?
+
+Con 吧, a differenza che con 吗, nella frase compaiono spesso avverbi di supposizione come 大概, 可能, 应该, 一定.
+
+| Domanda | Atteggiamento di chi chiede | Traduzione |
+| 你是老师吗？ | neutro: non lo so | Sei insegnante? |
+| 你是老师吧？ | suppongo di sì | Sei insegnante, vero? |
+| 你不是老师吗？ | sorpresa: credevo di sì | Ma non sei insegnante? |
+
+Per gli altri usi di 吧 (proposte, consenso, esitazione) vedi il capitolo «Le particelle modali».
+
+## Domande di conferma
+
+Una frase dichiarativa può essere seguita da una breve domanda, separata da una virgola, con cui si chiede l'accordo o la conferma dell'interlocutore. Si distinguono due gruppi:
+
+- per chiedere il consenso a una proposta o a una richiesta: 好吗？, 好不好？, 可以吗？, 行吗？, 行不行？, 怎么样？
+- per verificare un'informazione: 对吗？, 对不对？, 是吗？, 是不是？, 对吧？, 没错吧？
+
+= Frase + ，好吗/可以吗/行吗/怎么样？
+= Frase + ，对吗/是吗/是不是/对不对？
+
+ex: 我们明天去长城，**好吗**？ | Wǒmen míngtiān qù Chángchéng, **hǎo ma**? | Domani andiamo alla Grande Muraglia, va bene?
+ex: 你帮我拿一下，**好不好**？ | Nǐ bāng wǒ ná yíxià, **hǎo bu hǎo**? | Me lo tieni un attimo, per favore?
+ex: 我用一下你的笔，**可以吗**？ | Wǒ yòng yíxià nǐ de bǐ, **kěyǐ ma**? | Posso usare un momento la tua penna?
+ex: 我晚一点儿到，**行吗**？ | Wǒ wǎn yìdiǎnr dào, **xíng ma**? | Arrivo un po' più tardi, va bene?
+ex: 周末一起吃饭，**怎么样**？ | Zhōumò yìqǐ chī fàn, **zěnmeyàng**? | Che ne dici di mangiare insieme nel fine settimana?
+ex: 你是上海人，**对吗**？ | Nǐ shì Shànghǎirén, **duì ma**? | Sei di Shanghai, giusto?
+ex: 你昨天没来上课，**是不是**？ | Nǐ zuótiān méi lái shàng kè, **shì bu shì**? | Ieri non sei venuto a lezione, vero?
+ex: 这个字这么写，**对不对**？ | Zhège zì zhème xiě, **duì bu duì**? | Questo carattere si scrive così, giusto?
+
+Si risponde con 好(的), 行, 可以, 没问题 oppure 不行; con 对, 是的, 没错 oppure 不对, 不是. 是吗 da solo, come reazione a un'affermazione, non è una vera domanda: equivale all'italiano «davvero?», «ah sì?».
+
+ex: A：我下个月结婚。B：**是吗**？恭喜恭喜！ | A: Wǒ xià ge yuè jié hūn. B: **Shì ma**? Gōngxǐ gōngxǐ! | A: Il mese prossimo mi sposo. B: Davvero? Congratulazioni!
+
+## Domande con 多 + aggettivo
+
+Per chiedere una misura (età, altezza, lunghezza, distanza, peso, durata) si usa 多 duō «quanto» seguito da un aggettivo; davanti a 多 si può mettere 有. Si usano gli aggettivi che indicano il polo «positivo» della misura: 大, 高, 长, 远, 重, 宽, 深, 久.
+
+= S + (有) + 多 + Agg？
+
+| Domanda | Significato | Risposta tipica |
+| 多大？ | quanti anni; quanto grande | 二十五岁。 |
+| 多高？ | quanto alto | 一米七五。 |
+| 多长？ | quanto lungo | 六千多公里。 |
+| 多远？ | quanto lontano | 三公里。 |
+| 多重？ | quanto pesante | 二十公斤。 |
+| 多久？ | quanto tempo | 三年。 |
+| 多长时间？ | quanto tempo | 四个半小时。 |
+
+ex: 你今年**多大**？ | Nǐ jīnnián **duō dà**? | Quanti anni hai?
+ex: 你**多高**？ | Nǐ **duō gāo**? | Quanto sei alto?
+ex: 长江**有多长**？ | Cháng Jiāng **yǒu duō cháng**? | Quanto è lungo il Fiume Azzurro?
+ex: 你家离学校**多远**？ | Nǐ jiā lí xuéxiào **duō yuǎn**? | Quanto dista casa tua dalla scuola?
+ex: 这个箱子**多重**？ | Zhège xiāngzi **duō zhòng**? | Quanto pesa questa valigia?
+ex: 你在北京住了**多久**？ | Nǐ zài Běijīng zhù le **duō jiǔ**? | Per quanto tempo hai abitato a Pechino?
+ex: 坐高铁去上海要**多长时间**？ | Zuò gāotiě qù Shànghǎi yào **duō cháng shíjiān**? | Quanto ci vuole per andare a Shanghai con il treno ad alta velocità?
+
+Nella risposta la misura precede l'aggettivo, che spesso si omette:
+
+ex: A：这座楼有多高？B：一百多米(高)。 | A: Zhè zuò lóu yǒu duō gāo? B: Yìbǎi duō mǐ (gāo). | A: Quanto è alto questo palazzo? B: Più di cento metri.
+ex: A：你家离这儿多远？B：不远，走路十分钟。 | A: Nǐ jiā lí zhèr duō yuǎn? B: Bù yuǎn, zǒu lù shí fēnzhōng. | A: Quanto dista casa tua da qui? B: Non molto, dieci minuti a piedi.
+
+Per chiedere l'età si usano forme diverse a seconda dell'interlocutore:
+
+| Interlocutore | Domanda | Pinyin |
+| bambino | 你几岁了？ | Nǐ jǐ suì le? |
+| giovane, coetaneo | 你多大了？ | Nǐ duō dà le? |
+| persona anziana | 您多大年纪了？ | Nín duō dà niánjì le? |
+
+! Gli aggettivi del polo «negativo» (小, 矮, 短, 近, 轻) si usano dopo 多 solo quando la piccolezza è già data per scontata: 他有多矮？ significa «quanto è basso?» (sappiamo già che è basso). Nelle domande neutre si usano sempre 多大, 多高, 多长 ecc.
+! 多 + Agg si usa anche nelle esclamazioni: 多漂亮啊！ «com'è bello!» (vedi il capitolo «Le frasi imperative ed esclamative»). Con 有多 si formano inoltre esclamazioni indirette: 你不知道他有多高兴！ «non sai quanto è contento!».
+
+## Domande retoriche
+
+Le domande retoriche (反问句 fǎnwènjù) hanno la forma di una domanda, ma servono ad affermare con forza il contrario di ciò che sembrano chiedere: una domanda negativa equivale a un'affermazione enfatica, una domanda affermativa a una negazione enfatica. Esprimono sorpresa, rimprovero, impazienza o ovvietà, e non richiedono risposta.
+
+### 难道……吗？
+
+难道 nándào «forse che…?» introduce una domanda di cui chi parla non accetta la risposta implicita: «non vorrai dire che…?». In fondo alla frase si trova spesso 吗.
+
+ex: **难道**你不知道**吗**？ | **Nándào** nǐ bù zhīdao **ma**? | Non vorrai dirmi che non lo sai? (= dovresti saperlo)
+ex: 这么简单的问题，**难道**你也不会**吗**？ | Zhème jiǎndān de wèntí, **nándào** nǐ yě bú huì **ma**? | Una domanda così semplice: possibile che non la sappia nemmeno tu?
+ex: **难道**他是故意的？ | **Nándào** tā shì gùyì de? | Vuoi dire che l'ha fatto apposta?
+
+### 不是……吗？
+
+不是……吗？ «non è forse vero che…?» ricorda all'interlocutore qualcosa che dovrebbe sapere, spesso con un tono di rimprovero o di sorpresa:
+
+ex: 你**不是**说今天不来**吗**？ | Nǐ **bú shì** shuō jīntiān bù lái **ma**? | Ma non avevi detto che oggi non venivi?
+ex: 这**不是**你的手机**吗**？ | Zhè **bú shì** nǐ de shǒujī **ma**? | Ma questo non è il tuo cellulare?
+ex: 我**不是**告诉过你**吗**？ | Wǒ **bú shì** gàosu guo nǐ **ma**? | Non te l'avevo detto?
+
+### 哪儿 / 哪里……？
+
+哪儿 o 哪里 davanti al predicato equivalgono a una negazione forte («ma quando mai…!»):
+
+ex: **哪儿有**这样的事？ | **Nǎr yǒu** zhèyàng de shì? | Ma figurati! (lett. dove c'è una cosa simile? = non esiste)
+ex: 我**哪儿**知道他住在哪儿？ | Wǒ **nǎr** zhīdao tā zhù zài nǎr? | E io che ne so di dove abita?
+ex: A：你汉语说得真好！B：**哪里哪里**。 | A: Nǐ Hànyǔ shuō de zhēn hǎo! B: **Nǎli nǎli**. | A: Parli benissimo cinese! B: Ma no, ma no.
+
+### 谁……？
+
+Una domanda con 谁 può significare «nessuno»: 谁知道？ «chi lo sa?» = nessuno lo sa; 谁说……？ «chi l'ha detto che…?» = non è vero.
+
+ex: **谁知道**他什么时候回来？ | **Shéi zhīdao** tā shénme shíhou huílai? | Chi lo sa quando torna? (= nessuno lo sa)
+ex: **谁说**我不去？ | **Shéi shuō** wǒ bú qù? | Chi ha detto che non ci vado? (= certo che ci vado)
+
+### 怎么能……呢？ e 怎么会……呢？
+
+怎么能 «come si può…?» esprime disapprovazione; 怎么会 «come potrebbe…?» nega con forza una possibilità:
+
+ex: 你**怎么能**这样跟妈妈说话**呢**？ | Nǐ **zěnme néng** zhèyàng gēn māma shuō huà **ne**? | Come puoi parlare così alla mamma?
+ex: 我**怎么会**忘**呢**？ | Wǒ **zěnme huì** wàng **ne**? | Come potrei dimenticarlo?
+
+### 何必……呢？
+
+何必 hébì «che bisogno c'è di…?» indica che una cosa è inutile o eccessiva. Il registro è un po' sostenuto, ma l'espressione è comune anche nel parlato.
+
+ex: 都是朋友，**何必**这么客气**呢**？ | Dōu shì péngyou, **hébì** zhème kèqi **ne**? | Siamo amici, che bisogno c'è di tante cerimonie?
+ex: **何必**为这点儿小事生气**呢**？ | **Hébì** wèi zhè diǎnr xiǎo shì shēng qì **ne**? | Che senso ha arrabbiarsi per una sciocchezza simile?
+
+### 有什么……的？
+
+有什么 + Agg/V + 的？ significa «non c'è niente di…»:
+
+ex: **有什么**好怕**的**？ | **Yǒu shénme** hǎo pà **de**? | Che cosa c'è da aver paura? (= non c'è niente da temere)
+ex: 这**有什么**奇怪**的**？ | Zhè **yǒu shénme** qíguài **de**? | Che c'è di strano?
+ex: **有什么**了不起**的**？ | **Yǒu shénme** liǎobuqǐ **de**? | Che cosa ha di così speciale?
+
+### 还用……吗？
+
+还用 + V + 吗？ «c'è ancora bisogno di…?» significa che la cosa è ovvia:
+
+ex: 这**还用**说**吗**？ | Zhè **hái yòng** shuō **ma**? | C'è bisogno di dirlo? (= è ovvio)
+
+| Forma | Significato reale |
+| 难道……吗？ | non può essere che…; certamente… |
+| 不是……吗？ | ma sì che…, eppure… |
+| 哪儿/哪里 + V？ | per niente, affatto |
+| 谁 + V？ | nessuno |
+| 怎么能……呢？ | non si deve, non si può |
+| 何必……呢？ | non c'è bisogno di… |
+| 有什么……的？ | non c'è niente di… |
+| 还用……吗？ | è ovvio, non serve |
+
+## Le domande indirette
+
+Le domande indirette sono domande inserite in una frase più ampia, come oggetto di verbi quali 知道, 问, 想知道, 告诉, 记得, 忘, 清楚, 决定. Si formano con la forma affermativo-negativa, con un pronome interrogativo o con 还是, ma mai con 吗: 吗 trasformerebbe in domanda tutta la frase. Nello scritto formale, «se» si può rendere con 是否 shìfǒu.
+
+= S + 知道/问… + domanda (A不A / pronome / 还是)
+
+ex: 我不知道他**去不去**。 | Wǒ bù zhīdao tā **qù bu qù**. | Non so se lui ci va.
+ex: 我想知道她**是不是**中国人。 | Wǒ xiǎng zhīdao tā **shì bu shì** Zhōngguórén. | Vorrei sapere se è cinese.
+ex: 我忘了他住在**哪儿**。 | Wǒ wàng le tā zhù zài **nǎr**. | Ho dimenticato dove abita.
+ex: 你问问他明天来**还是**后天来。 | Nǐ wènwen tā míngtiān lái **háishi** hòutiān lái. | Chiedigli se viene domani o dopodomani.
+ex: 你去看看门**关没关**。 | Nǐ qù kànkan mén **guān méi guān**. | Va' a vedere se la porta è chiusa.
+ex: 目前还不清楚这个消息**是否**属实。 | Mùqián hái bù qīngchu zhège xiāoxi **shìfǒu** shǔshí. | Al momento non è ancora chiaro se la notizia sia vera.
+
+no: 我不知道他去吗。 | Wǒ bù zhīdao tā qù ma. | Errato: nella domanda indiretta non si usa 吗.
+ex: 我不知道他**去不去**。 | Wǒ bù zhīdao tā **qù bu qù**. | Non so se lui ci va.
+
+吗 può comparire soltanto alla fine della domanda principale. In 你知道邮局在哪儿吗？ la domanda vera è «lo sai?» (sì/no), mentre 哪儿 appartiene alla domanda indiretta:
+
+ex: 你知道邮局在**哪儿吗**？ | Nǐ zhīdao yóujú zài **nǎr ma**? | Sai dov'è l'ufficio postale?
+ex: 你知道他**叫什么**名字**吗**？ | Nǐ zhīdao tā **jiào shénme** míngzi **ma**? | Sai come si chiama?
+ex: 你还记得我们是**哪年**认识的**吗**？ | Nǐ hái jìde wǒmen shì **nǎ nián** rènshi de **ma**? | Ti ricordi ancora in che anno ci siamo conosciuti?
+
+Il «se» italiano delle domande indirette non si traduce: non si usa 如果, che ha solo valore ipotetico (vedi il capitolo «Frasi causali, ipotetiche e condizionali»).
+
+no: 我不知道如果他来。 | Wǒ bù zhīdao rúguǒ tā lái. | Errato: il «se» delle domande indirette non si traduce con 如果.
+ex: 我不知道他**来不来**。 | Wǒ bù zhīdao tā **lái bu lái**. | Non so se viene.
+
+## Le risposte brevi
+
+Come si è visto, il modo più naturale di rispondere a una domanda sì/no è ripetere il verbo (o l'aggettivo, o il modale) in forma affermativa o negativa. Esistono però anche alcune risposte brevi di uso frequentissimo:
+
+| Risposta | Pinyin | Uso |
+| 是的 / 是 | shì de / shì | sì (conferma, cortese) |
+| 对 | duì | giusto, esatto |
+| 没错 | méi cuò | esatto, proprio così |
+| 当然 | dāngrán | certo |
+| 嗯 | ǹg | sì, mh (parlato) |
+| 好 / 好的 | hǎo / hǎo de | va bene, d'accordo |
+| 行 | xíng | va bene, si può |
+| 可以 | kěyǐ | si può, va bene |
+| 不 | bù | no (rifiuto o smentita) |
+| 不是 | bú shì | no, non è così |
+| 没有 | méiyǒu | no (non c'è, non è successo) |
+| 不行 | bù xíng | no, non si può |
+| 不用了 | bú yòng le | no, grazie (non serve) |
+
+ex: A：你认识他吗？B：**认识**。 | A: Nǐ rènshi tā ma? B: **Rènshi**. | A: Lo conosci? B: Sì.
+ex: A：你能来吗？B：**不能**，我要上班。 | A: Nǐ néng lái ma? B: **Bù néng**, wǒ yào shàng bān. | A: Puoi venire? B: No, devo lavorare.
+ex: A：你是王明吗？B：**是的**，我是。 | A: Nǐ shì Wáng Míng ma? B: **Shì de**, wǒ shì. | A: Sei Wang Ming? B: Sì, sono io.
+ex: A：明天八点出发，对吧？B：**没错**。 | A: Míngtiān bā diǎn chūfā, duì ba? B: **Méi cuò**. | A: Si parte domani alle otto, giusto? B: Esatto.
+ex: A：我们走吧。B：**好的**。 | A: Wǒmen zǒu ba. B: **Hǎo de**. | A: Andiamo. B: D'accordo.
+ex: A：七点见，行吗？B：**行**。 | A: Qī diǎn jiàn, xíng ma? B: **Xíng**. | A: Ci vediamo alle sette, va bene? B: Va bene.
+ex: A：你吃了吗？B：**嗯**，吃了。 | A: Nǐ chī le ma? B: **Ǹg**, chī le. | A: Hai mangiato? B: Sì, ho mangiato.
+ex: A：有问题吗？B：**没有**。 | A: Yǒu wèntí ma? B: **Méiyǒu**. | A: Ci sono domande? B: No.
+ex: A：要不要我帮你？B：**不用了**，谢谢。 | A: Yào bu yào wǒ bāng nǐ? B: **Bú yòng le**, xièxie. | A: Vuoi che ti aiuti? B: No, grazie, non serve.
+no: A：你有空吗？B：是。 | A: Nǐ yǒu kòng ma? B: Shì. | Errato: alle domande con 有 si risponde 有 / 没有.
+ex: A：你有空吗？B：**有**。 | A: Nǐ yǒu kòng ma? B: **Yǒu**. | A: Sei libero? B: Sì.
+
+! 不 da solo come risposta può suonare brusco. Per rifiutare un'offerta è più cortese 不用了，谢谢; per esprimere disaccordo si preferiscono formule attenuate come 我不这么看 «io non la vedo così» o 不太好吧 «non mi sembra una buona idea».

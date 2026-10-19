@@ -1,0 +1,193 @@
+# Frasi finali, temporali e altre strutture correlative
+
+Questo capitolo tratta le frasi che esprimono il fine (目的复句 mùdì fùjù), le proposizioni temporali e una serie di strutture correlative di uso frequente (越……越……, 对……来说, 在……下 ecc.), che non rientrano nei tipi visti nei capitoli precedenti.
+
+## Il fine
+
+### 为了……，…… e ……，是为了……
+
+为了 wèile («per, al fine di») introduce lo scopo. La proposizione con 为了 precede normalmente la principale. Se lo scopo viene presentato come informazione nuova, dopo l'azione, si usa la struttura ……，是为了…….
+
+= 为了 + fine，S + azione
+= S + azione，是为了 + fine
+
+ex: **为了**学好汉语，他每天都听中文广播。 | **Wèile** xuéhǎo Hànyǔ, tā měi tiān dōu tīng Zhōngwén guǎngbō. | Per imparare bene il cinese, ascolta ogni giorno la radio in cinese.
+ex: **为了**健康，我爸爸戒烟了。 | **Wèile** jiànkāng, wǒ bàba jiè yān le. | Per la salute, mio padre ha smesso di fumare.
+ex: **为了**不迟到，她六点就起床了。 | **Wèile** bù chídào, tā liù diǎn jiù qǐ chuáng le. | Per non arrivare in ritardo, si è alzata già alle sei.
+ex: 我们这么做，**是为了**大家的安全。 | Wǒmen zhème zuò, **shì wèile** dàjiā de ānquán. | Lo facciamo per la sicurezza di tutti.
+ex: 他来中国，**是为了**学习中医。 | Tā lái Zhōngguó, **shì wèile** xuéxí Zhōngyī. | È venuto in Cina per studiare la medicina cinese.
+
+no: 他每天听中文广播为了学好汉语。 | Tā měi tiān tīng Zhōngwén guǎngbō wèile xuéhǎo Hànyǔ. | Errato: senza 是, lo scopo con 为了 non segue la principale.
+ex: 他每天听中文广播，**是为了**学好汉语。 | Tā měi tiān tīng Zhōngwén guǎngbō, **shì wèile** xuéhǎo Hànyǔ. | Ascolta la radio in cinese ogni giorno per imparare bene la lingua.
+
+! Con i verbi di movimento lo scopo si esprime di solito semplicemente con una serie verbale, senza 为了: 我去超市买东西 «Vado al supermercato a fare la spesa» (vedi il capitolo «Le frasi a verbi in serie»). Tradurre ogni «per + infinito» con 为了 è un errore frequente.
+
+no: 我去超市为了买东西。 | Wǒ qù chāoshì wèile mǎi dōngxi. | Errato: con 去/来 lo scopo segue direttamente, senza 为了.
+ex: 我去超市买东西。 | Wǒ qù chāoshì mǎi dōngxi. | Vado al supermercato a fare la spesa.
+
+### ……，以便……
+
+以便 yǐbiàn («affinché, in modo da») apre la seconda proposizione e indica uno scopo che l'azione precedente rende più facile da raggiungere. È tipico dello scritto e del linguaggio formale.
+
+ex: 请留下您的电话号码，**以便**我们及时跟您联系。 | Qǐng liúxia nín de diànhuà hàomǎ, **yǐbiàn** wǒmen jíshí gēn nín liánxì. | Lasci il suo numero di telefono, in modo che possiamo contattarla tempestivamente.
+ex: 我们应该提前订票，**以便**安排行程。 | Wǒmen yīnggāi tíqián dìng piào, **yǐbiàn** ānpái xíngchéng. | Dovremmo prenotare i biglietti in anticipo, così da poter organizzare il viaggio.
+ex: 老师把重点写在黑板上，**以便**学生记笔记。 | Lǎoshī bǎ zhòngdiǎn xiě zài hēibǎn shang, **yǐbiàn** xuésheng jì bǐjì. | L'insegnante ha scritto alla lavagna i punti principali, perché gli studenti potessero prendere appunti.
+
+### ……，好……
+
+Nel parlato lo scopo dell'azione precedente si esprime spesso con 好 hǎo («così da, per poter») davanti al verbo della seconda proposizione, dopo l'eventuale soggetto. Si usa anche 好让 hǎo ràng («così che… possa»).
+
+= azione，(S) + 好 + V
+
+ex: 我们早点儿走，**好**赶上火车。 | Wǒmen zǎo diǎnr zǒu, **hǎo** gǎnshàng huǒchē. | Partiamo un po' prima, così prendiamo il treno.
+ex: 你把地址写下来，我**好**去找你。 | Nǐ bǎ dìzhǐ xiě xialai, wǒ **hǎo** qù zhǎo nǐ. | Scrivimi l'indirizzo, così posso venire a trovarti.
+ex: 多带点儿钱，**好**买些纪念品。 | Duō dài diǎnr qián, **hǎo** mǎi xiē jìniànpǐn. | Porta un po' di soldi in più, così puoi comprare qualche souvenir.
+ex: 你大点儿声，**好让**后面的人也听得见。 | Nǐ dà diǎnr shēng, **hǎo ràng** hòumiàn de rén yě tīng de jiàn. | Parla un po' più forte, così ti sentono anche quelli in fondo.
+
+### 以免, 免得, 省得
+
+以免 yǐmiǎn (scritto), 免得 miǎnde e 省得 shěngde (parlati) aprono la seconda proposizione e indicano ciò che si vuole **evitare** («per evitare che, per non»). 省得 aggiunge l'idea di risparmiarsi un fastidio.
+
+= azione，以免/免得/省得 + evento da evitare
+
+ex: 出门多穿点儿，**免得**感冒。 | Chū mén duō chuān diǎnr, **miǎnde** gǎnmào. | Quando esci copriti bene, per non prendere il raffreddore.
+ex: 你到了给我打个电话，**省得**我担心。 | Nǐ dào le gěi wǒ dǎ ge diànhuà, **shěngde** wǒ dānxīn. | Quando arrivi fammi una telefonata, così non sto in pensiero.
+ex: 我们打车去吧，**省得**挤地铁。 | Wǒmen dǎ chē qù ba, **shěngde** jǐ dìtiě. | Prendiamo un taxi, così ci risparmiamo la ressa della metropolitana.
+ex: 请大家保管好自己的东西，**以免**丢失。 | Qǐng dàjiā bǎoguǎn hǎo zìjǐ de dōngxi, **yǐmiǎn** diūshī. | Si prega di custodire i propri effetti personali, per evitare smarrimenti.
+ex: 开车要小心，**以免**发生事故。 | Kāi chē yào xiǎoxīn, **yǐmiǎn** fāshēng shìgù. | Bisogna guidare con prudenza, per evitare incidenti.
+
+! Dopo 以免, 免得, 省得 l'evento da evitare è espresso in forma **affermativa**: la negazione è già contenuta nella parola («evitare che…»).
+
+no: 多穿点儿，免得不感冒。 | Duō chuān diǎnr, miǎnde bù gǎnmào. | Errato: dopo 免得 non si aggiunge la negazione.
+ex: 多穿点儿，**免得**感冒。 | Duō chuān diǎnr, **miǎnde** gǎnmào. | Copriti bene, per non prendere il raffreddore.
+
+### 为了 e 为
+
+为了 wèile esprime soprattutto lo scopo; 为 wèi è una preposizione che indica il beneficiario o la causa di un sentimento («per qualcuno», «per qualcosa»), e nello scritto anche lo scopo nella struttura 为……而……. Per i dettagli vedi il capitolo «Le preposizioni».
+
+ex: 我真**为**你高兴！ | Wǒ zhēn **wèi** nǐ gāoxìng! | Sono davvero felice per te!
+ex: **为了**孩子，他们搬到了城里。 | **Wèile** háizi, tāmen bāndào le chéng li. | Per i figli si sono trasferiti in città.
+ex: 我们**为**实现这个目标**而**努力。 | Wǒmen **wèi** shíxiàn zhège mùbiāo **ér** nǔlì. | Ci impegniamo per raggiungere questo obiettivo.
+
+| Uso | 为了 | 为 |
+| scopo di un'azione | sì: 为了学好汉语 | solo scritto: 为……而…… |
+| beneficiario | sì: 为了孩子 | sì: 为人民服务 |
+| causa di un sentimento | no | sì: 为你高兴，为他担心 |
+
+## Il tempo
+
+Le proposizioni temporali precedono quasi sempre la principale. A differenza dell'italiano, molte di esse sono costruite con un **nome di tempo o di luogo posposto** (……的时候, ……以前, ……以后), che funziona come una congiunzione collocata alla fine della subordinata.
+
+### ……的时候
+
+= (S) + V/frase + 的时候，S + …
+
+……的时候 de shíhou («quando, mentre») chiude la proposizione temporale. Nello scritto si usa la forma breve ……时 shí.
+
+ex: 我小**的时候**，常常跟爷爷去钓鱼。 | Wǒ xiǎo **de shíhou**, chángcháng gēn yéye qù diào yú. | Da piccolo andavo spesso a pescare con il nonno.
+ex: 吃饭**的时候**别看手机。 | Chī fàn **de shíhou** bié kàn shǒujī. | Mentre mangi non guardare il telefono.
+ex: 你到北京**的时候**，给我打个电话。 | Nǐ dào Běijīng **de shíhou**, gěi wǒ dǎ ge diànhuà. | Quando arrivi a Pechino, fammi una telefonata.
+ex: 上课**时**请关掉手机。 | Shàng kè **shí** qǐng guāndiào shǒujī. | Durante la lezione si prega di spegnere il cellulare.
+
+no: 什么时候我到北京，我给你打电话。 | Shénme shíhou wǒ dào Běijīng, wǒ gěi nǐ dǎ diànhuà. | Errato: 什么时候 è interrogativo («quando?»); il «quando» temporale si rende con ……的时候.
+ex: 我到北京**的时候**，给你打电话。 | Wǒ dào Běijīng **de shíhou**, gěi nǐ dǎ diànhuà. | Quando arrivo a Pechino ti telefono.
+
+### 当……(的时候/时)
+
+当 dāng («quando, nel momento in cui») apre la proposizione temporale, che di regola si chiude con 的时候 o 时. È più formale della semplice struttura ……的时候 e si usa soprattutto nella narrazione e nello scritto.
+
+= 当 + frase + 的时候/时，S + …
+
+ex: **当**我回到家**的时候**，大家都已经睡了。 | **Dāng** wǒ huídào jiā **de shíhou**, dàjiā dōu yǐjīng shuì le. | Quando sono tornato a casa, dormivano già tutti.
+ex: **当**他听到这个消息**时**，激动得说不出话来。 | **Dāng** tā tīngdào zhège xiāoxi **shí**, jīdòng de shuō bu chū huà lai. | Quando ha sentito la notizia, era così emozionato da non riuscire a parlare.
+ex: **当**我遇到困难**的时候**，朋友们总是帮助我。 | **Dāng** wǒ yùdào kùnnan **de shíhou**, péngyoumen zǒngshì bāngzhù wǒ. | Quando incontro delle difficoltà, gli amici mi aiutano sempre.
+
+### ……以前/之前 e ……以后/之后
+
+= V/frase/Tempo + 以前/之前，…   (prima di/che)
+= V/frase/Tempo + 以后/之后，…   (dopo, dopo che)
+
+以前 yǐqián / 之前 zhīqián («prima») e 以后 yǐhòu / 之后 zhīhòu («dopo») seguono il verbo, la proposizione o l'espressione di tempo a cui si riferiscono. 之前 e 之后 sono un po' più formali; nello scritto si usano anche le forme brevi 前 e 后 (出发前, 毕业后). Da soli, 以前 significa «una volta, in passato» e 以后 «in futuro, d'ora in poi».
+
+ex: 睡觉**以前**，我习惯看一会儿书。 | Shuì jiào **yǐqián**, wǒ xíguàn kàn yíhuìr shū. | Prima di dormire ho l'abitudine di leggere un po'.
+ex: 来中国**之前**，我一点儿汉语都不会说。 | Lái Zhōngguó **zhīqián**, wǒ yìdiǎnr Hànyǔ dōu bú huì shuō. | Prima di venire in Cina non sapevo dire una parola di cinese.
+ex: 下班**以后**，我们一起去吃饭吧。 | Xià bān **yǐhòu**, wǒmen yìqǐ qù chī fàn ba. | Dopo il lavoro andiamo a mangiare insieme.
+ex: 他毕业**之后**，在一家银行工作。 | Tā bì yè **zhīhòu**, zài yì jiā yínháng gōngzuò. | Dopo la laurea ha lavorato in una banca.
+ex: 出发**前**请检查一下护照。 | Chūfā **qián** qǐng jiǎnchá yíxià hùzhào. | Prima di partire controllate il passaporto.
+
+no: 以前睡觉，我看书。 | Yǐqián shuì jiào, wǒ kàn shū. | Errato: 以前 segue il verbo a cui si riferisce.
+ex: 睡觉**以前**，我看书。 | Shuì jiào **yǐqián**, wǒ kàn shū. | Prima di dormire leggo.
+no: 我刷牙睡觉以前。 | Wǒ shuā yá shuì jiào yǐqián. | Errato: l'espressione temporale precede il verbo principale.
+ex: 我睡觉**以前**刷牙。 | Wǒ shuì jiào **yǐqián** shuā yá. | Mi lavo i denti prima di andare a dormire.
+
+### 自从……以来/以后
+
+自从 zìcóng («da quando») indica un punto di partenza nel **passato**, i cui effetti durano fino al presente; la proposizione si chiude spesso con 以来 yǐlái («da allora fino a oggi») o 以后. Nello scritto si usa anche 自 zì.
+
+= 自从 + evento passato + (以来/以后)，S + …
+
+ex: **自从**来到北京**以后**，他的汉语进步得很快。 | **Zìcóng** láidào Běijīng **yǐhòu**, tā de Hànyǔ jìnbù de hěn kuài. | Da quando è arrivato a Pechino, il suo cinese è migliorato rapidamente.
+ex: **自从**上了大学，她就很少回家了。 | **Zìcóng** shàng le dàxué, tā jiù hěn shǎo huí jiā le. | Da quando ha cominciato l'università, torna a casa di rado.
+ex: **自从**认识了你，我每天都很开心。 | **Zìcóng** rènshi le nǐ, wǒ měi tiān dōu hěn kāixīn. | Da quando ti ho conosciuto, sono felice ogni giorno.
+ex: **自**改革开放**以来**，中国发生了巨大的变化。 | **Zì** gǎigé kāifàng **yǐlái**, Zhōngguó fāshēng le jùdà de biànhuà. | Dall'avvio della politica di riforma e apertura, la Cina è cambiata enormemente.
+
+no: 自从明天，我要早睡早起。 | Zìcóng míngtiān, wǒ yào zǎo shuì zǎo qǐ. | Errato: 自从 si riferisce solo al passato; per il futuro si usa 从……起/开始.
+ex: **从**明天**起**，我要早睡早起。 | **Cóng** míngtiān **qǐ**, wǒ yào zǎo shuì zǎo qǐ. | Da domani andrò a letto presto e mi alzerò presto.
+
+### 等……(以后)再/就……
+
+等 děng («aspettare») introduce un evento futuro dopo il quale avverrà l'azione principale («quando…, (solo) allora…»). Nella principale compare 再 (rinvio: «e solo dopo») o 就 (conseguenza naturale).
+
+= 等 + evento (+ 以后/的时候)，S + 再/就 + …
+
+ex: **等**我下了班**再**给你打电话。 | **Děng** wǒ xià le bān **zài** gěi nǐ dǎ diànhuà. | Ti richiamo quando esco dal lavoro.
+ex: **等**雨停了，我们**再**走吧。 | **Děng** yǔ tíng le, wǒmen **zài** zǒu ba. | Aspettiamo che smetta di piovere, poi andiamo.
+ex: **等**你长大了**就**明白了。 | **Děng** nǐ zhǎngdà le **jiù** míngbai le. | Quando sarai grande capirai.
+ex: **等**大家都到齐**以后**，会议**就**开始。 | **Děng** dàjiā dōu dàoqí **yǐhòu**, huìyì **jiù** kāishǐ. | Quando saranno arrivati tutti, la riunione comincerà.
+
+### 一……就…… e ……了……就/再……
+
+一……就…… indica che la seconda azione segue immediatamente la prima (vedi il capitolo «Frasi coordinate, successive e progressive»). Una struttura affine è V₁ + 了 + (O) + 就/再 + V₂ («dopo aver…, subito/poi…»): qui 了 indica il compimento della prima azione rispetto alla seconda e si usa anche per il futuro e per le abitudini (vedi il capitolo «La particella 了»).
+
+= S + 一 + V₁，就 + V₂
+= S + V₁ + 了 + (O)，(S) + 就/再 + V₂
+
+ex: 我**一**下课**就**去找你。 | Wǒ **yí** xià kè **jiù** qù zhǎo nǐ. | Appena finisce la lezione vengo a cercarti.
+ex: 我吃**了**饭**就**走。 | Wǒ chī **le** fàn **jiù** zǒu. | Me ne vado appena ho mangiato.
+ex: 你做完**了**作业**再**玩儿。 | Nǐ zuòwán **le** zuòyè **zài** wánr. | Prima finisci i compiti, poi giochi.
+ex: 明天我下**了**课**就**去机场。 | Míngtiān wǒ xià **le** kè **jiù** qù jīchǎng. | Domani, finita la lezione, vado subito all'aeroporto.
+ex: 他每天吃**了**早饭**就**去上班。 | Tā měi tiān chī **le** zǎofàn **jiù** qù shàng bān. | Ogni giorno, dopo colazione, va subito al lavoro.
+
+### 每当……(的时候)
+
+每当 měi dāng («ogni volta che») è formale e letterario; nella principale compaiono spesso 就, 总 o 都. Nel parlato si dice più spesso 每次……(的时候).
+
+ex: **每当**听到这首歌**的时候**，我就会想起大学生活。 | **Měi dāng** tīngdào zhè shǒu gē **de shíhou**, wǒ jiù huì xiǎngqǐ dàxué shēnghuó. | Ogni volta che sento questa canzone, mi torna in mente la vita universitaria.
+ex: **每当**春节来临，人们都要回家团聚。 | **Měi dāng** Chūnjié láilín, rénmen dōu yào huí jiā tuánjù. | Ogni volta che arriva la Festa di Primavera, la gente torna a casa per riunirsi con la famiglia.
+ex: **每次**见到他，他都很忙。 | **Měi cì** jiàndào tā, tā dōu hěn máng. | Ogni volta che lo vedo, è molto impegnato.
+
+### 直到……才/为止
+
+直到 zhídào («fino a») ha due costruzioni. Con 才 nella principale significa «soltanto quando…, non prima di…»; con 为止 wéizhǐ alla fine della proposizione segna il limite di un'azione che dura («fino a…»).
+
+= 直到 + Tempo/evento，S + 才 + V
+= S + V … ，直到 + evento + 为止
+
+ex: **直到**半夜，他**才**回家。 | **Zhídào** bànyè, tā **cái** huí jiā. | È tornato a casa solo a mezzanotte.
+ex: **直到**今天我**才**知道真相。 | **Zhídào** jīntiān wǒ **cái** zhīdao zhēnxiàng. | Solo oggi ho saputo la verità.
+ex: 我们要坚持下去，**直到**成功**为止**。 | Wǒmen yào jiānchí xiaqu, **zhídào** chénggōng **wéizhǐ**. | Dobbiamo tener duro fino al successo.
+ex: 到目前**为止**，已经有一万多人报名了。 | Dào mùqián **wéizhǐ**, yǐjīng yǒu yí wàn duō rén bào míng le. | Finora si sono già iscritte più di diecimila persone.
+
+! L'italiano «non… finché non…» si rende in cinese con 直到……才…… o con 等……再……: «Non è partito finché non è arrivata la madre» → 直到妈妈来了，他才走.
+
+### 之后 e 后来
+
+之后 zhīhòu, come 以后, segue un'espressione (三天之后, 毕业之后) e vale per il passato e per il futuro; usato da solo all'inizio della frase significa «dopo di che». 后来 hòulái («in seguito») si usa solo da solo e solo per il passato (vedi anche il capitolo «Frasi coordinate, successive e progressive»).
+
+| Uso | 以后 / 之后 | 后来 |
+| dopo un'espressione: 毕业～ | sì | no |
+| da solo, riferito al passato | sì | sì |
+| riferito al futuro | sì | no |
+
+ex: 三天**之后**我们再联系。 | Sān tiān **zhīhòu** wǒmen zài liánxì. | Ci risentiamo fra tre giorni.
+ex: 我们在大学认识，**后来**结了婚。 | Wǒmen zài dàxué rènshi, **hòulái** jié le hūn. | Ci siamo conosciuti all'università e in seguito ci siamo sposati.

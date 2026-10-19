@@ -1,0 +1,237 @@
+## Classificatori di misura e contenitori
+
+### Le unità di misura
+Le unità di misura (度量词 dùliàngcí) seguono direttamente il numerale, senza 个. Accanto alle unità metriche (公斤, 米, 公里, 升) si usano ancora molto quelle tradizionali cinesi (斤, 两, 里): al mercato, in particolare, frutta, verdura e carne si vendono a 斤.
+
+| Unità | Pinyin | Valore | Esempio |
+| 公斤 | gōngjīn | chilogrammo | 两公斤苹果 |
+| 斤 | jīn | 500 grammi | 一斤鸡蛋 |
+| 两 | liǎng | 50 grammi | 二两饺子 |
+| 克 | kè | grammo | 一百克 |
+| 吨 | dūn | tonnellata | 三吨 |
+| 米 | mǐ | metro | 一米八 |
+| 厘米 | límǐ | centimetro | 三十厘米 |
+| 公里 | gōnglǐ | chilometro | 十公里 |
+| 里 | lǐ | 500 metri | 二十里路 |
+| 升 | shēng | litro | 两升水 |
+| 毫升 | háoshēng | millilitro | 五百毫升 |
+| 度 | dù | grado | 三十度 |
+
+ex: 我买了**两斤**苹果。 | Wǒ mǎi le **liǎng jīn** píngguǒ. | Ho comprato un chilo di mele. (lett. due jin)
+ex: 这个箱子有**二十公斤**。 | Zhège xiāngzi yǒu **èrshí gōngjīn**. | Questa valigia pesa venti chili.
+ex: 他**一米八**。 | Tā **yì mǐ bā**. | È alto un metro e ottanta.
+ex: 从这儿到机场有**三十公里**。 | Cóng zhèr dào jīchǎng yǒu **sānshí gōnglǐ**. | Da qui all'aeroporto ci sono trenta chilometri.
+ex: 我每天喝**两升**水。 | Wǒ měi tiān hē **liǎng shēng** shuǐ. | Bevo due litri d'acqua al giorno.
+
+no: 三个公斤 | sān ge gōngjīn | Errato: le unità di misura non vogliono 个.
+ex: **三公斤** | **sān gōngjīn** | tre chili
+
+! Num + unità + N indica una quantità (三斤苹果 «tre jin di mele»); Num + unità + 的 + N descrive una caratteristica (一个五斤的西瓜 «un'anguria da cinque jin»).
+
+ex: 我买了**一个五斤的**西瓜。 | Wǒ mǎi le **yí ge wǔ jīn de** xīguā. | Ho comprato un'anguria da cinque jin.
+
+### I contenitori come classificatori
+Molti nomi di contenitori funzionano da classificatori e misurano il **contenuto**: 杯 bēi, 瓶 píng, 碗 wǎn, 盒 hé, 箱 xiāng, 袋 dài, 盘 pán, 壶 hú, 桶 tǒng, 罐 guàn. Il contenitore come **oggetto** si conta invece con 个 e ha spesso il suffisso 子.
+
+| Contenuto | Significato | Oggetto | Significato |
+| 一杯水 yì bēi shuǐ | un bicchiere d'acqua | 一个杯子 yí ge bēizi | un bicchiere |
+| 一瓶酒 yì píng jiǔ | una bottiglia di vino | 一个瓶子 yí ge píngzi | una bottiglia |
+| 一碗面 yì wǎn miàn | una ciotola di tagliatelle | 一个碗 yí ge wǎn | una ciotola |
+| 一盒牛奶 yì hé niúnǎi | un cartone di latte | 一个盒子 yí ge hézi | una scatola |
+| 一箱啤酒 yì xiāng píjiǔ | una cassa di birra | 一个箱子 yí ge xiāngzi | una cassa, una valigia |
+| 一袋米 yí dài mǐ | un sacco di riso | 一个袋子 yí ge dàizi | un sacchetto |
+
+ex: 服务员，来**两瓶**啤酒！ | Fúwùyuán, lái **liǎng píng** píjiǔ! | Cameriere, due birre! (lett. due bottiglie di birra)
+ex: 我早上喝了**一杯**咖啡。 | Wǒ zǎoshang hē le **yì bēi** kāfēi. | Stamattina ho bevuto un caffè.
+ex: 我要**一碗**牛肉面。 | Wǒ yào **yì wǎn** niúròu miàn. | Vorrei una ciotola di tagliatelle al manzo.
+ex: 他吃了**一盘**饺子。 | Tā chī le **yì pán** jiǎozi. | Ha mangiato un piatto di ravioli.
+ex: 桌子上有**一个**杯子。 | Zhuōzi shang yǒu **yí ge** bēizi. | Sul tavolo c'è un bicchiere. (l'oggetto)
+
+### Classificatori occasionali
+Molti nomi possono fungere occasionalmente da classificatori (借用量词 jièyòng liàngcí). Con 一 indicano spesso che lo spazio è «pieno» o che qualcosa copre «tutto»: 一桌子菜 «una tavola piena di piatti», 一屋子人 «una stanza piena di gente», 一身汗 «tutto sudato».
+
+ex: 妈妈做了**一桌子**菜。 | Māma zuò le **yì zhuōzi** cài. | La mamma ha preparato una tavola piena di piatti.
+ex: 跑完步，他出了**一身**汗。 | Pǎowán bù, tā chū le **yì shēn** hàn. | Dopo la corsa era tutto sudato.
+
+Con molti classificatori di contenitore, di forma e di gruppo si possono inserire 大 dà, 小 xiǎo o 整 zhěng tra il numerale e il classificatore.
+
+ex: 他一个人吃了**一大碗**米饭。 | Tā yí ge rén chī le **yí dà wǎn** mǐfàn. | Da solo si è mangiato una ciotolona di riso.
+ex: 我只要**一小块**蛋糕。 | Wǒ zhǐ yào **yì xiǎo kuài** dàngāo. | Vorrei solo una fettina di torta.
+ex: 我**一整天**都在家。 | Wǒ **yì zhěng tiān** dōu zài jiā. | Sono rimasto a casa tutto il giorno.
+
+## Classificatori collettivi e indefiniti
+
+### 些
+些 xiē indica una quantità indefinita, «alcuni, un po' di», sia con nomi numerabili sia con sostanze. Si combina soltanto con 一, 这, 那, 哪, 有 e 好, mai con altri numerali.
+
+- 一些 yìxiē «alcuni, un po' di»: 一些书, 一些水;
+- 有些 yǒuxiē «alcuni (… altri)», di solito all'inizio della frase;
+- 好些 hǎoxiē «parecchi»;
+- dopo un aggettivo, 一些 significa «un po' più…» (vedi il capitolo «Le frasi comparative»).
+
+= 一些 / 这些 / 那些 / 有些 + N
+
+ex: 我买了**一些**水果。 | Wǒ mǎi le **yìxiē** shuǐguǒ. | Ho comprato un po' di frutta.
+ex: 我有**一些**问题想问你。 | Wǒ yǒu **yìxiē** wèntí xiǎng wèn nǐ. | Ho alcune domande da farti.
+ex: **有些**人喜欢咖啡，**有些**人喜欢茶。 | **Yǒuxiē** rén xǐhuan kāfēi, **yǒuxiē** rén xǐhuan chá. | Ad alcuni piace il caffè, ad altri il tè.
+ex: 他今天好**一些**了。 | Tā jīntiān hǎo **yìxiē** le. | Oggi sta un po' meglio.
+
+no: 两些书 | liǎng xiē shū | Errato: 些 si combina solo con 一 (o con 这, 那, 哪, 有, 好).
+ex: **一些**书 | **yìxiē** shū | alcuni libri
+
+### 点儿
+(一)点儿 (yì)diǎnr indica una quantità piccola, «un po' (di)», soprattutto con sostanze e nomi astratti. Dopo un verbo il 一 si omette spesso. Nel sud e nello scritto si usa la forma senza 儿, 一点 yìdiǎn.
+
+= V + (一)点儿 + N
+
+ex: 我想喝**点儿**水。 | Wǒ xiǎng hē **diǎnr** shuǐ. | Vorrei bere un po' d'acqua.
+ex: 我会说**一点儿**汉语。 | Wǒ huì shuō **yìdiǎnr** Hànyǔ. | Parlo un po' di cinese.
+ex: 你再吃**一点儿**吧。 | Nǐ zài chī **yìdiǎnr** ba. | Mangiane ancora un po'.
+ex: 便宜**一点儿**吧！ | Piányi **yìdiǎnr** ba! | Me lo faccia un po' meno caro!
+
+! 一点儿 indica una quantità più piccola di 一些 e serve spesso a minimizzare, per cortesia. Non va confuso con l'avverbio 有(一)点儿 + Agg «un po' (troppo)» (vedi il capitolo «Gli avverbi») né con 一点儿也不 «per niente» (vedi il capitolo «La negazione»).
+
+### Classificatori collettivi
+I classificatori collettivi contano gruppi, insiemi e serie di oggetti.
+
+| CL | Pinyin | Uso | Esempi |
+| 群 | qún | gruppi di persone, branchi | 一群孩子, 一群鸟 |
+| 批 | pī | lotti, gruppi (in successione) | 一批新书, 一批游客 |
+| 堆 | duī | mucchi | 一堆衣服, 一堆问题 |
+| 串 | chuàn | oggetti infilati, grappoli | 一串葡萄, 一串钥匙 |
+| 套 | tào | serie complete | 一套书, 一套家具 |
+| 双 | shuāng | paia «naturali» | 一双鞋, 一双眼睛 |
+| 对 | duì | coppie abbinate | 一对夫妻, 一对花瓶 |
+| 副 | fù | set di pezzi | 一副眼镜, 一副扑克 |
+| 束 | shù | mazzi | 一束花 |
+| 打 | dá | dozzine | 一打鸡蛋 |
+| 排 | pái | file | 一排椅子 |
+
+ex: 公园里有**一群**孩子在玩儿。 | Gōngyuán li yǒu **yì qún** háizi zài wánr. | Nel parco c'è un gruppo di bambini che gioca.
+ex: 我们公司来了**一批**新员工。 | Wǒmen gōngsī lái le **yì pī** xīn yuángōng. | Nella nostra azienda è arrivato un gruppo di nuovi dipendenti.
+ex: 桌子上有**一堆**脏衣服。 | Zhuōzi shang yǒu **yì duī** zāng yīfu. | Sul tavolo c'è un mucchio di vestiti sporchi.
+ex: 我丢了**一串**钥匙。 | Wǒ diū le **yí chuàn** yàoshi. | Ho perso un mazzo di chiavi.
+ex: 他送了我**一束**花。 | Tā sòng le wǒ **yí shù** huā. | Mi ha regalato un mazzo di fiori.
+ex: 我们买了**一套**新家具。 | Wǒmen mǎi le **yí tào** xīn jiājù. | Abbiamo comprato un arredamento nuovo.
+
+### 双, 对 e 副
+- 双 shuāng si usa per le cose che esistono naturalmente in coppia e si usano insieme: parti del corpo, calzature, bacchette (一双手, 一双袜子, 一双筷子).
+- 对 duì si usa per due elementi abbinati che formano una coppia, spesso persone o oggetti decorativi (一对夫妻, 一对情侣, 一对耳环).
+- 副 fù si usa per un insieme di pezzi che formano un'unità (一副眼镜, 一副手套, 一副耳机).
+
+ex: 她有**一双**漂亮的大眼睛。 | Tā yǒu **yì shuāng** piàoliang de dà yǎnjing. | Ha due begli occhioni.
+ex: 他们是**一对**很幸福的夫妻。 | Tāmen shì **yí duì** hěn xìngfú de fūqī. | Sono una coppia di sposi molto felice.
+ex: 我想配**一副**眼镜。 | Wǒ xiǎng pèi **yí fù** yǎnjìng. | Vorrei farmi fare un paio di occhiali.
+
+! L'italiano *un paio di* non ha un'unica traduzione: *un paio di scarpe* è 一双鞋, *un paio di occhiali* è 一副眼镜, ma *un paio di pantaloni* è 一条裤子, perché i pantaloni sono un oggetto unico.
+
+no: 一双裤子 | yì shuāng kùzi | Errato: i pantaloni si contano con 条.
+ex: **一条**裤子 | **yì tiáo** kùzi | un paio di pantaloni
+
+## Classificatori verbali
+
+I classificatori verbali contano quante volte si svolge un'azione e si collocano dopo il verbo. La loro posizione rispetto all'oggetto e gli altri dettagli sono trattati nel capitolo «I complementi di quantità».
+
+= V + Num + CL verbale
+
+| CL | Pinyin | Uso | Esempio |
+| 次 | cì | volte (il più comune) | 去过两次 |
+| 遍 | biàn | volte, dall'inizio alla fine | 再说一遍 |
+| 回 | huí | volte (colloquiale) | 来过一回 |
+| 下 | xià | colpi; azione breve | 敲了三下, 等一下 |
+| 趟 | tàng | viaggi di andata e ritorno | 去了一趟上海 |
+| 顿 | dùn | pasti; sgridate, botte | 吃了一顿饭 |
+| 场 | cháng | eventi con un loro svolgimento | 哭了一场 |
+| 番 | fān | azioni impegnative (formale) | 研究了一番 |
+| 眼 | yǎn | sguardi | 看了一眼 |
+| 口 | kǒu | morsi, sorsi | 喝了一口 |
+| 脚 | jiǎo | calci | 踢了一脚 |
+| 拳 | quán | pugni | 打了一拳 |
+| 声 | shēng | grida, chiamate | 叫了一声 |
+| 步 | bù | passi | 走了几步 |
+
+ex: 我去过**两次**北京。 | Wǒ qù guo **liǎng cì** Běijīng. | Sono stato a Pechino due volte.
+ex: 这本书我看了**三遍**。 | Zhè běn shū wǒ kàn le **sān biàn**. | Questo libro l'ho letto tre volte (da cima a fondo).
+ex: 请再说**一遍**。 | Qǐng zài shuō **yí biàn**. | Lo ripeta, per favore.
+ex: 有人敲了**三下**门。 | Yǒu rén qiāo le **sān xià** mén. | Qualcuno ha bussato tre volte alla porta.
+ex: 请等**一下**。 | Qǐng děng **yíxià**. | Aspetti un attimo, per favore.
+ex: 我明天要去**一趟**上海。 | Wǒ míngtiān yào qù **yí tàng** Shànghǎi. | Domani devo fare un salto a Shanghai.
+ex: 我请你吃**一顿**饭吧。 | Wǒ qǐng nǐ chī **yí dùn** fàn ba. | Lascia che ti offra un pranzo.
+ex: 妈妈骂了他**一顿**。 | Māma mà le tā **yí dùn**. | La mamma gli ha fatto una bella sgridata.
+ex: 她大哭了**一场**。 | Tā dà kū le **yì cháng**. | Si è fatta un bel pianto.
+ex: 他看了我**一眼**。 | Tā kàn le wǒ **yì yǎn**. | Mi ha lanciato un'occhiata.
+ex: 我尝了**一口**，很好吃。 | Wǒ cháng le **yì kǒu**, hěn hǎochī. | Ne ho assaggiato un boccone: è buonissimo.
+ex: 我们认真地讨论了**一番**。 | Wǒmen rènzhēn de tǎolùn le **yì fān**. | Ne abbiamo discusso a fondo.
+
+! 次 conta semplicemente le occorrenze; 遍 sottolinea che l'azione è stata compiuta per intero, dall'inizio alla fine (leggere, ascoltare, ripetere).
+! Dopo un verbo, 一下 serve spesso solo ad attenuare: 看一下 «dare un'occhiata», 介绍一下 «presentare» (vedi il capitolo «Il verbo»).
+
+## Usi particolari dei classificatori
+
+### Omissione del nome
+Quando il nome è chiaro dal contesto, numerale o dimostrativo + classificatore possono stare da soli. È l'equivalente del pronome italiano *ne*, che in cinese non esiste.
+
+= Num / 这 / 那 / 哪 + CL (nome sottinteso)
+
+ex: A：你要几个包子？B：我要**两个**。 | A: Nǐ yào jǐ ge bāozi? B: Wǒ yào **liǎng ge**. | A: Quanti panini al vapore vuoi? B: Ne voglio due.
+ex: 这本书是我的，**那本**是小王的。 | Zhè běn shū shì wǒ de, **nà běn** shì Xiǎo Wáng de. | Questo libro è mio, quello è di Xiao Wang.
+ex: 这两件衣服，你喜欢**哪件**？ | Zhè liǎng jiàn yīfu, nǐ xǐhuan **nǎ jiàn**? | Di questi due vestiti, quale ti piace?
+ex: 苹果我买了**三斤**。 | Píngguǒ wǒ mǎi le **sān jīn**. | Di mele ne ho comprati tre jin.
+
+no: 我要两。 | Wǒ yào liǎng. | Errato: anche senza nome il classificatore resta obbligatorio.
+ex: 我要**两个**。 | Wǒ yào **liǎng ge**. | Ne voglio due.
+
+### Omissione di 一
+Nel parlato, dopo un verbo, il numerale 一 davanti al classificatore si omette spesso quando significa semplicemente «un, una» e non si vuole sottolineare il numero: 买个包, 喝杯茶. Solo 一 può cadere, e solo dopo il verbo, mai all'inizio della frase.
+
+= V + CL + N  (= V + 一 + CL + N)
+
+ex: 我想**买个**包。 | Wǒ xiǎng **mǎi ge** bāo. | Vorrei comprarmi una borsa.
+ex: 来，**喝杯**茶吧。 | Lái, **hē bēi** chá ba. | Vieni, beviamoci un tè.
+ex: 周末我们去**看个**电影吧。 | Zhōumò wǒmen qù **kàn ge** diànyǐng ba. | Nel fine settimana andiamo a vedere un film.
+ex: 我**有个**朋友在北京工作。 | Wǒ **yǒu ge** péngyou zài Běijīng gōngzuò. | Ho un amico che lavora a Pechino.
+
+no: 个人在门口等你。 | Ge rén zài ménkǒu děng nǐ. | Errato: 一 si può omettere solo dopo un verbo.
+ex: **有个**人在门口等你。 | **Yǒu ge** rén zài ménkǒu děng nǐ. | C'è una persona che ti aspetta alla porta.
+
+### Il raddoppiamento
+Il classificatore raddoppiato significa «ogni, tutti senza eccezione»: 个个 gègè, 张张 zhāngzhāng, 件件 jiànjiàn, 条条 tiáotiáo. Lo stesso vale per alcuni nomi che fungono da unità: 天天 tiāntiān «ogni giorno», 年年 niánnián «ogni anno», 人人 rénrén «tutti», 家家 jiājiā «ogni famiglia». La forma raddoppiata sta di regola prima del verbo, come soggetto o tema, ed è seguita da 都; non si usa in posizione di oggetto.
+
+= CL + CL (+ N) + 都 + V / Agg
+
+ex: 他的孩子**个个**都很聪明。 | Tā de háizi **gègè** dōu hěn cōngming. | I suoi figli sono tutti molto intelligenti.
+ex: 这些照片**张张**都很漂亮。 | Zhèxiē zhàopiàn **zhāngzhāng** dōu hěn piàoliang. | Queste foto sono belle una per una.
+ex: 他**天天**都去跑步。 | Tā **tiāntiān** dōu qù pǎobù. | Va a correre tutti i santi giorni.
+ex: **条条**大路通罗马。 | **Tiáotiáo** dàlù tōng Luómǎ. | Tutte le strade portano a Roma.
+ex: 这首歌**人人**都会唱。 | Zhè shǒu gē **rénrén** dōu huì chàng. | Questa canzone la sanno cantare tutti.
+
+no: 我喜欢张张照片。 | Wǒ xǐhuan zhāngzhāng zhàopiàn. | Errato: il classificatore raddoppiato non si usa come oggetto.
+ex: 这些照片我**张张**都喜欢。 | Zhèxiē zhàopiàn wǒ **zhāngzhāng** dōu xǐhuan. | Di queste foto mi piacciono tutte, nessuna esclusa.
+
+### 一 + CL + CL e 一 + CL + 一 + CL
+- 一 + CL + CL significa «uno dopo l'altro, man mano»: 一个个, 一天天 «giorno dopo giorno».
+- 一 + CL + 一 + CL indica il modo, «uno alla volta, a poco a poco», ed è spesso seguito da 地 + verbo: 一个一个地, 一步一步地, 一口一口地.
+
+ex: 孩子们**一个个**都睡着了。 | Háizimen **yí gègè** dōu shuìzháo le. | I bambini si sono addormentati uno dopo l'altro.
+ex: 天气**一天天**冷起来了。 | Tiānqì **yì tiāntiān** lěng qilai le. | Giorno dopo giorno fa sempre più freddo.
+ex: 请大家**一个一个**地进来。 | Qǐng dàjiā **yí ge yí ge** de jìnlai. | Entrate uno alla volta, per favore.
+ex: 学汉语要**一步一步**来。 | Xué Hànyǔ yào **yí bù yí bù** lái. | Il cinese si impara un passo alla volta.
+ex: 他**一口一口**地喝着咖啡。 | Tā **yì kǒu yì kǒu** de hē zhe kāfēi. | Sorseggia il caffè a piccoli sorsi.
+
+### 每 + classificatore
+Anche dopo 每 il classificatore è obbligatorio, tranne con i nomi che fungono da unità (vedi il capitolo «I pronomi»).
+
+ex: **每张**票八十块。 | **Měi zhāng** piào bāshí kuài. | Ogni biglietto costa ottanta yuan.
+ex: **每个**房间都有空调。 | **Měi ge** fángjiān dōu yǒu kōngtiáo. | Tutte le camere hanno l'aria condizionata.
+
+### L'ordine delle parole: riepilogo
+= (Possessore + 的) + 这 / 那 + Num + CL + (Agg + 的) + N
+
+ex: **这三本**书 | **zhè sān běn** shū | questi tre libri
+ex: **那两位**老师 | **nà liǎng wèi** lǎoshī | quei due professori
+ex: **我的这两件**新衣服 | **wǒ de zhè liǎng jiàn** xīn yīfu | questi miei due vestiti nuovi
+
+no: 三本这书 | sān běn zhè shū | Errato: il dimostrativo precede numerale e classificatore.
+ex: **这三本**书 | **zhè sān běn** shū | questi tre libri
+
+! Senza numerale si dice 这本书; al plurale indefinito si usa 这些 + N, senza classificatore: 这些书.

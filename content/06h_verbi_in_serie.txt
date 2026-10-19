@@ -1,0 +1,163 @@
+# Le frasi a verbi in serie
+
+## Che cosa sono le frasi a verbi in serie (连动句)
+
+Una frase a verbi in serie (连动句 liándòngjù) contiene due o più gruppi verbali che si riferiscono allo stesso soggetto e si susseguono senza congiunzioni e senza pause. Dove l'italiano usa preposizioni («a», «per», «in», «con»), gerundi o congiunzioni («e poi»), il cinese accosta semplicemente i verbi.
+
+= S + V₁ (+ O₁) + V₂ (+ O₂)
+
+ex: 我**去**商店**买**东西。 | Wǒ **qù** shāngdiàn **mǎi** dōngxi. | Vado al negozio a fare acquisti.
+ex: 他**坐**飞机**去**北京。 | Tā **zuò** fēijī **qù** Běijīng. | Va a Pechino in aereo.
+ex: 我们**下**了课**去**打球。 | Wǒmen **xià** le kè **qù** dǎ qiú. | Finita la lezione, andiamo a giocare a palla.
+ex: 他**站**起来**去**开门。 | Tā **zhàn** qilai **qù** kāi mén. | Si è alzato ed è andato ad aprire la porta.
+ex: 我**有**事**找**你。 | Wǒ **yǒu** shì **zhǎo** nǐ. | Ho una cosa di cui parlarti.
+
+L'ordine dei verbi rispecchia l'ordine reale o logico degli eventi: prima si prende l'aereo, poi si va a Pechino (坐飞机去北京); prima si va al negozio, poi si compra (去商店买东西). I rapporti più comuni tra i due verbi sono lo scopo, il mezzo o il modo, la successione e la condizione espressa da 有/没有 + N.
+
+| Tipo di frase | Soggetto di V₂ | Esempio |
+| a verbi in serie | lo stesso di V₁ | 我去商店买东西。 |
+| a perno | l'oggetto di V₁ | 我请他吃饭。 |
+
+! Nella frase a perno la seconda azione è compiuta dall'oggetto del primo verbo (vedi il capitolo «Le frasi causative e le frasi a perno»); nella frase a verbi in serie tutte le azioni sono compiute dal soggetto.
+
+## Lo scopo
+
+### 去/来 + luogo + V
+
+Il primo verbo indica un movimento (去, 来, 回, 到, 上), il secondo lo scopo del movimento. Per lo scopo immediato di uno spostamento non serve 为了 «per».
+
+= S + 去/来/回/到 + Luogo + V (+ O)
+
+ex: 我**去**商店买东西。 | Wǒ **qù** shāngdiàn mǎi dōngxi. | Vado al negozio a fare acquisti.
+ex: 他**来**中国学习汉语。 | Tā **lái** Zhōngguó xuéxí Hànyǔ. | È venuto in Cina a studiare il cinese.
+ex: 我们**去**图书馆借书吧。 | Wǒmen **qù** túshūguǎn jiè shū ba. | Andiamo in biblioteca a prendere dei libri in prestito.
+ex: 玛丽亚**回**意大利看父母。 | Mǎlìyà **huí** Yìdàlì kàn fùmǔ. | Maria torna in Italia a trovare i genitori.
+ex: 明天我**到**机场接你。 | Míngtiān wǒ **dào** jīchǎng jiē nǐ. | Domani vengo a prenderti all'aeroporto.
+no: 我去商店为了买东西。 | Wǒ qù shāngdiàn wèile mǎi dōngxi. | Innaturale: per lo scopo di uno spostamento non si usa 为了.
+ex: 我去商店买东西。 | Wǒ qù shāngdiàn mǎi dōngxi. | Vado al negozio a fare acquisti.
+
+### 去/来 + V
+
+Il luogo può mancare. 来 + V senza alcun movimento indica anche che il parlante «si incarica» di fare qualcosa.
+
+= S + 去/来 + V (+ O)
+
+ex: 我**去**看看。 | Wǒ **qù** kànkan. | Vado a dare un'occhiata.
+ex: 我们**去**吃饭吧。 | Wǒmen **qù** chī fàn ba. | Andiamo a mangiare.
+ex: 你**来**尝尝这个菜。 | Nǐ **lái** chángchang zhège cài. | Vieni ad assaggiare questo piatto.
+ex: 我**来**帮你吧。 | Wǒ **lái** bāng nǐ ba. | Ti do una mano io.
+
+### V + 去/来 alla fine
+
+去 o 来 possono anche seguire il verbo dello scopo, alla fine della frase. Con 了 la frase indica che la persona è andata (o venuta) a fare qualcosa e si trova ora altrove (o qui). Nel parlato si dice anche 去 + V + 去 (我们去打球去吧).
+
+= S + V (+ O) + 去/来 (+ 了)
+
+ex: 他买东西**去**了。 | Tā mǎi dōngxi **qù** le. | È andato a fare acquisti.
+ex: 我们看电影**去**吧！ | Wǒmen kàn diànyǐng **qù** ba! | Andiamo al cinema!
+ex: 他们到北京旅游**来**了。 | Tāmen dào Běijīng lǚyóu **lái** le. | Sono venuti a Pechino in vacanza.
+
+## Il mezzo e il modo
+
+Il primo verbo, con il suo oggetto, indica il mezzo di trasporto, lo strumento o il modo; il secondo l'azione principale. In italiano il mezzo segue di solito il verbo («vado a Pechino in aereo»); in cinese lo precede sempre.
+
+= S + 坐/骑/开/用 + O₁ + V₂ (+ O₂)
+
+ex: 他**坐**飞机去北京。 | Tā **zuò** fēijī qù Běijīng. | Va a Pechino in aereo.
+ex: 我每天**骑**自行车上班。 | Wǒ měi tiān **qí** zìxíngchē shàng bān. | Ogni giorno vado al lavoro in bicicletta.
+ex: 中国人**用**筷子吃饭。 | Zhōngguórén **yòng** kuàizi chī fàn. | I cinesi mangiano con le bacchette.
+ex: 我们**开**车去吧。 | Wǒmen **kāi** chē qù ba. | Andiamoci in macchina.
+ex: 她**用**汉语给朋友写信。 | Tā **yòng** Hànyǔ gěi péngyou xiě xìn. | Scrive lettere agli amici in cinese.
+ex: 我们**打车**回家吧。 | Wǒmen **dǎchē** huí jiā ba. | Torniamo a casa in taxi.
+ex: A：你怎么去机场？B：**坐**地铁去。 | A: Nǐ zěnme qù jīchǎng? B: **Zuò** dìtiě qù. | A: Come vai all'aeroporto? B: In metropolitana.
+no: 他去北京坐飞机。 | Tā qù Běijīng zuò fēijī. | Errato con il senso di «va a Pechino in aereo»: significa «va a Pechino a prendere l'aereo».
+ex: 他坐飞机去北京。 | Tā zuò fēijī qù Běijīng. | Va a Pechino in aereo.
+
+### V₁着 + V₂
+
+Con 着 dopo il primo verbo si indica il modo o lo stato che accompagna l'azione principale, come un gerundio italiano (vedi il capitolo «Azione in corso e stato continuato: 在, 正在, 着»).
+
+= S + V₁ + 着 (+ O₁) + V₂ (+ O₂)
+
+ex: 他笑**着**说：“没关系。” | Tā xiào **zhe** shuō: "Méi guānxi." | Disse sorridendo: «Non fa niente.»
+ex: 我们走**着**去吧。 | Wǒmen zǒu **zhe** qù ba. | Andiamoci a piedi.
+ex: 孩子们唱**着**歌回家了。 | Háizimen chàng **zhe** gē huí jiā le. | I bambini sono tornati a casa cantando.
+ex: 他喜欢躺**着**看书。 | Tā xǐhuan tǎng **zhe** kàn shū. | Gli piace leggere sdraiato.
+
+## Azioni in successione
+
+Due azioni che si susseguono nel tempo si collegano mettendo 了 dopo il primo verbo; nel secondo membro si aggiungono spesso 就 «subito, allora» o 再 «e poi» (vedi il capitolo «Gli avverbi»).
+
+= S + V₁ + 了 + O₁ + (就/再) + V₂ (+ O₂)
+
+ex: 他吃**了**饭**就**走了。 | Tā chī **le** fàn **jiù** zǒu le. | Appena mangiato, se n'è andato.
+ex: 我们吃**了**晚饭去散步。 | Wǒmen chī **le** wǎnfàn qù sàn bù. | Dopo cena andiamo a fare una passeggiata.
+ex: 我每天早上起**了**床**就**跑步。 | Wǒ měi tiān zǎoshang qǐ **le** chuáng **jiù** pǎo bù. | Ogni mattina, appena alzato, vado a correre.
+ex: 你吃**了**药**再**睡觉。 | Nǐ chī **le** yào **zài** shuì jiào. | Prendi la medicina e poi vai a dormire.
+ex: 他打开门走**了**进去。 | Tā dǎkāi mén zǒu **le** jinqu. | Aprì la porta ed entrò.
+
+Il 了 dopo il primo verbo indica soltanto che la prima azione si compie prima della seconda: la frase può quindi riferirsi al passato, al futuro o all'abitudine. Se si vuole dire che l'intera sequenza è avvenuta nel passato, si aggiunge 了 anche alla fine.
+
+ex: 明天我下**了**班就去找你。 | Míngtiān wǒ xià **le** bān jiù qù zhǎo nǐ. | Domani, appena finito di lavorare, vengo da te.
+ex: 他下**了**班就回家**了**。 | Tā xià **le** bān jiù huí jiā **le**. | Appena uscito dal lavoro, è tornato a casa.
+
+! Una frase come 我吃了饭 da sola suona incompleta: chi ascolta aspetta il seguito (……就去). Per i dettagli vedi il capitolo «La particella 了».
+
+## 有/没有 + N + V
+
+Il primo verbo è 有 o 没有 seguito da un nome come 事, 时间, 钱, 机会, 办法, 理由, 条件, 能力; il secondo verbo indica ciò che la cosa posseduta (o mancante) permette di fare. Corrisponde all'italiano «avere (il) tempo / modo / motivo di + infinito». Il soggetto dei due verbi è lo stesso.
+
+= S + 有/没有 + N + V (+ O)
+
+ex: 我**有**事找你。 | Wǒ **yǒu** shì zhǎo nǐ. | Ho una cosa di cui parlarti. (lett. io avere faccenda cercare te)
+ex: 他**没有**钱买房子。 | Tā **méiyǒu** qián mǎi fángzi. | Non ha i soldi per comprare casa.
+ex: 我今天**没有**时间陪你。 | Wǒ jīntiān **méiyǒu** shíjiān péi nǐ. | Oggi non ho tempo di stare con te.
+ex: 你**有**理由生气。 | Nǐ **yǒu** lǐyóu shēng qì. | Hai motivo di arrabbiarti.
+ex: 我们**有**办法解决这个问题。 | Wǒmen **yǒu** bànfǎ jiějué zhège wèntí. | Abbiamo modo di risolvere questo problema.
+ex: 我很少**有**机会说汉语。 | Wǒ hěn shǎo **yǒu** jīhuì shuō Hànyǔ. | Ho raramente occasione di parlare cinese.
+ex: 这里**没有**条件做这个实验。 | Zhèli **méiyǒu** tiáojiàn zuò zhège shíyàn. | Qui non ci sono le condizioni per fare questo esperimento.
+
+! Non confondere con il perno con 有 (我有一个朋友住在上海), in cui il nome dopo 有 è il soggetto del secondo verbo (vedi il capitolo «Le frasi causative e le frasi a perno»).
+
+## Negazione, avverbi e particelle
+
+### Negazione, avverbi e verbi modali
+
+La negazione, gli avverbi e i verbi modali si collocano normalmente davanti al primo verbo, perché riguardano l'intera sequenza. Negare il secondo verbo è possibile solo per un contrasto esplicito.
+
+= S + 不/没/Avv/verbo modale + V₁ (+ O₁) + V₂ (+ O₂)
+
+ex: 我**不**去商店买东西。 | Wǒ **bú** qù shāngdiàn mǎi dōngxi. | Non vado al negozio a fare acquisti.
+ex: 他**没**坐飞机去北京，他是坐火车去的。 | Tā **méi** zuò fēijī qù Běijīng, tā shì zuò huǒchē qù de. | Non è andato a Pechino in aereo: c'è andato in treno.
+ex: 我们明天**也**去图书馆看书。 | Wǒmen míngtiān **yě** qù túshūguǎn kàn shū. | Anche domani andiamo in biblioteca a leggere.
+ex: 我**想**去中国学习汉语。 | Wǒ **xiǎng** qù Zhōngguó xuéxí Hànyǔ. | Vorrei andare in Cina a studiare cinese.
+ex: 你**应该**用汉语回答。 | Nǐ **yīnggāi** yòng Hànyǔ huídá. | Dovresti rispondere in cinese.
+ex: 我去商店**不**买东西，只是看看。 | Wǒ qù shāngdiàn **bù** mǎi dōngxi, zhǐshì kànkan. | Vado al negozio non per comprare, ma solo per guardare.
+no: 他坐飞机没去北京。 | Tā zuò fēijī méi qù Běijīng. | Errato con il senso di «non è andato a Pechino in aereo»: la negazione va davanti al primo verbo.
+ex: 他没坐飞机去北京。 | Tā méi zuò fēijī qù Běijīng. | Non è andato a Pechino in aereo.
+
+### 了 e 过
+
+Nelle frasi di scopo e di mezzo, 了 e 过 si mettono dopo il secondo verbo (o 了 alla fine della frase), non dopo il primo: la sequenza è vista come un unico evento. Solo nelle frasi di successione il 了 segue il primo verbo.
+
+ex: 我去商店买**了**一些水果。 | Wǒ qù shāngdiàn mǎi **le** yìxiē shuǐguǒ. | Sono andato al negozio e ho comprato un po' di frutta.
+ex: 我去商店买东西**了**。 | Wǒ qù shāngdiàn mǎi dōngxi **le**. | Sono andato al negozio a fare acquisti.
+ex: 他坐飞机去北京**了**。 | Tā zuò fēijī qù Běijīng **le**. | È andato a Pechino in aereo.
+ex: 我去他家吃**过**饭。 | Wǒ qù tā jiā chī **guo** fàn. | Sono già stato a mangiare a casa sua.
+no: 我去了商店买东西。 | Wǒ qù le shāngdiàn mǎi dōngxi. | Errato: nella frase di scopo 了 non segue il primo verbo.
+ex: 我去商店买东西了。 | Wǒ qù shāngdiàn mǎi dōngxi le. | Sono andato al negozio a fare acquisti.
+no: 他坐了飞机去北京。 | Tā zuò le fēijī qù Běijīng. | Errato: nella frase di mezzo 了 non segue il primo verbo.
+ex: 他坐飞机去北京了。 | Tā zuò fēijī qù Běijīng le. | È andato a Pechino in aereo.
+
+| Tipo | Posizione di 了 / 过 | Esempio |
+| scopo | dopo V₂ o a fine frase | 我去商店买了一些水果。 |
+| mezzo, modo | dopo V₂ o a fine frase | 他坐飞机去北京了。 |
+| successione | dopo V₁ (+ 就/再) | 他吃了饭就走了。 |
+
+### Le domande
+
+La forma affermativo-negativa si costruisce sul primo verbo; il pronome interrogativo prende il posto dell'elemento su cui verte la domanda.
+
+ex: 你**去不去**图书馆借书？ | Nǐ **qù bu qù** túshūguǎn jiè shū? | Vai o no in biblioteca a prendere dei libri?
+ex: 你去商店买**什么**？ | Nǐ qù shāngdiàn mǎi **shénme**? | Che cosa vai a comprare al negozio?
+ex: 你**怎么**去上海？坐高铁还是坐飞机？ | Nǐ **zěnme** qù Shànghǎi? Zuò gāotiě háishi zuò fēijī? | Come vai a Shanghai? Con il treno veloce o in aereo?

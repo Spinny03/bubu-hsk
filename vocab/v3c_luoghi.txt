@@ -1,0 +1,63 @@
+@ Luoghi e direzioni | 🧭
+上 | shàng | sopra, su | ⬆️ | 1
+下 | xià | sotto, giù | ⬇️ | 1
+里 | lǐ | dentro | - | 1
+外 | wài | fuori | - | 2
+前 | qián | davanti, prima | - | 1
+后 | hòu | dietro, dopo | - | 1
+左 | zuǒ | sinistra | ⬅️ | 2
+右 | yòu | destra | ➡️ | 2
+上边 | shàngbian | sopra, parte superiore | ⬆️ | 2
+下边 | xiàbian | sotto, parte inferiore | ⬇️ | 2
+里边 | lǐbian | dentro, interno | - | 2
+外边 | wàibian | fuori, esterno | - | 2
+前边 | qiánbian | davanti | - | 2
+后边 | hòubian | dietro | - | 2
+上面 | shàngmian | sopra | - | 3
+下面 | xiàmian | sotto | - | 3
+里面 | lǐmian | dentro | - | 3
+外面 | wàimian | fuori | - | 3
+东边 | dōngbian | a est | - | 3
+南边 | nánbian | a sud | - | 3
+西边 | xībian | a ovest | - | 3
+北边 | běibian | a nord | - | 3
+方向 | fāngxiàng | direzione | 🧭 | 4
+周围 | zhōuwéi | intorno, dintorni | - | 4
+位置 | wèizhi | posizione | - | 4
+边 | biān | lato, bordo | - | 2
+底下 | dǐxia | sotto | - | 4
+隔壁 | gébì | porta accanto | - | 4
+楼上 | lóushàng | al piano di sopra | - | 3
+楼下 | lóuxià | al piano di sotto | - | 3
+@ Pronomi e parole interrogative | ❓
+我 | wǒ | io, me | - | 1
+你 | nǐ | tu, te | - | 1
+他 | tā | lui | - | 1
+她 | tā | lei | - | 1
+我们 | wǒmen | noi | - | 1
+你们 | nǐmen | voi | - | 1
+他们 | tāmen | loro (m.) | - | 1
+她们 | tāmen | loro (f.) | - | 1
+您 | nín | Lei (cortesia) | - | 2
+它 | tā | esso, essa (cose, animali) | - | 2
+咱们 | zánmen | noi (incl. chi ascolta) | - | 4
+自己 | zìjǐ | sé, se stesso | - | 3
+别人 | biérén | altri | - | 3
+这 | zhè | questo | - | 1
+那 | nà | quello | - | 1
+这里 | zhèlǐ | qui | - | 1
+那里 | nàlǐ | lì, là | - | 1
+这么 | zhème | così (tanto) | - | 3
+那么 | nàme | così; allora | - | 3
+这样 | zhèyàng | così, in questo modo | - | 3
+那样 | nàyàng | in quel modo | - | 3
+别的 | biéde | altro | - | 3
+什么 | shénme | che cosa, quale | ❓ | 1
+谁 | shéi | chi | - | 1
+哪 | nǎ | quale | - | 1
+哪里 | nǎlǐ | dove | - | 1
+哪个 | nǎge | quale | - | 1
+怎么 | zěnme | come, perché | - | 1
+怎么样 | zěnmeyàng | come (va)? | - | 1
+为什么 | wèishénme | perché | - | 2
+什么时候 | shénme shíhou | quando | - | 2

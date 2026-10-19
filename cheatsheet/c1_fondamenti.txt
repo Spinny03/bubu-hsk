@@ -1,0 +1,74 @@
+# Pronuncia e toni
+## Iniziali e finali
+Sillaba = iniziale (consonante) + finale (vocali, -n, -ng).
+| Gruppo | Iniziali | Nota |
+| Labiali, alveolari | b p m f · d t n l | p, t aspirate |
+| Velari | g k h | h come «ch» tedesco |
+| Palatali | j q x | solo davanti a i, ü |
+| Retroflesse | zh ch sh r | lingua arretrata |
+| Dentali | z c s | z = «ts», c = «ts» aspirata |
+| -i dopo z c s / zh ch sh r | vocale ronzante | 四 sì, 是 shì |
+| ü (u dopo j q x y) | «u» francese | 去 qù |
+| ui / iu / un | = uei / iou / uen | 贵 guì, 六 liù |
+! p t k q ch c con soffio forte; b d g j zh z senza soffio.
+## I quattro toni e il tono neutro
+Il tono cambia il significato: mā ≠ mǎ.
+| Tono | Andamento | Esempio |
+| 1° ā | alto e piano (55) | 妈 mā «mamma» |
+| 2° á | ascendente (35) | 麻 má «canapa» |
+| 3° ǎ | basso, cala e risale (214) | 马 mǎ «cavallo» |
+| 4° à | discendente netto (51) | 骂 mà «sgridare» |
+| neutro | breve, senza segno | 吗 ma (domanda) |
+! Il segno va su a > o > e; in iu e ui sull'ultima vocale (liù, guì).
+## I cambiamenti tonali
+Alcuni toni cambiano secondo il tono che segue.
+| Caso | Regola | Esempio |
+| 3° + 3° | il primo → 2° (non si scrive) | nǐ hǎo → ní hǎo |
+| 不 bù + 4° | bù → bú | 不是 bú shì |
+| 一 yī + 4° (anche 个 ge) | yī → yí | 一个 yí ge, 一次 yí cì |
+| 一 yī + 1°/2°/3° | yī → yì | 一天 yì tiān, 一本 yì běn |
+| 一 yī contando, ordinali, date | resta yī | 第一 dì-yī, 一月 yī yuè |
+| V 一 yi V, Agg 不 bu Agg | diventano neutri | 看一看 kàn yi kàn, 好不好 hǎo bu hǎo |
+ex: 你好！ | Nǐ hǎo! | Ciao! (si legge ní hǎo)
+## La retroflessione 儿化 érhuà e l'ortografia
+Come si legge la «r» finale e come si scrive il pinyin.
+- 儿化 érhuà: sillaba + r (Nord): 哪儿 nǎr, 一点儿 yìdiǎnr.
+- y/w al posto di i/u iniziali (yī, wǔ, yú = ü); apostrofo prima di a/o/e interne (Xī'ān).
+- Parole unite, particelle e CL staccati: xuésheng, kàn shū, yí ge rén.
+# Ordine delle parole
+## Ordine di base
+Ordine fisso S-V-O; tempo, luogo e modo prima del verbo.
+= S + Tempo + Luogo + V + O
+no: 我看书在家。 | Wǒ kàn shū zài jiā. | Errato: il luogo va prima del verbo.
+ex: 我明天**在家**看书。 | Wǒ míngtiān **zài jiā** kàn shū. | Domani leggo a casa.
+## Tempo e luogo
+Il «quando» va prima o dopo il soggetto, mai in fondo; date e indirizzi dal grande al piccolo.
+= Tempo + S + V · S + Tempo + V
+ex: 他每天**七点**起床。 | Tā měitiān **qī diǎn** qǐchuáng. | Si alza ogni giorno alle sette.
+## Il modificatore precede il modificato
+Ciò che descrive un nome o un verbo sta prima di esso.
+= Agg / frase + (的 de) + N · Avv + V
+= possessore + 这/那 zhè/nà + Num + CL + Agg + N
+ex: 我的**那两本**新书 | wǒ de **nà liǎng běn** xīn shū | quei miei due libri nuovi
+## Tema e commento
+Ciò di cui si parla (tema) va in testa; ciò che è noto si omette.
+= Tema + S + V
+ex: **这本书**我看过。 | **Zhè běn shū** wǒ kàn guo. | Questo libro l'ho letto.
+ex: A：你去吗？B：去。 | A: Nǐ qù ma? B: Qù. | A: Ci vai? B: Sì.
+# La frase semplice
+## Il verbo 是 shì
+Dice che A è B (due nomi); negazione sempre 不是 bú shì.
+= A + 是 shì / 不是 bú shì + B
+= A + 是不是 shì bu shì + B？ (oppure … + 吗 ma？)
+ex: 我**是**意大利人。 | Wǒ **shì** Yìdàlìrén. | Sono italiano.
+no: 我是很忙。 | Wǒ shì hěn máng. | Errato: davanti all'aggettivo niente 是.
+ex: 我**很**忙。 | Wǒ **hěn** máng. | Sono impegnato.
+## I tipi di predicato
+Ciò che si dice del soggetto può essere verbo, aggettivo o nome.
+| Predicato | Struttura | Esempio |
+| verbale | S + V + O | 我喝茶 wǒ hē chá |
+| aggettivale | S + 很 hěn + Agg | 她很高 tā hěn gāo |
+| nominale (età, data, prezzo) | S + N | 今天星期一 jīntiān xīngqīyī |
+| frase come predicato | S + (N + Agg) | 他个子很高 tā gèzi hěn gāo |
+! Il predicato nominale è solo affermativo; al negativo torna 不是 bú shì.
+ex: 他今年**二十岁**。 | Tā jīnnián **èrshí suì**. | Quest'anno ha vent'anni.

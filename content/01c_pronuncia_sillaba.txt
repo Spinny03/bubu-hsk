@@ -1,0 +1,168 @@
+# La pronuncia e il pinyin
+
+Questo capitolo descrive i suoni del cinese mandarino e il modo in cui il pinyin li rappresenta. Le indicazioni di pronuncia sono pensate per chi parla italiano e sono necessariamente approssimative: nessuna descrizione scritta sostituisce l'ascolto di registrazioni e l'imitazione di parlanti nativi.
+
+## La sillaba cinese
+
+La sillaba è l'unità fondamentale della pronuncia cinese: ogni carattere si legge con una sola sillaba. Le sillabe possibili sono poche, circa 400 senza contare i toni e circa 1300 contando i toni; per questo il cinese ha moltissimi omofoni (是, 事, 市, 试, 室 si leggono tutti shì), che nella scrittura sono distinti dai caratteri e nel parlato dal contesto e dalle parole bisillabiche.
+
+La fonetica cinese tradizionale analizza ogni sillaba in tre parti:
+- l'iniziale (声母 shēngmǔ), cioè la consonante con cui la sillaba comincia;
+- la finale (韵母 yùnmǔ), cioè tutto il resto: una vocale, un dittongo o un trittongo, eventualmente seguiti da -n o -ng;
+- il tono (声调 shēngdiào), cioè l'andamento della voce, che distingue parole altrimenti identiche.
+
+= sillaba = iniziale + finale + tono
+
+| Carattere | Iniziale | Finale | Tono |
+| 妈 mā | m | a | 1° |
+| 学 xué | x | üe (scritto ue) | 2° |
+| 好 hǎo | h | ao | 3° |
+| 看 kàn | k | an | 4° |
+| 双 shuāng | sh | uang | 1° |
+| 爱 ài | nessuna | ai | 4° |
+
+### Le iniziali
+
+Il mandarino ha 21 iniziali consonantiche. Le lettere y e w, che compaiono all'inizio di molte sillabe, non sono vere iniziali ma convenzioni grafiche (vedi «Regole di ortografia del pinyin»).
+
+| Iniziale | Come si pronuncia | Esempio |
+| b | come una p italiana, senza soffio | 八 bā «otto» |
+| p | p con un forte soffio d'aria | 怕 pà «temere» |
+| m | come in italiano | 妈 mā «mamma» |
+| f | come in italiano | 飞 fēi «volare» |
+| d | come una t italiana, senza soffio | 大 dà «grande» |
+| t | t con un forte soffio d'aria | 他 tā «lui» |
+| n | come in italiano | 你 nǐ «tu» |
+| l | come in italiano | 来 lái «venire» |
+| g | come la c di «casa», senza soffio | 哥 gē «fratello» |
+| k | come la c di «casa», con soffio | 看 kàn «guardare» |
+| h | aspirazione roca, come la j spagnola | 好 hǎo «buono» |
+| j | come «ci» di «cielo», lingua piatta | 鸡 jī «pollo» |
+| q | come j, ma con forte soffio | 七 qī «sette» |
+| x | come «sci», lingua piatta | 西 xī «ovest» |
+| zh | «ci» con la lingua arretrata, senza soffio | 中 zhōng «mezzo» |
+| ch | come zh, ma con forte soffio | 吃 chī «mangiare» |
+| sh | «sc» di «scena» con la lingua arretrata | 是 shì «essere» |
+| r | come sh ma sonora, simile a «j» francese | 热 rè «caldo» |
+| z | come la z di «zio», senza soffio | 在 zài «essere a» |
+| c | come z, ma con forte soffio | 菜 cài «verdura» |
+| s | sempre sorda, come in «sole» | 四 sì «quattro» |
+
+### Indicazioni per gli italiani
+
+Le iniziali si possono raggruppare secondo il punto in cui si articolano:
+
+| Gruppo | Iniziali | Osservazioni |
+| labiali | b, p, m, f | come in italiano, tranne il soffio di p |
+| dentali | d, t, n, l | punta della lingua dietro i denti superiori |
+| velari | g, k, h | in fondo alla bocca |
+| palatali | j, q, x | punta della lingua dietro i denti inferiori |
+| retroflesse | zh, ch, sh, r | punta della lingua rivolta all'indietro |
+| sibilanti dentali | z, c, s | punta della lingua contro i denti |
+
+Gli aspetti più importanti sono questi:
+- **Aspirate e non aspirate.** In cinese b, d, g non sono sonore come in italiano: sono consonanti sorde, simili a p, t, c italiane; all'orecchio italiano possono sembrare una via di mezzo tra b e p. Le loro corrispondenti p, t, k sono invece aspirate, cioè seguite da un forte soffio d'aria, come in inglese *pen* o *time*. Lo stesso contrasto distingue j/q, zh/ch e z/c.
+- **La lettera h** non è mai muta: è un suono fricativo prodotto in fondo alla bocca, simile alla j spagnola di *jamón* o al ch tedesco di *Bach*, ma più leggero.
+- **Le palatali j, q, x** si articolano con la punta della lingua appoggiata dietro i denti inferiori e il dorso della lingua sollevato contro il palato. Si trovano solo davanti a i e ü.
+- **Le retroflesse zh, ch, sh, r** si articolano con la punta della lingua sollevata e rivolta leggermente all'indietro, verso il palato. La r cinese non è mai vibrata come quella italiana.
+- **Le sibilanti z, c, s**: z è come la z sorda di «zio», c è una z con soffio (e non ha niente a che vedere con la c italiana), s è sempre sorda come in «sole», mai sonora come in «rosa».
+- **La q e la x** del pinyin non hanno alcun rapporto con la q e la x italiane: 去 qù si legge circa «ciü» con un soffio, 谢谢 xièxie circa «scié-scie».
+
+Un modo semplice per controllare l'aspirazione è tenere un foglio di carta davanti alla bocca: con p, t, k, q, ch, c il foglio deve muoversi, con b, d, g, j, zh, z no. La differenza è distintiva, cioè cambia il significato:
+
+| Non aspirata | Aspirata |
+| 饱 bǎo «sazio» | 跑 pǎo «correre» |
+| 肚子 dùzi «pancia» | 兔子 tùzi «coniglio» |
+| 怪 guài «strano» | 快 kuài «veloce» |
+| 鸡 jī «pollo» | 七 qī «sette» |
+| 找 zhǎo «cercare» | 吵 chǎo «rumoroso» |
+| 早 zǎo «presto» | 草 cǎo «erba» |
+
+Altrettanto importante è la serie palatali, retroflesse e sibilanti, che gli italiani tendono a confondere:
+
+| Palatale | Retroflessa | Sibilante |
+| 鸡 jī «pollo» | 知 zhī «sapere» | 资 zī «risorse» |
+| 七 qī «sette» | 吃 chī «mangiare» | 词 cí «parola» |
+| 西 xī «ovest» | 十 shí «dieci» | 四 sì «quattro» |
+
+### Le finali
+
+Le finali sono 39 secondo il conteggio tradizionale e si dividono in gruppi. Nelle tabelle che seguono le finali sono indicate nella loro forma di base; quando non sono precedute da un'iniziale si scrivono in modo diverso (per esempio ia diventa ya), come si vede negli esempi.
+
+Finali semplici:
+
+| Finale | Come si pronuncia | Esempio |
+| a | come in italiano | 八 bā «otto» |
+| o | o aperta con una leggera u iniziale | 破 pò «rotto» |
+| e | come una o, ma a labbra distese | 饿 è «affamato» |
+| i | come in italiano | 你 nǐ «tu» |
+| u | come in italiano | 五 wǔ «cinque» |
+| ü | come la u francese: «i» a labbra arrotondate | 女 nǚ «donna» |
+| er | e centrale con la lingua arricciata | 二 èr «due» |
+
+Finali composte (dittonghi):
+
+| Finale | Come si pronuncia | Esempio |
+| ai | come in «mai» | 买 mǎi «comprare» |
+| ei | come in «sei» | 给 gěi «dare» |
+| ao | come in «Paolo» | 好 hǎo «buono» |
+| ou | o chiusa seguita da una u leggera | 走 zǒu «camminare» |
+
+Finali nasali: -n è dentale come nell'italiano «non», -ng è velare come nell'italiano «banca» (ma senza pronunciare la g).
+
+| Finale | Come si pronuncia | Esempio |
+| an | a + n | 看 kàn «guardare» |
+| en | e indistinta + n | 门 mén «porta» |
+| ang | a + ng | 忙 máng «occupato» |
+| eng | e indistinta + ng | 冷 lěng «freddo» |
+| ong | u + ng | 东 dōng «est» |
+
+Finali con i iniziale:
+
+| Finale | Come si pronuncia | Esempio |
+| ia | come in «piano» | 家 jiā «casa» |
+| ie | come in «ieri» | 谢 xiè «ringraziare» |
+| iao | come in «miao» | 小 xiǎo «piccolo» |
+| iou (iu) | i + ou | 六 liù «sei» |
+| ian | quasi «ien» | 天 tiān «cielo, giorno» |
+| in | come in italiano | 心 xīn «cuore» |
+| iang | i + ang | 想 xiǎng «pensare» |
+| ing | i + ng | 听 tīng «ascoltare» |
+| iong | i + ong | 熊 xióng «orso» |
+
+Finali con u iniziale:
+
+| Finale | Come si pronuncia | Esempio |
+| ua | come in «quale» | 花 huā «fiore» |
+| uo | come in «uomo» | 多 duō «molto» |
+| uai | come in «guai» | 快 kuài «veloce» |
+| uei (ui) | u + ei | 对 duì «giusto» |
+| uan | u + an | 换 huàn «cambiare» |
+| uen (un) | u + en | 春 chūn «primavera» |
+| uang | u + ang | 黄 huáng «giallo» |
+| ueng | u + eng (solo weng) | 翁 wēng «vecchio» |
+
+Finali con ü iniziale:
+
+| Finale | Come si pronuncia | Esempio |
+| üe | ü + e aperta | 学 xué «studiare» |
+| üan | quasi «üen» | 远 yuǎn «lontano» |
+| ün | ü + n | 云 yún «nuvola» |
+
+! La lettera e ha valori diversi a seconda della finale: da sola (饿 è, 喝 hē) è una vocale senza equivalente italiano, simile a una o pronunciata a labbra distese; in ie e üe è una e aperta come in «bello»; in ei è una e chiusa come in «sei»; in en ed eng è una vocale indistinta e breve. Anche la a cambia: in ian e üan (天 tiān, 远 yuǎn) suona quasi come una e.
+
+! Dopo z, c, s e zh, ch, sh, r la lettera i non indica la vocale i, ma un prolungamento sonoro della consonante, con la lingua che resta nella stessa posizione: 字 zì, 四 sì, 吃 chī, 是 shì, 日 rì. 是 shì non si pronuncia «sci»: la lingua resta arretrata e la «vocale» è appena accennata.
+
+La distinzione tra -n e -ng è distintiva e va curata fin dall'inizio:
+
+| Con -n | Con -ng |
+| 山 shān «montagna» | 伤 shāng «ferita» |
+| 金 jīn «oro» | 京 jīng «capitale» |
+| 门 mén «porta» | 蒙 méng «coprire» |
+| 饭 fàn «riso, pasto» | 放 fàng «mettere» |
+
+### Le sillabe senza iniziale
+
+Alcune sillabe non hanno consonante iniziale (零声母 líng shēngmǔ, «iniziale zero»): sono formate dalla sola finale e dal tono. Quelle che cominciano con a, o, e si scrivono così come sono (爱 ài «amare», 欧 ōu «Europa», 饿 è «affamato», 安 ān «tranquillo», 二 èr «due»); quelle che cominciano con i, u, ü si scrivono invece con y e w (一 yī «uno», 五 wǔ «cinque», 鱼 yú «pesce», 我 wǒ «io»). Le regole sono descritte in «Regole di ortografia del pinyin».
+
+Non tutte le combinazioni di iniziali e finali sono possibili: per esempio j, q, x si combinano solo con finali che cominciano per i o ü, mentre g, k, h, zh, ch, sh, r e z, c, s non si combinano mai con queste finali.

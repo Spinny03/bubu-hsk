@@ -1,0 +1,97 @@
+@ Vestiti e accessori | 👕
+衣服 | yīfu | vestiti, abito (件) | 👚 | 1
+穿 | chuān | indossare, mettersi | - | 2
+裤子 | kùzi | pantaloni (条) | 👖 | 3
+衬衫 | chènshān | camicia (件) | - | 3
+T恤 | T xù | maglietta (件) | 👕 | 4
+裙子 | qúnzi | gonna, vestito (条) | 👗 | 3
+鞋 | xié | scarpa (双/只) | 👟 | 3
+皮鞋 | píxié | scarpe di pelle (双) | 👞 | 4
+高跟鞋 | gāogēnxié | scarpe col tacco (双) | 👠 | 4
+靴子 | xuēzi | stivali (双) | 👢 | 4
+袜子 | wàzi | calzini (双) | 🧦 | 4
+帽子 | màozi | cappello (顶) | 🧢 | 3
+外套 | wàitào | giacca, cappotto (件) | 🧥 | 4
+毛衣 | máoyī | maglione (件) | - | 4
+围巾 | wéijīn | sciarpa (条) | 🧣 | 4
+手套 | shǒutào | guanti (双) | 🧤 | 4
+眼镜 | yǎnjìng | occhiali (副) | 👓 | 4
+太阳镜 | tàiyángjìng | occhiali da sole (副) | 🕶️ | 4
+手表 | shǒubiǎo | orologio da polso (块) | ⌚ | 2
+包 | bāo | borsa | 👜 | 3
+书包 | shūbāo | zaino, cartella | 🎒 | 4
+钱包 | qiánbāo | portafoglio | 👛 | 4
+戒指 | jièzhi | anello (枚) | 💍 | 4
+项链 | xiàngliàn | collana (条) | - | 4
+领带 | lǐngdài | cravatta (条) | 👔 | 4
+泳衣 | yǒngyī | costume da bagno (件) | 👙 | 4
+睡衣 | shuìyī | pigiama (件/套) | - | 4
+内衣 | nèiyī | biancheria intima (件) | 🩲 | 4
+短裤 | duǎnkù | pantaloncini (条) | 🩳 | 4
+口罩 | kǒuzhào | mascherina | 😷 | 4
+皮带 | pídài | cintura (条) | - | 4
+化妆 | huàzhuāng | truccarsi | 💄 | 4
+戴 | dài | portare (occhiali, cappello) | - | 4
+脱 | tuō | togliere (vestiti) | - | 4
+试 | shì | provare | - | 3
+漂亮 | piàoliang | bello, carino | - | 1
+@ Colori | 🎨
+颜色 | yánsè | colore (种) | 🎨 | 2
+红色 | hóngsè | rosso | 🔴 | 2
+白色 | báisè | bianco | ⚪ | 2
+黑色 | hēisè | nero | ⚫ | 2
+蓝色 | lánsè | blu, azzurro | 🔵 | 3
+绿色 | lǜsè | verde | 🟢 | 3
+黄色 | huángsè | giallo | 🟡 | 3
+橙色 | chéngsè | arancione | 🟠 | 4
+紫色 | zǐsè | viola | 🟣 | 4
+粉色 | fěnsè | rosa | - | 4
+灰色 | huīsè | grigio | - | 4
+棕色 | zōngsè | marrone | 🟤 | 4
+咖啡色 | kāfēisè | marrone (caffè) | - | 4
+金色 | jīnsè | dorato, oro | - | 4
+银色 | yínsè | argentato, argento | - | 4
+深 | shēn | scuro (di colore) | - | 4
+浅 | qiǎn | chiaro (di colore) | - | 4
+彩虹 | cǎihóng | arcobaleno (道) | 🌈 | 4
+@ Animali | 🐾
+动物 | dòngwù | animale (只) | 🐾 | 3
+狗 | gǒu | cane (只/条) | 🐕 | 1
+猫 | māo | gatto (只) | 🐈 | 1
+鸟 | niǎo | uccello (只) | 🐦 | 3
+鱼 | yú | pesce (条) | 🐟 | 2
+马 | mǎ | cavallo (匹) | 🐎 | 3
+牛 | niú | bue, mucca (头) | 🐄 | 3
+猪 | zhū | maiale (头) | 🐖 | 4
+羊 | yáng | pecora, capra (只) | 🐑 | 3
+鸡 | jī | gallina, pollo (只) | 🐔 | 3
+鸭子 | yāzi | anatra (只) | 🦆 | 4
+熊猫 | xióngmāo | panda (只) | 🐼 | 3
+老虎 | lǎohǔ | tigre (只) | 🐅 | 4
+狮子 | shīzi | leone (只/头) | 🦁 | 4
+大象 | dàxiàng | elefante (头) | 🐘 | 4
+猴子 | hóuzi | scimmia (只) | 🐒 | 4
+兔子 | tùzi | coniglio (只) | 🐇 | 4
+老鼠 | lǎoshǔ | topo (只) | 🐁 | 4
+熊 | xióng | orso (只/头) | 🐻 | 4
+蛇 | shé | serpente (条) | 🐍 | 4
+龙 | lóng | drago (条) | 🐉 | 4
+虫子 | chóngzi | insetto, verme (只/条) | 🐛 | 4
+蝴蝶 | húdié | farfalla (只) | 🦋 | 4
+蜜蜂 | mìfēng | ape (只) | 🐝 | 4
+蚊子 | wénzi | zanzara (只) | 🦟 | 4
+蜘蛛 | zhīzhū | ragno (只) | 🕷️ | 4
+蚂蚁 | mǎyǐ | formica (只) | 🐜 | 4
+长颈鹿 | chángjǐnglù | giraffa (只) | 🦒 | 4
+狐狸 | húli | volpe (只) | 🦊 | 4
+狼 | láng | lupo (只/头) | 🐺 | 4
+鹿 | lù | cervo (只/头) | 🦌 | 4
+乌龟 | wūguī | tartaruga (只) | 🐢 | 4
+青蛙 | qīngwā | rana (只) | 🐸 | 4
+企鹅 | qǐ'é | pinguino (只) | 🐧 | 4
+海豚 | hǎitún | delfino (只/条) | 🐬 | 4
+鲸鱼 | jīngyú | balena (条/头) | 🐋 | 4
+鲨鱼 | shāyú | squalo (条) | 🦈 | 4
+骆驼 | luòtuo | cammello (头/峰) | 🐫 | 4
+宠物 | chǒngwù | animale domestico (只) | - | 4
+养 | yǎng | allevare, tenere (animali) | - | 4

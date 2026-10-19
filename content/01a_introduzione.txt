@@ -1,0 +1,160 @@
+@ Fondamenti
+
+# Introduzione
+
+## Il cinese mandarino
+
+Il cinese è una famiglia di varietà linguistiche molto diverse tra loro, che i cinesi chiamano tradizionalmente «dialetti» (方言 fāngyán): il cantonese (粤语 Yuèyǔ), lo shanghaiese e le altre varietà wu (吴语 Wúyǔ), le varietà min (闽语 Mǐnyǔ), lo hakka (客家话 Kèjiāhuà) e molte altre. Spesso un parlante di Canton e uno di Pechino non si capiscono a voce.
+
+La lingua che si studia normalmente, e che è descritta in questa grammatica, è il cinese mandarino standard, chiamato in Cina 普通话 pǔtōnghuà, «lingua comune». La sua pronuncia si basa su quella di Pechino, il lessico sulle varietà del Nord e la grammatica sulla lingua scritta moderna in volgare (白话文 báihuàwén). È la lingua ufficiale della Repubblica Popolare Cinese, una delle lingue ufficiali di Singapore (dove si chiama 华语 Huáyǔ) e, con il nome di 国语 Guóyǔ, la lingua ufficiale di Taiwan.
+
+Per indicare «la lingua cinese» si usano soprattutto due parole:
+- 汉语 Hànyǔ, «la lingua degli Han» (l'etnia maggioritaria): è il termine preferito in linguistica e nell'insegnamento, ed è più legato alla lingua parlata;
+- 中文 Zhōngwén, «la lingua della Cina»: è il termine più comune nella vita quotidiana, soprattutto per la lingua scritta (libri, siti, menù).
+
+ex: 你会说**汉语**吗？ | Nǐ huì shuō **Hànyǔ** ma? | Sai parlare cinese?
+ex: 我在学**中文**。 | Wǒ zài xué **Zhōngwén**. | Sto studiando cinese.
+ex: 他的**普通话**很标准。 | Tā de **pǔtōnghuà** hěn biāozhǔn. | Il suo cinese standard è molto corretto.
+
+### Caratteri semplificati e tradizionali
+
+Il cinese si scrive con i caratteri (汉字 Hànzì). Ogni carattere corrisponde a una sillaba e, nella maggior parte dei casi, a un morfema, cioè a un'unità dotata di significato. I caratteri d'uso comune sono circa 2500 e da soli coprono circa il 98% dei testi moderni.
+
+Dagli anni Cinquanta del Novecento nella Cina continentale si usano i caratteri semplificati (简体字 jiǎntǐzì), che hanno meno tratti; a Taiwan, Hong Kong e Macao si usano ancora i caratteri tradizionali (繁体字 fántǐzì). La grammatica è la stessa: cambia solo la grafia di una parte dei caratteri. Questo libro usa esclusivamente i caratteri semplificati.
+
+| Semplificato | Tradizionale | Pinyin | Significato |
+| 学 | 學 | xué | studiare |
+| 语 | 語 | yǔ | lingua |
+| 国 | 國 | guó | paese, nazione |
+| 书 | 書 | shū | libro |
+| 马 | 馬 | mǎ | cavallo |
+| 门 | 門 | mén | porta |
+| 车 | 車 | chē | veicolo |
+| 说 | 說 | shuō | parlare |
+
+### Il pinyin
+
+Il pinyin (汉语拼音 Hànyǔ Pīnyīn) è il sistema ufficiale di trascrizione del cinese in alfabeto latino, adottato nel 1958. Indica la pronuncia di ogni sillaba e il suo tono con un segno sopra la vocale (mā, má, mǎ, mà). Serve per imparare la pronuncia, per cercare le parole nei dizionari e soprattutto per scrivere i caratteri al computer e sul telefono (输入法 shūrùfǎ, «metodo di immissione»), ma non sostituisce i caratteri nella scrittura normale. Le sue regole sono descritte nel capitolo «La pronuncia e il pinyin».
+
+! Il pinyin non si legge «all'italiana»: lettere come c, q, x, z, zh, h, e hanno valori molto diversi da quelli italiani. Prima di leggere gli esempi di questo libro conviene studiare almeno le tabelle del capitolo «La pronuncia e il pinyin».
+
+## Caratteristiche grammaticali generali
+
+Chi parte dall'italiano trova nel cinese una grammatica per molti aspetti più semplice (niente coniugazioni, niente accordi) e per altri molto diversa (ordine delle parole rigido, aspetto verbale, classificatori). Ecco i tratti principali, ciascuno trattato in dettaglio nei capitoli successivi.
+
+### Una lingua isolante
+
+Il cinese è una lingua isolante: le parole non cambiano forma. Non esistono coniugazioni, generi grammaticali, singolare e plurale, casi, articoli.
+
+Il verbo non si coniuga: la stessa forma vale per tutte le persone.
+ex: 我**去**。你也**去**。他们都**去**。 | Wǒ **qù**. Nǐ yě **qù**. Tāmen dōu **qù**. | Io vado. Anche tu vai. Ci vanno tutti.
+
+Non c'è genere grammaticale: nomi e aggettivi non hanno maschile e femminile e non si accordano. Anche i pronomi 他 «lui», 她 «lei» e 它 «esso» si pronunciano allo stesso modo, tā: la differenza esiste solo nella scrittura.
+ex: 我的**老师**很年轻。 | Wǒ de **lǎoshī** hěn niánqīng. | Il mio insegnante è giovane. / La mia insegnante è giovane.
+
+Non c'è plurale grammaticale: il nome resta invariato e il numero si ricava dal contesto o dai numerali. Il suffisso 们 men si usa solo con alcuni nomi di persona e non è obbligatorio (vedi «Il sostantivo»).
+ex: 我买了一本**书**。 | Wǒ mǎi le yì běn **shū**. | Ho comprato un libro.
+ex: 我买了三本**书**。 | Wǒ mǎi le sān běn **shū**. | Ho comprato tre libri.
+
+Non ci sono casi: 我 significa «io», «me» e «mi»; la funzione dipende solo dalla posizione.
+ex: **我**爱**他**。 | **Wǒ** ài **tā**. | Io lo amo.
+ex: **他**爱**我**。 | **Tā** ài **wǒ**. | Lui mi ama.
+
+Non ci sono articoli: 书 può significare «il libro», «un libro», «i libri» o «dei libri». Il valore determinato o indeterminato si deduce dal contesto e dalla posizione: ciò che sta all'inizio della frase è di solito già noto, ciò che segue il verbo è spesso nuovo.
+ex: **书**在桌子上。 | **Shū** zài zhuōzi shang. | Il libro è sul tavolo.
+ex: 桌子上有**一本书**。 | Zhuōzi shang yǒu **yì běn shū**. | Sul tavolo c'è un libro.
+
+### L'ordine delle parole e le parole funzionali
+
+Poiché le parole non cambiano forma, la grammatica si basa su due strumenti: l'ordine delle parole, che è molto più rigido che in italiano, e le parole funzionali (虚词 xūcí), cioè particelle, preposizioni, congiunzioni e avverbi che segnalano i rapporti grammaticali.
+
+Cambiando l'ordine cambia il significato, perché il soggetto precede il verbo e l'oggetto lo segue:
+ex: **狗**咬**人**。 | **Gǒu** yǎo **rén**. | Il cane morde l'uomo.
+ex: **人**咬**狗**。 | **Rén** yǎo **gǒu**. | L'uomo morde il cane.
+
+In italiano si può dire anche «Morde l'uomo, il cane» senza cambiare il senso; in cinese, invece, scambiare di posto 狗 e 人 significa scambiare i ruoli. Le parole funzionali svolgono il lavoro che in italiano fanno desinenze e intonazione:
+ex: 你去**吗**？ | Nǐ qù **ma**? | Ci vai?
+ex: 我们一起去**吧**。 | Wǒmen yìqǐ qù **ba**. | Andiamo insieme.
+ex: 这是我**的**书。 | Zhè shì wǒ **de** shū. | Questo è il mio libro.
+ex: 他走**了**。 | Tā zǒu **le**. | Se n'è andato.
+
+### Morfemi monosillabici, parole bisillabiche
+
+Quasi ogni sillaba (e quindi ogni carattere) è un morfema con un proprio significato. Le parole del cinese moderno, però, sono spesso composte da due morfemi, il cui significato aiuta a ricordarle:
+
+| Parola | Pinyin | Composizione | Significato |
+| 电脑 | diànnǎo | elettricità + cervello | computer |
+| 手机 | shǒujī | mano + macchina | cellulare |
+| 火车 | huǒchē | fuoco + veicolo | treno |
+| 飞机 | fēijī | volare + macchina | aereo |
+| 电影 | diànyǐng | elettricità + ombra | film |
+| 大学 | dàxué | grande + studio | università |
+
+Molti morfemi si usano anche da soli come parole (书 «libro», 吃 «mangiare»), altri solo dentro parole composte. I meccanismi di composizione sono descritti nel capitolo «La formazione delle parole».
+
+### Aspetto invece del tempo
+
+Il verbo cinese non esprime il tempo (presente, passato, futuro): il momento dell'azione si ricava da espressioni di tempo come 昨天 «ieri» o 明天 «domani» e dal contesto. Il cinese esprime invece l'aspetto, cioè il modo in cui l'azione è vista (compiuta, in corso, già sperimentata), con particelle come 了 le, 着 zhe e 过 guo.
+ex: 我每天**喝**咖啡。 | Wǒ měi tiān **hē** kāfēi. | Bevo caffè ogni giorno.
+ex: 我昨天**喝**了三杯咖啡。 | Wǒ zuótiān **hē** le sān bēi kāfēi. | Ieri ho bevuto tre caffè.
+ex: 我明天不**喝**咖啡。 | Wǒ míngtiān bù **hē** kāfēi. | Domani non berrò caffè.
+ex: 我喝**过**中国的白酒。 | Wǒ hē **guo** Zhōngguó de báijiǔ. | Ho già assaggiato il baijiu, il liquore cinese.
+
+! 了 non è un «passato prossimo»: indica che un'azione è compiuta o che una situazione è cambiata, anche nel futuro. Vedi i capitoli «Tempo e aspetto» e «La particella 了».
+
+### I classificatori
+
+Tra un numerale (o un dimostrativo come 这 «questo») e il nome si inserisce obbligatoriamente un classificatore (量词 liàngcí), scelto in base al nome. L'italiano conosce qualcosa di simile solo con i nomi di sostanza («un pezzo di pane», «un foglio di carta»); in cinese il classificatore serve con tutti i nomi.
+ex: 一**本**书 | yì **běn** shū | un libro
+ex: 两**个**学生 | liǎng **ge** xuésheng | due studenti
+ex: 三**张**桌子 | sān **zhāng** zhuōzi | tre tavoli
+ex: 这**件**衣服 | zhè **jiàn** yīfu | questo vestito
+no: 我有三书。 | Wǒ yǒu sān shū. | Errato: tra numerale e nome serve il classificatore.
+ex: 我有三**本**书。 | Wǒ yǒu sān **běn** shū. | Ho tre libri.
+
+Vedi il capitolo «I classificatori».
+
+### Una lingua a tema-commento
+
+Il cinese mette volentieri all'inizio della frase il tema (话题 huàtí), cioè l'argomento di cui si parla, e poi aggiunge un commento. L'italiano parlato fa qualcosa di simile con la dislocazione («Questo film, l'ho già visto»), ma in cinese la costruzione è più frequente, del tutto neutra e non richiede pronomi di ripresa.
+ex: **这个电影**我看过。 | **Zhège diànyǐng** wǒ kàn guo. | Questo film l'ho già visto.
+ex: **北京**我去过两次。 | **Běijīng** wǒ qù guo liǎng cì. | A Pechino ci sono stato due volte.
+
+Vedi «Tema e commento» nel capitolo «L'ordine delle parole».
+
+### L'omissione del soggetto e dell'oggetto
+
+Come l'italiano, il cinese può omettere il soggetto quando è chiaro dal contesto. A differenza dell'italiano, può omettere anche l'oggetto: dove l'italiano usa un pronome atono («l'ho visto», «mi piace»), il cinese spesso non dice nulla.
+ex: A：你看到小王了吗？B：看到了。 | A: Nǐ kàndào Xiǎo Wáng le ma? B: Kàndào le. | A: Hai visto Xiao Wang? B: Sì, l'ho visto.
+ex: A：你喜欢这本书吗？B：很喜欢。 | A: Nǐ xǐhuan zhè běn shū ma? B: Hěn xǐhuan. | A: Ti piace questo libro? B: Sì, mi piace molto.
+
+### Il modificatore precede il modificato
+
+In cinese ciò che modifica viene sempre prima di ciò che è modificato: gli aggettivi e le frasi relative precedono il nome, gli avverbi e le espressioni di luogo precedono il verbo. L'italiano fa spesso il contrario.
+ex: **新**手机 | **xīn** shǒujī | un cellulare nuovo
+ex: **我昨天买的**书 | **wǒ zuótiān mǎi de** shū | il libro che ho comprato ieri
+ex: 他**在银行**工作。 | Tā **zài yínháng** gōngzuò. | Lavora in banca.
+ex: 你**慢慢**说。 | Nǐ **mànmàn** shuō. | Parla con calma.
+
+Vedi «Il modificatore precede il modificato» nel capitolo «L'ordine delle parole».
+
+### Gli aggettivi senza il verbo «essere»
+
+In cinese l'aggettivo può fare da predicato da solo, come un verbo: «essere stanco» si dice semplicemente 累 lèi, di solito preceduto dall'avverbio 很 hěn. Il verbo 是 shì «essere» non si usa davanti agli aggettivi.
+no: 我是很累。 | Wǒ shì hěn lèi. | Errato: davanti all'aggettivo non si usa 是.
+ex: 我很累。 | Wǒ hěn lèi. | Sono stanco.
+
+Vedi i capitoli «La frase semplice e il verbo 是» e «L'aggettivo».
+
+### Riepilogo
+
+| Caratteristica | Italiano | Cinese |
+| Coniugazione del verbo | sì | no |
+| Genere grammaticale | sì | no |
+| Plurale dei nomi | sì | no (们 solo con persone) |
+| Articoli | sì | no |
+| Tempi verbali | sì | no: aspetto e parole di tempo |
+| Classificatori | no | sì, obbligatori |
+| Ordine delle parole | relativamente libero | rigido |
+| Posizione dell'aggettivo | prima o dopo il nome | sempre prima del nome |
+| Omissione dell'oggetto | no (serve un pronome) | sì, frequente |

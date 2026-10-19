@@ -1,0 +1,261 @@
+## I numeri ordinali
+
+Gli ordinali si formano anteponendo al numero il prefisso 第 dì. Se segue un nome, tra l'ordinale e il nome si inserisce il classificatore, come con i cardinali. In pinyin 第 si unisce al numero con un trattino: dì-yī, dì-èr. Negli ordinali si usa sempre 二, mai 两, e 一 conserva il primo tono.
+
+= 第 + Num
+= 第 + Num + CL + N
+
+ex: 这是我**第一**次来中国。 | Zhè shì wǒ **dì-yī** cì lái Zhōngguó. | È la prima volta che vengo in Cina.
+ex: 他考了**第一**名。 | Tā kǎo le **dì-yī** míng. | È arrivato primo all'esame.
+ex: **第二天**，我们去了长城。 | **Dì-èr tiān**, wǒmen qù le Chángchéng. | Il giorno dopo siamo andati alla Grande Muraglia.
+ex: 请看**第三课**。 | Qǐng kàn **dì-sān kè**. | Guardate la lezione tre.
+ex: 左边**第二个**人是我哥哥。 | Zuǒbian **dì-èr ge** rén shì wǒ gēge. | La seconda persona da sinistra è mio fratello.
+ex: 我们的**第一站**是上海。 | Wǒmen de **dì-yī zhàn** shì Shànghǎi. | La nostra prima tappa è Shanghai.
+
+no: 第两次 | dì-liǎng cì | Errato: negli ordinali si usa 二.
+ex: **第二**次 | **dì-èr** cì | la seconda volta
+
+! Nei racconti 第二天 significa «il giorno dopo»; non va confuso con 两天 «due giorni» (durata).
+! 第一 … 第二 … si usano anche per elencare argomenti: «in primo luogo…, in secondo luogo…».
+
+### Ordinali senza 第
+In molti casi un numero cardinale posto direttamente davanti a un nome o a un classificatore ha valore ordinale, senza 第.
+
+| Espressione | Pinyin | Significato |
+| 一楼 | yī lóu | piano terra (lett. primo piano) |
+| 三年级 | sān niánjí | terza classe, terzo anno |
+| 二号 | èr hào | il giorno 2; il numero 2 |
+| 一月 | yī yuè | gennaio (≠ 一个月 «un mese») |
+| 三号楼 | sān hào lóu | l'edificio numero 3 |
+| 二哥 | èrgē | il secondo fratello maggiore |
+| 老二 | lǎo'èr | il secondogenito |
+| 初一 | chūyī | il primo giorno del mese lunare |
+| 头一次 | tóu yí cì | la prima volta (colloquiale) |
+| 头两天 | tóu liǎng tiān | i primi due giorni |
+| 二等座 | èr děng zuò | posto di seconda classe |
+
+ex: 我家在**三楼**。 | Wǒ jiā zài **sān lóu**. | Abito al secondo piano. (lett. al terzo piano)
+ex: 我妹妹上小学**三年级**。 | Wǒ mèimei shàng xiǎoxué **sān niánjí**. | Mia sorella fa la terza elementare.
+ex: **一月**很冷。 | **Yī yuè** hěn lěng. | Gennaio è freddo.
+ex: 我在北京住了**一个月**。 | Wǒ zài Běijīng zhù le **yí ge yuè**. | Ho abitato a Pechino per un mese.
+ex: 这是我**头一次**吃北京烤鸭。 | Zhè shì wǒ **tóu yí cì** chī Běijīng kǎoyā. | È la prima volta che mangio l'anatra alla pechinese.
+ex: **头两天**天气不太好。 | **Tóu liǎng tiān** tiānqì bú tài hǎo. | I primi due giorni il tempo non era un granché.
+ex: 春节是农历正月**初一**。 | Chūnjié shì nónglì zhēngyuè **chūyī**. | La Festa di Primavera cade il primo giorno del primo mese lunare.
+
+! In Cina i piani si contano a partire dal pianterreno, che è 一楼: il «primo piano» italiano corrisponde quindi a 二楼.
+
+## Frazioni, percentuali, decimali e numeri negativi
+
+### Le frazioni
+Nelle frazioni si dice **prima il denominatore**, poi 分之 fēn zhī, poi il numeratore: 三分之一 sān fēn zhī yī significa lett. «di tre parti, una».
+
+= denominatore + 分之 + numeratore
+
+| Frazione | Cinese | Pinyin |
+| 1/2 | 二分之一 | èr fēn zhī yī |
+| 1/3 | 三分之一 | sān fēn zhī yī |
+| 2/3 | 三分之二 | sān fēn zhī èr |
+| 3/4 | 四分之三 | sì fēn zhī sān |
+| 1/10 | 十分之一 | shí fēn zhī yī |
+| 2 e 1/2 | 二又二分之一 | èr yòu èr fēn zhī yī |
+
+ex: 全班**三分之一**的学生是女生。 | Quánbān **sān fēn zhī yī** de xuésheng shì nǚshēng. | Un terzo degli studenti della classe sono ragazze.
+ex: 这本书我已经看了**三分之二**。 | Zhè běn shū wǒ yǐjīng kàn le **sān fēn zhī èr**. | Di questo libro ne ho già letti due terzi.
+
+no: 一分之三 | yī fēn zhī sān | Errato: prima va il denominatore, poi il numeratore.
+ex: **三分之一** | **sān fēn zhī yī** | un terzo
+
+### Le percentuali
+Le percentuali sono frazioni con denominatore cento: 百分之 bǎi fēn zhī + numero.
+
+= 百分之 + Num
+
+ex: 这次考试**百分之九十**的学生都及格了。 | Zhè cì kǎoshì **bǎi fēn zhī jiǔshí** de xuésheng dōu jígé le. | A questo esame il novanta per cento degli studenti è stato promosso.
+ex: 价格提高了**百分之五**。 | Jiàgé tígāo le **bǎi fēn zhī wǔ**. | Il prezzo è aumentato del cinque per cento.
+ex: 我**百分之百**同意。 | Wǒ **bǎi fēn zhī bǎi** tóngyì. | Sono d'accordo al cento per cento.
+ex: 银行的利率是**百分之零点五**。 | Yínháng de lìlǜ shì **bǎi fēn zhī líng diǎn wǔ**. | Il tasso d'interesse della banca è dello 0,5 per cento.
+
+! Negli sconti si usa 折 zhé, che indica in decimi **quanto si paga**, non quanto si risparmia: 打八折 dǎ bā zhé «pagare l'80 %», cioè uno sconto del 20 %; 七五折 qī wǔ zhé «75 % del prezzo».
+
+ex: 这件衣服打**八折**。 | Zhè jiàn yīfu dǎ **bā zhé**. | Questo vestito è scontato del venti per cento. (lett. si paga l'ottanta per cento)
+
+### I decimali
+Al posto della virgola italiana il cinese usa 点 diǎn «punto». Le cifre dopo 点 si leggono **una per una**.
+
+= parte intera + 点 + cifre decimali
+
+ex: 三点一四 | sān diǎn yī sì | 3,14
+ex: 零点五 | líng diǎn wǔ | 0,5
+ex: 十二点零五 | shí'èr diǎn líng wǔ | 12,05
+ex: 这个包重**二点五**公斤。 | Zhège bāo zhòng **èr diǎn wǔ** gōngjīn. | Questa borsa pesa due chili e mezzo.
+ex: 今天的汇率是**七点八**。 | Jīntiān de huìlǜ shì **qī diǎn bā**. | Il cambio di oggi è 7,8.
+
+no: 三点十四 | sān diǎn shísì | Errato: le cifre dopo 点 si leggono una per una.
+ex: 三点**一四** | sān diǎn **yī sì** | 3,14
+
+### I numeri negativi
+I numeri negativi si formano con 负 fù «negativo». Per le temperature sotto zero si usa invece 零下 língxià «sotto zero» + numero + 度 dù «gradi».
+
+ex: 三减五等于**负二**。 | Sān jiǎn wǔ děngyú **fù èr**. | Tre meno cinque fa meno due.
+ex: 哈尔滨冬天常常**零下二十多度**。 | Hā'ěrbīn dōngtiān chángcháng **língxià èrshí duō dù**. | A Harbin d'inverno ci sono spesso più di venti gradi sotto zero.
+ex: 今天最高气温**三十五度**，最低**二十六度**。 | Jīntiān zuì gāo qìwēn **sānshíwǔ dù**, zuì dī **èrshíliù dù**. | Oggi la massima è di trentacinque gradi, la minima di ventisei.
+
+### 一半
+一半 yíbàn significa «la metà» di un tutto o di un insieme.
+
+ex: 蛋糕我只吃了**一半**。 | Dàngāo wǒ zhǐ chī le **yíbàn**. | Della torta ne ho mangiata solo metà.
+ex: **一半**的学生是外国人。 | **Yíbàn** de xuésheng shì wàiguórén. | Metà degli studenti sono stranieri.
+ex: 我们**一半**坐车，**一半**走路。 | Wǒmen **yíbàn** zuò chē, **yíbàn** zǒu lù. | Metà di noi va in macchina, metà a piedi.
+
+## L'approssimazione
+
+Il cinese dispone di molti mezzi per esprimere quantità approssimative: parole poste dopo il numero (左右, 上下, 多, 来), il numerale indefinito 几, la sequenza di due numeri consecutivi e alcuni avverbi.
+
+### 左右 e 上下
+左右 zuǒyòu «circa» si pone dopo la quantità, l'età o l'ora. 上下 shàngxià ha lo stesso significato ma si usa soprattutto con età, pesi e temperature, **non** con le ore.
+
+= Num + CL (+ N) + 左右 / 上下
+
+ex: 我们**八点左右**到。 | Wǒmen **bā diǎn zuǒyòu** dào. | Arriviamo verso le otto.
+ex: 他**三十岁左右**。 | Tā **sānshí suì zuǒyòu**. | Ha circa trent'anni.
+ex: 这本书**一百块左右**。 | Zhè běn shū **yìbǎi kuài zuǒyòu**. | Questo libro costa sui cento yuan.
+ex: 我每天学习**两个小时左右**。 | Wǒ měi tiān xuéxí **liǎng ge xiǎoshí zuǒyòu**. | Studio circa due ore al giorno.
+ex: 她看起来**四十岁上下**。 | Tā kàn qilai **sìshí suì shàngxià**. | Sembra sulla quarantina.
+
+no: 我八点上下到。 | Wǒ bā diǎn shàngxià dào. | Errato: con le ore si usa 左右, non 上下.
+ex: 我**八点左右**到。 | Wǒ **bā diǎn zuǒyòu** dào. | Arrivo verso le otto.
+
+### 多: «più di»
+多 duō dopo un numero indica un'eccedenza non precisata. La sua posizione dipende dal numero:
+- dopo un numero **tondo** (10, 20, 100, 1.000…) 多 precede il classificatore, e l'eccedenza è inferiore all'unità dell'ultima cifra: 十多个人 «più di dieci persone (tra 11 e 19)»;
+- dopo un numero da **1 a 9** (o che termina con una cifra diversa da zero) 多 segue il classificatore, e l'eccedenza è una frazione dell'unità: 一个多月 «più di un mese (ma meno di due)».
+
+= Num tondo + 多 + CL + N
+= Num + CL + 多 + N
+
+ex: 教室里有**二十多**个学生。 | Jiàoshì li yǒu **èrshí duō** ge xuésheng. | In aula ci sono più di venti studenti.
+ex: 这件衣服**一百多**块。 | Zhè jiàn yīfu **yìbǎi duō** kuài. | Questo vestito costa più di cento yuan.
+ex: 他在中国住了**三个多**月。 | Tā zài Zhōngguó zhù le **sān ge duō** yuè. | Ha abitato in Cina per più di tre mesi.
+ex: 我学汉语已经**一年多**了。 | Wǒ xué Hànyǔ yǐjīng **yì nián duō** le. | Studio cinese ormai da più di un anno.
+ex: 这个西瓜**五斤多**。 | Zhège xīguā **wǔ jīn duō**. | Questa anguria pesa più di cinque jin.
+
+Con un numero tondo sono possibili entrambe le posizioni, con significato diverso:
+
+ex: **十多**斤 | **shí duō** jīn | da undici a diciannove jin circa
+ex: 十斤**多** | shí jīn **duō** | dieci jin e qualcosa (meno di undici)
+
+no: 一多个月 | yì duō ge yuè | Errato: dopo un numero da 1 a 9, 多 segue il classificatore.
+ex: 一个**多**月 | yí ge **duō** yuè | più di un mese
+
+### 来: «circa»
+来 lái dopo un numero tondo significa «circa, una …ina», con un'oscillazione in più o in meno.
+
+= Num tondo + 来 + CL + N
+
+ex: 我们班有**二十来个**学生。 | Wǒmen bān yǒu **èrshí lái ge** xuésheng. | Nella nostra classe ci sono una ventina di studenti.
+ex: 他**三十来岁**。 | Tā **sānshí lái suì**. | Ha una trentina d'anni.
+
+### 几: «alcuni», «qualche»
+Fuori dalle domande, 几 jǐ indica una quantità piccola e indefinita. Combinato con 十, 百, 千, 万 indica una cifra approssimativa nell'ordine corrispondente.
+
+| Espressione | Pinyin | Significato |
+| 几个人 | jǐ ge rén | alcune persone |
+| 十几个人 | shíjǐ ge rén | una quindicina di persone (11–19) |
+| 二十几岁 | èrshíjǐ suì | venti e passa anni (21–29) |
+| 几十个人 | jǐshí ge rén | qualche decina di persone |
+| 几百块 | jǐbǎi kuài | qualche centinaio di yuan |
+| 几万人 | jǐwàn rén | decine di migliaia di persone |
+
+ex: 我买了**几**本书。 | Wǒ mǎi le **jǐ** běn shū. | Ho comprato alcuni libri.
+ex: 我在上海待了**十几**天。 | Wǒ zài Shànghǎi dāi le **shíjǐ** tiān. | Sono stato a Shanghai una quindicina di giorni.
+ex: 会议室里有**几十**个人。 | Huìyìshì li yǒu **jǐshí** ge rén. | Nella sala riunioni ci sono decine di persone.
+ex: 这个图书馆有**几十万**本书。 | Zhège túshūguǎn yǒu **jǐshí wàn** běn shū. | Questa biblioteca ha centinaia di migliaia di libri.
+
+! Solo l'intonazione e il contesto distinguono la domanda 你买了几本书？ «Quanti libri hai comprato?» dall'affermazione 我买了几本书。 «Ho comprato alcuni libri.».
+
+### Due numeri consecutivi
+Due cifre consecutive, senza congiunzione né virgola, indicano un valore approssimativo: 三四个 «tre o quattro», 七八天 «sette o otto giorni», 五六十个 «cinquanta o sessanta».
+
+ex: 我**两三**天以后回来。 | Wǒ **liǎng sān** tiān yǐhòu huílai. | Torno fra due o tre giorni.
+ex: 他每天喝**七八**杯咖啡。 | Tā měi tiān hē **qī bā** bēi kāfēi. | Beve sette o otto caffè al giorno.
+ex: 那个女孩子**十七八**岁。 | Nàge nǚháizi **shíqī bā** suì. | Quella ragazza avrà diciassette o diciotto anni.
+ex: 来了**五六十**个人。 | Lái le **wǔ liùshí** ge rén. | Sono venute cinquanta o sessanta persone.
+
+! 九十 significa soltanto «novanta»: per «nove o dieci» si dice 九到十个 jiǔ dào shí ge.
+
+### 好几, 上百, 成千上万
+- 好几 hǎojǐ + CL significa «parecchi, un bel po'», con l'idea che la quantità sia superiore alle attese: 好几个, 好几天, 好几百.
+- 上 shàng + 百 / 千 / 万 sottolinea il raggiungimento di un ordine di grandezza: 上百人 «un centinaio di persone e più».
+- 成千上万 chéngqiān-shàngwàn significa «migliaia e migliaia».
+
+ex: 我等了你**好几个**小时！ | Wǒ děng le nǐ **hǎojǐ ge** xiǎoshí! | Ti ho aspettato per ore!
+ex: 这个电影我看了**好几**遍。 | Zhège diànyǐng wǒ kàn le **hǎojǐ** biàn. | Questo film l'ho visto parecchie volte.
+ex: 每天有**上千**人来这里参观。 | Měi tiān yǒu **shàng qiān** rén lái zhèli cānguān. | Ogni giorno vengono qui in visita più di mille persone.
+ex: **成千上万**的人来到了广场。 | **Chéngqiān-shàngwàn** de rén láidào le guǎngchǎng. | Migliaia e migliaia di persone sono arrivate in piazza.
+
+### 大约, 大概, 差不多 + numero
+Davanti al numero si possono usare avverbi come 大约 dàyuē «circa» (più formale), 大概 dàgài «all'incirca, probabilmente», 差不多 chàbuduō «quasi, più o meno» e 将近 jiāngjìn «quasi, poco meno di».
+
+ex: 从这儿到机场**大约**三十公里。 | Cóng zhèr dào jīchǎng **dàyuē** sānshí gōnglǐ. | Da qui all'aeroporto ci sono circa trenta chilometri.
+ex: 我**大概**十点到。 | Wǒ **dàgài** shí diǎn dào. | Arrivo verso le dieci, più o meno.
+ex: 我们**差不多**等了一个小时。 | Wǒmen **chàbuduō** děng le yí ge xiǎoshí. | Abbiamo aspettato quasi un'ora.
+ex: 这个城市有**将近**一千万人。 | Zhège chéngshì yǒu **jiāngjìn** yìqiān wàn rén. | Questa città ha quasi dieci milioni di abitanti.
+
+! La combinazione 大约……左右 (大约三十个人左右) è frequente nel parlato, ma nello scritto curato è considerata ridondante: basta uno dei due elementi.
+
+## 半, 倍 e altre espressioni
+
+### 半
+半 bàn «mezzo» si comporta come un numerale e ha due posizioni:
+- **davanti** al classificatore significa «mezzo…»: 半个小时 «mezz'ora», 半斤 «mezzo jin»;
+- **dopo** numerale + classificatore significa «… e mezzo»: 一个半小时 «un'ora e mezza», 两年半 «due anni e mezzo».
+
+= 半 + CL + N
+= Num + CL + 半 + N
+
+ex: 我等了**半个**小时。 | Wǒ děng le **bàn ge** xiǎoshí. | Ho aspettato mezz'ora.
+ex: 我学了**一年半**汉语。 | Wǒ xué le **yì nián bàn** Hànyǔ. | Ho studiato cinese per un anno e mezzo.
+ex: 从北京到上海坐高铁要**四个半**小时。 | Cóng Běijīng dào Shànghǎi zuò gāotiě yào **sì ge bàn** xiǎoshí. | Da Pechino a Shanghai, con l'alta velocità, ci vogliono quattro ore e mezza.
+ex: 我要**半斤**饺子。 | Wǒ yào **bàn jīn** jiǎozi. | Vorrei mezzo jin di ravioli.
+ex: 他喝了**半杯**水。 | Tā hē le **bàn bēi** shuǐ. | Ha bevuto mezzo bicchiere d'acqua.
+ex: 他请了**半天**假。 | Tā qǐng le **bàntiān** jià. | Ha preso mezza giornata di permesso.
+
+no: 一个小时半 | yí ge xiǎoshí bàn | Errato: 半 va subito dopo il classificatore.
+ex: 一个**半**小时 | yí ge **bàn** xiǎoshí | un'ora e mezza
+no: 一半个小时 | yíbàn ge xiǎoshí | Errato: «mezz'ora» si dice 半个小时.
+ex: **半个**小时 | **bàn ge** xiǎoshí | mezz'ora
+
+! 天 e 年 fungono da classificatori, perciò 半 li segue direttamente: 一天半, 两年半.
+! Nel parlato 半天 bàntiān significa spesso «un sacco di tempo»: 我等了你半天！ «Ti ho aspettato una vita!».
+! 半 + CL indica la metà di un'unità (半个苹果 «mezza mela»); 一半 indica la metà di un insieme (一半的苹果 «metà delle mele»). Per le ore (八点半) vedi il capitolo «Le espressioni di tempo».
+
+### 倍
+倍 bèi indica i multipli: 两倍 liǎng bèi «il doppio», 三倍 «il triplo», 十倍 «dieci volte tanto».
+
+= A + 是 + B + 的 + Num + 倍
+
+ex: 他的工资是我的**两倍**。 | Tā de gōngzī shì wǒ de **liǎng bèi**. | Il suo stipendio è il doppio del mio.
+ex: 这个房间比那个大**一倍**。 | Zhège fángjiān bǐ nàge dà **yí bèi**. | Questa camera è grande il doppio di quella. (vedi il capitolo «Le frasi comparative»)
+
+Con i verbi che indicano aumento bisogna fare attenzione: con 增加了 zēngjiā le «è aumentato di» si conta **solo la parte aggiunta**, con 增加到 zēngjiā dào «è aumentato fino a» si indica **il risultato finale**.
+
+ex: 今年的学生**增加了一倍**。 | Jīnnián de xuésheng **zēngjiā le yí bèi**. | Quest'anno gli studenti sono raddoppiati. (lett. aumentati di una volta)
+ex: 今年的学生**增加到**去年的**两倍**。 | Jīnnián de xuésheng **zēngjiā dào** qùnián de **liǎng bèi**. | Quest'anno gli studenti sono diventati il doppio dell'anno scorso.
+ex: 房价**增加了两倍**。 | Fángjià **zēngjiā le liǎng bèi**. | I prezzi delle case sono triplicati. (lett. aumentati di due volte)
+
+| Espressione | Significato | Partendo da 100 |
+| 增加了一倍 | aumentare del 100 % | 200 |
+| 增加到两倍 | arrivare al doppio | 200 |
+| 增加了两倍 | aumentare del 200 % | 300 |
+| 增加到三倍 | arrivare al triplo | 300 |
+| 减少了一半 | diminuire della metà | 50 |
+
+! Con le diminuzioni 倍 non si usa: si dice 减少了一半 jiǎnshǎo le yíbàn «è diminuito della metà» o 减少了百分之二十 «è diminuito del venti per cento».
+
+### 一共 e 总共
+一共 yígòng e 总共 zǒnggòng significano «in tutto, in totale». Si pongono davanti al verbo oppure direttamente davanti a numerale + classificatore.
+
+ex: **一共**多少钱？ | **Yígòng** duōshao qián? | Quanto fa in tutto?
+ex: 我们班**一共**有二十个学生。 | Wǒmen bān **yígòng** yǒu èrshí ge xuésheng. | Nella nostra classe ci sono in tutto venti studenti.
+ex: 这些东西**一共**三百块。 | Zhèxiē dōngxi **yígòng** sānbǎi kuài. | Queste cose costano in tutto trecento yuan.
+ex: 这次旅行**总共**花了一万块钱。 | Zhè cì lǚxíng **zǒnggòng** huā le yíwàn kuài qián. | In totale questo viaggio è costato diecimila yuan.

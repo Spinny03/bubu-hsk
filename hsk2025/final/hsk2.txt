@@ -1,0 +1,201 @@
+@ HSK 2 | 2️⃣
+啊 | a | particella esclamativa, ah!, oh! | 😮 | 2
+爱好 | àihào | hobby, passione; amare (fare) | 🎨 | 2
+白色 | báisè | bianco | ⚪ | 2
+班 | bān | classe, gruppo; turno | 🧑‍🏫 | 2
+帮 | bāng | aiutare | 🤝 | 2
+帮忙 | bāngmáng | aiutare, dare una mano | 🤝 | 2
+包 | bāo | borsa, pacco; avvolgere | 👜 | 2
+本子 | běnzi | quaderno (本) | 📓 | 2
+比 | bǐ | confrontare; più… di (comparativo) | ⚖️ | 2
+笔 | bǐ | penna, matita (支) | 🖊️ | 2
+别 | bié | non (fare)! (divieto) | 🚫 | 2
+不错 | búcuò | non male, buono, giusto | 👍 | 2
+不好意思 | bù hǎoyìsi | scusa, sentirsi in imbarazzo | 😅 | 2
+长 | cháng | lungo | 📏 | 2
+车站 | chēzhàn | stazione, fermata | 🚉 | 2
+出 | chū | uscire | 🚪 | 2
+出国 | chūguó | andare all'estero | ✈️ | 2
+出来 | chūlái | uscire (verso chi parla) | 🚪 | 2
+出门 | chūmén | uscire di casa | 🚶 | 2
+出去 | chūqù | uscire (allontanandosi) | 🚶 | 2
+床 | chuáng | letto (张) | 🛏️ | 2
+词 | cí | parola | - | 2
+次 | cì | volta (classificatore) | 🔁 | 2
+从 | cóng | da (luogo, tempo) | - | 2
+从小 | cóngxiǎo | fin da piccolo | 🧒 | 2
+错 | cuò | sbagliato; errore | ❌ | 2
+打 | dǎ | colpire; giocare (a palla); fare una telefonata | 👊 | 2
+打车 | dǎchē | prendere un taxi | 🚕 | 2
+打开 | dǎkāi | aprire; accendere | 📂 | 2
+但 | dàn | ma, però | - | 2
+但是 | dànshì | ma, però | - | 2
+得 | de | particella: grado / risultato | - | 2
+地 | de | particella: forma avverbi | - | 2
+等 | děng | aspettare | ⏳ | 2
+地铁 | dìtiě | metropolitana | 🚇 | 2
+点 | diǎn | ordinare (cibo); toccare (lo schermo) | - | 2
+懂 | dǒng | capire | 💡 | 2
+动 | dòng | muovere, muoversi | 🏃 | 2
+饭馆 | fànguǎn | ristorante (家) | 🍽️ | 2
+飞 | fēi | volare | 🕊️ | 2
+高 | gāo | alto | 🦒 | 2
+高中 | gāozhōng | liceo, scuola superiore | 🏫 | 2
+告诉 | gàosu | dire, informare | 🗣️ | 2
+个子 | gèzi | statura, altezza | 📏 | 2
+跟 | gēn | con; seguire | 👫 | 2
+公交车 | gōngjiāochē | autobus (辆) | 🚌 | 2
+过 | guò | passare, attraversare | 🚶 | 2
+过来 | guòlái | venire qui, avvicinarsi | - | 2
+过年 | guònián | festeggiare il Capodanno | 🧧 | 2
+过去 | guòqù | passare, andare (di là) | - | 2
+过 | guo | particella (esperienza) | - | 2
+还是 | háishi | o (domande); ancora; meglio | - | 2
+黑色 | hēisè | nero | ⚫ | 2
+红茶 | hóngchá | tè nero | 🍵 | 2
+红色 | hóngsè | rosso | 🔴 | 2
+后面 | hòumiàn | dietro, retro, dopo | 🔙 | 2
+花 | huā | spendere (soldi, tempo) | 💸 | 2
+花 | huā | fiore | 🌸 | 2
+画 | huà | disegnare, dipingere, quadro | 🎨 | 2
+坏 | huài | cattivo; rotto, guasto | 👎 | 2
+回来 | huílái | tornare (qui) | ↩️ | 2
+回去 | huíqù | tornare (là) | ↩️ | 2
+机场 | jīchǎng | aeroporto | 🛫 | 2
+机票 | jīpiào | biglietto aereo (张) | 🎫 | 2
+记得 | jìde | ricordare, ricordarsi | 💭 | 2
+间 | jiān | tra, fra; class. per stanze | - | 2
+教 | jiāo | insegnare | 🧑‍🏫 | 2
+教室 | jiàoshì | aula (间) | 🏫 | 2
+介绍 | jièshào | presentare, introdurre | 🤝 | 2
+进 | jìn | entrare | 🚪 | 2
+近 | jìn | vicino | - | 2
+进来 | jìnlái | entrare (verso chi parla) | 🚪 | 2
+进去 | jìnqù | entrare (allontanandosi) | 🚪 | 2
+经常 | jīngcháng | spesso, frequentemente | 🔁 | 2
+酒店 | jiǔdiàn | hotel, albergo | 🏨 | 2
+就 | jiù | proprio; subito; allora | - | 2
+咖啡 | kāfēi | caffè (杯) | ☕ | 2
+开始 | kāishǐ | iniziare, inizio | ▶️ | 2
+开学 | kāixué | inizio della scuola | 🎒 | 2
+考 | kǎo | fare un esame, esaminare | 📝 | 2
+考试 | kǎoshì | esame; fare un esame | 📝 | 2
+可能 | kěnéng | forse, possibile, possibilità | 🤔 | 2
+裤子 | kùzi | pantaloni (条) | 👖 | 2
+快 | kuài | veloce, rapido | ⚡ | 2
+快乐 | kuàilè | felice, allegro | 😊 | 2
+快要 | kuàiyào | stare per | ⏳ | 2
+篮球 | lánqiú | pallacanestro | 🏀 | 2
+累 | lèi | stanco | 😩 | 2
+离 | lí | distare da, lontano da | 📏 | 2
+里面 | lǐmiàn | dentro, interno | - | 2
+楼 | lóu | edificio; piano (座) | 🏢 | 2
+路 | lù | strada, via (条) | 🛣️ | 2
+路上 | lùshang | per strada, durante il viaggio | 🛣️ | 2
+旅游 | lǚyóu | turismo, fare turismo | 🗺️ | 2
+绿茶 | lǜchá | tè verde | 🍵 | 2
+绿色 | lǜsè | verde, colore verde | 🟢 | 2
+慢 | màn | lento | 🐢 | 2
+没意思 | méi yìsi | noioso, poco interessante | 😑 | 2
+每 | měi | ogni, ciascuno | - | 2
+门 | mén | porta (扇) | 🚪 | 2
+门口 | ménkǒu | ingresso, davanti alla porta | 🚪 | 2
+门票 | ménpiào | biglietto d'ingresso (张) | 🎟️ | 2
+面 | miàn | lato, parte (前面, 上面) | - | 2
+名 | míng | nome, cl. per persone, posto | - | 2
+拿 | ná | prendere, tenere in mano | ✋ | 2
+那么 | nàme | così, in quel modo, allora | - | 2
+那样 | nàyàng | così, in quel modo, quel tipo | - | 2
+奶茶 | nǎichá | tè al latte | 🧋 | 2
+奶奶 | nǎinai | nonna (paterna) | 👵 | 2
+男孩儿 | nánháir | ragazzo, bambino | 👦 | 2
+鸟 | niǎo | uccello (只) | 🐦 | 2
+女孩儿 | nǚháir | ragazza, bambina | 👧 | 2
+旁边 | pángbiān | accanto, di fianco | - | 2
+跑 | pǎo | correre, scappare | 🏃 | 2
+跑步 | pǎobù | correre, fare jogging | 🏃 | 2
+票 | piào | biglietto (张) | 🎫 | 2
+妻子 | qīzi | moglie | - | 2
+起来 | qǐlái | alzarsi; (dopo verbo) iniziare | ⬆️ | 2
+前面 | qiánmiàn | davanti, avanti | - | 2
+晴 | qíng | sereno | ☀️ | 2
+球 | qiú | palla, pallone | ⚽ | 2
+让 | ràng | lasciare, permettere, far fare | - | 2
+肉 | ròu | carne | 🥩 | 2
+商场 | shāngchǎng | centro commerciale | 🏬 | 2
+上来 | shànglái | salire (verso chi parla) | ⬆️ | 2
+上面 | shàngmiàn | sopra, di sopra | - | 2
+上去 | shàngqù | salire (allontanandosi) | ⬆️ | 2
+上网 | shàngwǎng | navigare in internet | 🌐 | 2
+身体 | shēntǐ | corpo; salute | 🧍 | 2
+生日 | shēngrì | compleanno | 🎂 | 2
+时 | shí | tempo, ora; quando | 🕐 | 2
+事情 | shìqing | cosa, faccenda (件) | - | 2
+手 | shǒu | mano (只) | ✋ | 2
+手表 | shǒubiǎo | orologio da polso (块) | ⌚ | 2
+书包 | shūbāo | cartella, zaino scolastico | 🎒 | 2
+舒服 | shūfu | comodo, stare bene | 😌 | 2
+送 | sòng | regalare; consegnare; accompagnare | 🎁 | 2
+虽然 | suīrán | sebbene, anche se | - | 2
+所以 | suǒyǐ | quindi, perciò | - | 2
+疼 | téng | far male, dolore; voler bene | 🤕 | 2
+踢 | tī | calciare, giocare (a calcio) | - | 2
+题 | tí | domanda (d'esame), tema | ❓ | 2
+条 | tiáo | classificatore: oggetti lunghi | - | 2
+跳舞 | tiàowǔ | ballare | 💃 | 2
+头 | tóu | testa; capo; cima | 🗣️ | 2
+外国 | wàiguó | estero, paese straniero | 🌍 | 2
+外面 | wàimiàn | fuori, esterno | - | 2
+完 | wán | finire, terminare | 🏁 | 2
+万 | wàn | diecimila | - | 2
+往 | wǎng | verso, in direzione di | ➡️ | 2
+网上 | wǎngshang | online, in rete | 🌐 | 2
+忘 | wàng | dimenticare | - | 2
+位 | wèi | classificatore di cortesia: persone | - | 2
+为什么 | wèi shénme | perché? | ❓ | 2
+希望 | xīwàng | sperare, speranza | 🙏 | 2
+洗 | xǐ | lavare | 🧼 | 2
+洗手间 | xǐshǒujiān | bagno, toilette | 🚻 | 2
+下来 | xiàlái | scendere (verso chi parla) | ⬇️ | 2
+下面 | xiàmiàn | sotto, di seguito | ⬇️ | 2
+下去 | xiàqù | scendere; continuare | ⬇️ | 2
+小孩儿 | xiǎoháir | bambino | 🧒 | 2
+小时候 | xiǎoshíhou | da piccolo, nell'infanzia | 🧒 | 2
+笑 | xiào | ridere, sorridere | 😄 | 2
+姓 | xìng | cognome; chiamarsi di cognome | - | 2
+姓名 | xìngmíng | nome e cognome | 🪪 | 2
+颜色 | yánsè | colore | 🎨 | 2
+眼睛 | yǎnjing | occhio (只, 双) | 👀 | 2
+药 | yào | medicina, farmaco | 💊 | 2
+药店 | yàodiàn | farmacia (家) | 💊 | 2
+爷爷 | yéye | nonno (paterno) | 👴 | 2
+一会儿 | yíhuìr | un attimo, un momento | ⏳ | 2
+已经 | yǐjīng | già | - | 2
+一起 | yìqǐ | insieme | 👫 | 2
+意思 | yìsi | significato, senso | - | 2
+阴 | yīn | nuvoloso, coperto | ☁️ | 2
+因为 | yīnwèi | perché, poiché | - | 2
+游 | yóu | nuotare, viaggiare | 🏊 | 2
+游泳 | yóuyǒng | nuotare, nuoto | 🏊 | 2
+有意思 | yǒu yìsi | interessante, divertente | 🤩 | 2
+有时 | yǒushí | a volte | - | 2
+右 | yòu | destra | ➡️ | 2
+右边 | yòubian | destra, lato destro | ➡️ | 2
+鱼 | yú | pesce (条) | 🐟 | 2
+远 | yuǎn | lontano | 🔭 | 2
+运动 | yùndòng | sport, esercizio; fare sport | 🏃 | 2
+站 | zhàn | fermata, stazione | 🚏 | 2
+丈夫 | zhàngfu | marito | - | 2
+这么 | zhème | così, tanto | - | 2
+这样 | zhèyàng | così, in questo modo | - | 2
+着 | zhe | particella: azione in corso, stato | - | 2
+正 | zhèng | proprio (ora); dritto, giusto | - | 2
+周 | zhōu | settimana; giro, circonferenza | 📅 | 2
+准备 | zhǔnbèi | preparare; prepararsi | 📋 | 2
+自己 | zìjǐ | sé stesso, proprio | 🪞 | 2
+走 | zǒu | camminare; andarsene | 🚶 | 2
+走路 | zǒulù | camminare, andare a piedi | 🚶 | 2
+足球 | zúqiú | calcio, pallone | ⚽ | 2
+最 | zuì | il più, -issimo | 🏆 | 2
+左 | zuǒ | sinistra | ⬅️ | 2
+左边 | zuǒbian | sinistra, lato sinistro | ⬅️ | 2

@@ -1,0 +1,161 @@
+## Frasi a predicato nominale
+
+Nella frase a predicato nominale (名词谓语句 míngcí wèiyǔ jù) un nome o un'espressione nominale fa da predicato direttamente, senza 是. Non si tratta di una possibilità generale: il predicato nominale si usa quasi soltanto con espressioni di tempo e con espressioni numeriche, cioè per indicare date, giorni della settimana, ore, età, prezzi, quantità, e inoltre per la provenienza e il tempo atmosferico. Sono frasi brevi, tipiche della lingua parlata.
+
+= S + N (predicato)
+
+### Date, giorni e ore
+
+ex: 今天**星期六**。 | Jīntiān **xīngqīliù**. | Oggi è sabato.
+ex: 明天**十月十九号**。 | Míngtiān **shí yuè shíjiǔ hào**. | Domani è il 19 ottobre.
+ex: 现在**三点半**。 | Xiànzài **sān diǎn bàn**. | Sono le tre e mezza.
+ex: 后天**中秋节**。 | Hòutiān **Zhōngqiū Jié**. | Dopodomani è la festa di metà autunno.
+
+### Età
+
+ex: 我**二十五岁**。 | Wǒ **èrshíwǔ suì**. | Ho venticinque anni.
+ex: 我爷爷今年**八十**了。 | Wǒ yéye jīnnián **bāshí** le. | Mio nonno quest'anno ha ottant'anni.
+
+### Prezzi e quantità
+
+ex: 这个**三块钱**。 | Zhège **sān kuài qián**. | Questo costa tre yuan.
+ex: 苹果**五块一斤**。 | Píngguǒ **wǔ kuài yì jīn**. | Le mele costano cinque yuan al mezzo chilo.
+ex: 一年**十二个月**。 | Yì nián **shí'èr ge yuè**. | Un anno ha dodici mesi.
+ex: 我们班**二十个学生**。 | Wǒmen bān **èrshí ge xuésheng**. | La nostra classe ha venti studenti.
+
+! Il 斤 jīn è un'unità di peso tradizionale ancora molto usata nei mercati: corrisponde a mezzo chilo. Vedi il capitolo «I classificatori».
+
+### Provenienza, tempo atmosferico, descrizione
+
+ex: 他**北京人**。 | Tā **Běijīngrén**. | È di Pechino.
+ex: 今天**晴天**。 | Jīntiān **qíngtiān**. | Oggi è una giornata di sole.
+ex: 这个孩子**大眼睛**。 | Zhège háizi **dà yǎnjing**. | Questo bambino ha gli occhi grandi.
+
+! La provenienza e la descrizione con il predicato nominale appartengono al parlato informale: nella lingua scritta e nel parlato curato si preferisce 他是北京人, 这个孩子眼睛很大. Con date, ore, età e prezzi, invece, il predicato nominale è la forma più naturale anche nello stile neutro; la forma con 是 (今天是星期六) è anch'essa corretta e un po' più enfatica o formale.
+
+### Il predicato nominale deve essere specifico
+
+Con un nome comune che indica una categoria, come una professione o una nazionalità senza riferimento a un luogo preciso, il predicato nominale non è possibile e serve 是.
+no: 我学生。 | Wǒ xuésheng. | Errato: con un nome comune serve 是.
+ex: 我**是**学生。 | Wǒ **shì** xuésheng. | Sono uno studente.
+no: 他医生。 | Tā yīshēng. | Errato: per la professione si usa 是.
+ex: 他**是**医生。 | Tā **shì** yīshēng. | È medico.
+
+### La negazione
+
+Il predicato nominale esiste solo nella forma affermativa. Per negarlo si deve usare 不是: non è possibile mettere 不 direttamente davanti al nome.
+
+= S + 不是 + N
+
+no: 今天不星期六。 | Jīntiān bù xīngqīliù. | Errato: il predicato nominale si nega con 不是.
+ex: 今天**不是**星期六。 | Jīntiān **bú shì** xīngqīliù. | Oggi non è sabato.
+ex: 我**不是**二十五岁，是二十六岁。 | Wǒ **bú shì** èrshíwǔ suì, shì èrshíliù suì. | Non ho venticinque anni, ne ho ventisei.
+ex: 他**不是**北京人，是上海人。 | Tā **bú shì** Běijīngrén, shì Shànghǎirén. | Non è di Pechino, è di Shanghai.
+ex: 这个**不是**三块，是五块。 | Zhège **bú shì** sān kuài, shì wǔ kuài. | Questo non costa tre yuan, ne costa cinque.
+
+### Le domande
+
+Le domande si formano con 吗 o con le parole interrogative, che prendono il posto dell'informazione richiesta.
+ex: 今天**星期几**？ | Jīntiān **xīngqī jǐ**? | Che giorno è oggi?
+ex: 现在**几点**？ | Xiànzài **jǐ diǎn**? | Che ore sono?
+ex: 你今年**多大**？ | Nǐ jīnnián **duō dà**? | Quanti anni hai?
+ex: 这个**多少钱**？ | Zhège **duōshao qián**? | Quanto costa questo?
+ex: 明天星期六**吗**？ | Míngtiān xīngqīliù **ma**? | Domani è sabato?
+
+! Per chiedere l'età si usano espressioni diverse secondo l'interlocutore: 你几岁？ con i bambini, 你多大？ con i coetanei e i giovani, 您多大年纪？ con le persone anziane. Vedi il capitolo «I numeri».
+
+### Gli avverbi nel predicato nominale
+
+Davanti al predicato nominale si possono mettere alcuni avverbi, come 已经 «già», 才 «soltanto», 都 «già», 快 «quasi», 也 «anche», 刚 «appena». Spesso la frase termina con la particella 了₂, che indica il raggiungimento di una nuova situazione (vedi «La particella 了»).
+
+= S + Avv + N (+ 了)
+
+ex: 今天**已经**星期五**了**。 | Jīntiān **yǐjīng** xīngqīwǔ **le**. | Oggi è già venerdì.
+ex: 我女儿**才**三岁。 | Wǒ nǚ'ér **cái** sān suì. | Mia figlia ha solo tre anni.
+ex: 他**都**八十岁**了**，身体还很好。 | Tā **dōu** bāshí suì **le**, shēntǐ hái hěn hǎo. | Ha già ottant'anni ed è ancora in ottima salute.
+ex: **快**十二点**了**。 | **Kuài** shí'èr diǎn **le**. | Sono quasi le dodici.
+ex: 我**也**二十岁。 | Wǒ **yě** èrshí suì. | Anch'io ho vent'anni.
+ex: 现在**刚**八点。 | Xiànzài **gāng** bā diǎn. | Sono appena le otto.
+
+## Frasi a predicato aggettivale
+
+Nella frase a predicato aggettivale (形容词谓语句 xíngróngcí wèiyǔ jù) l'aggettivo fa da predicato da solo, senza alcun verbo, come se fosse un verbo che significa «essere alto», «essere stanco». Nella frase affermativa l'aggettivo è di solito preceduto da 很 hěn o da un altro avverbio di grado.
+
+= S + 很 + Agg
+= S + 不 + Agg
+
+ex: 我**很好**。 | Wǒ **hěn hǎo**. | Sto bene.
+ex: 今天**很冷**。 | Jīntiān **hěn lěng**. | Oggi fa freddo.
+ex: 汉语**很有意思**。 | Hànyǔ **hěn yǒu yìsi**. | Il cinese è interessante.
+ex: 这个房间**不大**。 | Zhège fángjiān **bú dà**. | Questa stanza non è grande.
+ex: 你**忙**吗？ | Nǐ **máng** ma? | Sei occupato?
+ex: 她最近**非常忙**。 | Tā zuìjìn **fēicháng máng**. | Ultimamente è occupatissima.
+
+In questa posizione 很 ha un significato molto debole e non va tradotto sempre con «molto»: 我很好 significa semplicemente «sto bene». Se manca qualunque avverbio, l'aggettivo da solo assume un valore di confronto o di contrasto, implicito o esplicito:
+ex: 这个房间**大**，那个房间**小**。 | Zhège fángjiān **dà**, nàge fángjiān **xiǎo**. | Questa stanza è grande, quella è piccola.
+
+Nella negazione e nelle domande 很 non è necessario: 不冷 «non fa freddo», 冷吗？ «fa freddo?», 冷不冷？ «fa freddo o no?».
+
+! Ricordare che davanti all'aggettivo non si usa 是 (vedi più sopra «Il verbo 是»). Tutti gli aspetti dell'aggettivo predicativo, compresi il valore di 很, la reduplicazione e il confronto, sono trattati nel capitolo «L'aggettivo».
+
+## Frasi a predicato soggetto-predicato
+
+Nella frase a predicato soggetto-predicato (主谓谓语句 zhǔwèi wèiyǔ jù) il predicato è a sua volta formato da un soggetto e da un predicato. Il primo elemento della frase funziona come un tema: indica la persona, la cosa o il luogo di cui si parla; il secondo soggetto ne specifica una parte, un aspetto o un ambito; il predicato finale dice qualcosa di questo secondo soggetto.
+
+= Tema + S + Agg/V
+
+ex: 他身体很好。 | Tā shēntǐ hěn hǎo. | Sta bene di salute. (lett. lui, corpo molto bene)
+
+| Tema | Soggetto | Predicato |
+| 他 | 身体 | 很好 |
+| lui | il corpo | sta bene |
+
+In italiano queste frasi si traducono quasi sempre ristrutturandole: con il verbo «avere» («ho mal di testa»), con complementi di limitazione («sta bene di salute») o con altri giri di frase.
+
+### La parte di un tutto
+
+Il caso più comune: il primo elemento indica una persona o una cosa, il secondo una sua parte o una sua caratteristica.
+ex: 我**头**疼。 | Wǒ **tóu** téng. | Ho mal di testa. (lett. io, testa fa male)
+ex: 她**眼睛**很大。 | Tā **yǎnjing** hěn dà. | Ha gli occhi grandi.
+ex: 大象**鼻子**很长。 | Dàxiàng **bízi** hěn cháng. | Gli elefanti hanno la proboscide lunga.
+ex: 我爷爷**身体**不太好。 | Wǒ yéye **shēntǐ** bú tài hǎo. | Mio nonno non sta molto bene di salute.
+ex: 这件衣服**颜色**很漂亮。 | Zhè jiàn yīfu **yánsè** hěn piàoliang. | Questo vestito ha un bel colore.
+ex: 小王**工作**很忙。 | Xiǎo Wáng **gōngzuò** hěn máng. | Xiao Wang è molto preso dal lavoro.
+
+no: 我有头疼。 | Wǒ yǒu tóuténg. | Errato: calco dell'italiano «avere mal di testa».
+ex: 我**头疼**。 | Wǒ **tóu téng**. | Ho mal di testa.
+
+! Si può dire anche 我有点儿头疼 «ho un po' di mal di testa»: qui 有点儿 yǒudiǎnr è un avverbio che significa «un po'» e non ha nulla a che fare con il verbo 有 «avere». Spesso è possibile anche la forma con 的, in cui il primo elemento diventa un attributo del soggetto: 他的身体很好. Il significato è lo stesso; la forma senza 的 è più naturale nel parlato.
+
+### Un luogo o un ambito
+
+Il primo elemento può indicare un luogo, un'istituzione o un ambito di cui si descrive un aspetto.
+ex: 这个城市**人**很多。 | Zhège chéngshì **rén** hěn duō. | Questa città è molto popolosa. (lett. questa città, gente molto numerosa)
+ex: 北京**冬天**很冷。 | Běijīng **dōngtiān** hěn lěng. | A Pechino d'inverno fa molto freddo.
+ex: 这家饭馆**菜**很好吃，**价钱**也不贵。 | Zhè jiā fànguǎn **cài** hěn hǎochī, **jiàqian** yě bú guì. | In questo ristorante i piatti sono buoni e i prezzi non sono alti.
+ex: 我们学校**留学生**特别多。 | Wǒmen xuéxiào **liúxuéshēng** tèbié duō. | Nella nostra scuola ci sono moltissimi studenti stranieri.
+
+### L'oggetto come tema
+
+Rientrano in questo tipo anche le frasi in cui il primo elemento è l'oggetto logico del verbo, anteposto come tema, mentre il secondo è il soggetto che compie l'azione (vedi anche «Tema e commento» nel capitolo «L'ordine delle parole»).
+ex: 这件事**我**知道。 | Zhè jiàn shì **wǒ** zhīdao. | Questa cosa la so.
+ex: 那个人**我**不认识。 | Nàge rén **wǒ** bú rènshi. | Quella persona non la conosco.
+ex: 这个问题**大家**都很关心。 | Zhège wèntí **dàjiā** dōu hěn guānxīn. | È una questione che sta a cuore a tutti.
+ex: 他的电话号码**我**忘了。 | Tā de diànhuà hàomǎ **wǒ** wàng le. | Il suo numero di telefono l'ho dimenticato.
+
+### Negazione e domande
+
+La negazione riguarda il predicato interno e si colloca dopo il secondo soggetto. Le domande si formano con 吗, con la forma affermativo-negativa del predicato interno (冷不冷) oppure con una parola interrogativa al posto del secondo soggetto (哪儿).
+ex: 我最近**睡觉不太好**。 | Wǒ zuìjìn **shuì jiào bú tài hǎo**. | Ultimamente non dormo molto bene.
+ex: 你身体好**吗**？ | Nǐ shēntǐ hǎo **ma**? | Stai bene di salute?
+ex: 你**哪儿**不舒服？ | Nǐ **nǎr** bù shūfu? | Dove ti senti male?
+ex: 这个城市冬天冷**不冷**？ | Zhège chéngshì dōngtiān lěng **bu lěng**? | In questa città d'inverno fa freddo?
+
+### Riepilogo dei tipi di predicato
+
+| Tipo | Struttura | Negazione | Esempio |
+| verbale | S + V (+ O) | 不/没 + V | 我不喝咖啡。 |
+| con 是 | S + 是 + N | 不是 | 他不是老师。 |
+| aggettivale | S + 很 + Agg | 不 + Agg | 今天不冷。 |
+| nominale | S + N | 不是 + N | 今天不是星期六。 |
+| soggetto-predicato | Tema + S + Agg/V | 不 nel predicato interno | 他身体不好。 |

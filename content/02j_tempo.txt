@@ -1,0 +1,217 @@
+# Le espressioni di tempo
+
+Le espressioni di tempo (时间词 shíjiāncí) comprendono le date, le ore, i giorni della settimana e le parole come 今天, 去年, 现在. In cinese seguono due principi fondamentali: si procede sempre **dall'unità più grande alla più piccola** (anno, mese, giorno, ora), cioè all'opposto dell'italiano, e, quando indicano il momento di un'azione, si collocano **prima del verbo**, senza preposizioni (vedi i capitoli «Il sostantivo» e «L'ordine delle parole»).
+
+## Anni, mesi, giorni e settimane
+
+### L'ordine: dal più grande al più piccolo
+= anno + 年 + mese + 月 + giorno + 日 / 号 + 星期… + parte del giorno + ora
+
+ex: 2026年10月18日星期日上午九点 | èr líng èr liù nián shí yuè shíbā rì xīngqīrì shàngwǔ jiǔ diǎn | domenica 18 ottobre 2026, alle nove del mattino
+ex: 我是**1998年5月3号**出生的。 | Wǒ shì **yī jiǔ jiǔ bā nián wǔ yuè sān hào** chūshēng de. | Sono nato il 3 maggio 1998.
+ex: 会议**下星期三下午两点**开始。 | Huìyì **xià xīngqīsān xiàwǔ liǎng diǎn** kāishǐ. | La riunione comincia mercoledì prossimo alle due del pomeriggio.
+
+no: 18日10月2026年 | shíbā rì shí yuè èr líng èr liù nián | Errato: l'ordine va dall'unità più grande alla più piccola.
+ex: 2026年10月18日 | èr líng èr liù nián shí yuè shíbā rì | 18 ottobre 2026
+
+! Lo stesso principio vale per gli indirizzi, che cominciano dal paese e finiscono con il numero civico: 中国北京市海淀区… «Cina, città di Pechino, distretto di Haidian…».
+
+### Gli anni
+Gli anni si leggono **cifra per cifra**, seguiti da 年 nián. Nella scrittura si usano le cifre arabe o i caratteri (con 〇 per lo zero). Per chiedere l'anno si dice 哪年 nǎ nián o 哪一年 nǎ yì nián.
+
+ex: 北京奥运会是**二〇〇八年**举行的。 | Běijīng Àoyùnhuì shì **èr líng líng bā nián** jǔxíng de. | Le Olimpiadi di Pechino si sono svolte nel 2008.
+ex: 你是**哪年**来中国的？ | Nǐ shì **nǎ nián** lái Zhōngguó de? | In che anno sei venuto in Cina?
+ex: 我爸爸是**八十年代**的大学生。 | Wǒ bàba shì **bāshí niándài** de dàxuéshēng. | Mio padre era studente universitario negli anni Ottanta.
+ex: 他是**九〇后**。 | Tā shì **jiǔ líng hòu**. | È nato negli anni Novanta.
+ex: 我们生活在**二十一世纪**。 | Wǒmen shēnghuó zài **èrshíyī shìjì**. | Viviamo nel ventunesimo secolo.
+
+### I mesi
+I mesi si formano con il numero seguito da 月 yuè: 一月 «gennaio», 二月 «febbraio» e così via. Non vanno confusi con le durate, che richiedono 个: 三月 «marzo», ma 三个月 «tre mesi».
+
+| Mese | Cinese | Mese | Cinese |
+| gennaio | 一月 yī yuè | luglio | 七月 qī yuè |
+| febbraio | 二月 èr yuè | agosto | 八月 bā yuè |
+| marzo | 三月 sān yuè | settembre | 九月 jiǔ yuè |
+| aprile | 四月 sì yuè | ottobre | 十月 shí yuè |
+| maggio | 五月 wǔ yuè | novembre | 十一月 shíyī yuè |
+| giugno | 六月 liù yuè | dicembre | 十二月 shí'èr yuè |
+
+ex: 我**三月**去北京。 | Wǒ **sān yuè** qù Běijīng. | A marzo vado a Pechino.
+ex: 我在北京住了**三个月**。 | Wǒ zài Běijīng zhù le **sān ge yuè**. | Ho abitato a Pechino per tre mesi.
+ex: 现在是**几月**？ | Xiànzài shì **jǐ yuè**? | In che mese siamo?
+
+no: 我在北京住了三月。 | Wǒ zài Běijīng zhù le sān yuè. | Errato: per la durata serve 个.
+ex: 我在北京住了**三个月**。 | Wǒ zài Běijīng zhù le **sān ge yuè**. | Ho abitato a Pechino per tre mesi.
+
+### I giorni del mese: 日 e 号
+Il giorno del mese si indica con il numero seguito da 日 rì nello scritto e da 号 hào nel parlato. Per chiedere la data si dice 几号？. Le date possono fare da predicato senza 是 (vedi il capitolo «La frase semplice e il verbo 是»).
+
+ex: 今天**几号**？ | Jīntiān **jǐ hào**? | Quanti ne abbiamo oggi?
+ex: 今天**十月十八号**。 | Jīntiān **shí yuè shíbā hào**. | Oggi è il 18 ottobre.
+ex: 我的生日是**五月二十号**。 | Wǒ de shēngrì shì **wǔ yuè èrshí hào**. | Il mio compleanno è il 20 maggio.
+ex: 会议将于**十一月三日**举行。 | Huìyì jiāng yú **shíyī yuè sān rì** jǔxíng. | La riunione si terrà il 3 novembre. (scritto)
+
+! Alcune festività si indicano con le sole cifre del mese e del giorno: 五一 Wǔ-Yī «il Primo maggio», 十一 Shí-Yī «il primo ottobre» (festa nazionale).
+
+### I giorni della settimana
+I giorni della settimana si formano con 星期 xīngqī seguito dai numeri da 一 a 六; la domenica è 星期日 xīngqīrì o, più colloquialmente, 星期天 xīngqītiān. Molto diffuse sono anche le forme con 周 zhōu (più concise, frequenti nello scritto) e, nel parlato, soprattutto al sud, quelle con 礼拜 lǐbài.
+
+| Italiano | Con 星期 | Con 周 | Con 礼拜 |
+| lunedì | 星期一 xīngqīyī | 周一 zhōuyī | 礼拜一 lǐbàiyī |
+| martedì | 星期二 xīngqī'èr | 周二 zhōu'èr | 礼拜二 lǐbài'èr |
+| mercoledì | 星期三 xīngqīsān | 周三 zhōusān | 礼拜三 lǐbàisān |
+| giovedì | 星期四 xīngqīsì | 周四 zhōusì | 礼拜四 lǐbàisì |
+| venerdì | 星期五 xīngqīwǔ | 周五 zhōuwǔ | 礼拜五 lǐbàiwǔ |
+| sabato | 星期六 xīngqīliù | 周六 zhōuliù | 礼拜六 lǐbàiliù |
+| domenica | 星期日 / 星期天 | 周日 zhōurì | 礼拜天 lǐbàitiān |
+
+ex: 今天**星期几**？ | Jīntiān **xīngqī jǐ**? | Che giorno è oggi?
+ex: 今天**星期天**。 | Jīntiān **xīngqītiān**. | Oggi è domenica.
+ex: 我们**星期五**晚上见。 | Wǒmen **xīngqīwǔ** wǎnshang jiàn. | Ci vediamo venerdì sera.
+ex: 银行**周六**、**周日**不开门。 | Yínháng **zhōuliù**, **zhōurì** bù kāi mén. | La banca è chiusa il sabato e la domenica.
+ex: **周末**你打算做什么？ | **Zhōumò** nǐ dǎsuàn zuò shénme? | Che cosa pensi di fare nel fine settimana?
+
+no: 今天是星期七。 | Jīntiān shì xīngqīqī. | Errato: la domenica è 星期日 o 星期天.
+ex: 今天是**星期天**。 | Jīntiān shì **xīngqītiān**. | Oggi è domenica.
+
+### Le espressioni relative
+Per indicare il giorno, l'anno, il mese o la settimana rispetto al presente si usano le espressioni seguenti.
+
+| Riferimento | Giorni | Anni | Mesi | Settimane |
+| due prima | 前天 qiántiān | 前年 qiánnián | 上上个月 | 上上个星期 |
+| precedente | 昨天 zuótiān | 去年 qùnián | 上个月 shàng ge yuè | 上(个)星期 |
+| attuale | 今天 jīntiān | 今年 jīnnián | 这个月 zhège yuè | 这(个)星期 |
+| seguente | 明天 míngtiān | 明年 míngnián | 下个月 xià ge yuè | 下(个)星期 |
+| due dopo | 后天 hòutiān | 后年 hòunián | 下下个月 | 下下个星期 |
+
+Significati: 前天 «l'altro ieri», 昨天 «ieri», 今天 «oggi», 明天 «domani», 后天 «dopodomani»; 前年 «due anni fa», 去年 «l'anno scorso», 今年 «quest'anno», 明年 «l'anno prossimo», 后年 «fra due anni»; 上个月 shàng ge yuè «il mese scorso», 这个月 «questo mese», 下个月 «il mese prossimo»; 上(个)星期 shàng (ge) xīngqī «la settimana scorsa», 这(个)星期 «questa settimana», 下(个)星期 «la settimana prossima». Esistono anche 大前天 dàqiántiān «tre giorni fa» e 大后天 dàhòutiān «fra tre giorni». Nello scritto e negli avvisi sono frequenti 上周, 本周 běn zhōu, 下周 e 本月 běn yuè «questo mese».
+
+ex: 我们**后天**走。 | Wǒmen **hòutiān** zǒu. | Partiamo dopodomani.
+ex: **去年**我去了意大利。 | **Qùnián** wǒ qù le Yìdàlì. | L'anno scorso sono stato in Italia.
+ex: 他**下个月**结婚。 | Tā **xià ge yuè** jiéhūn. | Si sposa il mese prossimo.
+ex: **上星期**我很忙。 | **Shàng xīngqī** wǒ hěn máng. | La settimana scorsa ero molto impegnato.
+ex: **下个星期一**我们考试。 | **Xià ge xīngqīyī** wǒmen kǎoshì. | Lunedì prossimo abbiamo l'esame.
+
+no: 上年我去了中国。 | Shàng nián wǒ qù le Zhōngguó. | Errato: nella lingua comune «l'anno scorso» si dice 去年.
+ex: **去年**我去了中国。 | **Qùnián** wǒ qù le Zhōngguó. | L'anno scorso sono andato in Cina.
+
+## L'ora
+
+### Le unità: 点, 分, 刻, 半, 差
+L'ora si indica con 点 diǎn (o 点钟 diǎnzhōng per le ore intere), i minuti con 分 fēn, il quarto d'ora con 刻 kè e la mezz'ora con 半 bàn; 差 chà «mancare» corrisponde all'italiano «meno».
+
+= Num + 点 (+ Num + 分)
+= Num + 点 + 一刻 / 半 / 三刻
+= 差 + Num + 分 + Num + 点
+= Num + 点 + 差 + Num + 分
+
+| Ora | Cinese | Pinyin |
+| 8:00 | 八点(钟) | bā diǎn (zhōng) |
+| 8:05 | 八点零五(分) | bā diǎn líng wǔ (fēn) |
+| 8:10 | 八点十分 | bā diǎn shí fēn |
+| 8:15 | 八点一刻 / 八点十五(分) | bā diǎn yí kè / bā diǎn shíwǔ (fēn) |
+| 8:30 | 八点半 / 八点三十(分) | bā diǎn bàn / bā diǎn sānshí (fēn) |
+| 8:45 | 八点三刻 / 八点四十五(分) | bā diǎn sān kè / bā diǎn sìshíwǔ (fēn) |
+| 7:55 | 差五分八点 / 八点差五分 | chà wǔ fēn bā diǎn / bā diǎn chà wǔ fēn |
+| 2:00 | 两点 | liǎng diǎn |
+| 12:00 | 十二点 | shí'èr diǎn |
+| 2:22 | 两点二十二(分) | liǎng diǎn èrshí'èr (fēn) |
+
+- Per «le due» si dice 两点, non 二点; ma nei numeri composti si usa 二: 十二点, 两点二十二分.
+- Con i minuti da 1 a 9 si inserisce di solito 零: 八点零五分.
+- Nel parlato 分 si omette spesso: 八点二十, 八点零五.
+- Con 刻 si usano solo 一刻 e 三刻; per la mezz'ora si usa 半.
+
+no: 八点两刻 | bā diǎn liǎng kè | Errato: «le otto e mezza» si dice 八点半.
+ex: 八点**半** | bā diǎn **bàn** | le otto e mezza
+no: 十两点 | shí liǎng diǎn | Errato: «le dodici» si dice 十二点.
+ex: **十二**点 | **shí'èr** diǎn | le dodici
+
+### Le parti del giorno
+| Parola | Pinyin | Fascia oraria indicativa |
+| 早上 / 早晨 | zǎoshang / zǎochen | primo mattino (6–9) |
+| 上午 | shàngwǔ | mattina (fino alle 12) |
+| 中午 | zhōngwǔ | mezzogiorno (11–13) |
+| 下午 | xiàwǔ | pomeriggio |
+| 傍晚 | bàngwǎn | tardo pomeriggio, imbrunire |
+| 晚上 | wǎnshang | sera |
+| 夜里 | yèli | notte |
+| 半夜 | bànyè | mezzanotte, notte fonda |
+| 凌晨 | língchén | dalla mezzanotte all'alba |
+
+La parte del giorno si colloca **prima** dell'ora, secondo il principio «dal più grande al più piccolo»: 晚上八点 «le otto di sera».
+
+= (giorno) + parte del giorno + ora
+
+ex: 我**晚上八点**下班。 | Wǒ **wǎnshang bā diǎn** xià bān. | Stacco dal lavoro alle otto di sera.
+ex: 飞机**明天上午十点半**起飞。 | Fēijī **míngtiān shàngwǔ shí diǎn bàn** qǐfēi. | L'aereo decolla domani mattina alle dieci e mezza.
+ex: 他昨天**凌晨两点**才睡觉。 | Tā zuótiān **língchén liǎng diǎn** cái shuìjiào. | Ieri è andato a dormire solo alle due di notte.
+ex: 我们**中午十二点**吃午饭。 | Wǒmen **zhōngwǔ shí'èr diǎn** chī wǔfàn. | Pranziamo a mezzogiorno.
+
+no: 我八点晚上下班。 | Wǒ bā diǎn wǎnshang xià bān. | Errato: la parte del giorno precede l'ora.
+ex: 我**晚上八点**下班。 | Wǒ **wǎnshang bā diǎn** xià bān. | Stacco dal lavoro alle otto di sera.
+
+! Negli orari ufficiali (treni, aerei, programmi) si usa anche il sistema delle ventiquattro ore: 十四点 shísì diǎn, 二十点三十分 èrshí diǎn sānshí fēn. Nella conversazione si preferisce 下午两点, 晚上八点半.
+
+### Chiedere e dire l'ora
+ex: A：现在**几点**？B：**差十分九点**。 | A: Xiànzài **jǐ diǎn**? B: **Chà shí fēn jiǔ diǎn**. | A: Che ore sono? B: Sono le nove meno dieci.
+ex: 现在**几点**了？ | Xiànzài **jǐ diǎn** le? | Che ore si sono fatte?
+ex: 你每天**几点**起床？ | Nǐ měi tiān **jǐ diǎn** qǐchuáng? | A che ora ti alzi ogni giorno?
+ex: 电影**七点一刻**开始。 | Diànyǐng **qī diǎn yí kè** kāishǐ. | Il film comincia alle sette e un quarto.
+ex: 我们**几点**见？ | Wǒmen **jǐ diǎn** jiàn? | A che ora ci vediamo?
+
+L'italiano *alle otto* non ha una preposizione corrispondente: l'ora si mette semplicemente prima del verbo.
+
+no: 我起床在八点。 | Wǒ qǐchuáng zài bā diǎn. | Errato: l'ora precede il verbo e non vuole preposizioni.
+ex: 我**八点**起床。 | Wǒ **bā diǎn** qǐchuáng. | Mi alzo alle otto.
+
+## Punto nel tempo e durata
+
+Il cinese distingue con rigore tra il **punto nel tempo** (时点 shídiǎn), che risponde alla domanda «quando?», e la **durata** (时段 shíduàn), che risponde alla domanda «per quanto tempo?». Il punto nel tempo si colloca **prima** del verbo; la durata **dopo** il verbo.
+
+= S + punto nel tempo + V (+ O)
+= S + V + durata (+ O)
+
+ex: 我**八点**起床。 | Wǒ **bā diǎn** qǐchuáng. | Mi alzo alle otto. (punto nel tempo)
+ex: 我睡了**八个小时**。 | Wǒ shuì le **bā ge xiǎoshí**. | Ho dormito otto ore. (durata)
+ex: 他**去年**去了上海。 | Tā **qùnián** qù le Shànghǎi. | L'anno scorso è andato a Shanghai.
+ex: 他在上海住了**一年**。 | Tā zài Shànghǎi zhù le **yì nián**. | Ha abitato a Shanghai per un anno.
+ex: 我们**星期一**上课。 | Wǒmen **xīngqīyī** shàng kè. | Il lunedì abbiamo lezione.
+ex: 我们每天上**四个小时**课。 | Wǒmen měi tiān shàng **sì ge xiǎoshí** kè. | Facciamo quattro ore di lezione al giorno.
+
+no: 我起床八点。 | Wǒ qǐchuáng bā diǎn. | Errato: il punto nel tempo precede il verbo.
+ex: 我**八点**起床。 | Wǒ **bā diǎn** qǐchuáng. | Mi alzo alle otto.
+no: 我八个小时睡了。 | Wǒ bā ge xiǎoshí shuì le. | Errato: la durata segue il verbo.
+ex: 我睡了**八个小时**。 | Wǒ shuì le **bā ge xiǎoshí**. | Ho dormito otto ore.
+
+### Le espressioni di durata
+| Unità | Durata | Pinyin | Classificatore |
+| minuto | 一分钟 | yì fēnzhōng | no |
+| quarto d'ora | 一刻钟 | yí kèzhōng | no |
+| ora | 一个小时 / 一个钟头 | yí ge xiǎoshí / yí ge zhōngtóu | sì: 个 |
+| giorno | 一天 | yì tiān | no |
+| settimana | 一个星期 / 一周 | yí ge xīngqī / yì zhōu | 星期 con 个; 周 no |
+| mese | 一个月 | yí ge yuè | sì: 个 |
+| anno | 一年 | yì nián | no |
+
+Per le mezze unità valgono le regole di 半 (vedi il capitolo «I numeri»): 半个小时 «mezz'ora», 一个半小时 «un'ora e mezza», 半个月 «mezzo mese», 一个半月 «un mese e mezzo», 两年半 «due anni e mezzo». Per una durata breve e indeterminata si usa 一会儿 yíhuìr «un momento».
+
+| Punto nel tempo | Durata |
+| 两点 «le due» | 两个小时 «due ore» |
+| 五分 «e cinque (minuti)» | 五分钟 «cinque minuti» |
+| 三点一刻 «le tre e un quarto» | 一刻钟 «un quarto d'ora» |
+| 一月 «gennaio» | 一个月 «un mese» |
+| 星期一 «lunedì» | 一个星期 «una settimana» |
+| 三号 «il giorno tre» | 三天 «tre giorni» |
+
+ex: 请等我**五分钟**。 | Qǐng děng wǒ **wǔ fēnzhōng**. | Aspettami cinque minuti, per favore.
+ex: 我们休息**一刻钟**吧。 | Wǒmen xiūxi **yí kèzhōng** ba. | Facciamo un quarto d'ora di pausa.
+ex: 从这儿到那儿要**一个半小时**。 | Cóng zhèr dào nàr yào **yí ge bàn xiǎoshí**. | Da qui a lì ci vuole un'ora e mezza.
+ex: 他在中国学习了**两年半**。 | Tā zài Zhōngguó xuéxí le **liǎng nián bàn**. | Ha studiato in Cina per due anni e mezzo.
+ex: 我们放了**一个星期**假。 | Wǒmen fàng le **yí ge xīngqī** jià. | Abbiamo avuto una settimana di vacanza.
+ex: 你等**一会儿**，我马上来。 | Nǐ děng **yíhuìr**, wǒ mǎshàng lái. | Aspetta un momento, arrivo subito.
+
+no: 我等了你两点。 | Wǒ děng le nǐ liǎng diǎn. | Errato: per la durata si usa 两个小时, non 两点.
+ex: 我等了你**两个小时**。 | Wǒ děng le nǐ **liǎng ge xiǎoshí**. | Ti ho aspettato per due ore.
+
+! La posizione della durata rispetto all'oggetto, il suo uso con 了 e nelle frasi negative (我三天没睡好) sono trattati nel capitolo «I complementi di quantità».

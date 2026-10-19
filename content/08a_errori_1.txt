@@ -1,0 +1,145 @@
+@ Appendici
+
+# Errori frequenti degli italiani
+
+Questa appendice raccoglie gli errori più tipici di chi arriva al cinese dall'italiano. Quasi tutti nascono da un «trasferimento» di abitudini della lingua madre: tradurre ogni «essere» con 是, usare 了 come un passato prossimo, mettere il tempo e il luogo in fondo alla frase, dimenticare i classificatori. Per ogni errore trovate una breve spiegazione, la frase sbagliata, la versione corretta e il rinvio al capitolo in cui l'argomento è trattato per esteso.
+
+! Non limitatevi a leggere le correzioni: ripetete ad alta voce le frasi corrette finché non vi suonano naturali. È il modo più rapido per «disimparare» le strutture italiane.
+
+## Aggettivi, 是 e 有
+
+### 是 + aggettivo
+In italiano diciamo «è alto», ma in cinese l'aggettivo fa da predicato da solo e non vuole il verbo 是: al suo posto si usa di norma un avverbio di grado come 很 (vedi il capitolo «L'aggettivo»). 是 davanti all'aggettivo compare solo con valore enfatico (vedi il capitolo «L'enfasi»).
+no: 我**是**很累。 | Wǒ **shì** hěn lèi. | Errato: davanti all'aggettivo predicativo non si usa 是.
+ex: 我**很**累。 | Wǒ **hěn** lèi. | Sono stanco.
+ex: 这个房间**很**大。 | Zhège fángjiān **hěn** dà. | Questa stanza è grande.
+
+### L'aggettivo predicativo senza 很
+Un aggettivo predicativo da solo suona come un confronto sottinteso («fa freddo, a differenza di…») o come una frase sospesa. Nelle affermazioni neutre si aggiunge 很, che spesso non significa davvero «molto»; nelle frasi comparative con 比, invece, 很 non si usa (vedi il capitolo «L'aggettivo»).
+no: 今天冷。 | Jīntiān lěng. | Innaturale come frase isolata: manca 很.
+ex: 今天**很**冷。 | Jīntiān **hěn** lěng. | Oggi fa freddo.
+ex: 今天冷，昨天不冷。 | Jīntiān lěng, zuótiān bù lěng. | Oggi fa freddo, ieri no. (qui il contrasto è esplicito)
+
+### 有 per «avere fame» o «avere vent'anni»
+Le espressioni italiane con «avere» non si traducono con 有: fame, sete, freddo e sonno si esprimono con aggettivi o verbi di stato, e l'età segue direttamente il soggetto, senza verbo (vedi il capitolo «La frase semplice e il verbo 是»).
+no: 我**有**饿。 | Wǒ **yǒu** è. | Errato: 饿 è un aggettivo, non un nome da «avere».
+ex: 我饿了。 | Wǒ è le. | Ho fame. (lett. io affamato-PART)
+no: 我**有**二十岁。 | Wǒ **yǒu** èrshí suì. | Errato: di norma l'età non si esprime con 有.
+ex: 我二十岁。 | Wǒ èrshí suì. | Ho vent'anni.
+
+### 不有
+有 è l'unico verbo che si nega sempre e soltanto con 没, mai con 不, sia quando significa «avere» sia quando significa «esserci» (vedi il capitolo «Le frasi con 有 e le frasi esistenziali»).
+no: 我**不**有时间。 | Wǒ **bù** yǒu shíjiān. | Errato: 有 si nega solo con 没.
+ex: 我**没有**时间。 | Wǒ **méiyǒu** shíjiān. | Non ho tempo.
+ex: 教室里**没有**人。 | Jiàoshì li **méiyǒu** rén. | In aula non c'è nessuno.
+
+### 多 + nome senza 很
+多 «molto, tanti» non si mette da solo davanti al nome: si dice 很多 (o 好多, 许多), di solito senza 的. Come predicato, 多 vuole anch'esso un avverbio di grado (vedi il capitolo «L'aggettivo»).
+no: 他有**多**朋友。 | Tā yǒu **duō** péngyou. | Errato: 多 da solo non precede il nome.
+ex: 他有**很多**朋友。 | Tā yǒu **hěn duō** péngyou. | Ha molti amici.
+ex: 商店里人**很多**。 | Shāngdiàn li rén **hěn duō**. | Nel negozio c'è molta gente.
+
+### 太 usato come «molto»
+太 significa «troppo» oppure, nelle esclamazioni con 了, «davvero, proprio»; non è un «molto» neutro. Per descrivere senza esagerare si usano 很, 非常, 特别 (vedi il capitolo «Gli avverbi»).
+no: 我的老师**太**好。 | Wǒ de lǎoshī **tài** hǎo. | Errato: 太 non è un «molto» neutro e qui vorrebbe 了.
+ex: 我的老师**非常**好。 | Wǒ de lǎoshī **fēicháng** hǎo. | Il mio insegnante è molto bravo.
+ex: 你的老师**太**好**了**！ | Nǐ de lǎoshī **tài** hǎo **le**! | Il tuo insegnante è proprio bravissimo!
+ex: 这件衣服**太**贵**了**。 | Zhè jiàn yīfu **tài** guì **le**. | Questo vestito è troppo caro.
+
+### 一点儿 e 有点儿
+有点儿 sta prima dell'aggettivo e significa «un po'» con una sfumatura negativa o sgradita; 一点儿 sta dopo l'aggettivo, nei confronti e nelle richieste («un po' più…»), oppure davanti a un nome (vedi il capitolo «Gli avverbi»).
+no: 这件衣服**一点儿**贵。 | Zhè jiàn yīfu **yìdiǎnr** guì. | Errato: 一点儿 non va prima dell'aggettivo.
+ex: 这件衣服**有点儿**贵。 | Zhè jiàn yīfu **yǒudiǎnr** guì. | Questo vestito è un po' caro.
+ex: 有没有便宜**一点儿**的？ | Yǒu méiyǒu piányi **yìdiǎnr** de? | Ce n'è uno un po' più economico?
+ex: 请说慢**一点儿**。 | Qǐng shuō màn **yìdiǎnr**. | Per favore, parli un po' più piano.
+
+## Tempo, aspetto e negazione
+
+### 了 usato come «passato»
+了 non è un tempo passato: segnala che un'azione è compiuta (了₁) o che la situazione è cambiata (了₂). Molte frasi al passato non lo vogliono, per esempio le descrizioni, mentre lo si trova anche in frasi al futuro (vedi il capitolo «La particella 了»).
+no: 昨天天气很好**了**。 | Zuótiān tiānqì hěn hǎo **le**. | Errato: una semplice descrizione nel passato non vuole 了.
+ex: 昨天天气很好。 | Zuótiān tiānqì hěn hǎo. | Ieri il tempo era bello.
+ex: 明天我下**了**课就去找你。 | Míngtiān wǒ xià **le** kè jiù qù zhǎo nǐ. | Domani, finita la lezione, vengo a cercarti. (了 in una frase al futuro)
+
+### 了 con le abitudini del passato
+Le abitudini passate («andavo», «facevo») non sono singole azioni compiute e quindi non vogliono 了: il passato si capisce dalle espressioni di tempo come 以前 o 小时候 (vedi il capitolo «Tempo e aspetto»).
+no: 我小时候每天游泳**了**。 | Wǒ xiǎoshíhou měi tiān yóuyǒng **le**. | Errato: un'abitudine passata non vuole 了.
+ex: 我小时候每天都游泳。 | Wǒ xiǎoshíhou měi tiān dōu yóuyǒng. | Da piccolo nuotavo tutti i giorni.
+ex: 以前他常常来我家。 | Yǐqián tā chángcháng lái wǒ jiā. | Prima veniva spesso a casa mia.
+
+### 了 dopo 没
+没(有) nega che un'azione sia avvenuta e prende il posto di 了₁: i due elementi non compaiono insieme dopo lo stesso verbo. Fa eccezione il 了 di fine frase dopo una durata («da tre anni non…») (vedi il capitolo «La negazione»).
+no: 我没吃**了**早饭。 | Wǒ méi chī **le** zǎofàn. | Errato: con 没 non si usa 了.
+ex: 我**没**吃早饭。 | Wǒ **méi** chī zǎofàn. | Non ho fatto colazione.
+ex: 他还**没**来。 | Tā hái **méi** lái. | Non è ancora arrivato.
+ex: 我们三年没见**了**。 | Wǒmen sān nián méi jiàn **le**. | Non ci vediamo da tre anni.
+
+### 不 e 没
+不 nega volontà, abitudini, stati e azioni presenti o future; 没 nega il fatto che un'azione sia avvenuta, e nega sempre il verbo 有 (vedi il capitolo «La negazione»).
+no: 昨天我**不**去上班。 | Zuótiān wǒ **bú** qù shàngbān. | Errato per «non sono andato»: un fatto non avvenuto si nega con 没.
+ex: 昨天我**没**去上班。 | Zuótiān wǒ **méi** qù shàngbān. | Ieri non sono andato al lavoro.
+ex: 明天我**不**去上班。 | Míngtiān wǒ **bú** qù shàngbān. | Domani non vado al lavoro.
+ex: 他**不**喝酒。 | Tā **bù** hē jiǔ. | Non beve alcolici. (abitudine)
+
+### 去了商店买东西
+Nelle frasi a verbi in serie il 了 dell'azione compiuta non va dopo il primo verbo di movimento, ma dopo il secondo verbo (lo scopo) oppure alla fine della frase (vedi il capitolo «Le frasi a verbi in serie»).
+no: 我去**了**商店买东西。 | Wǒ qù **le** shāngdiàn mǎi dōngxi. | Errato: 了 non va dopo il primo verbo.
+ex: 我去商店买**了**一些东西。 | Wǒ qù shāngdiàn mǎi **le** yìxiē dōngxi. | Sono andato al negozio a comprare alcune cose.
+ex: 我去商店买东西**了**。 | Wǒ qù shāngdiàn mǎi dōngxi **le**. | Sono andato al negozio a fare acquisti.
+
+### 是……的 dimenticato
+Quando un'azione passata è già nota e si chiede o si precisa quando, dove, come o con chi è avvenuta, si usa 是……的 e non 了 (vedi il capitolo «La costruzione 是……的»).
+no: 你什么时候来**了**中国？ | Nǐ shénme shíhou lái **le** Zhōngguó? | Errato: per chiedere quando è avvenuto un fatto noto si usa 是……的.
+ex: 你**是**什么时候来中国**的**？ | Nǐ **shì** shénme shíhou lái Zhōngguó **de**? | Quando sei venuto in Cina?
+ex: 我**是**坐飞机来**的**。 | Wǒ **shì** zuò fēijī lái **de**. | Sono venuto in aereo.
+
+### 以后 e 后来
+以后 può riferirsi al futuro («in futuro, più avanti») o seguire un'espressione di tempo («dopo le otto»); 后来 si usa solo da solo e solo nel racconto di fatti passati, come «in seguito, poi» (vedi il capitolo «Le espressioni di tempo»).
+no: 这件事我们**后来**再说吧。 | Zhè jiàn shì wǒmen **hòulái** zài shuō ba. | Errato: 后来 non si riferisce al futuro.
+ex: 这件事我们**以后**再说吧。 | Zhè jiàn shì wǒmen **yǐhòu** zài shuō ba. | Di questa faccenda parliamo più avanti.
+ex: 我们是在大学认识的，**后来**成了好朋友。 | Wǒmen shì zài dàxué rènshi de, **hòulái** chéng le hǎo péngyou. | Ci siamo conosciuti all'università e in seguito siamo diventati buoni amici.
+
+### 刚 e 刚才
+刚 è un avverbio («appena») e sta sempre subito prima del verbo; 刚才 è un'espressione di tempo («poco fa») e può stare anche prima del soggetto. 刚才 si combina liberamente con 了 e con la negazione, 刚 di solito no (vedi il capitolo «Gli avverbi»).
+no: **刚**我给你打电话了。 | **Gāng** wǒ gěi nǐ dǎ diànhuà le. | Errato: 刚 non può stare prima del soggetto.
+ex: **刚才**我给你打电话了。 | **Gāngcái** wǒ gěi nǐ dǎ diànhuà le. | Poco fa ti ho telefonato.
+ex: 我**刚**到家。 | Wǒ **gāng** dào jiā. | Sono appena arrivato a casa.
+
+### 再 e 又
+Entrambi significano «di nuovo», ma 又 si usa per una ripetizione già avvenuta, 再 per una ripetizione futura o desiderata, anche nelle richieste e negli imperativi (vedi il capitolo «Gli avverbi»).
+no: 他昨天**再**来了。 | Tā zuótiān **zài** lái le. | Errato: per una ripetizione già avvenuta si usa 又.
+ex: 他昨天**又**来了。 | Tā zuótiān **yòu** lái le. | Ieri è venuto di nuovo.
+ex: 请你明天**再**来。 | Qǐng nǐ míngtiān **zài** lái. | Per favore, torni domani.
+
+### 点 e 小时
+点(钟) indica l'ora dell'orologio («alle due»), 小时 la durata («per due ore»), di solito con il classificatore 个. L'ora precede il verbo, la durata lo segue (vedi il capitolo «Le espressioni di tempo»).
+no: 我每天学习两**点**汉语。 | Wǒ měi tiān xuéxí liǎng **diǎn** Hànyǔ. | Errato: 点 indica l'ora, non la durata.
+ex: 我每天学习两个**小时**汉语。 | Wǒ měi tiān xuéxí liǎng ge **xiǎoshí** Hànyǔ. | Studio cinese due ore al giorno.
+ex: 我每天两**点**开始学习。 | Wǒ měi tiān liǎng **diǎn** kāishǐ xuéxí. | Ogni giorno comincio a studiare alle due.
+
+## Ordine delle parole
+
+### Il tempo alla fine della frase
+In italiano diciamo «Vado in Cina l'anno prossimo», ma in cinese le espressioni che indicano quando avviene un'azione stanno prima del verbo: dopo il soggetto o all'inizio della frase (vedi il capitolo «L'ordine delle parole»).
+no: 我去中国**明年**。 | Wǒ qù Zhōngguó **míngnián**. | Errato: il tempo non va dopo il verbo.
+ex: 我**明年**去中国。 | Wǒ **míngnián** qù Zhōngguó. | L'anno prossimo vado in Cina.
+ex: **明年**我去中国。 | **Míngnián** wǒ qù Zhōngguó. | L'anno prossimo vado in Cina.
+
+### La posizione di 在 + luogo
+Il luogo in cui si svolge un'azione si esprime con 在 + luogo prima del verbo, non dopo come in italiano; l'ordine normale è soggetto, tempo, luogo, verbo, oggetto. Solo con pochi verbi come 住, 放, 坐, 站 il gruppo con 在 segue il verbo (vedi il capitolo «Le preposizioni»).
+no: 我学习汉语**在大学**。 | Wǒ xuéxí Hànyǔ **zài dàxué**. | Errato: 在 + luogo va prima del verbo.
+ex: 我**在大学**学习汉语。 | Wǒ **zài dàxué** xuéxí Hànyǔ. | Studio cinese all'università.
+ex: 我们晚上七点**在饭馆**见面。 | Wǒmen wǎnshang qī diǎn **zài fànguǎn** jiànmiàn. | Ci vediamo stasera alle sette al ristorante.
+ex: 我住**在罗马**。 | Wǒ zhù **zài Luómǎ**. | Abito a Roma.
+
+### 在 dopo i verbi di movimento
+Con 去, 来, 回, 到 la destinazione segue direttamente il verbo, senza preposizione: le preposizioni italiane «a» e «in» non si traducono con 在 (vedi il capitolo «Le preposizioni»).
+no: 我想去**在**北京。 | Wǒ xiǎng qù **zài** Běijīng. | Errato: dopo 去 la meta segue direttamente il verbo.
+ex: 我想**去北京**。 | Wǒ xiǎng **qù Běijīng**. | Voglio andare a Pechino.
+ex: 他昨天**回家**了。 | Tā zuótiān **huí jiā** le. | Ieri è tornato a casa.
+
+### La provenienza con 从
+«Vengo dall'Italia» non si costruisce come in italiano: il gruppo 从 + luogo precede il verbo, come tutti i gruppi preposizionali (vedi il capitolo «Le preposizioni»).
+no: 我来**从意大利**。 | Wǒ lái **cóng Yìdàlì**. | Errato: 从 + luogo precede il verbo.
+ex: 我**从意大利**来。 | Wǒ **cóng Yìdàlì** lái. | Vengo dall'Italia.
+ex: 他刚**从学校**回来。 | Tā gāng **cóng xuéxiào** huílai. | È appena tornato da scuola.

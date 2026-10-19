@@ -1,0 +1,10 @@
+# Come leggere questo foglio
+| Sigla | Significato | Sigla | Significato |
+| S | soggetto | Agg | aggettivo |
+| V | verbo | Avv | avverbio |
+| O | oggetto | Prep | preposizione |
+| N | nome | Num | numero |
+| CL | classificatore | Luogo / Tempo | espressione di luogo / tempo |
+- Le strutture sono nei riquadri gialli; gli esempi nei riquadri grigi: caratteri, poi *pinyin* · traduzione.
+- In rosso il punto grammaticale; ✗ = frase sbagliata, ✓ = frase corretta.
+- Accanto a ogni parola cinese c'è il pinyin in grigio, es. 了 le, 把 bǎ.

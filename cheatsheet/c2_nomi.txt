@@ -1,0 +1,127 @@
+# Sostantivo e localizzatori
+## Il sostantivo
+Il nome è invariabile e senza articolo; 们 men (plurale) solo con persone, mai con un numero.
+= Num + CL + N · N (persona) + 们 men
+no: 三个学生们 | sān ge xuéshengmen | Errato: 们 non va con un numero.
+ex: 三个学生 | sān ge xuésheng | tre studenti
+## Le parole di localizzazione (方位词 fāngwèicí)
+Dicono dove (sopra, dentro…); vanno dopo il nome.
+= (在 zài) + N + localizzatore
+| Parola | Significato | Parola | Significato |
+| 上 shàng | sopra | 下 xià | sotto |
+| 里 lǐ | dentro | 外 wài | fuori |
+| 前 qián | davanti | 后 hòu | dietro |
+| 左 zuǒ | sinistra | 右 yòu | destra |
+| 旁边 pángbiān | accanto | 对面 duìmiàn | di fronte |
+! Da soli si usa la forma con 边 bian: 上边 shàngbian, 里边 lǐbian; 中间 zhōngjiān = in mezzo.
+ex: 书在桌子**上**。 | Shū zài zhuōzi **shang**. | Il libro è sul tavolo.
+no: 我在中国里。 | Wǒ zài Zhōngguó li. | Errato: i nomi di luogo non vogliono 里.
+# Pronomi e dimostrativi
+## I pronomi
+Indicano le persone; plurale con 们 men.
+- 我 wǒ, 你 nǐ (您 nín cortese), 他 tā / 她 tā / 它 tā; 咱们 zánmen = noi (con chi ascolta).
+- Possesso: pronome + 的 de + N; con parenti 的 de cade: 我妈妈 wǒ māma.
+| Parola | Significato | Parola | Significato |
+| 自己 zìjǐ | sé, da sé | 大家 dàjiā | tutti |
+| 别人 biérén | gli altri | 人家 rénjia | gli altri; io (vezzoso) |
+| 每 měi + CL | ogni (+ 都 dōu) | 各 gè | ciascuno |
+ex: 这是**我的**书。 | Zhè shì **wǒ de** shū. | Questo è il mio libro.
+## I dimostrativi
+Indicano cose vicine (这 zhè) o lontane (那 nà).
+| Vicino | Lontano | Significato |
+| 这 zhè / 这些 zhèxiē | 那 nà / 那些 nàxiē | questo/i / quello/i |
+| 这儿 zhèr, 这里 zhèli | 那儿 nàr, 那里 nàli | qui / lì |
+| 这么 zhème / 这样 zhèyàng | 那么 nàme / 那样 nàyàng | così (grado) / in questo modo |
+= 这/那 zhè/nà + (Num) + CL + N
+ex: **这本**书很有意思。 | **Zhè běn** shū hěn yǒu yìsi. | Questo libro è interessante.
+# Interrogativi
+## I pronomi interrogativi
+Stanno al posto della risposta; niente 吗 ma.
+| Parola | Significato | Parola | Significato |
+| 谁 shéi | chi | 什么 shénme | che cosa, quale |
+| 哪 nǎ + CL | quale | 哪儿 nǎr | dove |
+| 什么时候 shénme shíhou | quando | 为什么 wèi shénme | perché |
+| 怎么 zěnme | come; come mai | 怎么样 zěnmeyàng | com'è |
+| 几 jǐ + CL | quanti (< 10) | 多少 duōshao | quanto, quanti |
+| 多 duō + Agg | quanto (多大 duō dà) | | |
+ex: 你去**哪儿**？ | Nǐ qù **nǎr**? | Dove vai?
+no: 你去哪儿吗？ | Nǐ qù nǎr ma? | Errato: con l'interrogativo niente 吗.
+## Uso indefinito
+Gli interrogativi dicono anche «chiunque, niente».
+= interrogativo + 都 dōu / 也 yě (+ 不 bù) = tutti / nessuno
+= interrogativo … stesso interrogativo: 谁想去谁去 shéi xiǎng qù shéi qù «vada chi vuole»
+ex: 我**什么都**不想吃。 | Wǒ **shénme dōu** bù xiǎng chī. | Non voglio mangiare niente.
+# Numeri
+## Numeri di base
+Si compongono così: 十一 shíyī = 11, 二十 èrshí = 20.
+- 零 líng 0, 一 yī 1, 二 èr 2, 三 sān 3, 四 sì 4, 五 wǔ 5, 六 liù 6, 七 qī 7, 八 bā 8, 九 jiǔ 9, 十 shí 10.
+- 百 bǎi 100, 千 qiān 1.000, 万 wàn 10.000 (十万 shíwàn 100.000), 亿 yì 10⁸.
+! Zero interno detto una volta: 105 一百零五 yìbǎi líng wǔ; finale cade: 150 一百五 yìbǎi wǔ.
+## 二 èr e 两 liǎng
+Due modi di dire «due».
+- 二 èr: contare, ordinali, mesi, decine (第二 dì-èr, 二月 èr yuè).
+- 两 liǎng: davanti al CL, a 千 qiān / 万 wàn e nell'ora (两点 liǎng diǎn).
+no: 我有二个哥哥。 | Wǒ yǒu èr ge gēge. | Errato: davanti al CL si usa 两.
+ex: 我有**两**个哥哥。 | Wǒ yǒu **liǎng** ge gēge. | Ho due fratelli maggiori.
+## Ordinali, frazioni, approssimazione
+| Tipo | Struttura | Esempio |
+| ordinale | 第 dì + Num | 第一 dì-yī |
+| frazione, % | sotto + 分之 fēn zhī + sopra | 三分之一 sān fēn zhī yī, 百分之十 bǎi fēn zhī shí |
+| decimale, negativo | 点 diǎn, 负 fù | 三点五 sān diǎn wǔ |
+| doppio, metà | 倍 bèi, 半 bàn | 两倍 liǎng bèi, 一个半 yí ge bàn |
+| più di (decine) | Num + 多 duō + CL | 十多个人 shí duō ge rén |
+| più di (unità) | Num + CL + 多 duō | 一个多月 yí ge duō yuè |
+| circa | Num + 左右 zuǒyòu | 三十岁左右 sānshí suì zuǒyòu |
+ex: 我等了**一个多**小时。 | Wǒ děng le **yí ge duō** xiǎoshí. | Ho aspettato più di un'ora.
+# Classificatori
+## Che cosa sono i classificatori (量词 liàngcí)
+Tra numero (o 这 zhè, 那 nà) e nome ci vuole sempre un CL.
+= Num / 这 zhè / 那 nà / 几 jǐ / 每 měi + CL + N
+no: 三书 | sān shū | Errato: manca il classificatore.
+ex: 三**本**书 | sān **běn** shū | tre libri
+## I classificatori più comuni
+Ogni nome ha il suo; 个 ge è generico.
+| CL | Uso | Nomi tipici |
+| 个 ge | generico, persone | 人 rén, 问题 wèntí |
+| 位 wèi / 口 kǒu | persone (cortese) / in famiglia | 老师 lǎoshī / 人 rén |
+| 本 běn | libri | 书 shū |
+| 张 zhāng | oggetti piatti | 纸 zhǐ, 床 chuáng |
+| 条 tiáo | oggetti lunghi | 鱼 yú, 裤子 kùzi |
+| 只 zhī | animali; uno di un paio | 猫 māo, 手 shǒu |
+| 件 jiàn | abiti (busto), faccende | 衣服 yīfu, 事 shì |
+| 辆 liàng / 台 tái | veicoli / apparecchi | 车 chē / 电脑 diànnǎo |
+| 部 bù | film, telefoni | 电影 diànyǐng, 手机 shǒujī |
+| 家 jiā / 间 jiān | aziende / stanze | 公司 gōngsī / 房间 fángjiān |
+| 座 zuò / 棵 kē | grandi strutture / alberi | 山 shān / 树 shù |
+| 封 fēng / 首 shǒu | lettere / canzoni | 信 xìn / 歌 gē |
+| 块 kuài / 片 piàn | pezzi, yuan / fette | 钱 qián / 面包 miànbāo |
+| 双 shuāng / 套 tào | paio / set | 鞋 xié / 房子 fángzi |
+| 杯 bēi / 瓶 píng / 碗 wǎn | bicchiere / bottiglia / ciotola | 茶 chá / 酒 jiǔ / 饭 fàn |
+| 些 xiē / 点儿 diǎnr | alcuni / un po' di | 书 shū / 水 shuǐ |
+## Classificatori verbali e usi particolari
+Contano le volte di un'azione; vanno dopo il verbo.
+| CL | Significato | Esempio |
+| 次 cì | volta | 去过三次 qù guo sān cì |
+| 遍 biàn | volta (dall'inizio alla fine) | 看了两遍 kàn le liǎng biàn |
+| 下 xià | un attimo | 等一下 děng yíxià |
+| 趟 tàng / 顿 dùn | viaggio / pasto | 去一趟 qù yí tàng |
+- CL ripetuto = «ogni, tutti» (+ 都 dōu): 个个 gègè, 天天 tiāntiān, 人人 rénrén.
+- 一 yī + CL + (N) + 也 yě / 都 dōu + 不 bù / 没 méi = «neanche uno»: 一个人也没有 yí ge rén yě méiyǒu.
+ex: 他们**个个**都很高。 | Tāmen **gègè** dōu hěn gāo. | Sono alti tutti quanti.
+# Espressioni di tempo
+## Date e ore
+Dal più grande al più piccolo.
+= 年 nián + 月 yuè + 日 rì / 号 hào + 星期 xīngqī
+ex: 今天五月三号，星期六。 | Jīntiān wǔ yuè sān hào, xīngqīliù. | Oggi è sabato 3 maggio.
+| Prima | Ora | Dopo |
+| 昨天 zuótiān | 今天 jīntiān | 明天 míngtiān |
+| 去年 qùnián | 今年 jīnnián | 明年 míngnián |
+| 上个月 shàng ge yuè | 这个月 zhège yuè | 下个月 xià ge yuè |
+- 前天 qiántiān l'altro ieri, 后天 hòutiān dopodomani; 星期一 xīngqīyī lunedì.
+- Ore: 两点一刻 liǎng diǎn yí kè 2:15, 两点半 liǎng diǎn bàn 2:30, 差五分三点 chà wǔ fēn sān diǎn 2:55.
+## Punto nel tempo e durata
+Il «quando» va prima del verbo, il «per quanto» dopo: 一月 yī yuè «gennaio», 一个月 yí ge yuè «un mese».
+= S + Tempo + V + O · S + V + durata + O
+ex: 我每天学**两个小时**汉语。 | Wǒ měitiān xué **liǎng ge xiǎoshí** Hànyǔ. | Studio cinese due ore al giorno.
+= frase + 以前 yǐqián / 以后 yǐhòu / 的时候 de shíhou
+ex: 吃饭**以前**要洗手。 | Chī fàn **yǐqián** yào xǐ shǒu. | Prima di mangiare ci si lava le mani.

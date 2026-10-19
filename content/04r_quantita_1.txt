@@ -1,0 +1,122 @@
+# I complementi di quantità
+
+I complementi di quantità «misurano» l'azione o la qualità espressa dal predicato: per quanto tempo dura un'azione (complemento di durata), quante volte si compie (complemento di frequenza), di quanto differisce una qualità (complemento di quantità differenziale). Tutti si collocano dopo il verbo o l'aggettivo, a differenza dell'italiano, dove queste indicazioni sono molto libere nella frase.
+
+## Il complemento di durata (时量补语)
+
+Il complemento di durata (时量补语 shíliàng bǔyǔ) indica per quanto tempo si svolge un'azione o dura uno stato. Segue il verbo, con 了 o 过 se l'azione è compiuta o vissuta.
+
+= S + V + (了 / 过) + durata
+
+ex: 我等**了半个小时**。 | Wǒ děng **le bàn ge xiǎoshí**. | Ho aspettato mezz'ora.
+ex: 他每天睡**八个小时**。 | Tā měi tiān shuì **bā ge xiǎoshí**. | Dorme otto ore al giorno.
+ex: 我们休息**一会儿**吧。 | Wǒmen xiūxi **yíhuìr** ba. | Riposiamoci un po'.
+ex: 他在意大利住**了五年**。 | Tā zài Yìdàlì zhù **le wǔ nián**. | Ha vissuto in Italia per cinque anni.
+ex: 昨天的会开**了三个小时**。 | Zuótiān de huì kāi **le sān ge xiǎoshí**. | La riunione di ieri è durata tre ore.
+ex: 你在这儿等**一下**，我马上回来。 | Nǐ zài zhèr děng **yíxià**, wǒ mǎshàng huílai. | Aspetta qui un attimo, torno subito.
+
+Espressioni di durata frequenti: 一会儿 yíhuìr «un momento», 五分钟 wǔ fēnzhōng, 半个小时 bàn ge xiǎoshí, 一个钟头 yí ge zhōngtóu «un'ora», 两天 liǎng tiān, 三个星期 sān ge xīngqī, 四个月 sì ge yuè, 五年 wǔ nián, 很长时间 hěn cháng shíjiān, 很久 hěn jiǔ, 半天 bàntiān «a lungo (lett. mezza giornata)», 一辈子 yíbèizi «tutta la vita».
+
+### Momento e durata
+
+È fondamentale distinguere il *momento* in cui avviene l'azione, che precede il verbo, dalla *durata* dell'azione, che lo segue.
+
+| Funzione | Posizione | Esempio |
+| momento (quando?) | prima del verbo | 我八点起床。 |
+| durata (per quanto tempo?) | dopo il verbo | 我睡了八个小时。 |
+
+no: 我半个小时等了。 | Wǒ bàn ge xiǎoshí děng le. | Errato: la durata va dopo il verbo.
+ex: 我等**了半个小时**。 | Wǒ děng **le bàn ge xiǎoshí**. | Ho aspettato mezz'ora.
+ex: 我**每天晚上**学**两个小时**汉语。 | Wǒ **měi tiān wǎnshang** xué **liǎng ge xiǎoshí** Hànyǔ. | Ogni sera studio cinese per due ore.
+
+### Con un oggetto nominale
+
+Se il verbo ha un oggetto nominale, ci sono due costruzioni: si ripete il verbo, oppure si colloca la durata tra il verbo e l'oggetto, eventualmente con 的. Si può anche anteporre l'oggetto come tema della frase.
+
+= S + V + O + V + (了) + durata
+= S + V + (了) + durata + (的) + O
+= O + S + V + (了) + durata
+
+ex: 我学汉语学**了两年**。 | Wǒ xué Hànyǔ xué **le liǎng nián**. | Ho studiato cinese per due anni.
+ex: 我学**了两年**（**的**）汉语。 | Wǒ xué **le liǎng nián** (**de**) Hànyǔ. | Ho studiato cinese per due anni.
+ex: 汉语我学**了两年**。 | Hànyǔ wǒ xué **le liǎng nián**. | Il cinese l'ho studiato per due anni.
+ex: 他每天看电视看**两个小时**。 | Tā měi tiān kàn diànshì kàn **liǎng ge xiǎoshí**. | Ogni giorno guarda la TV per due ore.
+ex: 他每天看**两个小时**（**的**）电视。 | Tā měi tiān kàn **liǎng ge xiǎoshí** (**de**) diànshì. | Ogni giorno guarda la TV per due ore.
+ex: 我们开会开**了一上午**。 | Wǒmen kāihuì kāi **le yí shàngwǔ**. | Siamo stati in riunione tutta la mattina.
+
+no: 我学了汉语两年。 | Wǒ xué le Hànyǔ liǎng nián. | Errato: la durata non segue l'oggetto nominale.
+ex: 我学**了两年**汉语。 | Wǒ xué **le liǎng nián** Hànyǔ. | Ho studiato cinese per due anni.
+
+### I verbi separabili
+
+Con i verbi separabili la durata si inserisce tra l'elemento verbale e la parte nominale, spesso con 的; oppure si ripete l'elemento verbale.
+
+no: 我游泳了一个小时。 | Wǒ yóuyǒng le yí ge xiǎoshí. | Errato: con i verbi separabili la durata si inserisce tra verbo e oggetto.
+ex: 我游**了一个小时的**泳。 | Wǒ yóu **le yí ge xiǎoshí de** yǒng. | Ho nuotato per un'ora.
+ex: 我游泳游**了一个小时**。 | Wǒ yóuyǒng yóu **le yí ge xiǎoshí**. | Ho nuotato per un'ora.
+ex: 昨天我只睡**了五个小时**（**的**）觉。 | Zuótiān wǒ zhǐ shuì **le wǔ ge xiǎoshí** (**de**) jiào. | Ieri ho dormito solo cinque ore.
+ex: 他们跳**了一晚上的**舞。 | Tāmen tiào **le yì wǎnshang de** wǔ. | Hanno ballato per tutta la sera.
+
+### Con un oggetto pronominale
+
+Se l'oggetto è un pronome personale, si colloca subito dopo il verbo (e 了), prima della durata. Lo stesso accade spesso con nomi di persona.
+
+= S + V + (了) + Pronome + durata
+
+ex: 我等**了**他半个小时。 | Wǒ děng **le** tā bàn ge xiǎoshí. | L'ho aspettato per mezz'ora.
+ex: 我找**了**你一个下午。 | Wǒ zhǎo **le** nǐ yí ge xiàwǔ. | Ti ho cercato per tutto il pomeriggio.
+ex: 我们等**了**小王二十分钟。 | Wǒmen děng **le** Xiǎo Wáng èrshí fēnzhōng. | Abbiamo aspettato Xiao Wang per venti minuti.
+
+no: 我等了半个小时他。 | Wǒ děng le bàn ge xiǎoshí tā. | Errato: il pronome oggetto precede la durata.
+ex: 我等**了**他半个小时。 | Wǒ děng **le** tā bàn ge xiǎoshí. | L'ho aspettato per mezz'ora.
+
+### Durata fino a ora: il doppio 了
+
+Se l'azione è iniziata nel passato e continua nel momento in cui si parla, si aggiunge 了₂ in fondo alla frase (vedi il capitolo «La particella 了»). L'italiano usa in questi casi il presente con «da».
+
+ex: 我学汉语学**了**两年**了**。 | Wǒ xué Hànyǔ xué **le** liǎng nián **le**. | Studio cinese da due anni.
+ex: 他等**了**你一个小时**了**。 | Tā děng **le** nǐ yí ge xiǎoshí **le**. | Ti sta aspettando da un'ora.
+ex: 我们在这儿住**了**十年**了**。 | Wǒmen zài zhèr zhù **le** shí nián **le**. | Abitiamo qui da dieci anni.
+
+### Tempo trascorso da un evento puntuale
+
+Con i verbi che indicano un evento puntuale, che non può durare (来, 去, 到, 走, 毕业, 结婚, 认识, 离开, 开始, 死), la durata non misura l'azione ma il tempo trascorso da quando è avvenuta. In questo caso la durata segue l'oggetto e la frase termina con 了₂.
+
+= S + V + (O) + durata + 了
+
+ex: 他来中国**三年了**。 | Tā lái Zhōngguó **sān nián le**. | È in Cina da tre anni. (lett. è venuto in Cina, tre anni)
+ex: 他毕业**两年了**。 | Tā bìyè **liǎng nián le**. | Si è laureato due anni fa.
+ex: 我们认识**十年了**。 | Wǒmen rènshi **shí nián le**. | Ci conosciamo da dieci anni.
+ex: 他们结婚**二十年了**。 | Tāmen jiéhūn **èrshí nián le**. | Sono sposati da vent'anni.
+ex: 他离开北京**很久了**。 | Tā líkāi Běijīng **hěn jiǔ le**. | Ha lasciato Pechino molto tempo fa.
+ex: 电影开始**十分钟了**。 | Diànyǐng kāishǐ **shí fēnzhōng le**. | Il film è cominciato da dieci minuti.
+
+no: 他来了三年中国。 | Tā lái le sān nián Zhōngguó. | Errato: con un verbo puntuale la durata segue l'oggetto.
+ex: 他来中国**三年了**。 | Tā lái Zhōngguó **sān nián le**. | È in Cina da tre anni.
+
+! Confrontate: 他学了三年汉语 «ha studiato cinese per tre anni» (la durata misura l'azione di studiare) e 他来中国三年了 «è in Cina da tre anni» (la durata misura il tempo trascorso dall'arrivo).
+
+### La durata nella frase negativa
+
+Quando si dice che un'azione *non* avviene da un certo tempo, la durata precede il verbo negato e la frase termina con 了₂. Spesso si inserisce 有 prima della durata.
+
+= S + (有) + durata + 没(有) + V (+ O) + 了
+
+ex: 我**三天没**吃饭**了**。 | Wǒ **sān tiān méi** chī fàn **le**. | Sono tre giorni che non mangio.
+ex: 我们**好几年没**见面**了**。 | Wǒmen **hǎo jǐ nián méi** jiànmiàn **le**. | Sono anni che non ci vediamo.
+ex: 他**很长时间没**给我打电话**了**。 | Tā **hěn cháng shíjiān méi** gěi wǒ dǎ diànhuà **le**. | È tanto tempo che non mi telefona.
+ex: 我**有一个月没**上网**了**。 | Wǒ **yǒu yí ge yuè méi** shàngwǎng **le**. | È da un mese che non vado su internet.
+
+no: 我没吃饭三天了。 | Wǒ méi chī fàn sān tiān le. | Errato: nella frase negativa la durata precede il verbo.
+ex: 我**三天没**吃饭**了**。 | Wǒ **sān tiān méi** chī fàn **le**. | Sono tre giorni che non mangio.
+
+### Le domande
+
+Per chiedere la durata si usano 多长时间 duō cháng shíjiān, 多久 duō jiǔ oppure 几 + unità di tempo.
+
+ex: 你学汉语学**了多长时间**？ | Nǐ xué Hànyǔ xué **le duō cháng shíjiān**? | Per quanto tempo hai studiato cinese?
+ex: 你学**了多长时间**（**的**）汉语？ | Nǐ xué **le duō cháng shíjiān** (**de**) Hànyǔ? | Per quanto tempo hai studiato cinese?
+ex: 你等**了多久**？ | Nǐ děng **le duō jiǔ**? | Quanto hai aspettato?
+ex: 你来中国**多长时间了**？ | Nǐ lái Zhōngguó **duō cháng shíjiān le**? | Da quanto tempo sei in Cina?
+ex: 你们认识**几年了**？ | Nǐmen rènshi **jǐ nián le**? | Da quanti anni vi conoscete?
+ex: 你每天睡**几个小时**？ | Nǐ měi tiān shuì **jǐ ge xiǎoshí**? | Quante ore dormi ogni notte?

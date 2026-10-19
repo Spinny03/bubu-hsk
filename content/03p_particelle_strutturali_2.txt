@@ -1,0 +1,190 @@
+## 的 senza nome: la nominalizzazione
+
+Quando il nome testa è chiaro dal contesto, o è generico («persona», «cosa»), si può omettere: l'attributo + 的 funziona allora da solo come un nome. È una costruzione frequentissima, che corrisponde all'italiano «il mio», «quello rosso», «chi…», «ciò che…».
+
+= attributo + 的 (+ N sottinteso)
+
+| Forma | Significato | Pinyin |
+| 我的 | il mio, la mia | wǒ de |
+| 红的 | quello rosso | hóng de |
+| 新的 | quello nuovo | xīn de |
+| 卖菜的 | il fruttivendolo (chi vende verdura) | mài cài de |
+| 开车的 | l'autista (chi guida) | kāichē de |
+| 我昨天买的 | quello che ho comprato ieri | wǒ zuótiān mǎi de |
+| 吃的、喝的 | da mangiare, da bere | chī de, hē de |
+
+### Possessore e aggettivo
+
+ex: 这本书是**我的**，那本是**小王的**。 | Zhè běn shū shì **wǒ de**, nà běn shì **Xiǎo Wáng de**. | Questo libro è mio, quello è di Xiao Wang.
+ex: 这不是**我的**。 | Zhè bú shì **wǒ de**. | Questo non è mio.
+ex: 我不要红的，我要**蓝的**。 | Wǒ bú yào hóng de, wǒ yào **lán de**. | Non voglio quello rosso, voglio quello blu.
+ex: A：你要哪个？B：**大的**。 | A: Nǐ yào nǎge? B: **Dà de**. | A: Quale vuoi? B: Quello grande.
+ex: 你的手机是**新的**吗？ | Nǐ de shǒujī shì **xīn de** ma? | Il tuo cellulare è nuovo?
+ex: 这张桌子是**木头的**。 | Zhè zhāng zhuōzi shì **mùtou de**. | Questo tavolo è di legno.
+
+### Persone: «chi fa…»
+
+V + O + 的 indica la persona che svolge abitualmente un'attività, spesso un mestiere. È colloquiale e, riferito a una persona presente, può suonare poco rispettoso: in un contesto cortese si preferiscono i nomi di professione (司机 sījī «autista», 服务员 fúwùyuán «cameriere»).
+
+ex: 他是**卖菜的**。 | Tā shì **mài cài de**. | Fa il fruttivendolo.
+ex: 刚才**送外卖的**来过了。 | Gāngcái **sòng wàimài de** lái guo le. | Poco fa è passato il fattorino del cibo a domicilio.
+ex: **说话的**是我们的经理。 | **Shuōhuà de** shì wǒmen de jīnglǐ. | Chi sta parlando è il nostro direttore.
+ex: **想去的**举手。 | **Xiǎng qù de** jǔ shǒu. | Chi vuole andare alzi la mano.
+
+### Cose: «ciò che…»
+
+ex: **我昨天买的**都很便宜。 | **Wǒ zuótiān mǎi de** dōu hěn piányi. | Tutto quello che ho comprato ieri era economico.
+ex: **你说的**我都明白了。 | **Nǐ shuō de** wǒ dōu míngbai le. | Ho capito tutto quello che hai detto.
+ex: 冰箱里有很多**吃的**。 | Bīngxiāng li yǒu hěn duō **chī de**. | In frigo c'è molto da mangiare.
+ex: 你想喝点儿什么？有**热的**，也有**凉的**。 | Nǐ xiǎng hē diǎnr shénme? Yǒu **rè de**, yě yǒu **liáng de**. | Cosa vuoi bere? C'è roba calda e anche fredda.
+
+! Con 是 la forma nominalizzata classifica il soggetto: 这本书是我的 «questo libro è mio», 这件衣服是新的 «questo vestito è nuovo (è uno di quelli nuovi)». Non va confusa con la costruzione che mette in rilievo le circostanze di un'azione passata (vedi il capitolo «La costruzione 是……的»).
+
+## La particella 地
+
+地 de segnala che ciò che precede è un avverbiale di modo (状语 zhuàngyǔ) riferito al verbo che segue. Corrisponde spesso agli avverbi italiani in «-mente» o a espressioni come «con calma», «con impegno», «tutto contento».
+
+= Agg/espressione descrittiva + 地 + V
+
+ex: 他**认真地**看了一遍。 | Tā **rènzhēn de** kàn le yí biàn. | L'ha letto una volta con attenzione.
+ex: 孩子们**高兴地**跑了过来。 | Háizimen **gāoxìng de** pǎo le guolai. | I bambini sono accorsi tutti contenti.
+ex: 她**很有礼貌地**回答了我的问题。 | Tā **hěn yǒu lǐmào de** huídá le wǒ de wèntí. | Ha risposto alla mia domanda in modo molto educato.
+ex: 大家**热烈地**讨论着这个问题。 | Dàjiā **rèliè de** tǎolùn zhe zhège wèntí. | Tutti stanno discutendo animatamente di questa questione.
+ex: 雪**不停地**下着。 | Xuě **bùtíng de** xià zhe. | La neve continua a cadere senza sosta.
+ex: 她**激动地**说：“谢谢你们！” | Tā **jīdòng de** shuō: “Xièxie nǐmen!” | Ha detto, commossa: «Grazie a tutti!»
+
+L'avverbiale con 地 può descrivere il modo dell'azione (认真地看) oppure lo stato d'animo del soggetto mentre agisce (激动地说). È tipico della narrazione e delle richieste.
+
+### Le forme reduplicate e le espressioni descrittive
+
+Gli aggettivi reduplicati (慢慢, 好好儿, 高高兴兴) e le espressioni ripetute (一个一个, 一步一步) sono avverbiali molto comuni con 地.
+
+ex: 请你**慢慢地**说。 | Qǐng nǐ **mànmàn de** shuō. | Per favore, parla lentamente.
+ex: 他**轻轻地**关上了门。 | Tā **qīngqīng de** guānshang le mén. | Ha chiuso piano la porta.
+ex: 孩子们**高高兴兴地**回家了。 | Háizimen **gāogāo-xìngxìng de** huí jiā le. | I bambini sono tornati a casa felici e contenti.
+ex: 学生们**一个一个地**走进教室。 | Xuéshengmen **yí ge yí ge de** zǒu jìn jiàoshì. | Gli studenti entrano in classe uno alla volta.
+ex: 天气**渐渐地**暖和起来了。 | Tiānqì **jiànjiàn de** nuǎnhuo qilai le. | Il tempo si sta pian piano scaldando.
+ex: 他**一动不动地**站在那里。 | Tā **yí dòng bú dòng de** zhàn zài nàli. | Se ne stava lì immobile.
+
+### Quando 地 è facoltativo, obbligatorio o escluso
+
+- Con gli aggettivi bisillabici 地 è spesso facoltativo: 认真(地)学习, 努力(地)工作, 仔细(地)检查. Con 地 l'avverbiale risulta più marcato e descrittivo.
+- Con gli aggettivi reduplicati è anch'esso facoltativo, soprattutto nelle forme brevi: 好好儿学习, 慢慢(地)走.
+- Quando l'aggettivo è modificato da un avverbio di grado (很认真地, 非常仔细地) o l'avverbiale è un'espressione più lunga (很有礼貌地, 一动不动地), 地 è di norma necessario.
+- Con un aggettivo monosillabico da solo 地 non si usa: l'aggettivo precede direttamente il verbo (快走, 多吃, 早来, 慢走) oppure si reduplica o si modifica (快快地, 很快地).
+- Gli avverbi veri e propri (都, 也, 就, 已经, 常常, 马上…) non prendono mai 地.
+
+ex: 你们要**努力**学习。 | Nǐmen yào **nǔlì** xuéxí. | Dovete studiare con impegno.
+ex: 你**多吃**点儿！ | Nǐ **duō chī** diǎnr! | Mangia ancora un po'!
+ex: 你**快**走吧！ | Nǐ **kuài** zǒu ba! | Vai, presto!
+ex: 他**很快地**吃完了饭。 | Tā **hěn kuài de** chīwán le fàn. | Ha finito di mangiare in fretta.
+ex: 你要**好好儿**休息。 | Nǐ yào **hǎohāor** xiūxi. | Devi riposarti per bene.
+
+no: 他快地跑了。 | Tā kuài de pǎo le. | Errato: un aggettivo monosillabico da solo non prende 地.
+ex: 他**很快地**跑了。 | Tā **hěn kuài de** pǎo le. | È corso via velocemente.
+no: 我已经地吃了。 | Wǒ yǐjīng de chī le. | Errato: gli avverbi veri e propri non prendono 地.
+ex: 我**已经**吃了。 | Wǒ **yǐjīng** chī le. | Ho già mangiato.
+
+! Avverbiale con 地 e complemento di grado con 得 non sono intercambiabili: 他高兴地笑了 «ha sorriso felice» descrive il modo di un'azione precisa, 他笑得很高兴 «rideva di gusto» ne valuta il risultato (vedi il capitolo «Il complemento di grado»).
+
+## La particella 得
+
+得 de segue un verbo o un aggettivo e introduce un complemento. Qui se ne dà solo un quadro sintetico: le due costruzioni principali sono trattate per esteso nei rispettivi capitoli.
+
+### Il complemento di grado
+
+= V + 得 + (Avv) + Agg
+= Agg + 得 + espressione di grado
+
+Il complemento di grado valuta il modo o il risultato di un'azione, oppure l'intensità di una qualità (vedi il capitolo «Il complemento di grado»).
+
+ex: 他跑**得**很快。 | Tā pǎo **de** hěn kuài. | Corre veloce.
+ex: 她汉语说**得**很流利。 | Tā Hànyǔ shuō **de** hěn liúlì. | Parla il cinese in modo fluente.
+ex: 你昨天睡**得**好吗？ | Nǐ zuótiān shuì **de** hǎo ma? | Hai dormito bene ieri?
+ex: 今天热**得**要命。 | Jīntiān rè **de** yàomìng. | Oggi fa un caldo da morire.
+ex: 他高兴**得**跳了起来。 | Tā gāoxìng **de** tiào le qilai. | Era così contento che si è messo a saltare.
+
+### Il complemento potenziale
+
+= V + 得/不 + complemento di risultato o di direzione
+
+Inserito tra il verbo e un complemento di risultato o di direzione, 得 indica la possibilità di ottenere il risultato; la forma negativa sostituisce 得 con 不 (vedi il capitolo «Il complemento potenziale»).
+
+ex: 老师说的话你听**得**懂吗？ | Lǎoshī shuō de huà nǐ tīng **de** dǒng ma? | Riesci a capire quello che dice l'insegnante?
+ex: 字太小了，我看**不**清楚。 | Zì tài xiǎo le, wǒ kàn **bu** qīngchu. | I caratteri sono troppo piccoli, non riesco a leggerli bene.
+ex: 这么多菜，我们吃**得**完吗？ | Zhème duō cài, wǒmen chī **de** wán ma? | Tutti questi piatti, riusciremo a finirli?
+
+## I tre 的, 地, 得 a confronto
+
+| | 的 | 地 | 得 |
+| Funzione | lega un attributo | lega un avverbiale | introduce un complemento |
+| Posizione | prima del nome | prima del verbo | dopo V o Agg |
+| Cosa segue | N | V | Agg, frase, risultato |
+| Esempio | 认真的学生 | 认真地学习 | 学得很认真 |
+| Traduzione | uno studente serio | studiare con serietà | studia seriamente |
+
+La regola pratica è semplice: si guarda ciò che *segue* la particella. Se segue un nome si scrive 的; se segue un verbo si scrive 地; se la particella viene subito *dopo* un verbo o un aggettivo e la segue una valutazione o un risultato, si scrive 得.
+
+ex: 他是一个**认真的**学生。 | Tā shì yí ge **rènzhēn de** xuésheng. | È uno studente serio.
+ex: 他每天都**认真地**学习。 | Tā měi tiān dōu **rènzhēn de** xuéxí. | Ogni giorno studia con serietà.
+ex: 他学**得**很认真。 | Tā xué **de** hěn rènzhēn. | Studia seriamente.
+ex: 她**高兴的**样子真可爱。 | Tā **gāoxìng de** yàngzi zhēn kě'ài. | Com'è carina quando è contenta! (lett. il suo aspetto contento)
+ex: 她**高兴地**唱了起来。 | Tā **gāoxìng de** chàng le qilai. | Si è messa a cantare tutta contenta.
+ex: 她高兴**得**唱了起来。 | Tā gāoxìng **de** chàng le qilai. | Era così contenta che si è messa a cantare.
+
+! Le ultime due frasi differiscono solo per il carattere: con 地 l'allegria è il modo in cui canta; con 得 il canto è la conseguenza dell'allegria, che ha raggiunto un grado tale da farla cantare.
+
+## 的, 地, 得 nella lingua scritta
+
+Poiché nel parlato le tre particelle suonano identiche, nella scrittura informale (chat, social network, commenti in rete) molti parlanti nativi le confondono o usano 的 al posto di tutte e tre: 慢慢的走 invece di 慢慢地走, 跑的很快 invece di 跑得很快. Anche nella letteratura della prima metà del Novecento e in parte della scrittura taiwanese 的 si trova spesso al posto di 地.
+
+La norma del cinese standard continentale, insegnata a scuola e richiesta negli esami (HSK compreso), distingue però chiaramente le tre particelle. Chi studia dovrebbe sempre rispettare la distinzione: 的 davanti al nome, 地 davanti al verbo, 得 dopo il verbo o l'aggettivo.
+
+ex: 他跑**得**很快。 | Tā pǎo **de** hěn kuài. | Corre veloce. (scrittura standard)
+no: 他跑的很快。 | Tā pǎo de hěn kuài. | Scrittura informale, da evitare: secondo la norma qui va 得.
+
+! In alcuni casi lo scambio cambia il senso: 他说的很好 si può leggere «quello che ha detto è molto buono» (的 nominalizzante), mentre 他说得很好 significa «parla bene, si è espresso bene».
+
+## Errori tipici degli italiani
+
+### L'ordine della relativa
+
+In italiano la relativa segue il nome ed è introdotta da «che»; in cinese la precede, senza pronome, ed è chiusa da 的.
+
+no: 我喜欢书你给我的。 | Wǒ xǐhuan shū nǐ gěi wǒ de. | Errato: la relativa va prima del nome.
+ex: 我喜欢**你给我的**书。 | Wǒ xǐhuan **nǐ gěi wǒ de** shū. | Mi piace il libro che mi hai regalato.
+no: 那个人谁住在楼上是我的老师。 | Nàge rén shéi zhù zài lóu shang shì wǒ de lǎoshī. | Errato: non esiste un pronome relativo; 谁 è solo interrogativo.
+ex: **住在楼上的**那个人是我的老师。 | **Zhù zài lóu shang de** nàge rén shì wǒ de lǎoshī. | La persona che abita al piano di sopra è il mio insegnante.
+no: 我认识一个人会说汉语。 | Wǒ rènshi yí ge rén huì shuō Hànyǔ. | Errato (o innaturale): la relativa deve precedere il nome.
+ex: 我认识一个**会说汉语的**人。 | Wǒ rènshi yí ge **huì shuō Hànyǔ de** rén. | Conosco una persona che sa parlare cinese.
+
+### Il 的 mancante
+
+no: 这是我昨天买书。 | Zhè shì wǒ zuótiān mǎi shū. | Errato: senza 的 non è una relativa.
+ex: 这是**我昨天买的**书。 | Zhè shì **wǒ zuótiān mǎi de** shū. | Questo è il libro che ho comprato ieri.
+no: 他是一个很聪明孩子。 | Tā shì yí ge hěn cōngming háizi. | Errato: Avv + Agg come attributo richiede 的.
+ex: 他是一个**很聪明的**孩子。 | Tā shì yí ge **hěn cōngming de** háizi. | È un bambino molto intelligente.
+no: 这是老师书。 | Zhè shì lǎoshī shū. | Errato: con un nome comune il 的 possessivo non si omette.
+ex: 这是**老师的**书。 | Zhè shì **lǎoshī de** shū. | Questo è il libro dell'insegnante.
+
+### Il 的 di troppo
+
+no: 他是我的好的朋友。 | Tā shì wǒ de hǎo de péngyou. | Innaturale: con un aggettivo monosillabico 的 si omette.
+ex: 他是我的**好朋友**。 | Tā shì wǒ de **hǎo péngyou**. | È un mio caro amico.
+no: 我有两个的哥哥。 | Wǒ yǒu liǎng ge de gēge. | Errato: dopo Num + CL non si usa 的.
+ex: 我有**两个**哥哥。 | Wǒ yǒu **liǎng ge** gēge. | Ho due fratelli maggiori.
+no: 今天的天气是很好的。 | Jīntiān de tiānqì shì hěn hǎo de. | Innaturale: per descrivere basta 很 + Agg, senza 是……的.
+ex: 今天的天气**很好**。 | Jīntiān de tiānqì **hěn hǎo**. | Oggi il tempo è bello.
+no: 我住在罗马的城市。 | Wǒ zhù zài Luómǎ de chéngshì. | Errato: «la città di Roma» non è un possesso, il «di» italiano non si traduce con 的.
+ex: 我住在**罗马**。 | Wǒ zhù zài **Luómǎ**. | Abito a Roma. (oppure 罗马市 Luómǎ shì)
+
+### La confusione tra 地 e 得
+
+no: 他跑地很快。 | Tā pǎo de hěn kuài. | Errato: dopo il verbo, davanti al complemento, si scrive 得.
+ex: 他跑**得**很快。 | Tā pǎo **de** hěn kuài. | Corre veloce.
+no: 他认真得学习。 | Tā rènzhēn de xuéxí. | Errato: davanti al verbo, per l'avverbiale, si scrive 地.
+ex: 他**认真地**学习。 | Tā **rènzhēn de** xuéxí. | Studia con impegno.
+no: 他说汉语得很好。 | Tā shuō Hànyǔ de hěn hǎo. | Errato: 得 segue direttamente il verbo, non l'oggetto.
+ex: 他(说)汉语说**得**很好。 | Tā (shuō) Hànyǔ shuō **de** hěn hǎo. | Parla bene il cinese.
+
+! Per tradurre «il libro che ho comprato», conviene procedere a ritroso: si costruisce la frase 我买了书, si toglie il nome testa e il 了 (我买), si aggiunge 的 e si mette il nome alla fine: 我买的书.

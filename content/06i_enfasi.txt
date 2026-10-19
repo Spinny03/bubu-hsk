@@ -1,0 +1,95 @@
+# L'enfasi
+
+Per mettere in rilievo un elemento della frase, l'italiano ricorre spesso all'intonazione, all'ordine delle parole o a parole come «perfino», «nemmeno», «proprio», «affatto». Il cinese dispone di costruzioni specifiche per l'enfasi (强调 qiángdiào): 连……都/也……, 一 + CL + 也/都 + negazione, i pronomi interrogativi seguiti da 都/也, il 是 enfatico, numerosi avverbi e altri mezzi come l'anticipazione del tema e le domande retoriche.
+
+## 连……都/也……
+
+连 lián introduce l'elemento più sorprendente o estremo («perfino X», «nemmeno X»); nella seconda parte della frase compare obbligatoriamente 都 o 也. Il sottinteso è: «se vale per X, vale a maggior ragione per tutti gli altri». L'elemento introdotto da 连 precede sempre il verbo: se è l'oggetto, viene anticipato dopo il soggetto (o in testa alla frase).
+
+= 连 + S + 都/也 + V/Agg
+= S + 连 + O + 都/也 + V
+= S + 连 + Tempo/Luogo + 都/也 + V
+
+ex: **连**小孩儿**都**知道。 | **Lián** xiǎoháir **dōu** zhīdao. | Lo sa perfino un bambino.
+ex: **连**我**都**不认识他。 | **Lián** wǒ **dōu** bú rènshi tā. | Non lo conosco nemmeno io.
+ex: 他**连**一口水**也**没喝。 | Tā **lián** yì kǒu shuǐ **yě** méi hē. | Non ha bevuto nemmeno un sorso d'acqua.
+ex: 我**连**他的名字**都**忘了。 | Wǒ **lián** tā de míngzi **dōu** wàng le. | Ho dimenticato persino il suo nome.
+ex: 这个字**连**老师**也**不认识。 | Zhège zì **lián** lǎoshī **yě** bú rènshi. | Questo carattere non lo conosce nemmeno l'insegnante.
+ex: 他**连**星期天**都**工作。 | Tā **lián** xīngqītiān **dōu** gōngzuò. | Lavora perfino la domenica.
+ex: 他忙得**连**饭**都**没时间吃。 | Tā máng de **lián** fàn **dōu** méi shíjiān chī. | È così impegnato che non ha nemmeno il tempo di mangiare.
+no: 他没喝连一口水。 | Tā méi hē lián yì kǒu shuǐ. | Errato: l'elemento introdotto da 连 deve precedere il verbo.
+ex: 他连一口水也没喝。 | Tā lián yì kǒu shuǐ yě méi hē. | Non ha bevuto nemmeno un sorso d'acqua.
+
+! 都 è più frequente di 也 nelle frasi affermative; nelle negative si usano entrambi. Nel parlato 连 si può omettere, ma 都/也 restano: 他一口水也没喝, 小孩儿都知道.
+
+### 连 + V + 都/也 + 不/没 + V
+
+Anche un verbo può essere messo in rilievo: lo si ripete dopo 都/也 e la negazione. Il senso è «non… neppure» (non ha nemmeno guardato, non ci ha nemmeno pensato).
+
+= S + 连 + V + 都/也 + 不/没 + V
+
+ex: 他**连**看**都**不看。 | Tā **lián** kàn **dōu** bú kàn. | Non ci dà neanche un'occhiata.
+ex: 她**连**想**都**没想就答应了。 | Tā **lián** xiǎng **dōu** méi xiǎng jiù dāying le. | Ha accettato senza nemmeno pensarci.
+ex: 这件事我**连**听**都**没听说过。 | Zhè jiàn shì wǒ **lián** tīng **dōu** méi tīngshuō guo. | Di questa faccenda non ho mai neanche sentito parlare.
+ex: 他**连**问**也**不问就拿走了。 | Tā **lián** wèn **yě** bú wèn jiù názǒu le. | Se l'è preso senza nemmeno chiedere.
+
+### 连……带……
+
+连 A 带 B ha due usi: con due verbi indica due azioni compiute contemporaneamente, con un ritmo vivace («saltellando e balzando», «tra il mangiare e il bere»); con due nomi significa «A e B insieme, B compreso».
+
+= 连 + V₁ + 带 + V₂
+= 连 + N₁ + 带 + N₂
+
+ex: 孩子们**连**蹦**带**跳地跑了进来。 | Háizimen **lián** bèng **dài** tiào de pǎo le jinlai. | I bambini entrarono di corsa, saltellando.
+ex: 他**连**说**带**笑地走了进来。 | Tā **lián** shuō **dài** xiào de zǒu le jinlai. | Entrò parlando e ridendo.
+ex: 我们**连**吃**带**喝，一共花了三百块。 | Wǒmen **lián** chī **dài** hē, yígòng huā le sānbǎi kuài. | Tra cibo e bevande abbiamo speso in tutto trecento yuan.
+ex: **连**本**带**利一共一万块。 | **Lián** běn **dài** lì yígòng yíwàn kuài. | Tra capitale e interessi fanno diecimila yuan in tutto.
+
+! Da solo, 连 può anche significare «compreso»: 连我一共五个人 «me compreso, siamo cinque in tutto».
+
+## 一 + CL + (N) + 也/都 + negazione
+
+Per negare in modo assoluto («neanche uno», «per niente») si mette davanti al verbo la quantità minima, 一 + CL (+ N) o 一点儿 (+ N), seguita da 也 o 都 e dalla negazione. Anche qui, se la quantità riguarda l'oggetto, essa precede il verbo. La costruzione è quasi sempre negativa.
+
+= 一 + CL + (N) + 也/都 + 不/没 + V
+= 一点儿 + (N) + 也/都 + 不/没 + V/Agg
+
+ex: 教室里**一个人也**没有。 | Jiàoshì li **yí ge rén yě** méiyǒu. | In aula non c'è nemmeno una persona.
+ex: 我**一点儿也**不累。 | Wǒ **yìdiǎnr yě** bú lèi. | Non sono per niente stanco.
+ex: 他**一次也**没去过长城。 | Tā **yí cì yě** méi qù guo Chángchéng. | Non è mai stato alla Grande Muraglia, nemmeno una volta.
+ex: 我**一分钱都**没有了。 | Wǒ **yì fēn qián dōu** méiyǒu le. | Non ho più neanche un centesimo.
+ex: 他**一句话都**没听懂。 | Tā **yí jù huà dōu** méi tīngdǒng. | Non ha capito nemmeno una frase.
+ex: 今天我**一口饭也**吃不下。 | Jīntiān wǒ **yì kǒu fàn yě** chī bu xià. | Oggi non riesco a mandare giù neanche un boccone.
+ex: 这件衣服**一点儿都**不贵。 | Zhè jiàn yīfu **yìdiǎnr dōu** bú guì. | Questo vestito non è affatto caro.
+no: 我不累一点儿。 | Wǒ bú lèi yìdiǎnr. | Errato: 一点儿 + 也/都 precede la negazione.
+ex: 我一点儿也不累。 | Wǒ yìdiǎnr yě bú lèi. | Non sono per niente stanco.
+no: 他没去过一次长城。 | Tā méi qù guo yí cì Chángchéng. | Errato: per «neanche una volta» la quantità con 一 va davanti al verbo, con 也/都.
+ex: 他一次也没去过长城。 | Tā yí cì yě méi qù guo Chángchéng. | Non è mai stato alla Grande Muraglia, nemmeno una volta.
+
+Con lo stesso schema, 一 + verbo monosillabico + 也/都 + 不 + lo stesso verbo indica l'assenza totale dell'azione: 一动也不动 «senza muoversi affatto». Simile è l'espressione fissa 一声也不吭 «senza fiatare».
+
+ex: 他**一动也不动**地坐着。 | Tā **yí dòng yě bú dòng** de zuò zhe. | Se ne stava seduto immobile.
+
+## Pronomi interrogativi + 都/也
+
+I pronomi interrogativi (谁, 什么, 哪儿, 怎么, 什么时候, 哪 + CL …) seguiti da 都 o 也 perdono il valore interrogativo e assumono un valore universale: «tutti, chiunque», «tutto, qualsiasi cosa», «dappertutto, dovunque», «comunque»; con la negazione «nessuno, niente, da nessuna parte, in nessun modo» (vedi il capitolo «I pronomi»). Il pronome precede sempre 都/也 e il verbo; se è oggetto, viene quindi anticipato.
+
+= 谁/什么/哪儿/怎么/什么时候/哪 + CL + 都/也 + (不/没) + V/Agg
+
+ex: **谁都**知道。 | **Shéi dōu** zhīdao. | Lo sanno tutti.
+ex: 他**什么也**不想吃。 | Tā **shénme yě** bù xiǎng chī. | Non vuole mangiare niente.
+ex: 我**哪儿都**不想去。 | Wǒ **nǎr dōu** bù xiǎng qù. | Non voglio andare da nessuna parte.
+ex: 我的钥匙**怎么也**找不到。 | Wǒ de yàoshi **zěnme yě** zhǎo bu dào. | Le mie chiavi non riesco a trovarle in nessun modo.
+ex: **谁也**没来。 | **Shéi yě** méi lái. | Non è venuto nessuno.
+ex: 这几本书**哪本都**很有意思。 | Zhè jǐ běn shū **nǎ běn dōu** hěn yǒu yìsi. | Questi libri sono tutti interessanti, nessuno escluso.
+no: 他不想吃什么也。 | Tā bù xiǎng chī shénme yě. | Errato: il pronome con 也/都 deve precedere il verbo.
+ex: 他什么也不想吃。 | Tā shénme yě bù xiǎng chī. | Non vuole mangiare niente.
+
+Nelle frasi affermative si usa di preferenza 都.
+
+ex: **谁都**可以参加。 | **Shéi dōu** kěyǐ cānjiā. | Può partecipare chiunque.
+ex: 他**什么都**会做。 | Tā **shénme dōu** huì zuò. | Sa fare di tutto.
+ex: 你**什么时候**来**都**可以。 | Nǐ **shénme shíhou** lái **dōu** kěyǐ. | Puoi venire quando vuoi.
+ex: 我**哪儿都**去过了。 | Wǒ **nǎr dōu** qù guo le. | Sono già stato dappertutto.
+
+! Senza 都/也 il pronome dopo il verbo negato ha un valore indefinito più debole: 我不想吃什么 «non ho voglia di mangiare niente di particolare». Con 不管/无论 il pronome interrogativo forma frasi concessive (不管你怎么说，我都不去): vedi il capitolo «Frasi alternative, avversative e concessive».

@@ -1,0 +1,271 @@
+# Le frasi interrogative
+
+Le frasi interrogative (疑问句 yíwènjù) del cinese hanno una caratteristica fondamentale: l'ordine delle parole è lo stesso della frase affermativa. Non c'è inversione e il pronome interrogativo non si sposta all'inizio della frase, ma rimane nella posizione che avrà la risposta. La domanda è segnalata da una particella finale (吗, 呢, 吧), dalla forma affermativo-negativa (去不去), dalla congiunzione 还是 o da un pronome interrogativo.
+
+| Tipo | Struttura | Esempio |
+| domanda con 吗 | frase + 吗 | 你忙吗？ |
+| affermativo-negativa | V/Agg + 不 + V/Agg | 你忙不忙？ |
+| alternativa | A + 还是 + B | 你喝茶还是喝咖啡？ |
+| con pronome interrogativo | 谁, 什么, 哪儿… | 你去哪儿？ |
+| con 呢 | N + 呢 | 你呢？ |
+| con 吧 | frase + 吧 | 你是老师吧？ |
+| di conferma | frase + 好吗, 对吗… | 我们走吧，好吗？ |
+
+## Domande con 吗
+
+Le domande con 吗 ma, dette anche domande sì/no (是非问句 shìfēi wènjù), si formano aggiungendo 吗 a una frase affermativa o negativa, senza cambiare nient'altro. Sono il tipo di domanda più semplice e più frequente.
+
+= Frase + 吗？
+
+ex: 你是学生**吗**？ | Nǐ shì xuésheng **ma**? | Sei uno studente?
+ex: 你喜欢吃辣的**吗**？ | Nǐ xǐhuan chī là de **ma**? | Ti piace il piccante?
+ex: 你明天来**吗**？ | Nǐ míngtiān lái **ma**? | Vieni domani?
+ex: 你会说中文**吗**？ | Nǐ huì shuō Zhōngwén **ma**? | Sai parlare cinese?
+ex: 他已经走了**吗**？ | Tā yǐjīng zǒu le **ma**? | È già andato via?
+ex: 这儿可以拍照**吗**？ | Zhèr kěyǐ pāi zhào **ma**? | Qui si possono fare foto?
+
+### Come si risponde
+
+Il cinese non ha una parola che corrisponda esattamente a «sì». Per rispondere affermativamente si ripete il verbo, l'aggettivo o il verbo modale della domanda (senza l'oggetto); per rispondere negativamente lo si nega con 不 o 没.
+
+ex: A：你忙吗？B：很忙。/ 不忙。 | A: Nǐ máng ma? B: Hěn máng. / Bù máng. | A: Sei impegnato? B: Sì, molto. / No.
+ex: A：你会游泳吗？B：**会**。 | A: Nǐ huì yóuyǒng ma? B: **Huì**. | A: Sai nuotare? B: Sì.
+ex: A：你去过上海吗？B：**去过**。 | A: Nǐ qù guo Shànghǎi ma? B: **Qù guo**. | A: Sei mai stato a Shanghai? B: Sì.
+ex: A：你吃饭了吗？B：**吃了**。/ **还没吃**。 | A: Nǐ chī fàn le ma? B: **Chī le**. / **Hái méi chī**. | A: Hai mangiato? B: Sì. / Non ancora.
+ex: A：你认识他吗？B：**不认识**。 | A: Nǐ rènshi tā ma? B: **Bú rènshi**. | A: Lo conosci? B: No.
+
+Quando nella domanda c'è 是, si risponde con 是 / 不是. Per confermare che quanto detto è giusto si usano anche 对 «giusto» e 是的 «sì» (più cortese): si possono usare con qualsiasi domanda nel senso di «esatto, è così», ma la risposta più naturale resta la ripetizione del verbo.
+
+ex: A：他是你哥哥吗？B：**是**。/ **不是**。 | A: Tā shì nǐ gēge ma? B: **Shì**. / **Bú shì**. | A: È tuo fratello? B: Sì. / No.
+ex: A：你是意大利人吗？B：**是的**。 | A: Nǐ shì Yìdàlìrén ma? B: **Shì de**. | A: Sei italiano? B: Sì.
+ex: A：你明天走吗？B：**对**，明天上午走。 | A: Nǐ míngtiān zǒu ma? B: **Duì**, míngtiān shàngwǔ zǒu. | A: Parti domani? B: Esatto, domani mattina.
+no: A：你喜欢这个菜吗？B：是。 | A: Nǐ xǐhuan zhège cài ma? B: Shì. | Innaturale: per rispondere «sì» si ripete il verbo.
+ex: A：你喜欢这个菜吗？B：**喜欢**。 | A: Nǐ xǐhuan zhège cài ma? B: **Xǐhuan**. | A: Ti piace questo piatto? B: Sì.
+
+### Le domande negative
+
+Una domanda con 吗 può contenere una negazione: 你不去吗？ «non ci vai?». Spesso esprime sorpresa o il desiderio di verificare una supposizione. La risposta richiede molta attenzione, perché funziona diversamente dall'italiano.
+
+In italiano «sì» e «no» indicano la polarità della risposta: «No (non ci vado)», «Sì (ci vado)». In cinese, invece, 对 / 是的 e 不 si riferiscono a ciò che ha detto chi domanda: 对 significa «quello che dici è giusto», 不 significa «quello che dici è sbagliato». Perciò, a una domanda negativa:
+
+- se si conferma il contenuto negativo, si dice 对 / 是的 + frase negativa (in italiano: «No, …»);
+- se lo si smentisce, si dice 不 + frase affermativa (in italiano: «Sì, …», «Ma sì che…»).
+
+| Domanda | Risposta cinese | Senso | Italiano |
+| 你不去吗？ | 对，我不去。 | confermo: non vado | No, non ci vado. |
+| 你不去吗？ | 不，我去。 | smentisco: vado | Sì che ci vado! |
+| 他没来吗？ | 是的，他没来。 | confermo | No, non è venuto. |
+| 他没来吗？ | 不，他来了。 | smentisco | Sì, è venuto. |
+
+ex: A：你不喜欢吃鱼吗？B：**对**，我不喜欢。 | A: Nǐ bù xǐhuan chī yú ma? B: **Duì**, wǒ bù xǐhuan. | A: Non ti piace il pesce? B: No, non mi piace.
+ex: A：你不喜欢吃鱼吗？B：**不**，我很喜欢。 | A: Nǐ bù xǐhuan chī yú ma? B: **Bù**, wǒ hěn xǐhuan. | A: Non ti piace il pesce? B: Sì, invece, mi piace molto.
+ex: A：他还没来吗？B：**是的**，还没来。 | A: Tā hái méi lái ma? B: **Shì de**, hái méi lái. | A: Non è ancora arrivato? B: No, non ancora.
+ex: A：你没去吗？B：**不**，我去了。 | A: Nǐ méi qù ma? B: **Bù**, wǒ qù le. | A: Non ci sei andato? B: Sì, ci sono andato.
+ex: A：你不知道吗？B：**不知道**，没人告诉我。 | A: Nǐ bù zhīdao ma? B: **Bù zhīdao**, méi rén gàosu wǒ. | A: Non lo sai? B: No, nessuno me l'ha detto.
+
+! Il modo più sicuro per evitare equivoci è non cominciare la risposta con 对 o 不, ma ripetere direttamente il verbo nella forma voluta: A：你不去吗？B：我不去。/ 我去。 Le risposte isolate 对 o 不, senza verbo, sono quelle che più spesso creano malintesi fra italiani e cinesi.
+
+### Domande senza particella
+
+La sola intonazione ascendente può trasformare un'affermazione in domanda. Queste domande esprimono sorpresa o incredulità:
+
+ex: 你不去？ | Nǐ bú qù? | Non ci vai?!
+ex: 他是你男朋友？ | Tā shì nǐ nánpéngyou? | È il tuo ragazzo?!
+
+## Domande affermativo-negative
+
+Le domande affermativo-negative (正反问句 zhèngfǎn wènjù) accostano la forma affermativa e quella negativa del predicato: 去不去 «ci vai o non ci vai?». Sono domande neutre, che non lasciano trasparire aspettative; rispetto a quelle con 吗 suonano più dirette e sono frequentissime nel parlato. Nel pinyin, 不 fra le due forme è in tono neutro.
+
+= S + V + 不 + V？
+= S + Agg + 不 + Agg？
+
+ex: 你**去不去**？ | Nǐ **qù bu qù**? | Ci vai?
+ex: 他**是不是**中国人？ | Tā **shì bu shì** Zhōngguórén? | È cinese?
+ex: 这件衣服**贵不贵**？ | Zhè jiàn yīfu **guì bu guì**? | Questo vestito è caro?
+ex: 你**累不累**？ | Nǐ **lèi bu lèi**? | Sei stanco?
+ex: 汉字**难不难**？ | Hànzì **nán bu nán**? | I caratteri cinesi sono difficili?
+
+Si risponde come alle domande con 吗, con la forma affermativa o con quella negativa: 去。/ 不去。 Nella forma affermativo-negativa l'aggettivo non prende avverbi di grado:
+
+no: 你很忙不忙？ | Nǐ hěn máng bu máng? | Errato: nella forma A不A l'aggettivo non prende 很.
+ex: 你**忙不忙**？ | Nǐ **máng bu máng**? | Sei impegnato?
+
+### Verbi e aggettivi bisillabi
+
+Con verbi e aggettivi di due sillabe (AB) si può ripetere la parola intera (AB不AB) oppure, nel parlato, solo la prima sillaba (A不AB). La seconda forma è oggi la più frequente.
+
+= AB + 不 + AB？
+= A + 不 + AB？
+
+ex: 你**喜欢不喜欢**他？ | Nǐ **xǐhuan bu xǐhuan** tā? | Ti piace?
+ex: 你**喜不喜欢**他？ | Nǐ **xǐ bu xǐhuan** tā? | Ti piace?
+ex: 那个地方**漂亮不漂亮**？ | Nàge dìfang **piàoliang bu piàoliang**? | Quel posto è bello?
+ex: 那个地方**漂不漂亮**？ | Nàge dìfang **piào bu piàoliang**? | Quel posto è bello?
+ex: 你**认不认识**她？ | Nǐ **rèn bu rènshi** tā? | La conosci?
+ex: 明天你**方不方便**？ | Míngtiān nǐ **fāng bu fāngbiàn**? | Domani ti va bene?
+
+### Con l'oggetto
+
+Se il verbo ha un oggetto, questo si colloca dopo la forma affermativo-negativa oppure fra la parte affermativa e quella negativa:
+
+= S + V + 不 + V + O？
+= S + V + O + 不 + V？
+
+ex: 你**吃不吃**饭？ | Nǐ **chī bu chī** fàn? | Mangi?
+ex: 你吃饭**不吃**？ | Nǐ chī fàn **bù chī**? | Mangi o no?
+ex: 你**喝不喝**咖啡？ | Nǐ **hē bu hē** kāfēi? | Prendi un caffè?
+ex: 你明天来学校**不来**？ | Nǐ míngtiān lái xuéxiào **bù lái**? | Domani vieni a scuola o no?
+
+### 有没有
+
+La forma affermativo-negativa di 有 è 有没有 (mai 有不有); anche qui l'oggetto può stare dopo o in mezzo:
+
+ex: 你**有没有**护照？ | Nǐ **yǒu méiyǒu** hùzhào? | Hai il passaporto?
+ex: 你**有**护照**没有**？ | Nǐ **yǒu** hùzhào **méiyǒu**? | Hai il passaporto o no?
+
+### Le azioni passate
+
+Per chiedere se un'azione è avvenuta si usa 没 al posto di 不: V + 没 + V, oppure V + 了 + 没有 in fine di frase. Nel parlato è molto diffusa anche la forma 有没有 + V, soprattutto con 过.
+
+= S + V + 没 + V + (O)？
+= S + V + (O) + 了 + 没有？
+= S + 有没有 + V + (O)？
+
+ex: 你**去没去**？ | Nǐ **qù méi qù**? | Ci sei andato?
+ex: 你**去了没有**？ | Nǐ **qù le méiyǒu**? | Ci sei andato o no?
+ex: 你**看没看**那个电影？ | Nǐ **kàn méi kàn** nàge diànyǐng? | L'hai visto quel film?
+ex: 你作业**写完了没有**？ | Nǐ zuòyè **xiěwán le méiyǒu**? | Hai finito i compiti?
+ex: 你去过长城**没有**？ | Nǐ qù guo Chángchéng **méiyǒu**? | Sei mai stato alla Grande Muraglia?
+ex: 你**有没有**去过长城？ | Nǐ **yǒu méiyǒu** qù guo Chángchéng? | Sei mai stato alla Grande Muraglia?
+no: 你昨天去了不去？ | Nǐ zuótiān qù le bu qù? | Errato: per le azioni passate la parte negativa è 没(有).
+ex: 你昨天**去了没有**？ | Nǐ zuótiān **qù le méiyǒu**? | Ieri ci sei andato?
+
+### Con i verbi modali
+
+Con i verbi modali la forma affermativo-negativa si applica al modale, non al verbo principale: 能不能, 会不会, 想不想, 要不要, 可(以)不可以, 应(该)不应该.
+
+= S + Mod + 不 + Mod + V + (O)？
+
+ex: 你**能不能**帮我一下？ | Nǐ **néng bu néng** bāng wǒ yíxià? | Mi puoi dare una mano?
+ex: 明天**会不会**下雨？ | Míngtiān **huì bu huì** xià yǔ? | Domani pioverà?
+ex: 我**可不可以**用一下你的手机？ | Wǒ **kě bu kěyǐ** yòng yíxià nǐ de shǒujī? | Posso usare un attimo il tuo cellulare?
+ex: 你**想不想**去中国？ | Nǐ **xiǎng bu xiǎng** qù Zhōngguó? | Vuoi andare in Cina?
+ex: 我们**要不要**带伞？ | Wǒmen **yào bu yào** dài sǎn? | Dobbiamo portare l'ombrello?
+no: 你能去不去？ | Nǐ néng qù bu qù? | Errato: si raddoppia il verbo modale, non il verbo principale.
+ex: 你**能不能**去？ | Nǐ **néng bu néng** qù? | Puoi andarci?
+
+### Niente 吗
+
+La forma affermativo-negativa è già una domanda e non vuole 吗. Si può invece aggiungere 呢 o 啊 per rendere il tono più morbido o più insistente (vedi più avanti «Domande con 呢»).
+
+no: 你去不去吗？ | Nǐ qù bu qù ma? | Errato: la forma A不A non si combina con 吗.
+ex: 你**去不去**？ | Nǐ **qù bu qù**? | Ci vai?
+ex: 你去**吗**？ | Nǐ qù **ma**? | Ci vai?
+ex: 你到底**去不去呢**？ | Nǐ dàodǐ **qù bu qù ne**? | Insomma, ci vai o no?
+
+### Niente avverbi come 也, 都, 常常
+
+La forma affermativo-negativa non si usa quando il predicato è preceduto da avverbi come 也, 都, 已经, 常常, 一定 o da avverbi di grado. In questi casi si usa la domanda con 吗. Alcuni avverbi, come 常, possono però entrare essi stessi nella forma affermativo-negativa.
+
+no: 你也去不去？ | Nǐ yě qù bu qù? | Errato: la forma A不A non si usa dopo avverbi come 也.
+ex: 你**也**去**吗**？ | Nǐ **yě** qù **ma**? | Ci vai anche tu?
+no: 他们都来不来？ | Tāmen dōu lái bu lái? | Errato: la forma A不A non si usa dopo 都.
+ex: 他们**都**来**吗**？ | Tāmen **dōu** lái **ma**? | Vengono tutti?
+ex: 你**常不常**去那儿？ | Nǐ **cháng bu cháng** qù nàr? | Ci vai spesso?
+
+### 是不是 davanti al predicato
+
+是不是 si può inserire davanti al predicato (o in fondo alla frase) per chiedere conferma di una supposizione: «è vero che…?», «per caso…?». In questa funzione può precedere anche 也, 都 e la negazione (vedi più avanti «Domande di conferma»).
+
+ex: 你**是不是**也想去？ | Nǐ **shì bu shì** yě xiǎng qù? | Vuoi andarci anche tu, vero?
+ex: 你**是不是**不舒服？ | Nǐ **shì bu shì** bù shūfu? | Per caso non ti senti bene?
+ex: 他们**是不是**都走了？ | Tāmen **shì bu shì** dōu zǒu le? | Se ne sono andati tutti?
+
+## Domande alternative con 还是
+
+Le domande alternative (选择问句 xuǎnzé wènjù) offrono all'interlocutore due o più possibilità, collegate da 还是 háishi «o, oppure». Davanti alla prima alternativa si può mettere 是, che rende la scelta più esplicita.
+
+= S + (是) + A + 还是 + B？
+
+ex: 你喝茶**还是**喝咖啡？ | Nǐ hē chá **háishi** hē kāfēi? | Prendi tè o caffè?
+ex: 你**是**今天走**还是**明天走？ | Nǐ **shì** jīntiān zǒu **háishi** míngtiān zǒu? | Parti oggi o domani?
+ex: 他是中国人**还是**日本人？ | Tā shì Zhōngguórén **háishi** Rìběnrén? | È cinese o giapponese?
+ex: 你要大的**还是**小的？ | Nǐ yào dà de **háishi** xiǎo de? | Vuoi quello grande o quello piccolo?
+ex: 我们坐地铁去**还是**打车去？ | Wǒmen zuò dìtiě qù **háishi** dǎ chē qù? | Andiamo in metropolitana o in taxi?
+ex: 你去，**还是**我去？ | Nǐ qù, **háishi** wǒ qù? | Vai tu o vado io?
+
+Il verbo della seconda alternativa si può ripetere o omettere: 你喝茶还是(喝)咖啡？ Se il verbo è 是, non si raddoppia: 他是中国人还是日本人？ Si risponde scegliendo una delle alternative: 喝茶。/ 我喝咖啡。 Anche le domande alternative non vogliono 吗; si può aggiungere 呢.
+
+no: 你喝茶还是喝咖啡吗？ | Nǐ hē chá háishi hē kāfēi ma? | Errato: la domanda alternativa non vuole 吗.
+ex: 你喝茶**还是**喝咖啡**呢**？ | Nǐ hē chá **háishi** hē kāfēi **ne**? | Allora, prendi tè o caffè?
+
+### 还是 e 或者
+
+L'italiano «o, oppure» corrisponde a due parole cinesi. 还是 si usa nelle domande alternative, quando si chiede di scegliere; 或者 huòzhě si usa nelle frasi affermative, quando l'una o l'altra possibilità va bene. 还是 si usa anche nelle domande indirette (我不知道他去还是不去) e dopo 不管, 无论 (vedi il capitolo «Frasi alternative, avversative e concessive»).
+
+| | 还是 | 或者 |
+| Tipo di frase | domanda alternativa | frase affermativa |
+| Significato | o…? (scegli) | o, oppure (va bene tutto) |
+| Esempio | 你去还是我去？ | 你去或者我去都行。 |
+| Con 吗 | mai | sì, in domande sì/no |
+| Domanda indiretta | 不知道他去还是不去 | no |
+
+no: 你喝茶或者咖啡？ | Nǐ hē chá huòzhě kāfēi? | Errato: nelle domande alternative si usa 还是.
+ex: 你喝茶**还是**咖啡？ | Nǐ hē chá **háishi** kāfēi? | Prendi tè o caffè?
+no: 我明天还是后天去北京。 | Wǒ míngtiān háishi hòutiān qù Běijīng. | Errato: in una frase affermativa «oppure» si dice 或者.
+ex: 我明天**或者**后天去北京。 | Wǒ míngtiān **huòzhě** hòutiān qù Běijīng. | Vado a Pechino domani o dopodomani.
+ex: 你可以坐地铁**或者**坐公交车。 | Nǐ kěyǐ zuò dìtiě **huòzhě** zuò gōngjiāochē. | Puoi prendere la metropolitana oppure l'autobus.
+ex: 你想喝点儿茶**或者**咖啡吗？ | Nǐ xiǎng hē diǎnr chá **huòzhě** kāfēi ma? | Vuoi un po' di tè o di caffè? (domanda sì/no: «vuoi qualcosa da bere?»)
+
+! 还是 ha anche altri significati: «ancora, tuttora» (他还是很忙) e, nelle proposte, «è meglio» (你还是去吧 «faresti meglio ad andarci»): vedi il capitolo «Gli avverbi».
+
+## Domande con i pronomi interrogativi
+
+Le domande con un pronome interrogativo (特指问句 tèzhǐ wènjù) chiedono un'informazione precisa: chi, che cosa, dove, quando, come, perché, quanto. La regola fondamentale è che il pronome interrogativo occupa esattamente la posizione dell'elemento che lo sostituirà nella risposta. A differenza dell'italiano, non si sposta all'inizio della frase.
+
+ex: A：你去**哪儿**？B：我去**图书馆**。 | A: Nǐ qù **nǎr**? B: Wǒ qù **túshūguǎn**. | A: Dove vai? B: Vado in biblioteca.
+ex: A：**谁**是你的老师？B：**王老师**是我的老师。 | A: **Shéi** shì nǐ de lǎoshī? B: **Wáng lǎoshī** shì wǒ de lǎoshī. | A: Chi è il tuo insegnante? B: Il professor Wang.
+ex: A：你**几点**起床？B：我**七点**起床。 | A: Nǐ **jǐ diǎn** qǐ chuáng? B: Wǒ **qī diǎn** qǐ chuáng. | A: A che ora ti alzi? B: Alle sette.
+ex: A：你**怎么**来的？B：我**坐地铁**来的。 | A: Nǐ **zěnme** lái de? B: Wǒ **zuò dìtiě** lái de. | A: Come sei venuto? B: In metropolitana.
+ex: A：这是**谁**的书？B：这是**马可**的书。 | A: Zhè shì **shéi** de shū? B: Zhè shì **Mǎkě** de shū. | A: Di chi è questo libro? B: È di Marco.
+ex: A：你买了**什么**？B：我买了**一件衬衫**。 | A: Nǐ mǎi le **shénme**? B: Wǒ mǎi le **yí jiàn chènshān**. | A: Che cosa hai comprato? B: Una camicia.
+ex: A：你**什么时候**回国？B：我**下个月**回国。 | A: Nǐ **shénme shíhou** huí guó? B: Wǒ **xià ge yuè** huí guó. | A: Quando torni nel tuo paese? B: Il mese prossimo.
+
+no: 哪儿你去？ | Nǎr nǐ qù? | Errato: il pronome interrogativo non va all'inizio della frase come in italiano.
+ex: 你去**哪儿**？ | Nǐ qù **nǎr**? | Dove vai?
+no: 你来什么时候？ | Nǐ lái shénme shíhou? | Errato: il tempo si mette prima del verbo, come nella risposta.
+ex: 你**什么时候**来？ | Nǐ **shénme shíhou** lái? | Quando vieni?
+
+I principali pronomi interrogativi sono riassunti nella tabella; i loro usi sono trattati nel capitolo «I pronomi».
+
+| Pronome | Pinyin | Significato |
+| 谁 | shéi (shuí) | chi |
+| 什么 | shénme | che cosa; quale, che |
+| 哪 + CL | nǎ | quale |
+| 哪儿 / 哪里 | nǎr / nǎli | dove |
+| 什么时候 | shénme shíhou | quando |
+| 几 + CL | jǐ | quanti (numeri piccoli) |
+| 多少 | duōshao | quanto, quanti |
+| 怎么 | zěnme | come; come mai |
+| 怎么样 | zěnmeyàng | come (giudizio, stato) |
+| 为什么 | wèi shénme | perché |
+
+### Niente 吗
+
+Le domande con pronome interrogativo non vogliono 吗. Se si aggiunge 吗, il pronome perde il valore interrogativo e diventa indefinito («qualcosa», «qualcuno», «da qualche parte»): la frase diventa una domanda sì/no.
+
+ex: 你想吃**什么**？ | Nǐ xiǎng chī **shénme**? | Che cosa vuoi mangiare?
+ex: 你想吃**什么吗**？ | Nǐ xiǎng chī **shénme ma**? | Vuoi mangiare qualcosa?
+ex: 你去**哪儿**？ | Nǐ qù **nǎr**? | Dove vai?
+ex: 你要去**哪儿吗**？ | Nǐ yào qù **nǎr ma**? | Devi andare da qualche parte?
+ex: 刚才有**谁**来过**吗**？ | Gāngcái yǒu **shéi** lái guo **ma**? | È passato qualcuno poco fa?
+no: 你叫什么名字吗？ | Nǐ jiào shénme míngzi ma? | Errato: con 什么 interrogativo non si usa 吗.
+ex: 你叫**什么**名字？ | Nǐ jiào **shénme** míngzi? | Come ti chiami?
+
+### Con 呢
+
+Si può invece aggiungere 呢, che rende la domanda più morbida, riflessiva o insistente:
+
+ex: 你在想**什么呢**？ | Nǐ zài xiǎng **shénme ne**? | A che cosa stai pensando?
+ex: 我们**什么时候**出发**呢**？ | Wǒmen **shénme shíhou** chūfā **ne**? | Quando partiamo, allora?
+ex: 这个字**怎么**念**呢**？ | Zhège zì **zěnme** niàn **ne**? | Come si legge questo carattere?

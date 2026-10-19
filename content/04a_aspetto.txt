@@ -1,0 +1,82 @@
+@ Aspetto e complementi
+
+# Tempo e aspetto
+
+In italiano ogni forma verbale porta con sé molte informazioni: in *andavamo* sappiamo che il soggetto è «noi», che l'azione è passata e che è vista nel suo svolgersi. Il verbo cinese, invece, è invariabile: 去 qù («andare») ha sempre la stessa forma, chiunque sia il soggetto e qualunque sia il momento dell'azione. In questo capitolo vediamo come il cinese colloca un'azione nel tempo e introduciamo il concetto chiave di tutta questa parte del libro: l'aspetto.
+
+## Il verbo cinese non ha tempi
+
+Il cinese non possiede tempi verbali (时态 shítài) nel senso dell'italiano: non esistono un passato, un presente o un futuro espressi da desinenze. Il momento in cui avviene l'azione si ricava da altri elementi:
+
+- le espressioni di tempo (时间词 shíjiāncí): 昨天 zuótiān «ieri», 明天 míngtiān «domani», 去年 qùnián «l'anno scorso», 以前 yǐqián «prima», 现在 xiànzài «ora», 以后 yǐhòu «dopo»…;
+- gli avverbi: 已经 yǐjīng «già», 刚 gāng «appena», 马上 mǎshàng «subito», 常常 chángcháng «spesso», 曾经 céngjīng «in passato»…;
+- le particelle aspettuali 了, 过, 着 e le strutture con 在, 正在, 要……了 ecc.;
+- il contesto della conversazione.
+
+= S + Tempo + V (+ O)
+= Tempo + S + V (+ O)
+
+Lo stesso verbo, senza cambiare forma, può riferirsi a momenti diversi: basta cambiare l'espressione di tempo.
+
+ex: 我**昨天**去图书馆，可是图书馆没开门。 | Wǒ **zuótiān** qù túshūguǎn, kěshì túshūguǎn méi kāi mén. | Ieri sono andato in biblioteca, ma era chiusa.
+ex: 我**明天**去图书馆。 | Wǒ **míngtiān** qù túshūguǎn. | Domani vado in biblioteca.
+ex: 我**每天**去图书馆。 | Wǒ **měi tiān** qù túshūguǎn. | Vado in biblioteca tutti i giorni.
+ex: 王明**以前**住在上海，**现在**住在北京。 | Wáng Míng **yǐqián** zhù zài Shànghǎi, **xiànzài** zhù zài Běijīng. | Wang Ming prima abitava a Shanghai, ora abita a Pechino.
+ex: 我**小时候**很喜欢画画儿。 | Wǒ **xiǎo shíhou** hěn xǐhuan huà huàr. | Da piccolo mi piaceva molto disegnare.
+ex: **下个月**我们在罗马开会。 | **Xià ge yuè** wǒmen zài Luómǎ kāihuì. | Il mese prossimo abbiamo una riunione a Roma.
+
+Spesso è sufficiente il contesto. Nel dialogo seguente la domanda può riferirsi sia alle abitudini sia al prossimo fine settimana: lo chiarisce la situazione, non il verbo.
+
+ex: A：你周末做什么？B：我在家休息。 | A: Nǐ zhōumò zuò shénme? B: Wǒ zài jiā xiūxi. | A: Che cosa fai nel fine settimana? B: Sto a casa a riposarmi.
+
+L'espressione di tempo precede sempre il verbo: si colloca dopo il soggetto (posizione più neutra) oppure all'inizio della frase (per metterla in rilievo o quando è lunga). Non va mai in fondo alla frase, come invece accade spesso in italiano (vedi il capitolo «Le espressioni di tempo»).
+
+no: 我去图书馆明天。 | Wǒ qù túshūguǎn míngtiān. | Errato: l'espressione di tempo non va in fondo alla frase.
+ex: 我明天去图书馆。 | Wǒ míngtiān qù túshūguǎn. | Domani vado in biblioteca.
+ex: 明天我去图书馆。 | Míngtiān wǒ qù túshūguǎn. | Domani vado in biblioteca.
+
+! Una frase come 我昨天去图书馆 funziona benissimo come sfondo di un racconto («ieri sono andato in biblioteca e…»), ma per comunicare da sola che l'azione è avvenuta il cinese preferisce aggiungere 了 (我昨天去图书馆了) oppure, se si vuole mettere in rilievo una circostanza, usare 是……的 (我是昨天去的). Vedi i capitoli «La particella 了» e «La costruzione 是……的».
+
+## Che cos'è l'aspetto (体 tǐ)
+
+Il tempo indica *quando* avviene un'azione rispetto al momento in cui si parla. L'aspetto (体 tǐ, detto anche 体貌 tǐmào) indica invece *come* il parlante presenta lo svolgimento interno dell'azione: conclusa, in corso, vissuta come esperienza, come stato che perdura, sul punto di accadere.
+
+Anche l'italiano conosce l'aspetto, sebbene raramente ci si faccia caso. La differenza tra *leggevo* e *ho letto* non è di tempo (sono entrambi passati), ma di aspetto: l'imperfetto presenta l'azione nel suo svolgimento, il passato prossimo come conclusa. Allo stesso modo *sto leggendo* (progressivo) e *sto per leggere* (imminente) sono perifrasi aspettuali. Il cinese possiede mezzi simili, ma li usa in modo indipendente dal tempo.
+
+Le marche aspettuali principali sono le particelle aspettuali (动态助词 dòngtài zhùcí) 了, 过 e 着, a cui si aggiungono gli avverbi 在, 正在, 正, la particella 呢 e le strutture con 要……了.
+
+| Aspetto | Marca | Esempio |
+| perfettivo (azione compiuta) | V + 了₁ | 我买了三本书。 |
+| cambiamento di situazione | frase + 了₂ | 下雨了。 |
+| esperienziale | V + 过 | 我去过中国。 |
+| progressivo (azione in corso) | 在 / 正在 / 正 + V (+ 呢) | 他在看书呢。 |
+| durativo (stato che perdura) | V + 着 | 门开着。 |
+| imminente | 要 / 快 / 快要 / 就要……了 | 快下雨了。 |
+
+ex: 我买**了**三本书。 | Wǒ mǎi **le** sān běn shū. | Ho comprato tre libri. (azione compiuta)
+ex: 下雨**了**。 | Xià yǔ **le**. | Si è messo a piovere. (situazione nuova)
+ex: 我去**过**中国。 | Wǒ qù **guo** Zhōngguó. | Sono stato in Cina. (esperienza)
+ex: 他**在**看书**呢**。 | Tā **zài** kàn shū **ne**. | Sta leggendo. (azione in corso)
+ex: 门开**着**。 | Mén kāi **zhe**. | La porta è aperta. (stato che perdura)
+ex: **快**下雨**了**。 | **Kuài** xià yǔ **le**. | Sta per piovere. (azione imminente)
+
+Ognuna di queste marche ha un capitolo dedicato: «La particella 了», «La particella 过», «Azione in corso e stato continuato: 在, 正在, 着» e «Il futuro e le azioni imminenti».
+
+### L'aspetto non è il tempo
+
+Le marche aspettuali non dicono quando avviene l'azione. Ne derivano tre conseguenze pratiche, fondamentali per chi parla italiano:
+
+- 了 non è il passato: compare anche in frasi riferite al futuro, e moltissime frasi passate ne fanno a meno;
+- 在, 正在 e 着 non indicano il presente: si usano anche per il passato e per il futuro;
+- 过 indica un'esperienza vissuta, non un generico «passato remoto».
+
+ex: **明天**下**了**课我去找你。 | **Míngtiān** xià **le** kè wǒ qù zhǎo nǐ. | Domani, finita la lezione, vengo da te. (了 in una frase futura)
+ex: 你到**了**北京就给我打电话。 | Nǐ dào **le** Běijīng jiù gěi wǒ dǎ diànhuà. | Appena arrivi a Pechino, telefonami. (了 in una frase futura)
+ex: 他**去年**在一家银行工作。 | Tā **qùnián** zài yì jiā yínháng gōngzuò. | L'anno scorso lavorava in una banca. (passato senza 了)
+ex: 我**以前**常常去那家咖啡馆。 | Wǒ **yǐqián** chángcháng qù nà jiā kāfēiguǎn. | Prima andavo spesso in quel caffè. (passato senza 了)
+ex: 你给我打电话的时候，我**正在**洗澡。 | Nǐ gěi wǒ dǎ diànhuà de shíhou, wǒ **zhèngzài** xǐzǎo. | Quando mi hai telefonato, stavo facendo la doccia. (progressivo nel passato)
+ex: 你明天来的时候，门开**着**，你直接进来吧。 | Nǐ míngtiān lái de shíhou, mén kāi **zhe**, nǐ zhíjiē jìnlai ba. | Quando vieni domani, la porta sarà aperta: entra pure. (着 nel futuro)
+
+! L'errore più frequente degli italiani è tradurre ogni passato prossimo con 了 e cercare un equivalente cinese per ogni tempo verbale. Un consiglio utile: davanti a un verbo cinese non chiedetevi «quando?», ma «come?». L'azione è presentata come conclusa? È un'esperienza? È in corso? È uno stato? Il «quando» lo diranno le espressioni di tempo e il contesto.
+
+! Un indizio pratico: dove l'italiano usa l'imperfetto per descrivere abitudini, stati o lo sfondo di un racconto, il cinese di norma non usa 了 (vedi «Quando non si usa 了» nel capitolo «La particella 了»).

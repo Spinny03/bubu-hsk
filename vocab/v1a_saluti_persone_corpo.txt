@@ -1,0 +1,132 @@
+@ Saluti ed espressioni utili | 👋
+你好 | nǐ hǎo | ciao, buongiorno | 👋 | 1
+谢谢 | xièxie | grazie | 🙏 | 1
+不客气 | bú kèqi | prego, non c'è di che | - | 1
+对不起 | duìbuqǐ | scusa, mi dispiace | 🙇 | 1
+没关系 | méi guānxi | non fa niente | - | 1
+再见 | zàijiàn | arrivederci | 👋 | 1
+请 | qǐng | per favore, prego | - | 1
+是的 | shì de | sì | - | 1
+不是 | bú shì | no, non è | - | 1
+对 | duì | giusto, esatto | ✅ | 2
+好的 | hǎo de | va bene, d'accordo | 👌 | 1
+您好 | nín hǎo | buongiorno (formale) | - | 1
+你好吗 | nǐ hǎo ma | come stai? | - | 1
+早上好 | zǎoshang hǎo | buongiorno (mattina) | 🌅 | 1
+晚上好 | wǎnshang hǎo | buonasera | 🌆 | 1
+晚安 | wǎn'ān | buonanotte | 🌙 | 2
+请问 | qǐngwèn | scusi, posso chiedere? | 🙋 | 1
+不好意思 | bù hǎoyìsi | mi scusi, che imbarazzo | 😅 | 3
+没问题 | méi wèntí | nessun problema | 👍 | 2
+没事 | méi shì | non è niente, tranquillo | - | 2
+明天见 | míngtiān jiàn | a domani | - | 1
+等一下 | děng yíxià | aspetta un attimo | ⏳ | 2
+太好了 | tài hǎo le | benissimo!, ottimo! | 🙌 | 1
+真的吗 | zhēn de ma | davvero? | 😮 | 2
+当然 | dāngrán | certo, naturalmente | - | 3
+听不懂 | tīng bu dǒng | non capisco (ascoltando) | 🤷 | 2
+明白 | míngbai | capire, chiaro | - | 3
+很高兴认识你 | hěn gāoxìng rènshi nǐ | piacere di conoscerti | 🤝 | 1
+欢迎 | huānyíng | benvenuto, dare il benvenuto | 🤗 | 3
+请进 | qǐng jìn | prego, entri | 🚪 | 1
+请坐 | qǐng zuò | prego, si sieda | - | 1
+好久不见 | hǎojiǔ bú jiàn | quanto tempo! | - | 3
+小心 | xiǎoxīn | attenzione!, fare attenzione | - | 3
+生日快乐 | shēngrì kuàilè | buon compleanno | 🥳 | 2
+新年快乐 | xīnnián kuàilè | buon anno | 🎆 | 2
+恭喜 | gōngxǐ | congratulazioni | 🎉 | 4
+加油 | jiāyóu | forza!, dai! | 💪 | 4
+干杯 | gānbēi | cin cin, alla salute | 🥂 | 4
+一路平安 | yílù píng'ān | buon viaggio | 🛫 | 4
+慢走 | màn zǒu | stammi bene (congedo) | - | 4
+救命 | jiùmìng | aiuto! | 🆘 | 4
+@ Persone e famiglia | 👪
+人 | rén | persona | 🧑 | 1
+家 | jiā | famiglia, casa | 🏠 | 1
+爸爸 | bàba | papà | 👨 | 1
+妈妈 | māma | mamma | 👩 | 1
+朋友 | péngyou | amico | 🧑‍🤝‍🧑 | 1
+儿子 | érzi | figlio | - | 1
+女儿 | nǚ'ér | figlia | - | 1
+哥哥 | gēge | fratello maggiore | - | 2
+姐姐 | jiějie | sorella maggiore | - | 2
+弟弟 | dìdi | fratello minore | - | 2
+妹妹 | mèimei | sorella minore | - | 2
+孩子 | háizi | bambino, figlio | 🧒 | 2
+丈夫 | zhàngfu | marito | - | 2
+妻子 | qīzi | moglie | - | 2
+男人 | nánrén | uomo | 🚹 | 2
+女人 | nǚrén | donna | 🚺 | 2
+男孩 | nánhái | ragazzo, bambino | 👦 | 3
+女孩 | nǚhái | ragazza, bambina | 👧 | 3
+先生 | xiānsheng | signore, marito | - | 1
+小姐 | xiǎojie | signorina | - | 1
+老师 | lǎoshī | insegnante | 🧑‍🏫 | 1
+学生 | xuésheng | studente | 🧑‍🎓 | 1
+同学 | tóngxué | compagno di classe | - | 1
+爷爷 | yéye | nonno (paterno) | 👴 | 3
+奶奶 | nǎinai | nonna (paterna) | 👵 | 3
+外公 | wàigōng | nonno (materno) | - | 4
+外婆 | wàipó | nonna (materna) | - | 4
+叔叔 | shūshu | zio (paterno), signore | - | 3
+阿姨 | āyí | zia (materna), signora | - | 3
+男朋友 | nán péngyou | fidanzato | - | 2
+女朋友 | nǚ péngyou | fidanzata | - | 2
+宝宝 | bǎobao | bebè, tesoro | 👶 | 4
+父母 | fùmǔ | genitori | - | 3
+兄弟 | xiōngdì | fratelli | - | 4
+邻居 | línjū | vicino di casa | - | 3
+客人 | kèrén | ospite, cliente | - | 3
+老人 | lǎorén | anziano | 🧓 | 3
+年轻人 | niánqīngrén | giovane | - | 3
+大家 | dàjiā | tutti | 👥 | 2
+名字 | míngzi | nome | 📛 | 1
+姓 | xìng | cognome, chiamarsi di cognome | - | 2
+岁 | suì | anni (di età) | - | 1
+生日 | shēngrì | compleanno | 🎂 | 2
+结婚 | jiéhūn | sposarsi | 💒 | 3
+爱 | ài | amare, amore | 💗 | 1
+@ Il corpo e la salute | 🩺
+身体 | shēntǐ | corpo, salute | 🧍 | 2
+头 | tóu | testa | - | 3
+眼睛 | yǎnjing | occhio (只/双) | 👀 | 2
+手 | shǒu | mano (只/双) | ✋ | 2
+脚 | jiǎo | piede (只/双) | 🦶 | 3
+嘴 | zuǐ | bocca (张) | 👄 | 3
+耳朵 | ěrduo | orecchio (只) | 👂 | 3
+鼻子 | bízi | naso | 👃 | 3
+头发 | tóufa | capelli (根) | 💇 | 3
+脸 | liǎn | viso, faccia (张) | 🙂 | 3
+牙 | yá | dente (颗) | 🦷 | 3
+腿 | tuǐ | gamba (条) | 🦵 | 3
+胳膊 | gēbo | braccio (条) | 💪 | 4
+肚子 | dùzi | pancia | - | 4
+心 | xīn | cuore (颗) | 🫀 | 3
+手指 | shǒuzhǐ | dito (根) | 👆 | 4
+背 | bèi | schiena | - | 4
+脖子 | bózi | collo | - | 4
+大脑 | dànǎo | cervello | 🧠 | 4
+骨头 | gǔtou | osso (根) | 🦴 | 4
+血 | xuè | sangue | 🩸 | 4
+生病 | shēngbìng | ammalarsi | 🤒 | 2
+医生 | yīshēng | medico | 🧑‍⚕️ | 1
+医院 | yīyuàn | ospedale (家) | 🏥 | 1
+药 | yào | medicina (片/种) | 💊 | 2
+疼 | téng | far male, dolere | 😣 | 3
+头疼 | tóuténg | mal di testa | 🤕 | 3
+发烧 | fāshāo | avere la febbre | 🌡️ | 3
+感冒 | gǎnmào | raffreddore, raffreddarsi | 🤧 | 3
+咳嗽 | késou | tossire, tosse | - | 4
+舒服 | shūfu | comodo, stare bene | 😌 | 3
+不舒服 | bù shūfu | non stare bene | 😖 | 3
+休息 | xiūxi | riposare | 🛌 | 2
+睡觉 | shuì jiào | dormire | 😴 | 1
+累 | lèi | stanco | 😩 | 2
+看病 | kàn bìng | farsi visitare, curare | 🩺 | 3
+护士 | hùshi | infermiere | - | 4
+打针 | dǎ zhēn | fare un'iniezione | 💉 | 4
+受伤 | shòushāng | ferirsi | 🩹 | 4
+健康 | jiànkāng | sano, salute | - | 3
+运动 | yùndòng | fare sport, sport | 🏃 | 2
+哭 | kū | piangere | 😢 | 3
+笑 | xiào | ridere, sorridere | 😄 | 2

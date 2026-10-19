@@ -1,0 +1,111 @@
+# Il futuro e le azioni imminenti
+
+Come il passato, anche il futuro non ha in cinese una forma verbale propria. Si esprime con le espressioni di tempo, con alcuni verbi modali (要, 会), con verbi che indicano intenzione o programma (打算, 准备, 计划, 想) e, nella lingua scritta, con 将 e 将要. Per le azioni imminenti si usano le strutture con 了 già viste nel capitolo «La particella 了».
+
+## Esprimere il futuro
+
+### Le espressioni di tempo
+
+Spesso basta un'espressione di tempo: il verbo resta nella forma semplice, senza alcuna marca.
+
+ex: 我**明天**去上海。 | Wǒ **míngtiān** qù Shànghǎi. | Domani vado a Shanghai.
+ex: **下个月**我们考试。 | **Xià ge yuè** wǒmen kǎoshì. | Il mese prossimo abbiamo gli esami.
+ex: **以后**我想当医生。 | **Yǐhòu** wǒ xiǎng dāng yīshēng. | In futuro vorrei fare il medico.
+
+### 要: intenzione e programma
+
+要 yào davanti al verbo indica un'azione che si intende compiere o che è già in programma, spesso vicina nel tempo. Ha anche il valore di «volere» e di «dovere»: il contesto chiarisce (vedi il capitolo «I verbi modali»).
+
+ex: 我明年**要**去中国留学。 | Wǒ míngnián **yào** qù Zhōngguó liúxué. | L'anno prossimo andrò a studiare in Cina.
+ex: 下午我**要**去银行。 | Xiàwǔ wǒ **yào** qù yínháng. | Nel pomeriggio devo andare in banca.
+ex: 他们下个月**要**结婚。 | Tāmen xià ge yuè **yào** jiéhūn. | Si sposano il mese prossimo.
+
+### 会: previsione e probabilità
+
+会 huì esprime una previsione, ciò che secondo il parlante probabilmente accadrà. Seguito da 的 in fondo alla frase, comunica sicurezza o rassicura (vedi «Il 是……的 di valutazione» nel capitolo «La costruzione 是……的»).
+
+ex: 明天**会**下雨。 | Míngtiān **huì** xià yǔ. | Domani pioverà.
+ex: 别担心，他**会**来**的**。 | Bié dānxīn, tā **huì** lái **de**. | Non preoccuparti, verrà di sicuro.
+ex: 你这样做，妈妈**会**生气的。 | Nǐ zhèyàng zuò, māma **huì** shēngqì de. | Se fai così, la mamma si arrabbierà.
+
+### 将, 将要: il futuro formale
+
+将 jiāng e 将要 jiāngyào appartengono alla lingua scritta e formale (notizie, annunci, documenti). 将 si trova spesso in combinazione con 于 yú «a, in» prima di una data. 即将 jíjiāng significa «sta per», «tra poco».
+
+ex: 新机场**将**于明年开放。 | Xīn jīchǎng **jiāng** yú míngnián kāifàng. | Il nuovo aeroporto sarà aperto l'anno prossimo.
+ex: 这里**将要**建一座新的图书馆。 | Zhèlǐ **jiāngyào** jiàn yí zuò xīn de túshūguǎn. | Qui sarà costruita una nuova biblioteca.
+ex: 列车**即将**到达北京站。 | Lièchē **jíjiāng** dàodá Běijīng Zhàn. | Il treno sta per arrivare alla stazione di Pechino.
+
+### 打算, 准备, 计划, 想
+
+Questi verbi reggono un altro verbo e indicano con sfumature diverse l'atteggiamento verso un'azione futura:
+
+- 打算 dǎsuan «avere intenzione di»: progetto personale, è la forma più comune nel parlato;
+- 准备 zhǔnbèi «prepararsi a, avere in programma»: progetto concreto e vicino, spesso già in preparazione;
+- 计划 jìhuà «pianificare»: progetto più formale o a lungo termine, tipico di istituzioni, aziende, programmi;
+- 想 xiǎng «avere voglia di, vorrei»: desiderio, non necessariamente un progetto.
+
+ex: 暑假我**打算**去云南旅行。 | Shǔjià wǒ **dǎsuan** qù Yúnnán lǚxíng. | Per le vacanze estive ho intenzione di fare un viaggio nello Yunnan.
+ex: 我们**准备**下个月搬家。 | Wǒmen **zhǔnbèi** xià ge yuè bānjiā. | Abbiamo in programma di traslocare il mese prossimo.
+ex: 公司**计划**明年在意大利开一家分公司。 | Gōngsī **jìhuà** míngnián zài Yìdàlì kāi yì jiā fēngōngsī. | L'azienda prevede di aprire una filiale in Italia l'anno prossimo.
+ex: 我**想**明年去中国看看。 | Wǒ **xiǎng** míngnián qù Zhōngguó kànkan. | L'anno prossimo vorrei andare a vedere la Cina.
+
+| Mezzo | Valore | Esempio |
+| espressione di tempo | futuro dal contesto | 我明天去上海。 |
+| 要 | intenzione, programma | 我明年要去中国。 |
+| 会 | previsione, probabilità | 明天会下雨。 |
+| 将 / 将要 | futuro formale (scritto) | 会议将于九点开始。 |
+| 打算 | intenzione personale | 我打算学开车。 |
+| 准备 | programma concreto | 我们准备搬家。 |
+| 计划 | piano (formale, a lungo termine) | 公司计划开分店。 |
+| 想 | desiderio | 我想去旅行。 |
+
+### 要 e 会 a confronto
+
+要 presenta l'azione come un'intenzione o un programma del soggetto; 会 come una previsione del parlante. Con la prima persona, 会 suona spesso come una promessa.
+
+ex: 我**要**去。 | Wǒ **yào** qù. | Ci vado. / Voglio andarci. (intenzione)
+ex: 我**会**去的。 | Wǒ **huì** qù de. | Ci andrò, te lo prometto. (previsione, promessa)
+ex: 天**要**下雨了。 | Tiān **yào** xià yǔ le. | Sta per piovere. (imminente)
+ex: 明天**会**下雨吗？ | Míngtiān **huì** xià yǔ ma? | Domani pioverà? (previsione)
+
+### La negazione
+
+Il futuro semplice si nega con 不; la previsione con 不会; l'intenzione con 不想 o 不打算. Attenzione: 不要 non è la negazione del futuro, ma significa «non voglio» (rifiuto deciso) oppure, rivolto ad altri, «non…!» (divieto).
+
+ex: 我明天**不**去。 | Wǒ míngtiān **bú** qù. | Domani non ci vado.
+ex: 他**不会**来的。 | Tā **bú huì** lái de. | Non verrà, ne sono sicuro.
+ex: 我**不打算**换工作。 | Wǒ **bù dǎsuan** huàn gōngzuò. | Non ho intenzione di cambiare lavoro.
+ex: 今年夏天我**不想**出去旅行。 | Jīnnián xiàtiān wǒ **bù xiǎng** chūqu lǚxíng. | Quest'estate non ho voglia di andare in viaggio.
+
+no: 明天我不要去上班。 | Míngtiān wǒ bú yào qù shàngbān. | Errato nel senso di «domani non vado»: 不要 esprime rifiuto o divieto.
+ex: 明天我**不**去上班。 | Míngtiān wǒ **bú** qù shàngbān. | Domani non vado al lavoro.
+ex: 明天我**不用**去上班。 | Míngtiān wǒ **búyòng** qù shàngbān. | Domani non devo andare al lavoro.
+
+## Azioni imminenti
+
+Per un'azione che sta per accadere si usano le strutture 要……了, 快……了, 快要……了 e 就要……了, illustrate nel capitolo «La particella 了». In sintesi:
+
+| Struttura | Valore | Esempio |
+| 要……了 | sta per (neutro) | 火车要开了。 |
+| 快……了 | manca poco; anche con numeri | 快十点了。 |
+| 快要……了 | manca pochissimo | 我们快要毕业了。 |
+| 就要……了 | è imminente; con espressioni di tempo | 明天就要考试了。 |
+| 马上就……了 | subito, a momenti | 电影马上就开始了。 |
+| 即将 + V | sta per (formale, scritto) | 列车即将进站。 |
+| 正要 + V | stavo proprio per | 我正要给你打电话。 |
+
+ex: 电影**马上就**开始**了**。 | Diànyǐng **mǎshàng jiù** kāishǐ **le**. | Il film sta per cominciare.
+ex: 我**马上就**到**了**，再等我五分钟。 | Wǒ **mǎshàng jiù** dào **le**, zài děng wǒ wǔ fēnzhōng. | Arrivo subito, aspettami ancora cinque minuti.
+ex: 我**正要**给你打电话**呢**。 | Wǒ **zhèng yào** gěi nǐ dǎ diànhuà **ne**. | Stavo proprio per telefonarti.
+ex: 他**正要**出门，电话响了。 | Tā **zhèng yào** chūmén, diànhuà xiǎng le. | Stava proprio per uscire quando squillò il telefono.
+
+### L'imminenza nel passato
+
+Le stesse strutture si usano anche per un'azione che *stava per* avvenire nel passato. Nelle frasi subordinate con ……的时候 il 了 finale cade.
+
+ex: 火车**快**开**的时候**，他才到。 | Huǒchē **kuài** kāi **de shíhou**, tā cái dào. | È arrivato solo quando il treno stava già per partire.
+ex: 我**快要**睡着**的时候**，听见有人敲门。 | Wǒ **kuàiyào** shuìzháo **de shíhou**, tīngjiàn yǒu rén qiāo mén. | Stavo per addormentarmi quando ho sentito bussare alla porta.
+ex: 那时候天**快**黑**了**，我们只好回去了。 | Nà shíhou tiān **kuài** hēi **le**, wǒmen zhǐhǎo huíqu le. | A quel punto stava per fare buio e non ci restò che tornare indietro.
+
+! Per rispondere negativamente a una domanda sull'imminenza non si nega la struttura: si dice 还没(呢) «non ancora» o 还早呢 «c'è ancora tempo».

@@ -1,0 +1,186 @@
+# I classificatori
+
+I classificatori (量词 liàngcí), detti anche «parole di misura», sono uno dei tratti più caratteristici del cinese. Anche l'italiano ne possiede qualcosa: diciamo *tre fogli di carta*, *due paia di scarpe*, *un bicchiere d'acqua*. In cinese, però, questo tipo di costruzione è sistematico e riguarda tutti i nomi: non si può dire «tre libri» senza inserire una parola come 本 běn tra il numero e il nome. Si distinguono i classificatori nominali (名量词 míngliàngcí), che accompagnano i nomi, e i classificatori verbali (动量词 dòngliàngcí), che contano le azioni.
+
+## Che cosa sono i classificatori
+
+Tra un numerale e il nome, ma anche dopo i dimostrativi 这 e 那, gli interrogativi 哪 e 几 e il pronome 每, il classificatore è **obbligatorio**. Ogni nome ha il suo classificatore tipico, spesso legato alla forma o alla categoria dell'oggetto.
+
+= Num + CL + N
+= 这 / 那 / 哪 + CL + N
+= 几 + CL + N
+= 每 + CL + N
+
+ex: 我买了**三本**书。 | Wǒ mǎi le **sān běn** shū. | Ho comprato tre libri.
+ex: **这本**书是谁的？ | **Zhè běn** shū shì shéi de? | Di chi è questo libro?
+ex: 你要**哪本**书？ | Nǐ yào **nǎ běn** shū? | Quale libro vuoi?
+ex: 你有**几本**中文书？ | Nǐ yǒu **jǐ běn** Zhōngwén shū? | Quanti libri in cinese hai?
+ex: **每本**书都很有意思。 | **Měi běn** shū dōu hěn yǒu yìsi. | Tutti i libri sono interessanti.
+
+no: 我有两朋友。 | Wǒ yǒu liǎng péngyou. | Errato: tra numerale e nome serve il classificatore.
+ex: 我有**两个**朋友。 | Wǒ yǒu **liǎng ge** péngyou. | Ho due amici.
+
+Gli eventuali aggettivi si inseriscono **tra il classificatore e il nome**.
+
+= Num + CL + Agg (+ 的) + N
+
+ex: 我买了**一本新**书。 | Wǒ mǎi le **yì běn xīn** shū. | Ho comprato un libro nuovo.
+ex: 他是**一个很好的**朋友。 | Tā shì **yí ge hěn hǎo de** péngyou. | È un ottimo amico.
+
+no: 一新本书 | yì xīn běn shū | Errato: l'aggettivo va tra il classificatore e il nome.
+ex: 一本**新**书 | yì běn **xīn** shū | un libro nuovo
+
+### Nomi che non vogliono il classificatore
+Alcuni nomi sono essi stessi unità di misura e seguono direttamente il numerale: 天 tiān «giorno», 年 nián «anno», 岁 suì «anno d'età», 分钟 fēnzhōng «minuto», 秒 miǎo «secondo», 周 zhōu «settimana», 次 cì «volta», 夜 yè «notte», 页 yè «pagina», 站 zhàn «fermata», le unità monetarie e tutte le unità di misura (公斤, 米…). Nella lingua formale anche 国 guó «paese»: 两国 «i due paesi». Invece 月 yuè «mese», 星期 xīngqī «settimana» e 小时 xiǎoshí «ora» vogliono 个 quando indicano una durata.
+
+| Senza classificatore | Con 个 |
+| 三天 sān tiān «tre giorni» | 三个月 sān ge yuè «tre mesi» |
+| 两年 liǎng nián «due anni» | 两个星期 liǎng ge xīngqī «due settimane» |
+| 十分钟 shí fēnzhōng «dieci minuti» | 两个小时 liǎng ge xiǎoshí «due ore» |
+| 两周 liǎng zhōu «due settimane» | — |
+| 五岁 wǔ suì «cinque anni (d'età)» | — |
+| 三次 sān cì «tre volte» | — |
+| 两国 liǎng guó «i due paesi» | 两个国家 liǎng ge guójiā «due paesi» |
+
+no: 我在北京住了三个年。 | Wǒ zài Běijīng zhù le sān ge nián. | Errato: 年 non vuole il classificatore.
+ex: 我在北京住了**三年**。 | Wǒ zài Běijīng zhù le **sān nián**. | Ho abitato a Pechino per tre anni.
+
+### 个: il classificatore generale
+个 (atono, ge; gè solo quando è accentato) è il classificatore più frequente. Poiché il suo tono originario è il quarto, davanti a esso 一 si pronuncia yí: 一个 yí ge. Si usa con:
+- le persone: 一个人, 三个学生, 两个朋友;
+- molti oggetti privi di un classificatore specifico: 一个苹果, 一个杯子, 一个包;
+- i nomi astratti: 一个问题, 一个办法, 一个机会;
+- alcune unità di tempo: 一个月, 一个星期, 一个小时;
+- luoghi e istituzioni: 一个城市, 一个国家, 一个公园.
+
+ex: 我有**一个**问题。 | Wǒ yǒu **yí ge** wèntí. | Ho una domanda.
+ex: **这个**办法很好。 | **Zhège** bànfǎ hěn hǎo. | Questa soluzione è ottima.
+ex: 我吃了**两个**苹果。 | Wǒ chī le **liǎng ge** píngguǒ. | Ho mangiato due mele.
+ex: 北京是**一个**很大的城市。 | Běijīng shì **yí ge** hěn dà de chéngshì. | Pechino è una città molto grande.
+
+I limiti di 个: i nomi che hanno un classificatore specifico non lo prendono nella lingua standard, e le sostanze (acqua, riso, carne…) non si contano con 个 ma con unità di misura o contenitori.
+
+no: 我买了一个衣服。 | Wǒ mǎi le yí ge yīfu. | Errato: con 衣服 si usa 件.
+ex: 我买了**一件**衣服。 | Wǒ mǎi le **yí jiàn** yīfu. | Ho comprato un capo d'abbigliamento.
+no: 请给我一个水。 | Qǐng gěi wǒ yí ge shuǐ. | Errato: 水 è una sostanza; si misura con un contenitore.
+ex: 请给我**一杯**水。 | Qǐng gěi wǒ **yì bēi** shuǐ. | Mi dia un bicchiere d'acqua, per favore.
+
+! Nel parlato informale 个 tende a sostituire molti classificatori specifici, ma con i nomi che ne hanno uno proprio suona poco curato. Se proprio non si ricorda il classificatore giusto, 个 resta comunque l'errore meno grave.
+
+## I classificatori nominali più comuni
+
+Molti classificatori si scelgono in base alla **forma** o alla **natura** dell'oggetto: 张 zhāng per le superfici piatte (fogli, tavoli, letti, biglietti, foto), 条 tiáo per le cose lunghe e flessibili (strade, fiumi, pesci, pantaloni), 把 bǎ per gli oggetti con un manico o che si impugnano (ombrelli, coltelli, chiavi, sedie), 支 zhī per gli oggetti lunghi e rigidi (penne), 颗 kē e 粒 lì per gli oggetti piccoli e tondeggianti. Conoscere questa logica aiuta a memorizzarli. Le tabelle seguenti raccolgono i più frequenti, divisi per gruppi.
+
+### Persone e animali
+| CL | Pinyin | Uso | Esempi |
+| 个 | gè (ge) | persone, oggetti vari, astratti | 一个人, 一个问题 |
+| 位 | wèi | persone (rispettoso) | 一位老师, 三位客人 |
+| 名 | míng | persone (formale, ruoli) | 五名学生, 一名医生 |
+| 口 | kǒu | membri della famiglia | 我家有三口人 |
+| 只 | zhī | molti animali; uno di un paio | 一只猫, 一只手 |
+| 条 | tiáo | animali lunghi; cani | 一条鱼, 一条狗 |
+| 头 | tóu | animali grossi | 一头牛, 一头猪 |
+| 匹 | pǐ | cavalli | 一匹马 |
+| 群 | qún | gruppi, branchi, stormi | 一群人, 一群羊 |
+
+### Oggetti
+| CL | Pinyin | Uso | Esempi |
+| 本 | běn | libri, quaderni, riviste | 一本书, 两本词典 |
+| 张 | zhāng | superfici piatte: fogli, letti, biglietti | 一张纸, 两张票 |
+| 把 | bǎ | oggetti con manico; sedie | 一把伞, 一把椅子 |
+| 件 | jiàn | capi d'abbigliamento; faccende | 一件衬衫, 一件事 |
+| 条 | tiáo | cose lunghe e flessibili | 一条裤子, 一条河 |
+| 双 | shuāng | paia (scarpe, calze, bacchette) | 一双鞋, 一双筷子 |
+| 对 | duì | coppie (persone, orecchini) | 一对夫妻, 一对耳环 |
+| 副 | fù | set: occhiali, guanti | 一副眼镜, 一副手套 |
+| 套 | tào | serie, completi, appartamenti | 一套西装, 一套房子 |
+| 支 | zhī | oggetti lunghi e rigidi; canzoni | 一支笔, 一支歌 |
+| 枝 | zhī | fiori con lo stelo, rami | 一枝玫瑰 |
+| 根 | gēn | oggetti lunghi e sottili | 一根绳子, 一根头发 |
+| 顶 | dǐng | cappelli, tende | 一顶帽子 |
+| 块 | kuài | pezzi, blocchi; orologi | 一块蛋糕, 一块手表 |
+| 片 | piàn | fette, oggetti sottili | 一片面包, 一片药 |
+| 颗 | kē | oggetti piccoli e tondi | 一颗星星, 一颗牙 |
+| 粒 | lì | granelli | 一粒米 |
+| 台 | tái | macchine, elettrodomestici | 一台电脑, 一台电视 |
+| 部 | bù | film, opere; telefoni | 一部电影, 一部手机 |
+| 辆 | liàng | veicoli su ruote | 一辆车, 一辆自行车 |
+| 架 | jià | aerei, pianoforti | 一架飞机, 一架钢琴 |
+| 扇 | shàn | porte, finestre | 一扇门, 一扇窗户 |
+| 面 | miàn | specchi, bandiere | 一面镜子, 一面国旗 |
+| 盏 | zhǎn | lampade | 一盏灯 |
+| 幅 | fú | quadri, dipinti | 一幅画 |
+
+### Piante, cibi e contenitori
+| CL | Pinyin | Uso | Esempi |
+| 棵 | kē | alberi, piante | 一棵树 |
+| 朵 | duǒ | fiori, nuvole | 一朵花, 一朵云 |
+| 杯 | bēi | bicchiere, tazza (di…) | 一杯茶, 一杯咖啡 |
+| 瓶 | píng | bottiglia (di…) | 一瓶啤酒 |
+| 碗 | wǎn | ciotola (di…) | 一碗米饭 |
+| 盒 | hé | scatola (di…) | 一盒巧克力 |
+| 包 | bāo | pacchetto, confezione (di…) | 一包烟, 一包饼干 |
+| 道 | dào | portate; domande d'esame | 一道菜, 一道题 |
+| 份 | fèn | porzioni; giornali; lavori | 一份饭, 一份工作 |
+
+### Edifici, luoghi e istituzioni
+| CL | Pinyin | Uso | Esempi |
+| 家 | jiā | aziende, negozi, ristoranti | 一家公司, 一家饭馆 |
+| 所 | suǒ | scuole, ospedali | 一所大学, 一所医院 |
+| 座 | zuò | montagne, ponti, edifici, città | 一座山, 一座桥 |
+| 栋 | dòng | edifici, palazzi | 一栋楼 |
+| 间 | jiān | stanze | 一间教室, 一间卧室 |
+| 层 | céng | piani; strati | 一座三层的楼 |
+
+### Testi, lingua, eventi e concetti astratti
+| CL | Pinyin | Uso | Esempi |
+| 封 | fēng | lettere | 一封信 |
+| 篇 | piān | articoli, saggi, testi | 一篇文章 |
+| 首 | shǒu | poesie, canzoni | 一首诗, 一首歌 |
+| 句 | jù | frasi, battute | 一句话 |
+| 段 | duàn | brani; periodi; tratti | 一段话, 一段时间 |
+| 节 | jié | ore di lezione; sezioni | 两节课 |
+| 门 | mén | materie, corsi | 三门课, 一门外语 |
+| 场 | chǎng | spettacoli, partite | 一场电影, 一场比赛 |
+| 场 | cháng | pioggia, malattia, eventi | 一场雨, 一场病 |
+| 种 | zhǒng | tipi, generi | 一种水果 |
+| 样 | yàng | tipi, varietà (cose concrete) | 两样菜 |
+| 项 | xiàng | voci, compiti, progetti | 一项任务 |
+| 届 | jiè | edizioni; leve di diplomati | 第三十届奥运会 |
+| 批 | pī | lotti, gruppi | 一批货, 一批游客 |
+| 条 | tiáo | notizie, messaggi, regole | 一条新闻, 一条短信 |
+
+### Esempi d'uso
+ex: 我家有**三口**人。 | Wǒ jiā yǒu **sān kǒu** rén. | La mia famiglia è di tre persone.
+ex: 今天来了**两位**客人。 | Jīntiān lái le **liǎng wèi** kèrén. | Oggi sono venuti due ospiti.
+ex: 我们公司有**五十名**员工。 | Wǒmen gōngsī yǒu **wǔshí míng** yuángōng. | La nostra azienda ha cinquanta dipendenti.
+ex: 她养了**一只**猫和**一条**狗。 | Tā yǎng le **yì zhī** māo hé **yì tiáo** gǒu. | Ha un gatto e un cane.
+ex: 桌子上有**两张**电影票。 | Zhuōzi shang yǒu **liǎng zhāng** diànyǐng piào. | Sul tavolo ci sono due biglietti del cinema.
+ex: 外边下雨了，带**一把**伞吧。 | Wàibian xià yǔ le, dài **yì bǎ** sǎn ba. | Fuori piove, prendi un ombrello.
+ex: 我想买**一件**衬衫和**一条**裤子。 | Wǒ xiǎng mǎi **yí jiàn** chènshān hé **yì tiáo** kùzi. | Vorrei comprare una camicia e un paio di pantaloni.
+ex: **这双**鞋多少钱？ | **Zhè shuāng** xié duōshao qián? | Quanto costa questo paio di scarpe?
+ex: 他买了**一辆**新车。 | Tā mǎi le **yí liàng** xīn chē. | Si è comprato una macchina nuova.
+ex: 我家附近有**一家**很好的饭馆。 | Wǒ jiā fùjìn yǒu **yì jiā** hěn hǎo de fànguǎn. | Vicino a casa mia c'è un ottimo ristorante.
+ex: 这个城市有**十几所**大学。 | Zhège chéngshì yǒu **shíjǐ suǒ** dàxué. | Questa città ha più di dieci università.
+ex: 河上有**一座**很老的桥。 | Hé shang yǒu **yí zuò** hěn lǎo de qiáo. | Sul fiume c'è un ponte molto vecchio.
+ex: 我给妈妈写了**一封**信。 | Wǒ gěi māma xiě le **yì fēng** xìn. | Ho scritto una lettera alla mamma.
+ex: 我给你唱**一首**歌吧。 | Wǒ gěi nǐ chàng **yì shǒu** gē ba. | Ti canto una canzone.
+ex: 这个学期我选了**四门**课。 | Zhège xuéqī wǒ xuǎn le **sì mén** kè. | Questo semestre ho scelto quattro corsi.
+ex: 今天上午我有**两节**课。 | Jīntiān shàngwǔ wǒ yǒu **liǎng jié** kè. | Stamattina ho due ore di lezione.
+ex: 昨天下了**一场**大雨。 | Zuótiān xià le **yì cháng** dà yǔ. | Ieri è venuto giù un bell'acquazzone.
+ex: 我们去看**一场**电影吧。 | Wǒmen qù kàn **yì chǎng** diànyǐng ba. | Andiamo a vedere un film.
+ex: 他找到了**一份**好工作。 | Tā zhǎodào le **yí fèn** hǎo gōngzuò. | Ha trovato un buon lavoro.
+ex: 我想跟你说**几句**话。 | Wǒ xiǎng gēn nǐ shuō **jǐ jù** huà. | Vorrei dirti due parole.
+
+### Stesso nome, classificatori diversi
+Alcuni nomi ammettono più classificatori, con sfumature diverse.
+
+| Nome | Classificatori | Differenza |
+| 人 | 个 / 位 / 名 / 口 | neutro / rispettoso / formale / in famiglia |
+| 花 | 朵 / 枝 / 束 | fiore / fiore con lo stelo / mazzo |
+| 课 | 节 / 门 | ora di lezione / materia, corso |
+| 电影 | 部 / 场 | il film come opera / la proiezione |
+| 狗 | 条 / 只 | entrambi comuni |
+
+no: 我是一位老师。 | Wǒ shì yí wèi lǎoshī. | Errato: 位 è rispettoso e non si usa per parlare di sé.
+ex: 我是**一名**老师。 | Wǒ shì **yì míng** lǎoshī. | Sono un insegnante.

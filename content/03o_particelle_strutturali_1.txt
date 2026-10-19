@@ -1,0 +1,209 @@
+# Le particelle strutturali 的, 地, 得
+
+Le particelle strutturali (结构助词 jiégòu zhùcí) sono parole grammaticali prive di significato proprio che segnalano il rapporto tra due elementi della frase. Il cinese standard ne ha tre, tutte pronunciate *de* in tono neutro ma scritte con caratteri diversi:
+
+- 的 de collega un attributo (定语 dìngyǔ) al nome che segue: 我**的**书 «il mio libro»;
+- 地 de collega un avverbiale (状语 zhuàngyǔ) al verbo che segue: 认真**地**学习 «studiare con impegno»;
+- 得 de collega il verbo o l'aggettivo al complemento (补语 bǔyǔ) che segue: 跑**得**很快 «correre veloce».
+
+= attributo + 的 + N
+= avverbiale + 地 + V
+= V/Agg + 得 + complemento
+
+Delle tre, 的 è di gran lunga la più frequente: è in assoluto uno dei caratteri più comuni della lingua cinese.
+
+## La pronuncia
+
+Come particelle strutturali i tre caratteri si leggono tutti *de*, atono, e nel parlato non si distinguono affatto. Ciascuno di essi ha però anche altre letture, in tono pieno, quando non è una particella.
+
+| Carattere | Come particella | Altre letture | Esempi |
+| 的 | de | dí, dì | 的确 díquè «davvero», 目的 mùdì «scopo» |
+| 地 | de | dì «terra» | 地方 dìfang, 地铁 dìtiě, 地图 dìtú |
+| 得 | de | dé «ottenere» | 得到 dédào, 取得 qǔdé |
+| 得 | de | děi «dovere» | 我得走了。Wǒ děi zǒu le. |
+
+ex: 我**得**走了。 | Wǒ **děi** zǒu le. | Devo andare.
+ex: 他**得**了第一名。 | Tā **dé** le dì-yī míng. | Si è classificato primo.
+ex: 他跑**得**很快。 | Tā pǎo **de** hěn kuài. | Corre veloce.
+ex: 这个**地**方很安静。 | Zhège **dì**fang hěn ānjìng. | Questo posto è molto tranquillo.
+ex: 他慢慢**地**走了。 | Tā mànmàn **de** zǒu le. | Se n'è andato lentamente.
+
+! Il verbo modale 得 děi «dovere» appartiene al registro parlato (vedi il capitolo «I verbi modali»). 的 si legge dī solo nel prestito 的士 dīshì «taxi», usato soprattutto nel sud della Cina.
+
+## La particella 的
+
+的 lega al nome (la testa) tutto ciò che lo precede e lo determina: un possessore, un aggettivo, un nome, un sintagma preposizionale, un'intera frase. In cinese il determinante precede sempre il determinato, all'inverso di quanto accade spesso in italiano: «il libro *di Marco*», «un libro *interessante*», «il libro *che ho comprato*» diventano tutti «[determinante] 的 libro».
+
+= determinante + 的 + N
+
+### Il possesso
+
+Con un nome o un pronome, 的 esprime il possesso o l'appartenenza, come la preposizione «di» o un aggettivo possessivo italiano.
+
+= N/Pron + 的 + N
+
+ex: 这是**我的**手机。 | Zhè shì **wǒ de** shǒujī. | Questo è il mio cellulare.
+ex: **小王的**电脑坏了。 | **Xiǎo Wáng de** diànnǎo huài le. | Il computer di Xiao Wang si è rotto.
+ex: **李老师的**办公室在三楼。 | **Lǐ lǎoshī de** bàngōngshì zài sān lóu. | L'ufficio del professor Li è al secondo piano.
+ex: 北京是**中国的**首都。 | Běijīng shì **Zhōngguó de** shǒudū. | Pechino è la capitale della Cina.
+ex: **我们学校的**图书馆很大。 | **Wǒmen xuéxiào de** túshūguǎn hěn dà. | La biblioteca della nostra scuola è molto grande.
+ex: 这是**谁的**包？ | Zhè shì **shéi de** bāo? | Di chi è questa borsa?
+
+Più possessori si concatenano dal più ampio al più ristretto, al contrario dell'italiano: 我朋友的妹妹 «la sorella del mio amico» (lett. io-amico-的 sorella).
+
+ex: **玛丽亚的妈妈的**生日是明天。 | **Mǎlìyà de māma de** shēngrì shì míngtiān. | Il compleanno della mamma di Maria è domani.
+
+### Il nome come attributo: tipo o possesso
+
+Un nome che indica il tipo, la materia, la lingua o la nazionalità si attacca direttamente al nome testa, senza 的; con 的 assume invece valore di possesso o di relazione.
+
+| Senza 的 (tipo) | Con 的 (possesso, relazione) |
+| 中国朋友 «amico cinese» | 中国的朋友 «amici della Cina» |
+| 汉语老师 «insegnante di cinese» | 学校的老师 «insegnanti della scuola» |
+| 木头桌子 «tavolo di legno» | 桌子的颜色 «il colore del tavolo» |
+| 历史书 «libro di storia» | 历史的发展 «lo sviluppo della storia» |
+
+ex: 马可有很多**中国朋友**。 | Mǎkě yǒu hěn duō **Zhōngguó péngyou**. | Marco ha molti amici cinesi.
+ex: 她是我们的**汉语老师**。 | Tā shì wǒmen de **Hànyǔ lǎoshī**. | È la nostra insegnante di cinese.
+ex: 我喜欢吃**意大利菜**。 | Wǒ xǐhuan chī **Yìdàlì cài**. | Mi piace la cucina italiana.
+
+! Il nome di materia ammette anche 的 senza cambiare significato: 木头桌子 e 木头的桌子 «tavolo di legno» sono entrambi corretti; la forma senza 的 è più compatta e frequente.
+
+### L'aggettivo come attributo
+
+L'aggettivo monosillabico si unisce di norma al nome senza 的; l'aggettivo bisillabico prende di solito 的; l'aggettivo preceduto da un avverbio (很, 非常, 特别…) o reduplicato lo richiede sempre (per i dettagli vedi il capitolo «L'aggettivo»).
+
+= Agg (monosillabico) + N
+= Agg (bisillabico) + 的 + N
+= Avv + Agg + 的 + N
+
+ex: 我买了一件**新**衣服。 | Wǒ mǎi le yí jiàn **xīn** yīfu. | Ho comprato un vestito nuovo.
+ex: 她是一个**漂亮的**姑娘。 | Tā shì yí ge **piàoliang de** gūniang. | È una bella ragazza.
+ex: 这是一个**很难的**问题。 | Zhè shì yí ge **hěn nán de** wèntí. | È una domanda molto difficile.
+ex: 他住在一个**非常安静的**小区。 | Tā zhù zài yí ge **fēicháng ānjìng de** xiǎoqū. | Abita in un quartiere residenziale molto tranquillo.
+ex: 她有一头**长长的**头发。 | Tā yǒu yì tóu **chángcháng de** tóufa. | Ha dei capelli lunghi lunghi.
+
+### Il sintagma preposizionale, di luogo e di tempo
+
+Anche un'espressione di luogo, di tempo o un sintagma preposizionale (con 对, 关于, 在, 从…) diventa attributo grazie a 的. In italiano corrisponde spesso a «di», «su», «che si trova…».
+
+= Luogo/Tempo + 的 + N
+= Prep + N + 的 + N
+
+ex: **桌子上的**书是谁的？ | **Zhuōzi shang de** shū shì shéi de? | Di chi è il libro sul tavolo?
+ex: 你看**今天的**报纸了吗？ | Nǐ kàn **jīntiān de** bàozhǐ le ma? | Hai letto il giornale di oggi?
+ex: **去年的**事我已经忘了。 | **Qùnián de** shì wǒ yǐjīng wàng le. | Le cose dell'anno scorso le ho già dimenticate.
+ex: 我买了一本**关于中国历史的**书。 | Wǒ mǎi le yì běn **guānyú Zhōngguó lìshǐ de** shū. | Ho comprato un libro sulla storia cinese.
+ex: 他**对中国文化的**兴趣越来越大。 | Tā **duì Zhōngguó wénhuà de** xìngqù yuè lái yuè dà. | Il suo interesse per la cultura cinese è sempre più grande.
+ex: 这是**从意大利来的**朋友。 | Zhè shì **cóng Yìdàlì lái de** péngyou. | Questo è un amico venuto dall'Italia.
+
+no: 我喜欢书在桌子上。 | Wǒ xǐhuan shū zài zhuōzi shang. | Errato: l'attributo di luogo va prima del nome, con 的.
+ex: 我喜欢**桌子上的**书。 | Wǒ xǐhuan **zhuōzi shang de** shū. | Mi piace il libro che è sul tavolo.
+
+## Le frasi relative
+
+Il cinese non ha pronomi relativi come «che», «il quale», «dove»: la relativa è una frase completa, senza alcun pronome, che si colloca davanti al nome ed è chiusa da 的. Il nome testa può essere il soggetto, l'oggetto o un complemento di luogo, tempo, ecc. del verbo della relativa; il posto che occuperebbe nella frase resta semplicemente vuoto.
+
+= [S + V] + 的 + N (il nome è l'oggetto: «il N che S V»)
+= [V + O] + 的 + N (il nome è il soggetto: «il N che V O»)
+
+| Frase di partenza | Relativa | Italiano |
+| 我昨天买了书。 | 我昨天买的书 | il libro che ho comprato ieri |
+| 那个人教汉语。 | 教汉语的那个人 | la persona che insegna cinese |
+| 我住在这个地方。 | 我住的地方 | il posto dove abito |
+| 他七点来。 | 他来的时间 | l'ora in cui viene |
+
+### Il nome testa è l'oggetto
+
+ex: **我昨天买的**书很有意思。 | **Wǒ zuótiān mǎi de** shū hěn yǒuyìsi. | Il libro che ho comprato ieri è molto interessante.
+ex: 这是**我妈妈做的**菜。 | Zhè shì **wǒ māma zuò de** cài. | Questo è un piatto cucinato da mia mamma.
+ex: **你上次说的**那家饭馆在哪儿？ | **Nǐ shàng cì shuō de** nà jiā fànguǎn zài nǎr? | Dov'è quel ristorante di cui mi hai parlato l'altra volta?
+ex: **老师留的**作业你做完了吗？ | **Lǎoshī liú de** zuòyè nǐ zuòwán le ma? | Hai finito i compiti che ci ha dato l'insegnante?
+
+### Il nome testa è il soggetto
+
+ex: **教我们汉语的**老师是北京人。 | **Jiāo wǒmen Hànyǔ de** lǎoshī shì Běijīng rén. | L'insegnante che ci insegna cinese è di Pechino.
+ex: **穿红衣服的**那个女孩是我妹妹。 | **Chuān hóng yīfu de** nàge nǚhái shì wǒ mèimei. | La ragazza vestita di rosso è mia sorella.
+ex: 我认识一个**会说意大利语的**中国人。 | Wǒ rènshi yí ge **huì shuō Yìdàlìyǔ de** Zhōngguó rén. | Conosco un cinese che sa parlare italiano.
+ex: **不想去的**人可以留在家里。 | **Bù xiǎng qù de** rén kěyǐ liú zài jiā li. | Chi non vuole andare può restare a casa.
+
+### Luogo, tempo, modo
+
+Con nomi come 地方 «posto», 时候 «momento», 时间 «tempo», 原因 «motivo», 办法 «modo» la relativa corrisponde a «dove», «quando», «per cui», «in cui». In particolare ……的时候 è il modo normale di dire «quando…».
+
+ex: **我住的**地方离学校很近。 | **Wǒ zhù de** dìfang lí xuéxiào hěn jìn. | Il posto dove abito è vicino alla scuola.
+ex: **我来中国的**时候，一句汉语也不会说。 | **Wǒ lái Zhōngguó de** shíhou, yí jù Hànyǔ yě bú huì shuō. | Quando sono venuto in Cina, non sapevo dire una parola di cinese.
+ex: 这就是**他不来的**原因。 | Zhè jiù shì **tā bù lái de** yuányīn. | Ecco il motivo per cui non viene.
+
+### Relativa e dimostrativo
+
+Il dimostrativo con il classificatore (那个, 这本…) può stare prima o dopo la relativa. Dopo la relativa è la posizione più neutra; prima della relativa la rende più descrittiva (vedi il capitolo «L'ordine delle parole»).
+
+ex: **我昨天买的那本**书 | **wǒ zuótiān mǎi de nà běn** shū | quel libro che ho comprato ieri
+ex: **那本我昨天买的**书 | **nà běn wǒ zuótiān mǎi de** shū | quel libro, quello che ho comprato ieri
+
+! Nelle relative di solito non si usa 了 dopo il verbo: 我昨天买的书, non 我昨天买了的书. Il tempo è chiarito dalle espressioni di tempo o dal contesto.
+
+## Quando 的 si omette
+
+L'omissione di 的 non è facoltativa a caso: segue regole abbastanza precise. In generale 的 si omette quando attributo e nome formano un'unità stretta, quasi una parola composta.
+
+### Rapporti di parentela e appartenenza a un gruppo
+
+Tra un pronome personale e un termine di parentela, una persona vicina o un'istituzione a cui si appartiene, 的 si omette di solito.
+
+ex: **我妈妈**是医生。 | **Wǒ māma** shì yīshēng. | Mia mamma è medico.
+ex: **他哥哥**在上海工作。 | **Tā gēge** zài Shànghǎi gōngzuò. | Suo fratello maggiore lavora a Shanghai.
+ex: **我们公司**有两百个人。 | **Wǒmen gōngsī** yǒu liǎng bǎi ge rén. | La nostra ditta ha duecento dipendenti.
+ex: 欢迎来**我家**玩儿！ | Huānyíng lái **wǒ jiā** wánr! | Vieni a trovarci a casa!
+ex: **你朋友**叫什么名字？ | **Nǐ péngyou** jiào shénme míngzi? | Come si chiama il tuo amico?
+
+no: 这是我书。 | Zhè shì wǒ shū. | Errato: con gli oggetti il 的 possessivo non si omette.
+ex: 这是**我的**书。 | Zhè shì **wǒ de** shū. | Questo è il mio libro.
+
+! L'omissione riguarda soprattutto i pronomi. Con un nome proprio o comune il 的 resta: 小王的妈妈 «la mamma di Xiao Wang». Usare 的 anche con i parenti (我的妈妈) non è un errore: suona più enfatico o più scritto.
+
+### Aggettivi monosillabici e combinazioni fisse
+
+ex: 他是我的**好朋友**。 | Tā shì wǒ de **hǎo péngyou**. | È un mio caro amico.
+ex: 我想喝点儿**热水**。 | Wǒ xiǎng hē diǎnr **rè shuǐ**. | Vorrei bere un po' d'acqua calda.
+ex: 你喜欢**红葡萄酒**还是**白葡萄酒**？ | Nǐ xǐhuan **hóng pútaojiǔ** háishi **bái pútaojiǔ**? | Preferisci il vino rosso o il vino bianco?
+ex: 那是一家**有名的**饭馆。 | Nà shì yì jiā **yǒumíng de** fànguǎn. | È un ristorante famoso.
+
+### Numerali, classificatori, dimostrativi
+
+Tra numerale + classificatore e nome, o tra dimostrativo e nome, non si usa 的. Dopo 很多 il 的 è facoltativo.
+
+ex: 我有**两个**孩子。 | Wǒ yǒu **liǎng ge** háizi. | Ho due figli.
+ex: **这本**书是新的。 | **Zhè běn** shū shì xīn de. | Questo libro è nuovo.
+ex: 这儿有**很多(的)**人。 | Zhèr yǒu **hěn duō (de)** rén. | Qui c'è molta gente.
+
+no: 我买了三本的书。 | Wǒ mǎi le sān běn de shū. | Errato: dopo Num + CL non si usa 的.
+ex: 我买了**三本**书。 | Wǒ mǎi le **sān běn** shū. | Ho comprato tre libri.
+
+### Evitare la ripetizione di 的
+
+Quando più attributi con 的 si susseguono, la frase diventa pesante: si tende a eliminare i 的 non indispensabili, di solito il primo dopo un pronome, e a conservare l'ultimo.
+
+ex: **我的朋友的**妹妹 → **我朋友的**妹妹 | **wǒ de péngyou de** mèimei → **wǒ péngyou de** mèimei | la sorella del mio amico
+ex: **我那本**书 | **wǒ nà běn** shū | quel mio libro (parlato, invece di 我的那本书)
+
+### Riepilogo
+
+| Caso | 的 | Esempio |
+| possesso con oggetti | obbligatorio | 我的书, 老师的车 |
+| pronome + parente/gruppo | di solito omesso | 我妈妈, 我们学校 |
+| Agg monosillabico | omesso | 新书, 好人 |
+| Agg bisillabico | di solito presente | 漂亮的衣服 |
+| Avv + Agg, Agg reduplicato | obbligatorio | 很好的朋友, 长长的头发 |
+| nome di tipo/nazionalità | omesso | 中国朋友, 历史书 |
+| luogo, tempo, Prep | obbligatorio | 桌子上的书, 今天的报纸 |
+| frase relativa | obbligatorio | 我买的书 |
+| Num + CL, 这/那 + CL | mai | 三本书, 这个人 |
+
+### L'ordine di più attributi
+
+Quando un nome ha più attributi, l'ordine abituale è: possessore + dimostrativo + numerale e classificatore + attributo con 的 (relativa, aggettivo modificato) + aggettivo senza 的 + nome di tipo + nome testa (vedi il capitolo «L'ordine delle parole»).
+
+ex: **我的那两件新买的红**毛衣 | **wǒ de nà liǎng jiàn xīn mǎi de hóng** máoyī | quei miei due maglioni rossi comprati da poco
+ex: **李老师那位很有名的意大利**朋友 | **Lǐ lǎoshī nà wèi hěn yǒumíng de Yìdàlì** péngyou | quel famoso amico italiano del professor Li

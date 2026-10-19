@@ -1,0 +1,62 @@
+# I complementi: panoramica
+
+## Che cos'è un complemento (补语 bǔyǔ)
+
+Nella grammatica cinese si chiama complemento (补语 bǔyǔ) un elemento che segue il verbo (o l'aggettivo) e ne completa il significato, indicando il risultato dell'azione, la sua direzione, la possibilità di realizzarla, il grado o il modo in cui si è svolta, la sua durata, il numero di volte, la differenza di quantità.
+
+! Attenzione alla terminologia. Nella grammatica italiana «complemento» indica qualsiasi elemento che completa la frase (complemento oggetto, di luogo, di tempo…). Nella grammatica cinese il termine 补语 ha un senso molto più ristretto: l'oggetto si chiama 宾语 bīnyǔ, mentre le espressioni di tempo, luogo e modo poste prima del verbo sono avverbiali (状语 zhuàngyǔ). In questa parte del libro «complemento» traduce sempre 补语.
+
+Il complemento si attacca strettamente al verbo e forma con esso quasi un'unica parola: le particelle aspettuali 了 e 过 si collocano di norma dopo il complemento, e l'oggetto lo segue (con alcune eccezioni, studiate nei singoli capitoli).
+
+= S + V + C (+ 了) (+ O)
+
+| Tipo | Struttura | Esempio | Significato |
+| di risultato | V + C | 看懂, 做完, 洗干净 | esito dell'azione |
+| di direzione | V + 来 / 去 / 上 / 下… | 走进来, 拿出去 | direzione del movimento |
+| potenziale | V + 得 / 不 + C | 听得懂, 听不懂 | possibilità del risultato |
+| di grado | V / Agg + 得 + … | 跑得很快 | valutazione, intensità |
+| di durata | V + durata | 等了一个小时 | per quanto tempo |
+| di frequenza | V + Num + 次 / 遍… | 去过两次 | quante volte |
+| di quantità differenziale | Agg / V + quantità | 贵了十块 | di quanto |
+| V + 在 / 到 / 给 / 成 | V + 在 / 到 / 给 / 成 + O | 放在桌子上 | luogo, meta, destinatario, trasformazione |
+
+Ognuno di questi tipi è trattato in un capitolo dedicato: «Il complemento di grado», «Il complemento di risultato», «Il complemento di direzione», «Il complemento potenziale» e «I complementi di quantità».
+
+### Perché i complementi sono così importanti
+
+In italiano un solo verbo contiene spesso sia l'azione sia il suo esito: «ho visto», «ho capito», «ho trovato». Molti verbi cinesi, invece, indicano soltanto l'attività o il tentativo; il risultato è espresso da un complemento. Ecco come un solo verbo, 看 kàn «guardare, leggere», si arricchisce di significati diversi:
+
+| Forma | Pinyin | Significato |
+| 看 | kàn | guardare, leggere |
+| 看见 | kànjiàn | vedere (percepire con la vista) |
+| 看懂 | kàndǒng | capire guardando o leggendo |
+| 看完 | kànwán | finire di guardare o di leggere |
+| 看得懂 / 看不懂 | kàn de dǒng / kàn bu dǒng | riuscire / non riuscire a capire |
+| 看了两遍 | kàn le liǎng biàn | guardare o leggere due volte |
+| 看起来 | kàn qilai | sembrare (a vederlo) |
+| 看出来 | kàn chulai | accorgersi, capire osservando |
+
+ex: 我**看**了，可是没**看见**。 | Wǒ **kàn** le, kěshì méi **kànjiàn**. | Ho guardato, ma non l'ho visto.
+ex: 这封信我看了三遍，还是没**看懂**。 | Zhè fēng xìn wǒ kàn le sān biàn, háishi méi **kàndǒng**. | Ho letto questa lettera tre volte, ma ancora non l'ho capita.
+ex: 那本小说我已经**看完**了。 | Nà běn xiǎoshuō wǒ yǐjīng **kànwán** le. | Ho già finito di leggere quel romanzo.
+ex: 中文报纸你**看得懂**吗？ | Zhōngwén bàozhǐ nǐ **kàn de dǒng** ma? | Riesci a capire i giornali cinesi?
+ex: 这部电影我**看了两遍**。 | Zhè bù diànyǐng wǒ **kàn le liǎng biàn**. | Questo film l'ho visto due volte.
+ex: 他**看起来**很累。 | Tā **kàn qilai** hěn lèi. | Sembra molto stanco.
+
+### Azione e risultato
+
+Per un italiano è utile ricordare che la stessa distinzione esiste già in alcune coppie di verbi: «guardare / vedere», «ascoltare / sentire», «cercare / trovare». In cinese questa distinzione è sistematica:
+
+| Azione (tentativo) | Risultato |
+| 看 kàn «guardare» | 看见 kànjiàn «vedere» |
+| 听 tīng «ascoltare» | 听见 tīngjiàn «sentire»; 听懂 tīngdǒng «capire» |
+| 找 zhǎo «cercare» | 找到 zhǎodào «trovare» |
+| 学 xué «studiare» | 学会 xuéhuì «imparare (a saper fare)» |
+| 考 kǎo «sostenere un esame» | 考上 kǎoshang «essere ammesso» |
+| 买 mǎi «comprare» | 买到 mǎidào «riuscire a comprare» |
+
+ex: 我**找**了半天，终于**找到**了。 | Wǒ **zhǎo** le bàntiān, zhōngyú **zhǎodào** le. | Ho cercato a lungo e finalmente l'ho trovato.
+ex: 我**听**了很久，可是没**听懂**。 | Wǒ **tīng** le hěn jiǔ, kěshì méi **tīngdǒng**. | Ho ascoltato a lungo, ma non ho capito.
+ex: 他**学**了三个月，已经**学会**开车了。 | Tā **xué** le sān ge yuè, yǐjīng **xuéhuì** kāichē le. | Ha studiato per tre mesi e ha già imparato a guidare.
+
+! Un errore tipico degli italiani è usare il verbo semplice dove serve il complemento: 我找了我的钥匙 significa solo «ho cercato le mie chiavi», non «le ho trovate»; per dire che l'azione è riuscita bisogna aggiungere il complemento: 我找到了我的钥匙。

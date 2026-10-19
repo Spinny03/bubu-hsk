@@ -1,0 +1,181 @@
+# I numeri
+
+I numerali (数词 shùcí) cinesi formano un sistema molto regolare: conoscendo le cifre da zero a dieci e poche unità superiori (百 bǎi «cento», 千 qiān «mille», 万 wàn «diecimila», 亿 yì «cento milioni») si può costruire qualsiasi numero. Richiedono attenzione soprattutto tre punti: l'uso di 零 líng per gli zeri interni, il raggruppamento delle cifre per quattro (万, 亿) anziché per tre come in italiano, e la scelta tra 二 èr e 两 liǎng. Ricordiamo inoltre che tra un numerale e un nome è sempre necessario un classificatore (vedi il capitolo «I classificatori»).
+
+## I numeri da 0 a 99
+
+| Cifra | Numero | Cifra | Numero |
+| 0 | 零 líng | 6 | 六 liù |
+| 1 | 一 yī | 7 | 七 qī |
+| 2 | 二 èr | 8 | 八 bā |
+| 3 | 三 sān | 9 | 九 jiǔ |
+| 4 | 四 sì | 10 | 十 shí |
+| 5 | 五 wǔ | — | — |
+
+I numeri da 11 a 99 si formano per semplice combinazione, come se si dicesse «dieci-uno», «due-dieci», «due-dieci-uno».
+
+= 十 + unità  (da 11 a 19)
+= unità + 十  (20, 30 … 90)
+= unità + 十 + unità  (da 21 a 99)
+
+| Numero | Cinese | Pinyin | Composizione |
+| 11 | 十一 | shíyī | 10 + 1 |
+| 12 | 十二 | shí'èr | 10 + 2 |
+| 19 | 十九 | shíjiǔ | 10 + 9 |
+| 20 | 二十 | èrshí | 2 × 10 |
+| 21 | 二十一 | èrshíyī | 2 × 10 + 1 |
+| 35 | 三十五 | sānshíwǔ | 3 × 10 + 5 |
+| 68 | 六十八 | liùshíbā | 6 × 10 + 8 |
+| 99 | 九十九 | jiǔshíjiǔ | 9 × 10 + 9 |
+
+ex: 我今年**二十五**岁。 | Wǒ jīnnián **èrshíwǔ** suì. | Quest'anno ho venticinque anni.
+ex: 我们班有**十八**个学生。 | Wǒmen bān yǒu **shíbā** ge xuésheng. | Nella nostra classe ci sono diciotto studenti.
+ex: 这本书**四十九**块。 | Zhè běn shū **sìshíjiǔ** kuài. | Questo libro costa quarantanove yuan.
+ex: **九十九**加**一**等于**一百**。 | **Jiǔshíjiǔ** jiā **yī** děngyú **yìbǎi**. | Novantanove più uno fa cento.
+
+! In pinyin i numeri da 11 a 99 si scrivono in una sola parola: shíyī, èrshíyī, jiǔshíjiǔ. Davanti a una sillaba che comincia per vocale si usa l'apostrofo: shí'èr, èrshí'èr.
+! Quando si conta o quando è in fine di numero, 一 conserva il primo tono: yī, shíyī, èrshíyī. Davanti a un classificatore segue invece le regole del cambio tonale: 一个 yí ge, 一本 yì běn (vedi il capitolo «La pronuncia e il pinyin»).
+! Lo zero si scrive 零 oppure, nelle sequenze di cifre come gli anni, 〇: 二〇二六年.
+
+### Le quattro operazioni
+| Operazione | Cinese | Esempio | Pinyin |
+| addizione | 加 jiā | 二加三等于五 | èr jiā sān děngyú wǔ |
+| sottrazione | 减 jiǎn | 十减四等于六 | shí jiǎn sì děngyú liù |
+| moltiplicazione | 乘 chéng | 三乘四等于十二 | sān chéng sì děngyú shí'èr |
+| divisione | 除以 chúyǐ | 八除以二等于四 | bā chúyǐ èr děngyú sì |
+
+## Centinaia, migliaia e grandi numeri
+
+I numeri superiori a cento si costruiscono dalla cifra più alta alla più bassa, facendo seguire ogni cifra dalla sua unità: 3.456 = 三千四百五十六 sānqiān sìbǎi wǔshíliù, lett. «tre mila quattro cento cinque dieci sei».
+
+| Numero | Cinese | Pinyin |
+| 100 | 一百 | yìbǎi |
+| 101 | 一百零一 | yìbǎi líng yī |
+| 110 | 一百一十 | yìbǎi yīshí |
+| 115 | 一百一十五 | yìbǎi yīshíwǔ |
+| 250 | 两百五十 / 二百五十 | liǎngbǎi wǔshí / èrbǎi wǔshí |
+| 999 | 九百九十九 | jiǔbǎi jiǔshíjiǔ |
+| 1.000 | 一千 | yìqiān |
+| 3.456 | 三千四百五十六 | sānqiān sìbǎi wǔshíliù |
+
+A differenza dell'italiano (*cento*, *mille*), davanti a 百, 千, 万 e 亿 si deve sempre esprimere la cifra, anche quando è 一.
+
+no: 我有百块钱。 | Wǒ yǒu bǎi kuài qián. | Errato: davanti a 百 serve sempre 一.
+ex: 我有**一百**块钱。 | Wǒ yǒu **yìbǎi** kuài qián. | Ho cento yuan.
+
+Dopo 百, 千 e 万, la decina da 10 a 19 si esprime con 一十: 一百一十 (110), 三百一十五 (315).
+
+no: 一百十五 | yìbǎi shíwǔ | Non standard: dopo 百 la decina si esprime con 一十.
+ex: 一百**一十**五 | yìbǎi **yīshí**wǔ | centoquindici
+
+### Lo zero: 零
+- Uno o più zeri **all'interno** del numero si leggono con un solo 零: 105 一百零五, 1.005 一千零五.
+- Gli zeri **finali** non si leggono: 1.500 一千五百, 2.000 两千.
+- Nel parlato, quando un numero termina con zeri, l'ultima unità si può omettere: 一百五 (150), 一千二 (1.200), 两万五 (25.000).
+
+| Numero | Cinese | Pinyin |
+| 105 | 一百零五 | yìbǎi líng wǔ |
+| 1.005 | 一千零五 | yìqiān líng wǔ |
+| 1.050 | 一千零五十 | yìqiān líng wǔshí |
+| 1.500 | 一千五(百) | yìqiān wǔ(bǎi) |
+| 2.006 | 两千零六 | liǎngqiān líng liù |
+| 10.300 | 一万零三百 | yíwàn líng sānbǎi |
+| 20.008 | 两万零八 | liǎngwàn líng bā |
+
+### 一百一十 o 一百一?
+Nella lingua parlata 一百一 è la forma abbreviata di 一百一十 e significa **110**, non 101. Il numero 101 si dice 一百零一. Lo stesso vale per tutte le unità.
+
+ex: 一百**一** | yìbǎi **yī** | centodieci (110)
+ex: 一百**零一** | yìbǎi **líng yī** | centouno (101)
+ex: 一千**二** | yìqiān **èr** | milleduecento (1.200)
+ex: 一千**零二** | yìqiān **líng èr** | milledue (1.002)
+ex: 两万**三** | liǎngwàn **sān** | ventitremila (23.000)
+ex: 这件衣服**一百一**。 | Zhè jiàn yīfu **yìbǎi yī**. | Questo vestito costa centodieci yuan.
+
+! È un errore frequente degli italiani interpretare 一百一 come «centouno»: senza 零, la cifra finale si riferisce all'unità immediatamente inferiore (qui le decine).
+
+### 万 e 亿: il raggruppamento per quattro cifre
+L'italiano raggruppa le cifre per tre (mille, milione, miliardo); il cinese per **quattro**: 万 wàn vale 10.000 e 亿 yì vale 100.000.000. Perciò «diecimila» non è «dieci mila», ma 一万; «un milione» è «cento diecimila», 一百万.
+
+| Cifra | Cinese | Pinyin | Italiano |
+| 10.000 | 一万 | yíwàn | diecimila |
+| 100.000 | 十万 | shíwàn | centomila |
+| 1.000.000 | 一百万 | yìbǎi wàn | un milione |
+| 10.000.000 | 一千万 | yìqiān wàn | dieci milioni |
+| 100.000.000 | 一亿 | yíyì | cento milioni |
+| 1.000.000.000 | 十亿 | shíyì | un miliardo |
+| 1.300.000.000 | 十三亿 | shísān yì | un miliardo e trecento milioni |
+
+no: 十千 | shí qiān | Errato: diecimila si dice 一万.
+ex: **一万** | **yíwàn** | diecimila
+no: 一千千 | yìqiān qiān | Errato: un milione si dice 一百万.
+ex: **一百万** | **yìbǎi wàn** | un milione
+
+### Come convertire i grandi numeri
+- Si contano le cifre da destra a gruppi di quattro: il primo gruppo a sinistra del separatore si legge seguito da 万, quello ancora successivo da 亿.
+- Ogni gruppo di quattro cifre si legge come un numero da 1 a 9.999.
+- Promemoria: un milione = 一百万, un miliardo = 十亿.
+
+| Cifra | Gruppi | Lettura |
+| 52.000 | 5 / 2000 | 五万两千 wǔwàn liǎngqiān |
+| 3.456.789 | 345 / 6789 | 三百四十五万六千七百八十九 |
+| 12.345.678 | 1234 / 5678 | 一千二百三十四万五千六百七十八 |
+| 1.300.000.000 | 13 / 0000 / 0000 | 十三亿 shísān yì |
+
+ex: 北京有两千多**万**人。 | Běijīng yǒu liǎngqiān duō **wàn** rén. | Pechino ha più di venti milioni di abitanti.
+ex: 这个城市有**三百多万**人。 | Zhège chéngshì yǒu **sānbǎi duō wàn** rén. | Questa città ha più di tre milioni di abitanti.
+ex: 这辆车**二十五万**块。 | Zhè liàng chē **èrshíwǔ wàn** kuài. | Quest'auto costa duecentocinquantamila yuan.
+ex: 中国有**十四亿**人口。 | Zhōngguó yǒu **shísì yì** rénkǒu. | La Cina ha un miliardo e quattrocento milioni di abitanti.
+
+### Numeri letti cifra per cifra
+Gli anni, i numeri di telefono, i numeri delle stanze, delle linee di autobus a tre cifre, i codici e le targhe si leggono **cifra per cifra**. In queste sequenze 一 si pronuncia spesso 幺 yāo, per non confonderlo con 七 qī; lo zero si legge líng.
+
+ex: **二〇二六**年 | **èr líng èr liù** nián | (l'anno) 2026
+ex: **一九九八**年 | **yī jiǔ jiǔ bā** nián | (l'anno) 1998
+ex: 我的手机号码是**一三九一二三四五六七八**。 | Wǒ de shǒujī hàomǎ shì **yāo sān jiǔ yāo èr sān sì wǔ liù qī bā**. | Il mio numero di cellulare è 139 1234 5678.
+ex: 我住**三〇一**房间。 | Wǒ zhù **sān líng yāo** fángjiān. | Alloggio nella stanza 301.
+ex: 你坐**一〇三**路公共汽车。 | Nǐ zuò **yāo líng sān** lù gōnggòng qìchē. | Prendi l'autobus numero 103.
+ex: 报警电话是**一一〇**。 | Bàojǐng diànhuà shì **yāo yāo líng**. | Il numero della polizia è il 110.
+
+! Gli anni non si leggono come numeri interi: 两千零二十六年 non è la lettura standard di «2026». Le linee di autobus a due cifre si leggono invece come numeri: 三十二路 sānshí'èr lù «la linea 32».
+
+## 二 e 两
+
+Il cinese ha due parole per «due»: 二 èr e 两 liǎng. Non sono intercambiabili.
+
+- 两 si usa davanti ai **classificatori** e ai nomi che fungono da unità (天, 年, 岁, 次): 两个人, 两本书, 两天, 两次; anche per le ore: 两点 «le due».
+- 二 si usa per **contare**, in matematica, negli **ordinali** (第二), nei mesi e nei giorni (二月, 二号), nei **decimali** (二点五), nelle **frazioni** (三分之二), nelle sequenze di cifre e in tutti i **numeri composti** che terminano in 2 o che contengono la decina 20: 十二, 二十, 二十二, 一百零二.
+- Davanti a 百 si usano sia 两 sia 二 (两百, 二百); davanti a 千, 万 e 亿 si preferisce 两 (两千, 两万, 两亿). All'interno di un numero, dopo un'unità più alta, è più comune 二: 一千二百, 两万二千.
+- Con l'unità di peso tradizionale 两 liǎng (50 grammi) si usa 二: 二两. Con le altre unità tradizionali (斤, 里) sono possibili entrambi (两斤, 二斤); con quelle metriche si usa 两 (两公斤, 两米).
+- 两 può anche significare «un paio, qualche»: 过两天 «tra qualche giorno».
+
+= 两 + CL + N
+= 十二 / 二十 / 一百零二 … + CL + N
+
+ex: 我有**两个**妹妹。 | Wǒ yǒu **liǎng ge** mèimei. | Ho due sorelle minori.
+ex: 我买了**两本**书。 | Wǒ mǎi le **liǎng běn** shū. | Ho comprato due libri.
+ex: 我在北京住了**两年**。 | Wǒ zài Běijīng zhù le **liǎng nián**. | Ho abitato a Pechino per due anni.
+ex: 现在**两点**。 | Xiànzài **liǎng diǎn**. | Sono le due.
+ex: 今天是**二月二号**。 | Jīntiān shì **èr yuè èr hào**. | Oggi è il 2 febbraio.
+ex: 一、**二**、三，开始！ | Yī, **èr**, sān, kāishǐ! | Uno, due, tre, via!
+ex: 我要**二两**饺子。 | Wǒ yào **èr liǎng** jiǎozi. | Vorrei due liang di ravioli (circa cento grammi).
+ex: 过**两**天我再来。 | Guò **liǎng** tiān wǒ zài lái. | Tornerò fra qualche giorno.
+
+no: 我有二个妹妹。 | Wǒ yǒu èr ge mèimei. | Errato: davanti al classificatore si usa 两.
+ex: 我有**两个**妹妹。 | Wǒ yǒu **liǎng ge** mèimei. | Ho due sorelle minori.
+no: 我们班有十两个学生。 | Wǒmen bān yǒu shí liǎng ge xuésheng. | Errato: nei numeri composti si usa 二.
+ex: 我们班有**十二**个学生。 | Wǒmen bān yǒu **shí'èr** ge xuésheng. | Nella nostra classe ci sono dodici studenti.
+no: 现在二点。 | Xiànzài èr diǎn. | Errato: per le ore si usa 两点.
+ex: 现在**两点**。 | Xiànzài **liǎng diǎn**. | Sono le due.
+
+| Contesto | Forma | Esempi |
+| davanti a un classificatore | 两 | 两个人, 两本书, 两次 |
+| nomi-unità (天, 年, 岁) | 两 | 两天, 两年, 两岁 |
+| ore | 两 | 两点 (ma 十二点) |
+| contare, matematica | 二 | 一、二、三; 二加二 |
+| ordinali, mesi, giorni | 二 | 第二, 二月, 二号 |
+| decimali, frazioni | 二 | 二点五, 三分之二 |
+| numeri composti | 二 | 十二, 二十, 一百零二 |
+| davanti a 百 | 两 o 二 | 两百, 二百 |
+| davanti a 千, 万, 亿 | di solito 两 | 两千, 两万, 两亿 |
+| unità di peso 两 | 二 | 二两 |

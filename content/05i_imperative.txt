@@ -1,0 +1,234 @@
+# Le frasi imperative ed esclamative
+
+Questo capitolo tratta due tipi di frase che servono non tanto a informare quanto ad agire sull'interlocutore o a esprimere un'emozione: le frasi imperative (祈使句 qíshǐjù), con cui si dà un ordine, si chiede, si invita, si consiglia o si vieta, e le frasi esclamative (感叹句 gǎntànjù), con cui si manifesta sorpresa, ammirazione, gioia, dolore o disappunto.
+
+## Le frasi imperative: caratteristiche generali
+
+Il cinese non ha un modo imperativo: il verbo resta invariato (vedi il capitolo «Il verbo»). Una frase è imperativa per la situazione, l'intonazione e una serie di elementi che ne regolano la forza: il soggetto 你/您/你们 (spesso omesso), avverbi come 快, 请, 千万, 一定, particelle modali come 吧 e 啊, e forme che attenuano l'azione come 一下 o la reduplicazione del verbo.
+
+### Caratteristiche principali
+
+- Il soggetto, di solito 你, 您 o 你们, si può omettere; quando è espresso, l'ordine suona più diretto o più personale.
+- Il verbo deve esprimere un'azione controllabile: non si può ordinare a qualcuno di «essere alto» o di «sapere».
+- L'imperativo nudo, senza alcun elemento di attenuazione, suona spesso brusco: nella conversazione si aggiunge quasi sempre qualcosa (吧, 请, 一下, 啊…).
+- Per l'imperativo negativo si usano 别 e 不要 (vedi il capitolo «La negazione»).
+
+= (你/您/你们) + V (+ O)
+= (你) + V + 吧/啊
+= 请 + (你/您) + V (+ O)
+
+## L'imperativo semplice
+
+Il verbo da solo, o con il suo oggetto, costituisce un ordine netto. È naturale nelle istruzioni brevi, nelle situazioni urgenti, nei rapporti molto confidenziali, fra genitori e figli, o da parte di chi ha autorità (insegnante, medico, poliziotto).
+
+ex: **进来**！ | **Jìnlai**! | Entra!
+ex: **坐**。 | **Zuò**. | Siediti.
+ex: **站住**！ | **Zhànzhù**! | Fermo lì!
+ex: **听**我说！ | **Tīng** wǒ shuō! | Ascoltami!
+ex: 你**过来**。 | Nǐ **guòlai**. | Vieni qui.
+ex: 同学们，**打开**书，**看**第十页。 | Tóngxuémen, **dǎkāi** shū, **kàn** dì-shí yè. | Ragazzi, aprite il libro e guardate pagina dieci.
+
+Spesso il verbo è accompagnato da un complemento (di risultato, di direzione) o da un avverbio di modo: la frase risulta così più completa e naturale.
+
+ex: 把门**关上**。 | Bǎ mén **guānshang**. | Chiudi la porta.
+ex: **慢点儿**说。 | **Màn diǎnr** shuō. | Parla più piano.
+ex: **快**走！ | **Kuài** zǒu! | Muoviti, vai!
+ex: **好好儿**休息。 | **Hǎohāor** xiūxi. | Riposati bene.
+
+! Con un aggettivo seguito da 点儿 / 一点儿 si invita a cambiare comportamento: 快点儿！ «sbrigati!», 小声点儿！ «parla più piano!», 认真点儿！ «un po' più di serietà!». La costruzione Agg + 点儿 è uno dei modi più comuni di dare un ordine nel parlato.
+
+ex: **快点儿**！要迟到了！ | **Kuài diǎnr**! Yào chídào le! | Sbrigati! Facciamo tardi!
+ex: 你**小心点儿**。 | Nǐ **xiǎoxīn diǎnr**. | Stai un po' attento.
+ex: 声音**大一点儿**，我听不清楚。 | Shēngyīn **dà yìdiǎnr**, wǒ tīng bu qīngchu. | Alza un po' la voce, non sento bene.
+
+## Imperativo con 吧 e 啊
+
+### Con 吧: proposta e ordine attenuato
+
+吧 ba alla fine della frase trasforma l'ordine in un invito o in un consiglio: il tono diventa morbido, quasi una proposta (vedi il capitolo «Le particelle modali»). Con 我们 / 咱们 equivale all'italiano «facciamo…, andiamo…».
+
+ex: 你**坐**吧。 | Nǐ **zuò** ba. | Siediti pure.
+ex: 你先**走**吧，我马上就来。 | Nǐ xiān **zǒu** ba, wǒ mǎshàng jiù lái. | Vai pure avanti, arrivo subito.
+ex: 天晚了，**睡觉**吧。 | Tiān wǎn le, **shuì jiào** ba. | È tardi, andiamo a dormire.
+ex: 我们**休息**一会儿吧。 | Wǒmen **xiūxi** yíhuìr ba. | Riposiamoci un po'.
+ex: 咱们**走**吧！ | Zánmen **zǒu** ba! | Andiamo!
+
+### Con 啊: insistenza, raccomandazione, impazienza
+
+啊 a (e le sue varianti 呀, 哇, 哪) rende l'ordine più vivace: può esprimere calore e premura («mi raccomando») oppure impazienza («dai!»).
+
+ex: 快来**呀**！ | Kuài lái **ya**! | Dai, vieni!
+ex: 你说**啊**！ | Nǐ shuō **a**! | Ma parla!
+ex: 多吃点儿**啊**！ | Duō chī diǎnr **a**! | Mangia, mangia!
+ex: 路上小心**啊**！ | Lùshang xiǎoxīn **a**! | Fai attenzione per strada, mi raccomando!
+
+### Altre particelle
+
+Nel parlato si incontrano anche 嘛 (insistenza affettuosa: 你就告诉我嘛！ «dai, dimmelo!»), 呗 (soluzione ovvia: 不懂就问呗 «se non capisci, chiedi e basta») e 哦 (raccomandazione affettuosa: 别忘了哦 «non dimenticarlo, eh»). Sono descritte nel capitolo «Le particelle modali».
+
+## Imperativi cortesi con 请
+
+请 qǐng, letteralmente «invitare, pregare», è la forma più semplice di cortesia: si mette all'inizio della frase, davanti al verbo o davanti al soggetto. Corrisponde a «per favore, prego, si prega di». Con un interlocutore di riguardo si usa insieme a 您.
+
+= 请 + V (+ O)
+= 请 + 您/你 + V (+ O)
+
+ex: **请**进！ | **Qǐng** jìn! | Prego, entri!
+ex: **请**坐。 | **Qǐng** zuò. | Si accomodi.
+ex: **请**喝茶。 | **Qǐng** hē chá. | Prenda pure il tè.
+ex: **请**您等一下。 | **Qǐng** nín děng yíxià. | Attenda un momento, per favore.
+ex: **请**大家安静。 | **Qǐng** dàjiā ānjìng. | Silenzio, per favore.
+ex: **请**把护照给我看看。 | **Qǐng** bǎ hùzhào gěi wǒ kànkan. | Mi faccia vedere il passaporto, per favore.
+
+! 请 non è un equivalente automatico di «per favore»: si usa per invitare l'interlocutore a fare qualcosa (soprattutto qualcosa di vantaggioso per lui, come entrare, sedersi, servirsi) o in richieste formali. Per chiedere un favore personale si preferiscono 麻烦你…… «scusa il disturbo…», 能不能…… «potresti…», ……好吗？ «…, va bene?» (vedi il capitolo «Registro scritto e registro parlato»).
+
+ex: **麻烦你**帮我拿一下。 | **Máfan nǐ** bāng wǒ ná yíxià. | Scusa il disturbo, me lo tieni un attimo?
+ex: 你**能不能**开一下窗户？ | Nǐ **néng bu néng** kāi yíxià chuānghu? | Potresti aprire la finestra?
+ex: 你帮我看一下，**好吗**？ | Nǐ bāng wǒ kàn yíxià, **hǎo ma**? | Mi dai un'occhiata, per favore?
+
+## Attenuare l'ordine: 一下, V一V e la reduplicazione
+
+Per rendere una richiesta leggera e informale il cinese «riduce» l'azione: «dai un'occhiata», «aspetta un attimo». A questo servono V + 一下 yíxià, la reduplicazione del verbo (VV, V一V; con i verbi bisillabi ABAB) e V + 一会儿 (vedi il capitolo «Il verbo», sezione sulla reduplicazione, e il capitolo «I complementi di quantità»).
+
+= V + 一下 (+ O)
+= VV / V一V (+ O)
+= ABAB (+ O)
+
+ex: 你**看看**这个。 | Nǐ **kànkan** zhège. | Dai un'occhiata a questo.
+ex: **等一下**，我马上来。 | **Děng yíxià**, wǒ mǎshàng lái. | Aspetta un attimo, arrivo subito.
+ex: 你**尝尝**我做的菜。 | Nǐ **chángchang** wǒ zuò de cài. | Assaggia il piatto che ho preparato.
+ex: 你**想一想**再回答。 | Nǐ **xiǎng yi xiǎng** zài huídá. | Pensaci un po' prima di rispondere.
+ex: **介绍一下**你自己吧。 | **Jièshào yíxià** nǐ zìjǐ ba. | Presentati un po'.
+ex: 我们**讨论讨论**这个问题。 | Wǒmen **tǎolùn tǎolùn** zhège wèntí. | Discutiamo un po' di questo problema.
+ex: 你**休息一会儿**吧。 | Nǐ **xiūxi yíhuìr** ba. | Riposati un po'.
+
+La combinazione di più elementi attenuanti è molto frequente e rende la richiesta particolarmente gentile:
+
+ex: **请**您**稍等一下**。 | **Qǐng** nín **shāo děng yíxià**. | Attenda un attimo, prego.
+ex: 你**帮**我**看看**吧。 | Nǐ **bāng** wǒ **kànkan** ba. | Dammi un'occhiata tu, dai.
+
+no: 你看看一下这个。 | Nǐ kànkan yíxià zhège. | Errato: reduplicazione e 一下 hanno la stessa funzione e non si sommano.
+ex: 你**看一下**这个。 | Nǐ **kàn yíxià** zhège. | Dai un'occhiata a questo.
+
+## Imperativi con 来 e 去 + V
+
+来 lái davanti a un verbo indica che chi parla si offre o invita a intraprendere un'azione («dai, faccio io», «su, fallo tu»); 去 qù + V invita ad andare altrove a compiere l'azione.
+
+= 来 + V (+ O)
+= (你) + 去 + V (+ O)
+
+ex: 你**来**说说。 | Nǐ **lái** shuōshuo. | Dai, dillo tu.
+ex: 我**来**介绍一下。 | Wǒ **lái** jièshào yíxià. | Lascia che faccia io le presentazioni.
+ex: **来**，喝一杯！ | **Lái**, hē yì bēi! | Su, beviamone un bicchiere!
+ex: 你**去**问问老师。 | Nǐ **qù** wènwen lǎoshī. | Vai a chiedere all'insegnante.
+ex: **去**洗手！ | **Qù** xǐ shǒu! | Vai a lavarti le mani!
+ex: 快**去**睡觉吧。 | Kuài **qù** shuì jiào ba. | Su, vai a dormire.
+
+! 来 da solo, all'inizio della frase, è un'esortazione molto comune: «su, forza, ecco»: 来，大家干杯！ «su, tutti, cin cin!».
+
+## L'imperativo con 把
+
+Negli ordini che riguardano un oggetto determinato da spostare, trasformare o sistemare, la costruzione con 把 è frequentissima, perché mette in evidenza il risultato che si vuole ottenere (vedi il capitolo «La costruzione con 把»).
+
+= (请) + 把 + O + V + altri elementi
+
+ex: **把**门关上！ | **Bǎ** mén guānshang! | Chiudi la porta!
+ex: **把**手机拿出来。 | **Bǎ** shǒujī ná chulai. | Tira fuori il telefono.
+ex: 请**把**作业交给我。 | Qǐng **bǎ** zuòyè jiāo gěi wǒ. | Consegnatemi i compiti, per favore.
+ex: 你**把**这本书放回去吧。 | Nǐ **bǎ** zhè běn shū fàng huiqu ba. | Rimetti a posto questo libro.
+ex: 别**把**钥匙弄丢了！ | Bié **bǎ** yàoshi nòng diū le! | Non perdere le chiavi!
+
+no: 请把门关。 | Qǐng bǎ mén guān. | Errato: dopo 把 il verbo non può restare nudo.
+ex: 请**把**门**关上**。 | Qǐng **bǎ** mén **guānshang**. | Chiudi la porta, per favore.
+
+## 给我 + V: l'ordine brusco
+
+Nel parlato colloquiale 给我 gěi wǒ davanti al verbo non significa «per me»: rafforza l'ordine e gli dà un tono perentorio, irritato, talvolta minaccioso. È tipico di genitori arrabbiati o di litigi.
+
+= (你) + 给我 + V (+ altri elementi)
+
+ex: 你**给我**站住！ | Nǐ **gěi wǒ** zhànzhù! | Fermati subito!
+ex: 你**给我**出去！ | Nǐ **gěi wǒ** chūqu! | Fuori di qui!
+ex: **给我**闭嘴！ | **Gěi wǒ** bì zuǐ! | Sta' zitto!
+ex: 你**给我**好好儿听着！ | Nǐ **gěi wǒ** hǎohāor tīngzhe! | Stammi bene a sentire!
+
+! Si combina anche con 把: 你给我把作业写完！ «Finisci i compiti, e subito!». È una forma affettivamente forte: lo studente deve saperla riconoscere, ma usarla solo con molta cautela.
+
+## Ordini enfatici: 千万, 一定要, 必须, 务必
+
+Per sottolineare l'importanza di quanto si chiede si usano avverbi come 一定 yídìng (spesso 一定要 «assolutamente, mi raccomando»), 千万 qiānwàn «per carità, assolutamente» (più frequente con la negazione), 必须 bìxū «devi» e, nello scritto formale, 务必 wùbì «è indispensabile».
+
+ex: 你**一定要**来啊！ | Nǐ **yídìng yào** lái a! | Vieni assolutamente, mi raccomando!
+ex: 到了以后**一定**给我打电话。 | Dào le yǐhòu **yídìng** gěi wǒ dǎ diànhuà. | Quando arrivi chiamami, mi raccomando.
+ex: 你**千万**要小心！ | Nǐ **qiānwàn** yào xiǎoxīn! | Stai attentissimo, per carità!
+ex: **千万**别忘了！ | **Qiānwàn** bié wàng le! | Non dimenticarlo, per carità!
+ex: 明天八点以前**必须**到。 | Míngtiān bā diǎn yǐqián **bìxū** dào. | Domani dovete essere qui entro le otto.
+ex: 请**务必**准时参加。 | Qǐng **wùbì** zhǔnshí cānjiā. | Si prega di partecipare puntualmente. (formale)
+
+! 千万 si usa negli ordini e nelle raccomandazioni, non nelle affermazioni: «千万喜欢» non esiste. Nell'imperativo affermativo richiede di solito 要: 千万要注意 «fai molta attenzione».
+
+## L'imperativo negativo: riepilogo
+
+I divieti sono trattati nel capitolo «La negazione». In sintesi:
+
+| Forma | Valore | Esempio |
+| 别 + V | non… (parlato) | 别走！ |
+| 不要 + V | non… (più deciso) | 不要说话！ |
+| 别 + V + 了 | smettila di… | 别哭了。 |
+| 不用 + V | non c'è bisogno di… | 不用谢。 |
+| 甭 + V | non serve (Pechino) | 甭客气。 |
+| 少 + V | basta con… (brusco) | 少废话！ |
+| 千万别 + V | per carità, non… | 千万别去！ |
+
+ex: **别**客气！ | **Bié** kèqi! | Non fare complimenti!
+ex: **别**着急，慢慢儿来。 | **Bié** zháojí, mànmānr lái. | Non avere fretta, fai con calma.
+ex: 你**甭**管了，我自己来。 | Nǐ **béng** guǎn le, wǒ zìjǐ lái. | Lascia stare, faccio da me.
+ex: **少**来这一套！ | **Shǎo** lái zhè yí tào! | Non attacca, smettila con questa storia!
+
+## I cartelli e lo stile scritto: 禁止, 严禁, 请勿
+
+Nei cartelli, negli avvisi e nei regolamenti l'imperativo assume forme fisse e concise, spesso di quattro caratteri, senza soggetto e senza particelle. La gradazione va dal cortese al severissimo:
+
+| Forma | Pinyin | Valore | Esempio |
+| 请勿 + V | qǐng wù | si prega di non | 请勿吸烟 |
+| 禁止 + V | jìnzhǐ | vietato | 禁止停车 |
+| 严禁 + V | yánjìn | severamente vietato | 严禁烟火 |
+| 不得 + V | bù dé | non è consentito | 不得入内 |
+| 请 + V | qǐng | si prega di | 请排队 |
+| 注意 + N | zhùyì | attenzione a | 注意安全 |
+| 小心 + N/V | xiǎoxīn | attenzione a | 小心地滑 |
+
+ex: **请勿**吸烟 | **Qǐng wù** xī yān | Si prega di non fumare
+ex: **请勿**打扰 | **Qǐng wù** dǎrǎo | Non disturbare
+ex: **禁止**停车 | **Jìnzhǐ** tíng chē | Divieto di sosta
+ex: **禁止**入内 | **Jìnzhǐ** rù nèi | Vietato l'ingresso
+ex: **严禁**酒后驾车 | **Yánjìn** jiǔ hòu jià chē | Severamente vietato guidare in stato di ebbrezza
+ex: **请**排队上车 | **Qǐng** pái duì shàng chē | Si prega di salire in fila
+ex: **小心**地滑 | **Xiǎoxīn** dì huá | Attenzione: pavimento scivoloso
+ex: 非请**勿**入 | Fēi qǐng **wù** rù | Vietato entrare senza invito
+
+! 勿 wù è una negazione del cinese classico («non»), sopravvissuta nello stile scritto: 请勿 equivale a 请不要. Per altri elementi classici della lingua scritta vedi il capitolo «Registro scritto e registro parlato».
+
+## I gradi di cortesia
+
+La forza di una richiesta si regola combinando gli elementi visti sopra. Dal più brusco al più cortese:
+
+| Grado | Esempio | Traduzione |
+| brusco, perentorio | 你给我闭嘴！ | Sta' zitto! |
+| ordine diretto | 关门！ | Chiudi la porta! |
+| ordine attenuato | 关一下门吧。 | Chiudi un attimo la porta. |
+| richiesta gentile | 请关一下门。 | Chiuda la porta, per favore. |
+| domanda indiretta | 你能把门关上吗？ | Puoi chiudere la porta? |
+| molto cortese | 麻烦您把门关一下，好吗？ | Le dispiacerebbe chiudere la porta? |
+
+Le strategie principali di cortesia sono quindi:
+- l'uso di 您 al posto di 你;
+- 请 all'inizio della richiesta;
+- l'attenuazione dell'azione con 一下, la reduplicazione o 一点儿;
+- le particelle 吧 e 啊 alla fine;
+- la trasformazione dell'ordine in domanda: 能不能……？, 可以……吗？, ……好吗？, ……行吗？;
+- formule di scusa preliminari: 麻烦你, 劳驾, 不好意思 (vedi il capitolo «Registro scritto e registro parlato»).
+
+ex: **可以**帮我拍张照片**吗**？ | **Kěyǐ** bāng wǒ pāi zhāng zhàopiàn **ma**? | Potrebbe farmi una foto?
+ex: **不好意思**，**能**让一下**吗**？ | **Bù hǎoyìsi**, **néng** ràng yíxià **ma**? | Scusi, mi fa passare?
+ex: 你明天早点儿来，**行吗**？ | Nǐ míngtiān zǎo diǎnr lái, **xíng ma**? | Domani vieni un po' prima, va bene?

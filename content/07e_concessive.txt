@@ -1,0 +1,90 @@
+## La concessiva
+
+La concessiva ammette un fatto o un'ipotesi che potrebbe ostacolare quanto si afferma nella principale, ma che non lo impedisce. Il cinese distingue con parole diverse due tipi di concessione: la **concessione reale**, che riguarda un fatto vero (虽然, 尽管), e la **concessione ipotetica**, che riguarda un fatto soltanto supposto (即使, 哪怕, 就算, 就是). L'italiano distingue i due casi soprattutto con il modo del verbo («anche se piove» / «anche se piovesse»), il cinese con la scelta della congiunzione.
+
+### 虽然/虽说/尽管……但是/可是/却/还是/也……
+
+= (S) + 虽然 + (S) + …，但是/可是 + (S) + (却/还是/也) + …
+= (S) + 尽管 + …，(S) + 还是/仍然/却 + …
+
+- **虽然** suīrán: la congiunzione concessiva più comune («anche se, benché»); nello scritto anche 虽 suī.
+- **虽说** suīshuō: variante parlata («sarà anche vero che…»).
+- **尽管** jǐnguǎn: «nonostante, per quanto»; insiste di più sul fatto ammesso.
+
+La principale contiene di solito 但是/可是 e spesso anche un avverbio come 却, 还是, 也, 仍然 réngrán («ugualmente, comunque»).
+
+ex: **虽然**汉语很难，**但是**我很喜欢。 | **Suīrán** Hànyǔ hěn nán, **dànshì** wǒ hěn xǐhuan. | Anche se il cinese è difficile, mi piace molto.
+ex: 他**虽然**年纪大了，身体**却**很好。 | Tā **suīrán** niánjì dà le, shēntǐ **què** hěn hǎo. | Benché sia avanti con gli anni, è in ottima salute.
+ex: **虽然**我们输了，**可是**大家都尽力了。 | **Suīrán** wǒmen shū le, **kěshì** dàjiā dōu jìn lì le. | Anche se abbiamo perso, tutti hanno dato il massimo.
+ex: **虽说**是夏天，晚上**还是**挺凉快的。 | **Suīshuō** shì xiàtiān, wǎnshang **háishi** tǐng liángkuai de. | Sarà anche estate, ma la sera fa piuttosto fresco.
+ex: **尽管**大家都反对，他**还是**坚持自己的意见。 | **Jǐnguǎn** dàjiā dōu fǎnduì, tā **háishi** jiānchí zìjǐ de yìjiàn. | Nonostante tutti fossero contrari, ha mantenuto la sua posizione.
+ex: **尽管**下着大雨，比赛**仍然**照常进行。 | **Jǐnguǎn** xià zhe dà yǔ, bǐsài **réngrán** zhàocháng jìnxíng. | Nonostante piovesse a dirotto, la partita si è svolta regolarmente.
+
+! In italiano «sebbene…, ma…» è considerato un errore perché la concessione è marcata due volte. In cinese, al contrario, 虽然……但是…… (o 可是, 却, 还是) è la costruzione normale e raccomandata; si può omettere uno dei due elementi, ma la coppia completa è sempre corretta.
+! 尽管 ha anche un uso avverbiale, «pure, senza esitare»: 有问题尽管问 «Se hai domande, chiedi pure» (vedi il capitolo «Gli avverbi»).
+
+no: 虽然很贵，我但是买了。 | Suīrán hěn guì, wǒ dànshì mǎi le. | Errato: 但是 apre la proposizione, prima del soggetto.
+ex: **虽然**很贵，**但是**我**还是**买了。 | **Suīrán** hěn guì, **dànshì** wǒ **háishi** mǎi le. | Anche se era caro, l'ho comprato lo stesso.
+
+### 即使/即便/就是/就算/哪怕……也……
+
+Queste congiunzioni introducono una **concessione ipotetica**: «anche se (dovesse)…», «anche ammesso che…». Nella principale l'avverbio 也 è obbligatorio e sta dopo il soggetto.
+
+= 即使/就算/哪怕 + (S) + …，(S) + 也 + …
+
+| Congiunzione | Registro | Sfumatura |
+| 即使 jíshǐ | neutro, scritto | la più comune |
+| 即便 jíbiàn | scritto | come 即使 |
+| 就是 jiùshì | parlato | come 即使 |
+| 就算 jiùsuàn | parlato | «ammettiamo pure che…» |
+| 哪怕 nǎpà | parlato, enfatico | «foss'anche», spesso con quantità minime o estreme |
+
+ex: **即使**明天下雨，比赛**也**会照常进行。 | **Jíshǐ** míngtiān xià yǔ, bǐsài **yě** huì zhàocháng jìnxíng. | Anche se domani piovesse, la partita si svolgerà regolarmente.
+ex: **就算**你不说，我**也**知道。 | **Jiùsuàn** nǐ bù shuō, wǒ **yě** zhīdao. | Anche se non me lo dici, lo so lo stesso.
+ex: **哪怕**只有一点儿希望，我们**也**不能放弃。 | **Nǎpà** zhǐ yǒu yìdiǎnr xīwàng, wǒmen **yě** bù néng fàngqì. | Anche se ci fosse solo un filo di speranza, non dobbiamo arrenderci.
+ex: **就是**再忙，你**也**得吃饭啊。 | **Jiùshì** zài máng, nǐ **yě** děi chī fàn a. | Per quanto tu sia impegnato, devi pur mangiare.
+ex: **即便**是专家，**也**不一定能回答这个问题。 | **Jíbiàn** shì zhuānjiā, **yě** bù yídìng néng huídá zhège wèntí. | Nemmeno un esperto saprebbe necessariamente rispondere a questa domanda.
+ex: **哪怕**只学十分钟，**也**比不学好。 | **Nǎpà** zhǐ xué shí fēnzhōng, **yě** bǐ bù xué hǎo. | Anche solo dieci minuti di studio sono meglio di niente.
+
+no: 即使明天下雨，我们去。 | Jíshǐ míngtiān xià yǔ, wǒmen qù. | Errato: con 即使 la principale richiede 也.
+ex: **即使**明天下雨，我们**也**去。 | **Jíshǐ** míngtiān xià yǔ, wǒmen **yě** qù. | Anche se domani piovesse, ci andiamo lo stesso.
+no: 即使下雨，也我们去。 | Jíshǐ xià yǔ, yě wǒmen qù. | Errato: 也 è un avverbio e va dopo il soggetto.
+ex: **即使**下雨，我们**也**去。 | **Jíshǐ** xià yǔ, wǒmen **yě** qù. | Anche se piovesse, ci andremmo.
+
+### 固然……但是/也……
+
+固然 gùrán («certo, è vero che») ammette la validità del primo punto per poi spostare l'attenzione sul secondo (固然……但是/可是……), oppure riconosce valide entrambe le possibilità (固然……也……). Appartiene a un registro medio-alto.
+
+ex: 这个办法**固然**好，**但是**成本太高。 | Zhège bànfǎ **gùrán** hǎo, **dànshì** chéngběn tài gāo. | Questo metodo sarà anche buono, ma i costi sono troppo alti.
+ex: 成绩**固然**重要，**但是**健康更重要。 | Chéngjì **gùrán** zhòngyào, **dànshì** jiànkāng gèng zhòngyào. | I voti sono certo importanti, ma la salute lo è di più.
+ex: 能考上大学**固然**好，考不上**也**没关系。 | Néng kǎoshàng dàxué **gùrán** hǎo, kǎo bu shàng **yě** méi guānxi. | Se riesci a entrare all'università, bene; se non ci riesci, pazienza.
+
+### 再 + Agg + 也……
+
+Nel parlato una concessione ipotetica di grado si esprime con 再 zài + aggettivo (o verbo) seguito da 也 nella principale: «per quanto…, …». È una struttura molto frequente e compatta.
+
+= 再 + Agg + (S) + 也 + …
+= S + 再 + Agg/V + 也 + …
+
+ex: **再**贵我**也**买。 | **Zài** guì wǒ **yě** mǎi. | Per quanto sia caro, lo compro.
+ex: 这个问题**再**难，我们**也**要解决。 | Zhège wèntí **zài** nán, wǒmen **yě** yào jiějué. | Per quanto sia difficile questo problema, dobbiamo risolverlo.
+ex: 你**再**忙**也**要注意身体。 | Nǐ **zài** máng **yě** yào zhùyì shēntǐ. | Per quanto tu sia impegnato, devi badare alla salute.
+ex: 我**再**怎么解释，他**也**不相信。 | Wǒ **zài** zěnme jiěshì, tā **yě** bù xiāngxìn. | Per quanto io gli spieghi, non mi crede.
+
+! Una struttura affine è 无论/不管 + 多 + Agg + ……都/也……: 无论多忙，他都锻炼身体 (vedi il capitolo «Frasi causali, ipotetiche e condizionali»).
+
+### 虽然 o 即使?
+
+| | 虽然 / 尽管 | 即使 / 哪怕 / 就算 |
+| tipo di concessione | reale | ipotetica |
+| il fatto ammesso | è vero (accaduto o in corso) | è soltanto supposto |
+| correlativo nella principale | 但是, 可是, 却, 还是 | 也 (obbligatorio) |
+| italiano | anche se, benché + fatto reale | anche se + congiuntivo imperfetto |
+| esempio | 虽然下雨了，我还是去了 | 即使下雨，我也去 |
+
+ex: **虽然**下雨了，我们**还是**去了。 | **Suīrán** xià yǔ le, wǒmen **háishi** qù le. | Anche se pioveva, ci siamo andati lo stesso. (fatto reale)
+ex: **即使**下雨，我们**也**要去。 | **Jíshǐ** xià yǔ, wǒmen **yě** yào qù. | Anche se dovesse piovere, ci andremo. (ipotesi)
+no: 虽然明天下雨，我也去。 | Suīrán míngtiān xià yǔ, wǒ yě qù. | Errato: un'ipotesi futura non si introduce con 虽然, ma con 即使.
+ex: **即使**明天下雨，我**也**去。 | **Jíshǐ** míngtiān xià yǔ, wǒ **yě** qù. | Anche se domani piovesse, ci vado.
+
+! L'italiano «anche se» copre entrambi i casi: prima di tradurre, chiedetevi se il fatto è reale (虽然) o solo ipotizzato (即使). Con 虽然 l'avverbio 也 è possibile ma non obbligatorio; con 即使 è indispensabile.

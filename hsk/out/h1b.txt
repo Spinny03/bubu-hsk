@@ -1,0 +1,253 @@
+哪 | nǎ | quale?, dove? | ❓ | 1
+哪儿 | nǎr | dove? | 📍 | 1
+哪里 | nǎli | dove? | 📍 | 1
+哪些 | nǎxiē | quali? | ❓ | 1
+那 | nà | quello, quella; allora | 👉 | 1
+那边 | nàbian | là, da quella parte | 👉 | 1
+那儿 | nàr | là, lì | 👉 | 1
+那里 | nàli | là, lì | 👉 | 1
+那些 | nàxiē | quelli, quelle | 👉 | 1
+奶 | nǎi | latte; nonna | 🥛 | 1
+奶奶 | nǎinai | nonna (paterna) | 👵 | 1
+男 | nán | maschio, maschile | ♂️ | 1
+男孩儿 | nánháir | ragazzo, bambino | 👦 | 1
+男朋友 | nánpéngyou | fidanzato, ragazzo | 💑 | 1
+男人 | nánrén | uomo | 👨 | 1
+男生 | nánshēng | ragazzo, studente | 👦 | 1
+南 | nán | sud | 🧭 | 1
+南边 | nánbian | sud, lato sud | 🧭 | 1
+难 | nán | difficile | 😣 | 1
+呢 | ne | particella: «e...?», enfasi | - | 1
+能 | néng | potere, essere in grado di | 💪 | 1
+你 | nǐ | tu | 🫵 | 1
+你们 | nǐmen | voi | 👥 | 1
+年 | nián | anno | 📅 | 1
+您 | nín | Lei (forma di cortesia) | 🙇 | 1
+牛奶 | niúnǎi | latte (di mucca) | 🥛 | 1
+女 | nǚ | femmina, femminile | ♀️ | 1
+女儿 | nǚ'ér | figlia | 👧 | 1
+女孩儿 | nǚháir | ragazza, bambina | 👧 | 1
+女朋友 | nǚpéngyou | fidanzata, ragazza | 💑 | 1
+女人 | nǚrén | donna | 👩 | 1
+女生 | nǚshēng | ragazza, studentessa | 👧 | 1
+旁边 | pángbiān | accanto, di fianco | - | 1
+跑 | pǎo | correre, scappare | 🏃 | 1
+朋友 | péngyou | amico | 🤝 | 1
+票 | piào | biglietto (张) | 🎫 | 1
+七 | qī | sette | 7️⃣ | 1
+起 | qǐ | alzarsi, sollevare | ⬆️ | 1
+起床 | qǐchuáng | alzarsi dal letto | 🛏️ | 1
+起来 | qǐlái | alzarsi; (dopo verbo) iniziare | ⬆️ | 1
+汽车 | qìchē | automobile (辆) | 🚗 | 1
+前 | qián | davanti; prima | - | 1
+前边 | qiánbian | davanti, parte anteriore | - | 1
+前天 | qiántiān | l'altro ieri | 📅 | 1
+钱 | qián | soldi, denaro | 💰 | 1
+钱包 | qiánbāo | portafoglio | 👛 | 1
+请 | qǐng | per favore; invitare, chiedere | 🙏 | 1
+请假 | qǐngjià | chiedere un permesso | 📝 | 1
+请进 | qǐng jìn | prego, entri! | 🚪 | 1
+请问 | qǐngwèn | scusi, posso chiedere...? | 🙋 | 1
+请坐 | qǐng zuò | prego, si sieda | 🪑 | 1
+球 | qiú | palla, pallone | ⚽ | 1
+去 | qù | andare | 🚶 | 1
+去年 | qùnián | l'anno scorso | 📅 | 1
+热 | rè | caldo; riscaldare | 🥵 | 1
+人 | rén | persona, gente | 🧑 | 1
+认识 | rènshi | conoscere (qualcuno) | 🤝 | 1
+认真 | rènzhēn | serio, coscienzioso | 🧐 | 1
+日 | rì | giorno; sole | ☀️ | 1
+日期 | rìqī | data | 📅 | 1
+肉 | ròu | carne | 🥩 | 1
+三 | sān | tre | 3️⃣ | 1
+山 | shān | montagna (座) | ⛰️ | 1
+商场 | shāngchǎng | centro commerciale | 🏬 | 1
+商店 | shāngdiàn | negozio (家) | 🏪 | 1
+上 | shàng | sopra; salire; precedente | ⬆️ | 1
+上班 | shàngbān | andare al lavoro | 💼 | 1
+上边 | shàngbian | sopra, parte superiore | ⬆️ | 1
+上车 | shàng chē | salire (su un veicolo) | 🚌 | 1
+上次 | shàngcì | l'ultima volta | ⏪ | 1
+上课 | shàngkè | andare a lezione, fare lezione | 🏫 | 1
+上网 | shàngwǎng | navigare in internet | 🌐 | 1
+上午 | shàngwǔ | mattina | 🌅 | 1
+上学 | shàngxué | andare a scuola | 🎒 | 1
+少 | shǎo | poco, pochi; mancare | 🤏 | 1
+身上 | shēnshang | addosso, sul corpo | - | 1
+身体 | shēntǐ | corpo; salute | 🧍 | 1
+什么 | shénme | che cosa?; qualcosa | ❓ | 1
+生病 | shēngbìng | ammalarsi | 🤒 | 1
+生气 | shēngqì | arrabbiarsi; arrabbiato | 😠 | 1
+生日 | shēngrì | compleanno | 🎂 | 1
+十 | shí | dieci | 🔟 | 1
+时候 | shíhou | momento, quando | 🕒 | 1
+时间 | shíjiān | tempo | ⏳ | 1
+事 | shì | faccenda, cosa (件) | - | 1
+试 | shì | provare | - | 1
+是 | shì | essere; sì | ✅ | 1
+是不是 | shì bu shì | è vero?, è o non è? | ❓ | 1
+手 | shǒu | mano (只) | ✋ | 1
+手机 | shǒujī | cellulare (部) | 📱 | 1
+书 | shū | libro (本) | 📖 | 1
+书包 | shūbāo | cartella, zaino scolastico | 🎒 | 1
+书店 | shūdiàn | libreria (negozio) (家) | 📚 | 1
+树 | shù | albero (棵) | 🌳 | 1
+谁 | shéi | chi? | ❓ | 1
+水 | shuǐ | acqua | 💧 | 1
+水果 | shuǐguǒ | frutta | 🍇 | 1
+睡 | shuì | dormire | 😴 | 1
+睡觉 | shuìjiào | dormire, andare a letto | 😴 | 1
+说 | shuō | dire, parlare | 🗣️ | 1
+说话 | shuōhuà | parlare | 🗣️ | 1
+四 | sì | quattro | 4️⃣ | 1
+送 | sòng | regalare; consegnare; accompagnare | 🎁 | 1
+岁 | suì | anni (di età) | 🎂 | 1
+他 | tā | lui | 👨 | 1
+他们 | tāmen | loro (maschile o misto) | 👥 | 1
+她 | tā | lei | 👩 | 1
+她们 | tāmen | loro (femminile) | 👭 | 1
+太 | tài | troppo; molto | - | 1
+天 | tiān | giorno; cielo | - | 1
+天气 | tiānqì | tempo (meteo) | ⛅ | 1
+听 | tīng | ascoltare, sentire | 👂 | 1
+听到 | tīngdào | sentire, udire | 👂 | 1
+听见 | tīngjiàn | sentire, udire | 👂 | 1
+听写 | tīngxiě | dettato; scrivere sotto dettatura | 📝 | 1
+同学 | tóngxué | compagno di scuola | 🧑‍🎓 | 1
+图书馆 | túshūguǎn | biblioteca | 📚 | 1
+外 | wài | fuori, esterno; straniero | - | 1
+外边 | wàibian | fuori, esterno | - | 1
+外国 | wàiguó | estero, paese straniero | 🌍 | 1
+外语 | wàiyǔ | lingua straniera | - | 1
+玩儿 | wánr | giocare, divertirsi | 🎮 | 1
+晚 | wǎn | sera; tardi | 🌙 | 1
+晚饭 | wǎnfàn | cena (顿) | 🍽️ | 1
+晚上 | wǎnshang | sera, di sera | 🌙 | 1
+网上 | wǎngshàng | online, in rete | 🌐 | 1
+网友 | wǎngyǒu | amico online, utente internet | 💻 | 1
+忘 | wàng | dimenticare | - | 1
+忘记 | wàngjì | dimenticare | - | 1
+问 | wèn | chiedere, domandare | 🙋 | 1
+我 | wǒ | io, me | - | 1
+我们 | wǒmen | noi | 👥 | 1
+五 | wǔ | cinque | 5️⃣ | 1
+午饭 | wǔfàn | pranzo (顿) | 🍱 | 1
+洗 | xǐ | lavare | 🧼 | 1
+洗手间 | xǐshǒujiān | bagno, toilette | 🚻 | 1
+喜欢 | xǐhuan | piacere, amare | ❤️ | 1
+西 | xī | ovest | 🧭 | 1
+西边 | xībian | ovest, lato ovest | 🧭 | 1
+下 | xià | sotto; scendere; prossimo | ⬇️ | 1
+下班 | xiàbān | finire di lavorare | 🏠 | 1
+下边 | xiàbian | sotto, parte inferiore | ⬇️ | 1
+下车 | xià chē | scendere (da un veicolo) | 🚌 | 1
+下次 | xiàcì | la prossima volta | ⏩ | 1
+下课 | xiàkè | finire la lezione | 🔔 | 1
+下午 | xiàwǔ | pomeriggio | 🕒 | 1
+下雨 | xià yǔ | piovere | 🌧️ | 1
+先 | xiān | prima, per primo | 🥇 | 1
+先生 | xiānsheng | signore; marito | 🤵 | 1
+现在 | xiànzài | ora, adesso | ⏱️ | 1
+想 | xiǎng | pensare; volere; sentire la mancanza | 🤔 | 1
+小 | xiǎo | piccolo | 🤏 | 1
+小孩儿 | xiǎoháir | bambino | 🧒 | 1
+小姐 | xiǎojiě | signorina | 👩 | 1
+小朋友 | xiǎopéngyou | bambino, bimbo | 🧒 | 1
+小时 | xiǎoshí | ora (durata) | 🕐 | 1
+小学 | xiǎoxué | scuola elementare | 🏫 | 1
+小学生 | xiǎoxuéshēng | alunno delle elementari | 🎒 | 1
+笑 | xiào | ridere, sorridere | 😄 | 1
+写 | xiě | scrivere | ✍️ | 1
+谢谢 | xièxie | grazie, ringraziare | 🙏 | 1
+新 | xīn | nuovo | 🆕 | 1
+新年 | xīnnián | anno nuovo, Capodanno | 🎆 | 1
+星期 | xīngqī | settimana | 📅 | 1
+星期日 | xīngqīrì | domenica | 📅 | 1
+星期天 | xīngqītiān | domenica | 📅 | 1
+行 | xíng | va bene, ok; andare | 👌 | 1
+休息 | xiūxi | riposare; riposo | 🛋️ | 1
+学 | xué | studiare, imparare | 📖 | 1
+学生 | xuésheng | studente | 🧑‍🎓 | 1
+学习 | xuéxí | studiare, imparare | 📚 | 1
+学校 | xuéxiào | scuola (所) | 🏫 | 1
+学院 | xuéyuàn | istituto, facoltà, college | 🏛️ | 1
+要 | yào | volere; dovere; stare per | - | 1
+也 | yě | anche | - | 1
+页 | yè | pagina | 📄 | 1
+爷爷 | yéye | nonno (paterno) | 👴 | 1
+一 | yī | uno | 1️⃣ | 1
+一半 | yíbàn | metà | 🌗 | 1
+一边 | yìbiān | un lato; mentre, intanto | - | 1
+一点儿 | yìdiǎnr | un po' | 🤏 | 1
+一会儿 | yíhuìr | un attimo, un momento | ⏳ | 1
+一块儿 | yíkuàir | insieme | 👫 | 1
+一起 | yìqǐ | insieme | 👫 | 1
+一下儿 | yíxiàr | un po', una volta (dopo verbo) | - | 1
+一些 | yìxiē | alcuni, un po' | - | 1
+一样 | yíyàng | uguale, stesso | 🟰 | 1
+衣服 | yīfu | vestiti (件) | 👕 | 1
+医生 | yīshēng | medico (位) | 🧑‍⚕️ | 1
+医院 | yīyuàn | ospedale (家) | 🏥 | 1
+用 | yòng | usare | - | 1
+有 | yǒu | avere; esserci | - | 1
+有的 | yǒude | alcuni, certi | - | 1
+有名 | yǒumíng | famoso | 🌟 | 1
+有时 | yǒushí | a volte | - | 1
+有时候 | yǒushíhou | a volte | - | 1
+有些 | yǒuxiē | alcuni; un po' | - | 1
+有一些 | yǒu yìxiē | alcuni; un po' | - | 1
+有用 | yǒuyòng | utile | 👍 | 1
+右 | yòu | destra | ➡️ | 1
+右边 | yòubian | destra, lato destro | ➡️ | 1
+雨 | yǔ | pioggia (场) | ☔ | 1
+元 | yuán | yuan (unità monetaria) | 💴 | 1
+远 | yuǎn | lontano | 🔭 | 1
+月 | yuè | mese; luna | 🌕 | 1
+再 | zài | di nuovo, ancora; poi | 🔁 | 1
+再见 | zàijiàn | arrivederci | 👋 | 1
+在 | zài | essere (in un luogo); in, a | 📍 | 1
+在家 | zài jiā | essere a casa | 🏠 | 1
+早 | zǎo | presto; buongiorno! | 🌅 | 1
+早饭 | zǎofàn | colazione (顿) | 🍳 | 1
+早上 | zǎoshang | mattina (presto) | 🌅 | 1
+怎么 | zěnme | come?, perché? | ❓ | 1
+站 | zhàn | stare in piedi; stazione, fermata | 🧍 | 1
+找 | zhǎo | cercare | 🔍 | 1
+找到 | zhǎodào | trovare | 🎯 | 1
+这 | zhè | questo, questa | 👇 | 1
+这边 | zhèbian | da questa parte, qui | 👇 | 1
+这儿 | zhèr | qui, qua | 👇 | 1
+这里 | zhèli | qui, qua | 👇 | 1
+这些 | zhèxiē | questi, queste | 👇 | 1
+着 | zhe | particella: azione in corso, stato | - | 1
+真 | zhēn | vero; davvero | - | 1
+真的 | zhēn de | davvero, veramente | - | 1
+正 | zhèng | proprio (ora); dritto, giusto | - | 1
+正在 | zhèngzài | stare facendo (azione in corso) | - | 1
+知道 | zhīdao | sapere | 💡 | 1
+知识 | zhīshi | conoscenza, sapere | 🧠 | 1
+中 | zhōng | mezzo, centro; in, dentro | 🎯 | 1
+中国 | Zhōngguó | Cina | 🇨🇳 | 1
+中间 | zhōngjiān | mezzo, in mezzo, fra | - | 1
+中文 | Zhōngwén | lingua cinese | 🇨🇳 | 1
+中午 | zhōngwǔ | mezzogiorno | 🕛 | 1
+中学 | zhōngxué | scuola media e superiore | 🏫 | 1
+中学生 | zhōngxuéshēng | studente delle medie/superiori | 🧑‍🎓 | 1
+重 | zhòng | pesante; importante | 🏋️ | 1
+重要 | zhòngyào | importante | ❗ | 1
+住 | zhù | abitare, alloggiare | 🏠 | 1
+准备 | zhǔnbèi | preparare; prepararsi | 📋 | 1
+桌子 | zhuōzi | tavolo, scrivania (张) | - | 1
+字 | zì | carattere (cinese), parola | - | 1
+子 | zi | suffisso nominale (es. 桌子) | - | 1
+走 | zǒu | camminare; andarsene | 🚶 | 1
+走路 | zǒulù | camminare, andare a piedi | 🚶 | 1
+最 | zuì | il più, -issimo | 🏆 | 1
+最好 | zuìhǎo | il migliore; è meglio che | 🥇 | 1
+最后 | zuìhòu | infine, ultimo | 🏁 | 1
+昨天 | zuótiān | ieri | 📅 | 1
+左 | zuǒ | sinistra | ⬅️ | 1
+左边 | zuǒbian | sinistra, lato sinistro | ⬅️ | 1
+坐 | zuò | sedersi; prendere (un mezzo) | 🪑 | 1
+坐下 | zuòxia | sedersi | 🪑 | 1
+做 | zuò | fare | 🛠️ | 1

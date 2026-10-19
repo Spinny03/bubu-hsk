@@ -1,0 +1,101 @@
+@ Cibo e piatti | 🍜
+吃 | chī | mangiare | 🍴 | 1
+饭 | fàn | pasto, riso cotto (顿/碗) | 🍱 | 1
+米饭 | mǐfàn | riso (cotto) (碗) | 🍚 | 1
+菜 | cài | piatto, pietanza (道/盘) | - | 1
+面条 | miàntiáo | spaghetti cinesi, noodles (碗) | 🍜 | 2
+饺子 | jiǎozi | ravioli cinesi | 🥟 | 4
+包子 | bāozi | panino al vapore ripieno | - | 4
+面包 | miànbāo | pane (块/片) | 🍞 | 3
+鸡蛋 | jīdàn | uovo | 🥚 | 2
+肉 | ròu | carne (块) | 🍖 | 2
+牛肉 | niúròu | carne di manzo | 🥩 | 3
+猪肉 | zhūròu | carne di maiale | 🥓 | 3
+鸡肉 | jīròu | carne di pollo | 🍗 | 3
+海鲜 | hǎixiān | frutti di mare | 🦞 | 4
+虾 | xiā | gambero (只) | 🦐 | 4
+汤 | tāng | zuppa, brodo (碗) | 🍲 | 4
+米 | mǐ | riso (crudo) | 🌾 | 3
+豆腐 | dòufu | tofu (块) | - | 4
+火锅 | huǒguō | hot pot, pentola cinese | 🫕 | 4
+烤鸭 | kǎoyā | anatra laccata (只) | - | 4
+早饭 | zǎofàn | colazione (顿) | - | 2
+午饭 | wǔfàn | pranzo (顿) | - | 2
+晚饭 | wǎnfàn | cena (顿) | - | 2
+沙拉 | shālā | insalata (份) | 🥗 | 4
+蛋糕 | dàngāo | torta (块) | 🍰 | 3
+饼干 | bǐnggān | biscotto (块) | 🍪 | 4
+糖 | táng | zucchero, caramella (块) | 🍬 | 4
+盐 | yán | sale | 🧂 | 4
+巧克力 | qiǎokèlì | cioccolato (块) | 🍫 | 4
+冰淇淋 | bīngqílín | gelato | 🍦 | 4
+披萨 | pīsà | pizza (张) | 🍕 | 4
+汉堡 | hànbǎo | hamburger | 🍔 | 4
+薯条 | shǔtiáo | patatine fritte (根/份) | 🍟 | 4
+零食 | língshí | snack, spuntino | 🍿 | 4
+好吃 | hǎochī | buono (da mangiare) | 😋 | 2
+饿 | è | avere fame, affamato | - | 3
+饱 | bǎo | sazio | - | 3
+甜 | tián | dolce | 🍭 | 3
+辣 | là | piccante | 🥵 | 4
+酸 | suān | acido, aspro | - | 4
+@ Bevande | 🥤
+水 | shuǐ | acqua (杯/瓶) | 💧 | 1
+喝 | hē | bere | - | 1
+茶 | chá | tè (杯/壶) | 🫖 | 1
+咖啡 | kāfēi | caffè (杯) | ☕ | 2
+牛奶 | niúnǎi | latte (杯/瓶) | 🥛 | 2
+果汁 | guǒzhī | succo di frutta (杯/瓶) | 🧃 | 4
+饮料 | yǐnliào | bevanda, bibita (杯/瓶) | 🍹 | 4
+啤酒 | píjiǔ | birra (瓶/杯) | 🍺 | 3
+酒 | jiǔ | alcolico, liquore (杯/瓶) | 🍶 | 3
+可乐 | kělè | cola, Coca-Cola (瓶/杯) | 🥤 | 4
+绿茶 | lǜchá | tè verde (杯) | 🍵 | 4
+奶茶 | nǎichá | tè al latte, bubble tea (杯) | 🧋 | 4
+红酒 | hóngjiǔ | vino rosso (瓶/杯) | 🍷 | 4
+白酒 | báijiǔ | acquavite cinese, baijiu | - | 4
+矿泉水 | kuàngquánshuǐ | acqua minerale (瓶) | - | 4
+热水 | rèshuǐ | acqua calda | - | 3
+冰 | bīng | ghiaccio | 🧊 | 3
+酸奶 | suānnǎi | yogurt (杯/盒) | - | 4
+豆浆 | dòujiāng | latte di soia (杯) | - | 4
+香槟 | xiāngbīn | champagne (瓶) | 🍾 | 4
+鸡尾酒 | jīwěijiǔ | cocktail (杯) | 🍸 | 4
+渴 | kě | avere sete, assetato | - | 3
+喝醉 | hēzuì | ubriacarsi | 🥴 | 4
+@ Frutta e verdura | 🍎
+水果 | shuǐguǒ | frutta | - | 1
+苹果 | píngguǒ | mela | 🍎 | 1
+香蕉 | xiāngjiāo | banana (根) | 🍌 | 3
+西瓜 | xīguā | anguria | 🍉 | 2
+橙子 | chéngzi | arancia | 🍊 | 4
+葡萄 | pútao | uva (串/颗) | 🍇 | 4
+草莓 | cǎoméi | fragola | 🍓 | 4
+梨 | lí | pera | 🍐 | 4
+桃子 | táozi | pesca | 🍑 | 4
+柠檬 | níngméng | limone | 🍋 | 4
+芒果 | mángguǒ | mango | 🥭 | 4
+菠萝 | bōluó | ananas | 🍍 | 4
+樱桃 | yīngtáo | ciliegia (颗) | 🍒 | 4
+哈密瓜 | hāmìguā | melone | 🍈 | 4
+猕猴桃 | míhóutáo | kiwi | 🥝 | 4
+椰子 | yēzi | noce di cocco | 🥥 | 4
+蓝莓 | lánméi | mirtillo (颗) | 🫐 | 4
+牛油果 | niúyóuguǒ | avocado | 🥑 | 4
+蔬菜 | shūcài | verdura | - | 4
+西红柿 | xīhóngshì | pomodoro | 🍅 | 4
+土豆 | tǔdòu | patata | 🥔 | 4
+胡萝卜 | húluóbo | carota (根) | 🥕 | 4
+黄瓜 | huánggua | cetriolo (根) | 🥒 | 4
+白菜 | báicài | cavolo cinese (棵) | 🥬 | 4
+洋葱 | yángcōng | cipolla | 🧅 | 4
+大蒜 | dàsuàn | aglio | 🧄 | 4
+辣椒 | làjiāo | peperoncino | 🌶️ | 4
+玉米 | yùmǐ | mais (根) | 🌽 | 4
+茄子 | qiézi | melanzana | 🍆 | 4
+蘑菇 | mógu | fungo | 🍄 | 4
+西兰花 | xīlánhuā | broccoli | 🥦 | 4
+花生 | huāshēng | arachide (颗) | 🥜 | 4
+栗子 | lìzi | castagna (颗) | 🌰 | 4
+橄榄 | gǎnlǎn | oliva (颗) | 🫒 | 4
+新鲜 | xīnxiān | fresco | - | 3

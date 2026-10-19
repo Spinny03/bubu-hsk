@@ -1,0 +1,100 @@
+@ Città e luoghi | 🏙️
+这儿 | zhèr | qui | - | 1
+那儿 | nàr | lì, là | - | 1
+哪儿 | nǎr | dove | - | 1
+饭馆 | fànguǎn | ristorante (家) | 🍽️ | 1
+前面 | qiánmian | davanti | - | 1
+后面 | hòumian | dietro | - | 1
+左边 | zuǒbian | sinistra | ⬅️ | 2
+右边 | yòubian | destra | ➡️ | 2
+旁边 | pángbiān | accanto | - | 2
+路 | lù | strada (条) | 🛣️ | 2
+宾馆 | bīnguǎn | albergo (家) | 🏨 | 2
+城市 | chéngshì | città (座) | 🏙️ | 3
+地方 | dìfang | luogo, posto | - | 3
+附近 | fùjìn | vicinanze, vicino | - | 3
+中间 | zhōngjiān | in mezzo | - | 3
+街 | jiē | via, strada (条) | - | 3
+公园 | gōngyuán | parco | 🏞️ | 3
+东 | dōng | est | - | 3
+西 | xī | ovest | - | 3
+南 | nán | sud | - | 3
+北 | běi | nord | - | 3
+电影院 | diànyǐngyuàn | cinema (家) | 🎦 | 3
+对面 | duìmiàn | di fronte | - | 4
+邮局 | yóujú | ufficio postale (家) | 🏤 | 4
+咖啡馆 | kāfēiguǎn | caffè, bar (家) | ☕ | 4
+博物馆 | bówùguǎn | museo (座) | 🏛️ | 4
+广场 | guǎngchǎng | piazza | - | 4
+中心 | zhōngxīn | centro | - | 4
+桥 | qiáo | ponte (座) | 🌉 | 4
+动物园 | dòngwùyuán | zoo | 🦁 | 4
+农村 | nóngcūn | campagna | 🌾 | 4
+@ Trasporti e viaggi | ✈️
+飞机 | fēijī | aereo (架) | ✈️ | 1
+出租车 | chūzūchē | taxi (辆) | 🚕 | 1
+坐 | zuò | sedersi; prendere (un mezzo) | - | 1
+回 | huí | tornare | - | 1
+火车 | huǒchē | treno (列) | 🚆 | 2
+公共汽车 | gōnggòng qìchē | autobus (辆) | 🚌 | 2
+汽车 | qìchē | automobile (辆) | 🚗 | 2
+机场 | jīchǎng | aeroporto | 🛫 | 2
+火车站 | huǒchēzhàn | stazione ferroviaria | 🚉 | 2
+旅游 | lǚyóu | viaggiare, fare turismo | 🧳 | 2
+走 | zǒu | camminare, andare | - | 2
+到 | dào | arrivare | - | 2
+开车 | kāichē | guidare (l'auto) | - | 2
+远 | yuǎn | lontano | - | 2
+近 | jìn | vicino | - | 2
+自行车 | zìxíngchē | bicicletta (辆) | 🚲 | 3
+地铁 | dìtiě | metropolitana | 🚇 | 3
+站 | zhàn | fermata, stazione | 🚏 | 3
+船 | chuán | nave, barca (条) | 🚢 | 3
+骑 | qí | andare (in bici, a cavallo) | 🚴 | 3
+行李 | xíngli | bagaglio (件) | - | 3
+迟到 | chídào | arrivare in ritardo | - | 3
+离开 | líkāi | lasciare, partire da | - | 3
+上车 | shàng chē | salire (su un veicolo) | - | 3
+下车 | xià chē | scendere (da un veicolo) | - | 3
+出发 | chūfā | partire | - | 4
+航班 | hángbān | volo | - | 4
+签证 | qiānzhèng | visto | - | 4
+红绿灯 | hónglǜdēng | semaforo | 🚦 | 4
+路口 | lùkǒu | incrocio | - | 4
+交通 | jiāotōng | traffico, trasporti | - | 4
+堵车 | dǔchē | ingorgo; essere imbottigliati | - | 4
+停车场 | tíngchēchǎng | parcheggio | 🅿️ | 4
+摩托车 | mótuōchē | moto (辆) | 🏍️ | 4
+高铁 | gāotiě | treno ad alta velocità (列) | 🚄 | 4
+@ Scuola e studio | 🎓
+学校 | xuéxiào | scuola (所) | 🏫 | 1
+学习 | xuéxí | studiare | - | 1
+写 | xiě | scrivere | ✍️ | 1
+读 | dú | leggere (ad alta voce) | - | 1
+字 | zì | carattere (scritto) | - | 1
+汉字 | hànzì | carattere cinese | - | 1
+上课 | shàngkè | fare lezione | - | 2
+下课 | xiàkè | finire la lezione | - | 2
+课 | kè | lezione (节) | - | 2
+教室 | jiàoshì | aula | - | 2
+考试 | kǎoshì | esame; dare un esame | 📝 | 2
+问题 | wèntí | domanda, problema | ❓ | 2
+意思 | yìsi | significato | - | 2
+懂 | dǒng | capire | - | 2
+大学 | dàxué | università (所) | - | 2
+作业 | zuòyè | compiti | - | 3
+回答 | huídá | rispondere | - | 3
+练习 | liànxí | esercitarsi; esercizio | - | 3
+复习 | fùxí | ripassare | - | 3
+词语 | cíyǔ | parola, vocabolo | - | 3
+句子 | jùzi | frase | - | 3
+黑板 | hēibǎn | lavagna (块) | - | 3
+图书馆 | túshūguǎn | biblioteca | 📚 | 3
+年级 | niánjí | anno (di corso) | - | 3
+班 | bān | classe (gruppo) | - | 3
+成绩 | chéngjì | voto, risultato | - | 3
+数学 | shùxué | matematica | ➗ | 3
+历史 | lìshǐ | storia | - | 3
+语法 | yǔfǎ | grammatica | - | 4
+科学 | kēxué | scienza | 🔬 | 4
+毕业 | bìyè | diplomarsi, laurearsi | - | 4

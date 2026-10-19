@@ -1,0 +1,203 @@
+# Le preposizioni
+
+Le preposizioni cinesi (介词 jiècí) introducono un nome o un pronome per indicare luogo, direzione, tempo, destinatario, causa, scopo, strumento e altre relazioni. Insieme al nome formano un sintagma preposizionale (介词短语 jiècí duǎnyǔ) che, di norma, si colloca **davanti al verbo**, dopo il soggetto: «Lavoro in banca» diventa «io + in banca + lavoro».
+
+## La natura delle preposizioni cinesi
+
+### Preposizioni nate dai verbi
+
+Quasi tutte le preposizioni cinesi derivano storicamente da verbi, e molte si usano ancora anche come verbi: 在 «trovarsi», 给 «dare», 到 «arrivare», 跟 «seguire», 对 «essere rivolto a», 离 «separarsi», 朝 «essere rivolto verso». Per questo le grammatiche occidentali le chiamano spesso *coverbi* (verbi che accompagnano il verbo principale).
+
+ex: 我**在**家。 | Wǒ **zài** jiā. | Sono a casa. (在 verbo)
+ex: 我**在**家吃饭。 | Wǒ **zài** jiā chī fàn. | Mangio a casa. (在 preposizione)
+ex: 他**给**我一本书。 | Tā **gěi** wǒ yì běn shū. | Mi dà un libro. (给 verbo)
+ex: 他**给**我打电话。 | Tā **gěi** wǒ dǎ diànhuà. | Mi telefona. (给 preposizione)
+
+A differenza dei verbi, le preposizioni:
+- non possono costituire da sole il predicato, ma accompagnano un verbo o un aggettivo;
+- di norma non prendono 了, 着, 过 (fanno eccezione forme lessicalizzate come 为了, 除了, 沿着, 随着, 对于);
+- non si raddoppiano e non prendono complementi;
+- non si usano da sole come risposta breve (si risponde con il verbo).
+
+### La posizione: davanti al verbo
+
+= S + Prep + N + V (+ O)
+= S + (Tempo) + Avv + Modale + Prep + N + V (+ O)
+
+ex: 我**在**银行工作。 | Wǒ **zài** yínháng gōngzuò. | Lavoro in banca.
+ex: 他**从**意大利来。 | Tā **cóng** Yìdàlì lái. | Viene dall'Italia.
+ex: 我晚上**给**你打电话。 | Wǒ wǎnshang **gěi** nǐ dǎ diànhuà. | Stasera ti telefono.
+ex: 她**对**我很好。 | Tā **duì** wǒ hěn hǎo. | È molto gentile con me.
+ex: 我们明天也想**跟**你一起去。 | Wǒmen míngtiān yě xiǎng **gēn** nǐ yìqǐ qù. | Domani vorremmo venire anche noi con te.
+
+no: 我工作在银行。 | Wǒ gōngzuò zài yínháng. | Errato: il luogo dell'azione si mette davanti al verbo.
+ex: 我**在**银行工作。 | Wǒ **zài** yínháng gōngzuò. | Lavoro in banca.
+no: 我学习汉语在北京。 | Wǒ xuéxí Hànyǔ zài Běijīng. | Errato: calco dell'ordine italiano.
+ex: 我**在**北京学习汉语。 | Wǒ **zài** Běijīng xuéxí Hànyǔ. | Studio cinese a Pechino.
+
+! Alcune preposizioni (在, 到, 给, 往, 向) possono anche seguire certi verbi, con un significato diverso: vedi il paragrafo «Le preposizioni dopo il verbo».
+
+### Negazione e domanda
+
+La negazione e gli avverbi precedono il sintagma preposizionale, non il verbo. Nella domanda affermativa-negativa si ripete la preposizione (o il modale, se c'è).
+
+= S + 不 / 没 + Prep + N + V
+= S + Prep + 不 + Prep + N + V？
+
+ex: 我今天**不**在家吃饭。 | Wǒ jīntiān **bú** zài jiā chī fàn. | Oggi non mangio a casa.
+ex: 他**没**跟我说。 | Tā **méi** gēn wǒ shuō. | Non me l'ha detto.
+ex: 你**在不在**家吃饭？ | Nǐ **zài bu zài** jiā chī fàn? | Mangi a casa?
+ex: 你**跟不跟**我们去？ | Nǐ **gēn bu gēn** wǒmen qù? | Vieni con noi?
+ex: 你**能不能**给我打个电话？ | Nǐ **néng bu néng** gěi wǒ dǎ ge diànhuà? | Mi puoi fare una telefonata?
+
+no: 我在家不吃饭。 | Wǒ zài jiā bù chī fàn. | Errato nel senso di «oggi non mangio a casa»: la negazione precede la preposizione.
+ex: 我**不**在家吃饭。 | Wǒ **bú** zài jiā chī fàn. | Non mangio a casa.
+
+! 我在家不吃饭 è possibile solo con un significato diverso e contrastivo: «a casa (in generale) non mangio» (cioè: mangio altrove).
+
+### Quadro generale
+
+| Relazione | Preposizioni |
+| luogo | 在 |
+| origine, punto di partenza | 从, 自从, 由 |
+| meta, direzione | 到, 往, 向, 朝 |
+| distanza | 离 |
+| compagnia, relazione | 跟, 和, 同, 与 |
+| destinatario, beneficiario | 给, 为, 替 |
+| oggetto di un atteggiamento | 对, 对于 |
+| argomento | 关于 |
+| scopo | 为了 |
+| base, criterio | 按照, 根据 |
+| mezzo | 通过 |
+| responsabile, agente | 由, 被 |
+| esclusione, aggiunta | 除了……以外 |
+| percorso | 沿着 |
+| trattamento dell'oggetto | 把 |
+| confronto | 比 |
+
+! 比 è trattato nel capitolo «Le frasi comparative», 把 nel capitolo «La costruzione con 把», 被 nel capitolo «Il passivo».
+
+## Il luogo: 在
+
+在 zài + luogo, davanti al verbo, indica dove si svolge l'azione. Il luogo deve essere un vero nome di luogo (北京, 学校, 银行, 家) oppure un nome comune seguito da una parola di localizzazione (桌子上, 房间里, 我旁边). Con i nomi di persona e i pronomi si aggiunge 这儿 / 那儿 (vedi il capitolo «Il sostantivo»).
+
+= S + 在 + Luogo + V (+ O)
+
+ex: 他们**在**咖啡馆聊天。 | Tāmen **zài** kāfēiguǎn liáotiān. | Chiacchierano al caffè.
+ex: 孩子们**在**公园里玩儿。 | Háizimen **zài** gōngyuán li wánr. | I bambini giocano nel parco.
+ex: 我**在**网上买了一本书。 | Wǒ **zài** wǎngshang mǎi le yì běn shū. | Ho comprato un libro su internet.
+ex: 你**在**哪儿学的汉语？ | Nǐ **zài** nǎr xué de Hànyǔ? | Dove hai studiato il cinese?
+ex: 今天晚上你可以**在**我这儿住。 | Jīntiān wǎnshang nǐ kěyǐ **zài** wǒ zhèr zhù. | Stanotte puoi dormire da me.
+
+no: 他在桌子写作业。 | Tā zài zhuōzi xiě zuòyè. | Errato: un nome comune di oggetto richiede una parola di localizzazione.
+ex: 他**在**桌子**上**写作业。 | Tā **zài** zhuōzi **shang** xiě zuòyè. | Fa i compiti sul tavolo.
+
+! Il 在 preposizione non va confuso con il 在 avverbio di azione in corso (我在吃饭 «sto mangiando»): vedi il capitolo «Azione in corso e stato continuato: 在, 正在, 着».
+
+### Usi astratti: 在……上 / 中 / 下
+
+Con nomi astratti, 在 forma locuzioni di registro più formale: 在……上 «dal punto di vista di, in materia di», 在……中 «nel corso di, in mezzo a», 在……下 «sotto, con (l'aiuto, la guida di)». Queste locuzioni stanno spesso all'inizio della frase.
+
+ex: **在**老师的帮助**下**，我进步很快。 | **Zài** lǎoshī de bāngzhù **xià**, wǒ jìnbù hěn kuài. | Con l'aiuto dell'insegnante ho fatto rapidi progressi.
+ex: **在**这个问题**上**，我们的看法不一样。 | **Zài** zhège wèntí **shang**, wǒmen de kànfǎ bù yíyàng. | Su questa questione abbiamo opinioni diverse.
+ex: **在**学习**中**，他遇到了很多困难。 | **Zài** xuéxí **zhōng**, tā yùdào le hěn duō kùnnan. | Nello studio ha incontrato molte difficoltà.
+
+## Origine e meta: 从 e 到
+
+### 从
+
+从 cóng indica il punto di partenza nello spazio («da») e nel tempo («da, a partire da»), oppure il luogo attraverso cui si passa. Come per 在, un nome di persona o un pronome richiede 这儿 / 那儿.
+
+= S + 从 + Luogo / Tempo + V
+
+ex: 我**从**意大利来。 | Wǒ **cóng** Yìdàlì lái. | Vengo dall'Italia.
+ex: **从**明天开始，我要早起。 | **Cóng** míngtiān kāishǐ, wǒ yào zǎo qǐ. | Da domani voglio alzarmi presto.
+ex: 我**从**图书馆借了两本书。 | Wǒ **cóng** túshūguǎn jiè le liǎng běn shū. | Ho preso in prestito due libri dalla biblioteca.
+ex: 我们**从**这条路走吧。 | Wǒmen **cóng** zhè tiáo lù zǒu ba. | Passiamo da questa strada.
+ex: 这本书是我**从**小王**那儿**借的。 | Zhè běn shū shì wǒ **cóng** Xiǎo Wáng **nàr** jiè de. | Questo libro l'ho preso in prestito da Xiao Wang.
+
+no: 我从小王借了一本书。 | Wǒ cóng Xiǎo Wáng jiè le yì běn shū. | Errato: dopo 从 una persona richiede 这儿 / 那儿.
+ex: 我**从**小王**那儿**借了一本书。 | Wǒ **cóng** Xiǎo Wáng **nàr** jiè le yì běn shū. | Ho preso in prestito un libro da Xiao Wang.
+
+### 从……到……
+
+= 从 + A + 到 + B
+
+ex: 我每天**从**九点**到**五点上班。 | Wǒ měitiān **cóng** jiǔ diǎn **dào** wǔ diǎn shàngbān. | Lavoro tutti i giorni dalle nove alle cinque.
+ex: **从**北京**到**上海坐高铁要五个小时左右。 | **Cóng** Běijīng **dào** Shànghǎi zuò gāotiě yào wǔ ge xiǎoshí zuǒyòu. | Da Pechino a Shanghai in treno ad alta velocità ci vogliono circa cinque ore.
+ex: **从**老人**到**孩子，大家都喜欢他。 | **Cóng** lǎorén **dào** háizi, dàjiā dōu xǐhuan tā. | Dai vecchi ai bambini, piace a tutti.
+
+### 到
+
+到 dào, davanti al verbo, indica la meta di un movimento; si combina spesso con 来 / 去, ed è seguito eventualmente da un altro verbo che esprime lo scopo.
+
+= S + 到 + Luogo + 来 / 去 (+ V + O)
+
+ex: 他**到**上海去了。 | Tā **dào** Shànghǎi qù le. | È andato a Shanghai.
+ex: 我们**到**外面去吃饭吧。 | Wǒmen **dào** wàimian qù chī fàn ba. | Andiamo a mangiare fuori.
+ex: 你**到**我办公室来一下。 | Nǐ **dào** wǒ bàngōngshì lái yíxià. | Vieni un momento nel mio ufficio.
+
+! 到 + Luogo + 去 equivale nel significato a 去 + Luogo: 他到上海去了 = 他去上海了. 到 è anche verbo «arrivare» (我到了 «sono arrivato») e complemento di risultato (找到 «trovare»): vedi il capitolo «Il complemento di risultato».
+
+## La direzione: 往, 向, 朝
+
+Tutte e tre indicano una direzione, ma con sfumature diverse.
+
+- 往 wǎng: direzione di un **movimento** («verso, in direzione di»); si usa con verbi di spostamento e con le parole di direzione (前, 后, 左, 右, 东, 里, 外). Dopo alcuni verbi (开往, 飞往, 寄往, 通往) indica la destinazione, nel registro scritto.
+- 向 xiàng: direzione fisica e anche **destinatario astratto** di un'azione rivolta a una persona (向他学习 «imparare da lui», 向你道歉 «chiederti scusa», 向老师请教 «chiedere consiglio all'insegnante»). Può seguire alcuni verbi bisillabici o monosillabici scritti (走向, 转向, 奔向).
+- 朝 cháo: «rivolto verso», orientamento del corpo o di un oggetto; con le persone solo per azioni fisiche, concrete (朝我笑, 朝我走来, 朝他招手).
+
+ex: 一直**往**前走，然后**往**左拐。 | Yìzhí **wǎng** qián zǒu, ránhòu **wǎng** zuǒ guǎi. | Vada sempre dritto, poi giri a sinistra.
+ex: 请**往**里走。 | Qǐng **wǎng** lǐ zǒu. | Prego, si sposti più avanti, verso l'interno.
+ex: 这趟火车开**往**西安。 | Zhè tàng huǒchē kāi **wǎng** Xī'ān. | Questo treno è diretto a Xi'an.
+ex: 我们应该**向**他学习。 | Wǒmen yīnggāi **xiàng** tā xuéxí. | Dovremmo prendere esempio da lui.
+ex: 我**向**你道歉。 | Wǒ **xiàng** nǐ dàoqiàn. | Ti chiedo scusa.
+ex: 请替我**向**你父母问好。 | Qǐng tì wǒ **xiàng** nǐ fùmǔ wènhǎo. | Salutami i tuoi genitori.
+ex: 她**朝**我笑了笑。 | Tā **cháo** wǒ xiào le xiào. | Mi ha fatto un sorriso.
+ex: 他**朝**门口走去。 | Tā **cháo** ménkǒu zǒuqu. | Si è diretto verso la porta.
+ex: 我的房间**朝**南。 | Wǒ de fángjiān **cháo** nán. | La mia stanza è esposta a sud. (朝 verbo)
+
+| | 往 | 向 | 朝 |
+| Direzione di movimento | sì | sì | sì |
+| Orientamento, «rivolto verso» | no | sì | sì |
+| Persona come destinatario astratto | no | sì: 向他学习 | no |
+| Persona, azione fisica | raro | sì: 向我走来 | sì: 朝我笑 |
+| Dopo il verbo | sì: 开往 | sì: 走向 | no |
+| Registro | neutro | neutro / scritto | neutro / parlato |
+
+no: 我们应该朝他学习。 | Wǒmen yīnggāi cháo tā xuéxí. | Errato: con un destinatario astratto si usa 向.
+ex: 我们应该**向**他学习。 | Wǒmen yīnggāi **xiàng** tā xuéxí. | Dovremmo prendere esempio da lui.
+no: 我往你道歉。 | Wǒ wǎng nǐ dàoqiàn. | Errato: 往 indica solo la direzione di un movimento.
+ex: 我**向**你道歉。 | Wǒ **xiàng** nǐ dàoqiàn. | Ti chiedo scusa.
+
+## La distanza: 离
+
+离 lí indica il punto di riferimento rispetto al quale si misura una **distanza**, nello spazio o nel tempo. Non indica movimento: il predicato è un aggettivo come 远 / 近 o un'espressione di distanza con 有.
+
+= A + 离 + B + 远 / 近
+= A + 离 + B + (有) + distanza
+= 离 + evento + (还) 有 + tempo
+
+ex: 我家**离**学校很近。 | Wǒ jiā **lí** xuéxiào hěn jìn. | Casa mia è molto vicina alla scuola.
+ex: 这儿**离**火车站远不远？ | Zhèr **lí** huǒchēzhàn yuǎn bu yuǎn? | È lontana la stazione da qui?
+ex: 北京**离**上海有一千多公里。 | Běijīng **lí** Shànghǎi yǒu yìqiān duō gōnglǐ. | Pechino dista da Shanghai più di mille chilometri.
+ex: 我们公司**离**地铁站只有五分钟。 | Wǒmen gōngsī **lí** dìtiězhàn zhǐ yǒu wǔ fēnzhōng. | La nostra azienda è a soli cinque minuti dalla metro.
+ex: **离**考试只有一个星期了。 | **Lí** kǎoshì zhǐ yǒu yí ge xīngqī le. | Manca solo una settimana all'esame.
+ex: **离**春节还有十天。 | **Lí** Chūnjié hái yǒu shí tiān. | Mancano ancora dieci giorni al Capodanno cinese.
+
+### 离 e 从
+
+L'italiano «da» corrisponde sia a 从 sia a 离: 从 indica il punto di partenza di un movimento o di un periodo; 离 il punto di riferimento di una distanza statica.
+
+| | 从 | 离 |
+| Valore | punto di partenza | punto di riferimento |
+| Movimento | sì: 从家出发 | no |
+| Predicato tipico | verbo di movimento, 开始, 到 | 远, 近, 有 + distanza |
+| Esempio | 我从北京来。 | 我家离北京很远。 |
+
+no: 我家从学校很近。 | Wǒ jiā cóng xuéxiào hěn jìn. | Errato: per la distanza si usa 离.
+ex: 我家**离**学校很近。 | Wǒ jiā **lí** xuéxiào hěn jìn. | Casa mia è vicina alla scuola.
+no: 我离北京来。 | Wǒ lí Běijīng lái. | Errato: per il punto di partenza di un movimento si usa 从.
+ex: 我**从**北京来。 | Wǒ **cóng** Běijīng lái. | Vengo da Pechino.
+
+! Con 离 la distanza o il tempo si misurano sempre «da B»; se si vuole esprimere la distanza percorsa da un punto a un altro si usa 从……到……: 从我家到学校要走十分钟 «Da casa mia alla scuola ci vogliono dieci minuti a piedi».

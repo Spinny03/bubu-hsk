@@ -1,0 +1,163 @@
+# Frasi alternative, avversative e concessive
+
+Questo capitolo tratta tre tipi di frasi complesse: le alternative (选择复句 xuǎnzé fùjù), che presentano due o più possibilità; le avversative (转折复句 zhuǎnzhé fùjù), in cui la seconda proposizione contrasta con la prima; le concessive (让步复句 ràngbù fùjù), che ammettono un fatto o un'ipotesi senza che questo impedisca quanto affermato nella principale.
+
+## L'alternativa
+
+### 或者……或者……
+
+或者 huòzhě («o, oppure») presenta possibilità tutte accettabili nelle frasi **dichiarative**. Può unire nomi, verbi o intere proposizioni; ripetuto (或者……或者……) corrisponde a «o… o…». Nello scritto si usano le forme 或 huò e 或是 huòshì.
+
+= N₁ + 或者 + N₂
+= (S) + 或者 + V₁，或者 + V₂
+
+ex: 周末我**或者**在家看书，**或者**去公园散步。 | Zhōumò wǒ **huòzhě** zài jiā kàn shū, **huòzhě** qù gōngyuán sàn bù. | Nel fine settimana o leggo a casa, o vado a passeggiare al parco.
+ex: 你可以发电子邮件，**或者**直接给他打电话。 | Nǐ kěyǐ fā diànzǐ yóujiàn, **huòzhě** zhíjiē gěi tā dǎ diànhuà. | Puoi mandargli un'e-mail oppure telefonargli direttamente.
+ex: **或者**你来，**或者**我去，都可以。 | **Huòzhě** nǐ lái, **huòzhě** wǒ qù, dōu kěyǐ. | O vieni tu o vengo io: va bene in tutti e due i casi.
+ex: 明天**或者**后天我给你回电话。 | Míngtiān **huòzhě** hòutiān wǒ gěi nǐ huí diànhuà. | Ti richiamo domani o dopodomani.
+ex: 请用中文**或**英文填写。 | Qǐng yòng Zhōngwén **huò** Yīngwén tiánxiě. | Compilare in cinese o in inglese.
+
+### 还是
+
+还是 háishi si usa nelle **domande alternative** (vedi il capitolo «Le frasi interrogative»), nelle domande indirette e nelle frasi dichiarative che esprimono incertezza o indifferenza (non so se…, 不管……还是……).
+
+ex: 你是中国人**还是**日本人？ | Nǐ shì Zhōngguórén **háishi** Rìběnrén? | Sei cinese o giapponese?
+ex: 我们今天去**还是**明天去？ | Wǒmen jīntiān qù **háishi** míngtiān qù? | Ci andiamo oggi o domani?
+ex: 我还没决定去上海**还是**去北京。 | Wǒ hái méi juédìng qù Shànghǎi **háishi** qù Běijīng. | Non ho ancora deciso se andare a Shanghai o a Pechino.
+ex: 不管刮风**还是**下雨，他都骑车上班。 | Bùguǎn guā fēng **háishi** xià yǔ, tā dōu qí chē shàng bān. | Che tiri vento o che piova, va al lavoro in bicicletta.
+
+| Uso | 或者 | 还是 |
+| domanda alternativa | no | sì: 你去还是我去？ |
+| frase dichiarativa | sì: 你去或者我去都行 | solo con incertezza o indifferenza |
+| domanda indiretta | no | sì: 不知道他去还是不去 |
+| dopo 不管 / 无论 | raro | sì: 不管刮风还是下雨 |
+
+! 还是 ha anche un uso avverbiale distinto, «è meglio, conviene» (还是坐地铁吧 «Meglio prendere la metropolitana»), e il significato di «ancora, comunque» (vedi il capitolo «Gli avverbi»).
+
+### 不是……就是……
+
+不是……就是…… bú shì… jiù shì… («o… o…», «se non… allora…») indica che si verifica **una delle due** possibilità, senza una terza. Si usa spesso per descrivere, talvolta con tono di lamentela, una situazione che si ripete.
+
+= 不是 + A，就是 + B
+
+ex: 这几天**不是**刮风，**就是**下雨。 | Zhè jǐ tiān **bú shì** guā fēng, **jiù shì** xià yǔ. | In questi giorni, se non tira vento, piove.
+ex: 他周末**不是**睡觉**就是**玩儿游戏。 | Tā zhōumò **bú shì** shuì jiào **jiù shì** wánr yóuxì. | Nel fine settimana o dorme o gioca ai videogiochi.
+ex: 敲门的**不是**小王**就是**小李。 | Qiāo mén de **bú shì** Xiǎo Wáng **jiù shì** Xiǎo Lǐ. | Chi bussa è o Xiao Wang o Xiao Li.
+
+! Non confondere 不是……就是…… («o A o B») con 不是……而是…… («non A, ma B»), che esprime una correzione (vedi il capitolo «Frasi coordinate, successive e progressive»).
+
+### 要么……要么……
+
+要么……要么…… yàome… yàome… («o… o…») pone di fronte a una scelta che va fatta, spesso con tono deciso. È tipico del parlato.
+
+= 要么 + A，要么 + B
+
+ex: **要么**你去，**要么**我去，总得有人去。 | **Yàome** nǐ qù, **yàome** wǒ qù, zǒngděi yǒu rén qù. | O vai tu o vado io: qualcuno ci deve pur andare.
+ex: 你**要么**现在就走，**要么**留下来吃饭。 | Nǐ **yàome** xiànzài jiù zǒu, **yàome** liú xialai chī fàn. | O te ne vai subito, o resti a cena.
+ex: **要么**坐飞机，**要么**坐高铁，开车太累了。 | **Yàome** zuò fēijī, **yàome** zuò gāotiě, kāi chē tài lèi le. | O prendiamo l'aereo o il treno ad alta velocità: in macchina è troppo faticoso.
+
+### 与其……不如……
+
+与其……不如…… yǔqí… bùrú… («piuttosto che…, è meglio…») confronta due possibilità e dichiara preferibile la **seconda**.
+
+= 与其 + A，不如 + B   (B è preferibile)
+
+ex: **与其**在这儿等，**不如**我们自己去找他。 | **Yǔqí** zài zhèr děng, **bùrú** wǒmen zìjǐ qù zhǎo tā. | Piuttosto che aspettare qui, è meglio che andiamo noi a cercarlo.
+ex: **与其**花钱买新的，**不如**把旧的修一修。 | **Yǔqí** huā qián mǎi xīn de, **bùrú** bǎ jiù de xiū yi xiū. | Piuttosto che spendere soldi per uno nuovo, conviene riparare quello vecchio.
+ex: **与其**说他聪明，**不如**说他努力。 | **Yǔqí** shuō tā cōngming, **bùrú** shuō tā nǔlì. | Più che intelligente, direi che è diligente.
+
+### 宁可/宁愿……也不/也要……
+
+宁可 nìngkě e 宁愿 nìngyuàn («preferire, piuttosto») indicano una scelta sofferta: si accetta un sacrificio (A) pur di evitare qualcosa (也不 + B) o pur di ottenere qualcosa (也要 + B).
+
+= S + 宁可 + A，也不 + B   (piuttosto A che B)
+= S + 宁可 + A，也要 + B   (anche a costo di A, B)
+
+ex: 我**宁可**走路，**也不**坐他的车。 | Wǒ **nìngkě** zǒu lù, **yě bú** zuò tā de chē. | Preferisco andare a piedi piuttosto che salire sulla sua macchina.
+ex: 他**宁可**饿着，**也不**吃快餐。 | Tā **nìngkě** è zhe, **yě bù** chī kuàicān. | Preferisce restare a stomaco vuoto piuttosto che mangiare cibo da fast food.
+ex: 我**宁愿**少睡一点儿，**也要**把工作做完。 | Wǒ **nìngyuàn** shǎo shuì yìdiǎnr, **yě yào** bǎ gōngzuò zuòwán. | Preferisco dormire un po' meno, ma voglio finire il lavoro.
+ex: 父母**宁可**自己辛苦一点儿，**也要**让孩子上好学校。 | Fùmǔ **nìngkě** zìjǐ xīnkǔ yìdiǎnr, **yě yào** ràng háizi shàng hǎo xuéxiào. | I genitori sono disposti a fare sacrifici pur di mandare i figli in una buona scuola.
+
+! Attenzione all'ordine: con 与其……不如…… l'opzione preferita è la **seconda**; con 宁可……也不…… l'opzione scelta è la **prima**.
+
+### Riepilogo
+
+| Struttura | Valore | Esempio |
+| 或者……或者…… | possibilità tutte valide | 或者你来，或者我去 |
+| 还是 | scelta richiesta (domanda) | 你去还是我去？ |
+| 不是……就是…… | una delle due, senza terza | 不是刮风，就是下雨 |
+| 要么……要么…… | scelta da fare, tono deciso | 要么走，要么留 |
+| 与其……不如…… | si preferisce la seconda | 与其等，不如走 |
+| 宁可……也不…… | si sceglie la prima, a malincuore | 宁可走路，也不坐车 |
+| 宁可……也要…… | anche a costo di A, si vuole B | 宁可少睡，也要做完 |
+
+## L'avversativa
+
+Nelle frasi avversative la seconda proposizione contrasta con la prima o con ciò che ci si aspetterebbe da essa. Le parole avversative differiscono per forza, registro e posizione: le congiunzioni (但是, 可是, 不过, 然而, 只是) aprono la seconda proposizione; gli avverbi (却, 倒) seguono il soggetto.
+
+### 但是 e 可是
+
+但是 dànshì (neutro; abbreviato 但 dàn, frequente anche nello scritto) e 可是 kěshì (più parlato; abbreviato 可 kě) esprimono un contrasto netto («ma, però»). Si combinano spesso con 虽然 nella prima proposizione e con 也, 还, 却 nella seconda.
+
+ex: 这个房子很漂亮，**但是**太贵了。 | Zhège fángzi hěn piàoliang, **dànshì** tài guì le. | Questa casa è molto bella, ma è troppo cara.
+ex: 我想去，**可是**没有时间。 | Wǒ xiǎng qù, **kěshì** méiyǒu shíjiān. | Vorrei andarci, ma non ho tempo.
+ex: 他说要来，**可是**到现在还没来。 | Tā shuō yào lái, **kěshì** dào xiànzài hái méi lái. | Ha detto che sarebbe venuto, ma finora non si è visto.
+ex: 天气预报说今天有雨，**但**一直是晴天。 | Tiānqì yùbào shuō jīntiān yǒu yǔ, **dàn** yìzhí shì qíngtiān. | Le previsioni davano pioggia, ma è stato sereno tutto il giorno.
+
+### 不过 e 只是
+
+不过 búguò («però, comunque») è più debole di 但是: aggiunge una riserva o una precisazione ed è frequentissimo nel parlato. 只是 zhǐshì (e, nel parlato, 就是 jiùshì) è ancora più attenuato: «solo che…».
+
+ex: 这个办法不错，**不过**有点儿麻烦。 | Zhège bànfǎ búcuò, **búguò** yǒudiǎnr máfan. | Questo metodo non è male, però è un po' complicato.
+ex: 我很想帮你，**不过**得先问问我的老板。 | Wǒ hěn xiǎng bāng nǐ, **búguò** děi xiān wènwen wǒ de lǎobǎn. | Vorrei tanto aiutarti, però prima devo chiedere al mio capo.
+ex: 这件衣服很好看，**只是**颜色深了点儿。 | Zhè jiàn yīfu hěn hǎokàn, **zhǐshì** yánsè shēn le diǎnr. | Questo vestito è molto bello, solo che il colore è un po' scuro.
+ex: 他人很好，**就是**脾气急了一点儿。 | Tā rén hěn hǎo, **jiùshì** píqi jí le yìdiǎnr. | È una brava persona, solo che è un po' irascibile.
+
+### 然而
+
+然而 rán'ér («tuttavia, eppure») ha la stessa forza di 但是, ma appartiene allo stile scritto (saggi, giornali, narrativa).
+
+ex: 他做了很大的努力，**然而**还是失败了。 | Tā zuò le hěn dà de nǔlì, **rán'ér** háishi shībài le. | Ha fatto grandi sforzi, tuttavia ha fallito.
+ex: 人们以为问题已经解决了，**然而**事实并非如此。 | Rénmen yǐwéi wèntí yǐjīng jiějué le, **rán'ér** shìshí bìng fēi rúcǐ. | Si credeva che il problema fosse già risolto; i fatti, tuttavia, dicono altrimenti.
+
+### 却
+
+却 què («invece, eppure, però») è un **avverbio**: sta dopo il soggetto della propria proposizione, prima del predicato. Sottolinea che il fatto contrasta con le aspettative e può combinarsi con 但是/可是 (但是……却……).
+
+= S₁ + …，S₂ + 却 + V/Agg
+
+ex: 我给他打了三次电话，他**却**一直没接。 | Wǒ gěi tā dǎ le sān cì diànhuà, tā **què** yìzhí méi jiē. | Gli ho telefonato tre volte, eppure non ha mai risposto.
+ex: 文章不长，内容**却**很丰富。 | Wénzhāng bù cháng, nèiróng **què** hěn fēngfù. | L'articolo non è lungo, eppure il contenuto è molto ricco.
+ex: 大家都同意，**可是**他**却**反对。 | Dàjiā dōu tóngyì, **kěshì** tā **què** fǎnduì. | Tutti sono d'accordo, ma lui invece è contrario.
+ex: 已经是春天了，天气**却**还很冷。 | Yǐjīng shì chūntiān le, tiānqì **què** hái hěn lěng. | È già primavera, eppure fa ancora freddo.
+
+no: 我想帮他，却他不要。 | Wǒ xiǎng bāng tā, què tā bú yào. | Errato: 却 è un avverbio e va dopo il soggetto.
+ex: 我想帮他，他**却**不要。 | Wǒ xiǎng bāng tā, tā **què** bú yào. | Volevo aiutarlo, ma lui non ha voluto.
+
+### 倒(是)
+
+倒 dào / 倒是 dàoshì è un avverbio dal valore attenuato: segnala che il fatto va contro le attese («invece»), oppure concede un punto prima di una riserva («quanto a…, sì, però…»). Come 却, sta dopo il soggetto.
+
+ex: 这家饭馆不大，菜**倒是**挺好吃的。 | Zhè jiā fànguǎn bú dà, cài **dàoshì** tǐng hǎochī de. | Questo ristorante non è grande, però i piatti sono buoni.
+ex: 东西**倒是**不错，就是太贵了。 | Dōngxi **dàoshì** búcuò, jiùshì tài guì le. | La merce in sé non è male, solo che è troppo cara.
+ex: 你说得**倒**容易，你自己来试试！ | Nǐ shuō de **dào** róngyì, nǐ zìjǐ lái shìshi! | Facile a dirsi! Prova un po' tu!
+
+### 而 di contrasto
+
+而 ér collega due fatti messi a confronto («mentre, invece») ed è tipico dello stile scritto e formale. Nella seconda proposizione può comparire anche 却. Per gli altri usi di 而 vedi il capitolo «Registro scritto e registro parlato».
+
+ex: 北方人爱吃面食，**而**南方人爱吃米饭。 | Běifāngrén ài chī miànshí, **ér** nánfāngrén ài chī mǐfàn. | Al nord si mangiano soprattutto cibi a base di farina, mentre al sud si preferisce il riso.
+ex: 他哥哥很外向，**而**他却很内向。 | Tā gēge hěn wàixiàng, **ér** tā què hěn nèixiàng. | Suo fratello è molto estroverso, mentre lui è molto introverso.
+ex: 我们应该从实际出发，**而**不是从书本出发。 | Wǒmen yīnggāi cóng shíjì chūfā, **ér** bú shì cóng shūběn chūfā. | Dobbiamo partire dalla realtà, e non dai libri.
+
+### Gradi di intensità
+
+| Parola | Forza del contrasto | Registro | Posizione |
+| 但是 / 但 | forte | neutro | inizio 2ª proposizione |
+| 可是 / 可 | forte | parlato | inizio 2ª proposizione |
+| 然而 | forte | scritto | inizio 2ª proposizione |
+| 却 | forte, contro le attese | neutro | dopo il soggetto |
+| 不过 | media | parlato | inizio 2ª proposizione |
+| 只是 / 就是 | debole: «solo che» | parlato | inizio 2ª proposizione |
+| 倒(是) | debole, concessivo | parlato | dopo il soggetto |
+| 而 | confronto tra due fatti | scritto | inizio 2ª proposizione |

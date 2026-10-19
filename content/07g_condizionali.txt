@@ -1,0 +1,128 @@
+## La condizione
+
+Le frasi condizionali precisano a quale condizione si verifica un fatto: una condizione sufficiente (只要), necessaria (只有, 除非), qualsiasi (无论, 不管), oppure un evento che, una volta verificatosi, produce una conseguenza (一旦). Le parole 否则, 不然 introducono invece la conseguenza che si avrebbe se la condizione non fosse rispettata.
+
+### 只要……就……
+
+只要 zhǐyào («basta che, purché») introduce una **condizione sufficiente**: se si verifica, il risultato è assicurato. Nella principale compare 就 (talvolta omesso).
+
+= 只要 + condizione，(S) + 就 + risultato
+
+ex: **只要**你努力，**就**一定能成功。 | **Zhǐyào** nǐ nǔlì, **jiù** yídìng néng chénggōng. | Basta che tu ti impegni, e avrai sicuramente successo.
+ex: **只要**有时间，我**就**去健身房。 | **Zhǐyào** yǒu shíjiān, wǒ **jiù** qù jiànshēnfáng. | Ogni volta che ho tempo, vado in palestra.
+ex: **只要**不下雨，比赛**就**照常进行。 | **Zhǐyào** bú xià yǔ, bǐsài **jiù** zhàocháng jìnxíng. | Purché non piova, la partita si svolgerà regolarmente.
+ex: 你**只要**按这个按钮，机器**就**会自动启动。 | Nǐ **zhǐyào** àn zhège ànniǔ, jīqì **jiù** huì zìdòng qǐdòng. | Basta premere questo pulsante e la macchina si avvia da sola.
+ex: **只要**你喜欢**就**好。 | **Zhǐyào** nǐ xǐhuan **jiù** hǎo. | L'importante è che ti piaccia.
+
+### 只有……才……
+
+只有 zhǐyǒu («solo se, soltanto») introduce una **condizione necessaria**, l'unica che permette il risultato. Nella principale 才 cái è obbligatorio e sta dopo il soggetto.
+
+= 只有 + condizione，(S) + 才 + risultato
+
+ex: **只有**多听多说，**才**能学好汉语。 | **Zhǐyǒu** duō tīng duō shuō, **cái** néng xuéhǎo Hànyǔ. | Solo ascoltando e parlando molto si può imparare bene il cinese.
+ex: **只有**你去请他，他**才**会来。 | **Zhǐyǒu** nǐ qù qǐng tā, tā **cái** huì lái. | Verrà solo se vai tu a invitarlo.
+ex: **只有**通过考试，**才**能拿到证书。 | **Zhǐyǒu** tōngguò kǎoshì, **cái** néng nádào zhèngshū. | Solo superando l'esame si ottiene il certificato.
+ex: **只有**在这家店，**才**买得到这种茶。 | **Zhǐyǒu** zài zhè jiā diàn, **cái** mǎi de dào zhè zhǒng chá. | Questo tè si trova solo in questo negozio.
+
+### 只要 o 只有?
+
+| Aspetto | 只要……就…… | 只有……才…… |
+| tipo di condizione | sufficiente | necessaria, unica |
+| italiano | basta che, purché | solo se, soltanto |
+| sfumatura | il risultato è facile | il risultato richiede proprio quella condizione |
+| correlativo | 就 (omissibile) | 才 (obbligatorio) |
+| esempio | 只要努力，就能成功 | 只有努力，才能成功 |
+
+ex: **只要**你去，他**就**会去。 | **Zhǐyào** nǐ qù, tā **jiù** huì qù. | Basta che ci vada tu, e ci andrà anche lui. (la tua presenza è sufficiente)
+ex: **只有**你去，他**才**会去。 | **Zhǐyǒu** nǐ qù, tā **cái** huì qù. | Ci andrà solo se ci vai tu. (senza di te non ci va)
+ex: **只要**带护照，**就**可以入境。 | **Zhǐyào** dài hùzhào, **jiù** kěyǐ rù jìng. | Per entrare nel paese basta il passaporto.
+ex: **只有**办了签证，**才**可以入境。 | **Zhǐyǒu** bàn le qiānzhèng, **cái** kěyǐ rù jìng. | Si può entrare nel paese solo dopo aver ottenuto il visto.
+no: 只要努力，才能成功。 | Zhǐyào nǔlì, cái néng chénggōng. | Errato: 只要 si abbina a 就, non a 才.
+no: 只有努力，就能成功。 | Zhǐyǒu nǔlì, jiù néng chénggōng. | Errato: 只有 si abbina a 才, non a 就.
+ex: **只有**努力，**才**能成功。 | **Zhǐyǒu** nǔlì, **cái** néng chénggōng. | Solo impegnandosi si può avere successo.
+
+### 除非……才/否则/不然……
+
+除非 chúfēi («a meno che, salvo che, solo se») indica l'**unica** condizione in grado di cambiare la situazione. Ha tre costruzioni principali.
+
+= 除非 + condizione，(S) + 才 + risultato   (= 只有……才……)
+= 除非 + condizione，否则/不然 + (S) + conseguenza
+= S + (不) + V…，除非 + condizione   (posposto)
+
+ex: **除非**你亲自去请他，他**才**会来。 | **Chúfēi** nǐ qīnzì qù qǐng tā, tā **cái** huì lái. | Verrà solo se vai tu di persona a invitarlo.
+ex: **除非**下大雨，**否则**我们明天一定去。 | **Chúfēi** xià dà yǔ, **fǒuzé** wǒmen míngtiān yídìng qù. | A meno che non piova forte, domani ci andiamo sicuramente.
+ex: **除非**你答应我，**不然**我不走。 | **Chúfēi** nǐ dāying wǒ, **bùrán** wǒ bù zǒu. | Non me ne vado finché non me lo prometti.
+ex: 他不会同意的，**除非**你给他更多的钱。 | Tā bú huì tóngyì de, **chúfēi** nǐ gěi tā gèng duō de qián. | Non sarà d'accordo, a meno che tu non gli dia più soldi.
+
+! In italiano «a meno che» è seguito da un «non» pleonastico («a meno che non piova»). In cinese 除非 regge la condizione in forma **affermativa**: 除非下雨 «a meno che (non) piova». Aggiungere 不 capovolge il senso.
+
+### 无论/不管/不论……都/也……
+
+无论 wúlùn (neutro e scritto), 不管 bùguǎn (parlato) e 不论 búlùn (scritto) introducono una condizione **qualsiasi**: il risultato non cambia, comunque stiano le cose («qualunque…», «comunque…», «che… o…»). Nella principale 都 o 也 sono obbligatori e seguono il soggetto.
+
+Dopo 无论/不管 non può stare una semplice affermazione, ma soltanto un'espressione «aperta», che lascia spazio a più possibilità:
+
+- una **parola interrogativa** (谁, 什么, 哪儿, 怎么, 怎么样…);
+- due **alternative** collegate da 还是, oppure la forma affermativa-negativa V不V;
+- **多(么) + Agg** («per quanto…»).
+
+= 无论/不管 + parola interrogativa …，S + 都/也 + …
+= 无论/不管 + A + 还是 + B / V不V …，S + 都/也 + …
+= 无论/不管 + 多(么) + Agg，S + 都/也 + …
+
+ex: **不管**刮风**还是**下雨，他**都**来。 | **Bùguǎn** guā fēng **háishi** xià yǔ, tā **dōu** lái. | Che tiri vento o che piova, lui viene sempre.
+ex: **无论**多忙，他**都**锻炼身体。 | **Wúlùn** duō máng, tā **dōu** duànliàn shēntǐ. | Per quanto sia impegnato, fa sempre attività fisica.
+ex: **无论**谁来，我**都**不见。 | **Wúlùn** shéi lái, wǒ **dōu** bú jiàn. | Chiunque venga, non ricevo nessuno.
+ex: **不管**你去不去，我**都**要去。 | **Bùguǎn** nǐ qù bu qù, wǒ **dōu** yào qù. | Che tu ci vada o no, io ci vado.
+ex: **不管**遇到什么困难，我们**也**不能放弃。 | **Bùguǎn** yùdào shénme kùnnan, wǒmen **yě** bù néng fàngqì. | Qualunque difficoltà incontriamo, non dobbiamo arrenderci.
+ex: **不论**结果怎么样，我们**都**尽力了。 | **Búlùn** jiéguǒ zěnmeyàng, wǒmen **dōu** jìn lì le. | Comunque vada, abbiamo fatto del nostro meglio.
+ex: **无论**在哪儿，他**都**很受欢迎。 | **Wúlùn** zài nǎr, tā **dōu** hěn shòu huānyíng. | Ovunque si trovi, è sempre benvoluto.
+
+no: 无论明天下雨，我都去。 | Wúlùn míngtiān xià yǔ, wǒ dōu qù. | Errato: dopo 无论 serve un'espressione aperta; per un singolo evento ipotetico si usa 即使……也…….
+ex: **无论**明天下不下雨，我**都**去。 | **Wúlùn** míngtiān xià bu xià yǔ, wǒ **dōu** qù. | Che domani piova o no, io ci vado.
+no: 不管天气很冷，他都去跑步。 | Bùguǎn tiānqì hěn lěng, tā dōu qù pǎo bù. | Errato: dopo 不管 non si usa 很 + Agg, ma 多 + Agg.
+ex: **不管**天气多冷，他**都**去跑步。 | **Bùguǎn** tiānqì duō lěng, tā **dōu** qù pǎo bù. | Per quanto faccia freddo, va a correre.
+no: 不管刮风或者下雨，他都来。 | Bùguǎn guā fēng huòzhě xià yǔ, tā dōu lái. | Errato: le alternative dopo 不管/无论 si collegano con 还是.
+ex: **不管**刮风**还是**下雨，他**都**来。 | **Bùguǎn** guā fēng **háishi** xià yǔ, tā **dōu** lái. | Che tiri vento o che piova, lui viene.
+
+### 一旦……就……
+
+一旦 yídàn («una volta che, qualora») presenta un evento possibile, spesso importante o grave, e ne indica la conseguenza, introdotta da 就. Può riferirsi anche al passato, per un cambiamento improvviso.
+
+= (S) + 一旦 + evento，(S) + 就 + conseguenza
+
+ex: **一旦**发现问题，**就**要马上报告。 | **Yídàn** fāxiàn wèntí, **jiù** yào mǎshàng bàogào. | Qualora si riscontri un problema, bisogna segnalarlo immediatamente.
+ex: 好习惯**一旦**养成，**就**会受益一生。 | Hǎo xíguàn **yídàn** yǎngchéng, **jiù** huì shòuyì yìshēng. | Una buona abitudine, una volta acquisita, giova per tutta la vita.
+ex: 机会**一旦**失去，**就**很难再找回来。 | Jīhuì **yídàn** shīqù, **jiù** hěn nán zài zhǎo huilai. | Un'occasione, una volta persa, è difficile da ritrovare.
+
+! 一旦 differisce da 如果 perché mette l'accento sul momento in cui l'evento si verifica e sulle sue conseguenze; differisce da 一……就…… perché non indica una successione abituale o immediata, ma un evento eventuale.
+
+### 否则, 不然, 要不然, 要不
+
+Queste parole («altrimenti, se no») aprono la seconda proposizione e indicano che cosa succederebbe se non si facesse quanto detto nella prima, che contiene spesso un consiglio, un ordine o un obbligo.
+
+= consiglio/obbligo，否则/不然/要不 + (S) + conseguenza
+
+| Parola | Registro | Osservazioni |
+| 否则 fǒuzé | formale, scritto | anche dopo 除非 |
+| 不然 bùrán | neutro | |
+| 要不然 yàobùrán | parlato | |
+| 要不 yàobù | parlato | anche «e se…?» per proporre |
+
+ex: 快走吧，**不然**就来不及了。 | Kuài zǒu ba, **bùrán** jiù lái bu jí le. | Andiamo, svelti, altrimenti non facciamo in tempo.
+ex: 你得多穿点儿，**要不然**会感冒的。 | Nǐ děi duō chuān diǎnr, **yàobùrán** huì gǎnmào de. | Devi coprirti di più, altrimenti ti prendi il raffreddore.
+ex: 必须按时完成任务，**否则**要承担责任。 | Bìxū ànshí wánchéng rènwu, **fǒuzé** yào chéngdān zérèn. | Il compito va portato a termine nei tempi previsti, altrimenti se ne risponderà.
+ex: 别玩儿手机了，**要不**眼睛会坏的。 | Bié wánr shǒujī le, **yàobù** yǎnjing huì huài de. | Smettila con il telefono, se no ti rovini gli occhi.
+ex: 今天太晚了，**要不**我们明天再去？ | Jīntiān tài wǎn le, **yàobù** wǒmen míngtiān zài qù? | Oggi è troppo tardi: e se ci andassimo domani?
+
+### Riepilogo
+
+| Struttura | Valore | Esempio |
+| 只要……就…… | condizione sufficiente | 只要努力，就能学好 |
+| 只有……才…… | condizione necessaria | 只有努力，才能学好 |
+| 除非……才…… | unica condizione | 除非你去，他才去 |
+| 除非……否则…… | «a meno che» | 除非下雨，否则一定去 |
+| 无论/不管……都…… | condizione qualsiasi | 不管多忙，都来 |
+| 一旦……就…… | evento eventuale | 一旦开始，就别停 |
+| ……，否则/不然…… | «altrimenti» | 快走，不然来不及 |

@@ -1,0 +1,201 @@
+## Come usare questa guida
+
+Questa grammatica descrive il cinese mandarino standard dal livello principiante a quello avanzato (circa HSK 1–6). Si può leggere dall'inizio alla fine oppure consultare come opera di riferimento: ogni capitolo è dedicato a un argomento e segue di norma lo stesso schema, cioè spiegazione, struttura, esempi, forme negative e interrogative, eccezioni, confronti con costruzioni simili ed errori tipici degli italiani.
+
+### I riquadri «Struttura»
+
+Le costruzioni grammaticali sono riassunte in riquadri come questo:
+
+= S + 很 + Agg
+= S + 不 + V + O
+
+Nei riquadri le parole funzionali cinesi compaiono in caratteri (很, 不, 把, 的…), mentre gli altri elementi sono indicati con le seguenti abbreviazioni:
+
+| Sigla | Significato | Esempi |
+| S | soggetto | 我, 小王, 我的朋友 |
+| V | verbo | 吃, 学习, 喜欢 |
+| O | oggetto | 饭, 汉语, 这本书 |
+| Agg | aggettivo | 高, 忙, 漂亮 |
+| N | nome (sostantivo) | 书, 老师, 北京 |
+| Num | numerale | 一, 三, 十五 |
+| CL | classificatore | 个, 本, 张 |
+| Avv | avverbio | 很, 都, 也 |
+| Prep | preposizione | 在, 给, 跟 |
+| C | complemento (补语) | 完, 好, 出去 |
+| Luogo | espressione di luogo | 在家, 北京, 桌子上 |
+| Tempo | espressione di tempo | 昨天, 三点, 每天 |
+
+Gli elementi tra parentesi sono facoltativi, la barra separa elementi alternativi: «= (Tempo) + S + 不/没 + V».
+
+! Attenzione: la sigla C indica il 补语 bǔyǔ, cioè un elemento che segue il verbo e ne precisa il risultato, la direzione, il grado o la quantità (看完 «finire di leggere», 跑出去 «correre fuori»). Non corrisponde al «complemento» della grammatica italiana (complemento oggetto, di luogo, di tempo…), che in cinese ha nomi diversi.
+
+### Gli esempi
+
+Ogni esempio è presentato su tre colonne: i caratteri cinesi, il pinyin in corsivo e la traduzione italiana. In grassetto è evidenziato l'elemento di cui si sta parlando, sia nei caratteri sia nel pinyin:
+
+ex: 我**把**书放在桌子上了。 | Wǒ **bǎ** shū fàng zài zhuōzi shang le. | Ho messo il libro sul tavolo.
+ex: 我吃了**两碗**米饭。 | Wǒ chī le **liǎng wǎn** mǐfàn. | Ho mangiato due ciotole di riso. (lett. io mangiare-了 due ciotole riso)
+
+Le traduzioni cercano di essere naturali; quando la struttura cinese è molto diversa da quella italiana, si aggiunge tra parentesi una traduzione letterale, introdotta da «lett.». I dialoghi sono presentati su una sola riga, con gli interlocutori indicati da A e B.
+
+### Esempi errati e corretti
+
+Le frasi sbagliate, tipiche di chi impara il cinese partendo dall'italiano, sono stampate in rosso e contrassegnate da ✗, con una breve spiegazione dell'errore. Sono seguite subito dalla versione corretta, contrassegnata da ✓:
+
+no: 我是很高。 | Wǒ shì hěn gāo. | Errato: davanti all'aggettivo non si usa 是.
+ex: 我很高。 | Wǒ hěn gāo. | Sono alto.
+
+### I riquadri «Nota»
+
+! I riquadri «Nota» come questo segnalano eccezioni, avvertenze, differenze di registro tra lingua parlata e lingua scritta, consigli pratici ed errori frequenti.
+
+### Le convenzioni del pinyin
+
+Il pinyin di questo libro segue le regole ortografiche standard, con alcune convenzioni da conoscere fin dall'inizio:
+- i toni sono indicati con i segni diacritici (mā, má, mǎ, mà) e mai con i numeri;
+- il tono neutro non ha alcun segno: de, le, ma, xuésheng, péngyou, xǐhuan;
+- i cambiamenti di tono di 一 e 不 sono segnati come si pronunciano realmente: yí ge, yì běn, bú shì, bù hǎo, kàn yi kàn, hǎo bu hǎo; 一 resta yī quando si conta, negli ordinali, nelle date e in fine di parola (dì-yī, yī yuè, tǒngyī);
+- il cambiamento del terzo tono davanti a un altro terzo tono non è segnato: si scrive nǐ hǎo, ma si pronuncia *ní hǎo*;
+- i complementi di direzione non accentati sono in tono neutro (jìnlai, chūqu, ná qilai) e così pure 得 e 不 nel complemento potenziale (tīng de dǒng, tīng bu dǒng);
+- le parole sono scritte unite secondo le regole ufficiali (xuésheng, Zhōngguó), mentre particelle e classificatori sono staccati (yí ge rén, sān běn shū, wǒ de shū);
+- la frase comincia con la maiuscola, così come i nomi propri (Běijīng, Xiǎo Wáng, Lǐ lǎoshī), e si usa la punteggiatura occidentale.
+
+ex: 你好！ | Nǐ hǎo! | Ciao! (si pronuncia *ní hǎo*)
+ex: 我**不**是老师。 | Wǒ **bú** shì lǎoshī. | Non sono un insegnante.
+ex: 他买了**一**本书。 | Tā mǎi le **yì** běn shū. | Ha comprato un libro.
+
+Tutte queste regole sono spiegate nel capitolo «La pronuncia e il pinyin».
+
+### I rimandi tra i capitoli
+
+Ogni argomento è trattato in modo completo in un solo capitolo. Quando un altro capitolo ne ha bisogno, si limita a un breve richiamo e rimanda al capitolo competente citandone il titolo, per esempio: (vedi il capitolo «La particella 了»). L'indice generale permette di trovare rapidamente ogni capitolo.
+
+### Le appendici
+
+Alla fine del volume si trovano quattro appendici:
+- «Errori frequenti degli italiani»: raccolta ragionata degli errori più comuni, con la forma errata e quella corretta;
+- «Tabelle riassuntive»: schemi di consultazione rapida (pronomi, classificatori, particelle, complementi, congiunzioni…);
+- «Glossario della terminologia grammaticale»: i termini grammaticali usati nel libro, in italiano e in cinese con il pinyin;
+- «Percorso di studio consigliato»: un ordine di lettura dei capitoli per livello, dal principiante all'avanzato.
+
+## Terminologia grammaticale di base
+
+La grammatica cinese usa una terminologia propria, che conviene conoscere anche perché compare nei manuali e nei dizionari cinesi. In questa sezione si presentano i componenti della frase e le parti del discorso.
+
+### I componenti della frase
+
+La grammatica cinese distingue sei componenti della frase (句子成分 jùzi chéngfèn), più la nozione di «elemento centrale».
+
+Il soggetto (主语 zhǔyǔ) è ciò di cui si parla; di solito sta all'inizio della frase. Può essere un nome, un pronome, un'espressione di tempo o di luogo, ma anche un verbo o un'intera frase.
+ex: **我**是学生。 | **Wǒ** shì xuésheng. | Sono uno studente.
+ex: **今天**很冷。 | **Jīntiān** hěn lěng. | Oggi fa freddo.
+ex: **学汉语**很有意思。 | **Xué Hànyǔ** hěn yǒu yìsi. | Studiare il cinese è interessante.
+
+Il predicato (谓语 wèiyǔ) è ciò che si dice del soggetto. Può essere verbale, aggettivale o nominale (vedi «La frase semplice e il verbo 是»).
+ex: 我**学习汉语**。 | Wǒ **xuéxí Hànyǔ**. | Studio cinese.
+ex: 他**很高**。 | Tā **hěn gāo**. | È alto.
+ex: 今天**星期一**。 | Jīntiān **xīngqīyī**. | Oggi è lunedì.
+
+L'oggetto (宾语 bīnyǔ) segue il verbo e indica ciò su cui ricade l'azione. Anche l'oggetto può essere un verbo o una frase.
+ex: 我喜欢**音乐**。 | Wǒ xǐhuan **yīnyuè**. | Mi piace la musica.
+ex: 我想**去中国**。 | Wǒ xiǎng **qù Zhōngguó**. | Voglio andare in Cina.
+ex: 我知道**他是谁**。 | Wǒ zhīdao **tā shì shéi**. | So chi è.
+
+L'attributo (定语 dìngyǔ) modifica un nome e lo precede sempre, spesso seguito dalla particella 的 de.
+ex: **我的**书 | **wǒ de** shū | il mio libro
+ex: **三本**书 | **sān běn** shū | tre libri
+ex: **昨天买的**书 | **zuótiān mǎi de** shū | il libro comprato ieri
+
+L'avverbiale o modificatore avverbiale (状语 zhuàngyǔ) modifica un verbo o un aggettivo e li precede; può essere un avverbio, un'espressione di tempo, un sintagma preposizionale, un aggettivo seguito da 地 de.
+ex: 他**很**高。 | Tā **hěn** gāo. | È molto alto.
+ex: 我**明天**去。 | Wǒ **míngtiān** qù. | Ci vado domani.
+ex: 我们**在图书馆**看书。 | Wǒmen **zài túshūguǎn** kàn shū. | Leggiamo in biblioteca.
+ex: 他**高兴地**说。 | Tā **gāoxìng de** shuō. | Dice contento.
+
+Il complemento (补语 bǔyǔ) segue il verbo o l'aggettivo e ne indica il risultato, la direzione, la possibilità, il grado, la durata o la frequenza (vedi «I complementi: panoramica»).
+ex: 我看**完**了。 | Wǒ kàn**wán** le. | Ho finito di leggere.
+ex: 他说得**很快**。 | Tā shuō de **hěn kuài**. | Parla molto in fretta.
+ex: 他跑**出去**了。 | Tā pǎo **chuqu** le. | È corso fuori.
+ex: 我等了**一个小时**。 | Wǒ děng le **yí ge xiǎoshí**. | Ho aspettato un'ora.
+
+L'elemento centrale o testa (中心语 zhōngxīnyǔ) è la parola modificata da un attributo, da un avverbiale o da un complemento: 书 in 我的书, 高 in 很高, 看 in 看完.
+
+| Termine | Pinyin | Italiano | Esempio |
+| 主语 | zhǔyǔ | soggetto | **我**是学生。 |
+| 谓语 | wèiyǔ | predicato | 我**是学生**。 |
+| 宾语 | bīnyǔ | oggetto | 我喜欢**音乐**。 |
+| 定语 | dìngyǔ | attributo | **我的**书 |
+| 状语 | zhuàngyǔ | avverbiale | 我**明天**去。 |
+| 补语 | bǔyǔ | complemento | 我看**完**了。 |
+| 中心语 | zhōngxīnyǔ | elemento centrale (testa) | 我的**书** |
+
+### Analisi di una frase
+
+ex: 我的朋友昨天在书店买了两本很有意思的书。 | Wǒ de péngyou zuótiān zài shūdiàn mǎi le liǎng běn hěn yǒu yìsi de shū. | Ieri il mio amico ha comprato in libreria due libri molto interessanti.
+
+| Elemento | Pinyin | Funzione | Osservazioni |
+| 我的 | wǒ de | 定语 attributo | possessore di 朋友 |
+| 朋友 | péngyou | 主语 soggetto | testa del soggetto |
+| 昨天 | zuótiān | 状语 avverbiale | tempo, prima del verbo |
+| 在书店 | zài shūdiàn | 状语 avverbiale | luogo: Prep + N |
+| 买 | mǎi | 谓语 predicato | verbo, testa del predicato |
+| 了 | le | particella aspettuale | azione compiuta |
+| 两本 | liǎng běn | 定语 attributo | Num + CL |
+| 很有意思的 | hěn yǒu yìsi de | 定语 attributo | attributo con 的 |
+| 书 | shū | 宾语 oggetto | testa dell'oggetto |
+
+Nei manuali cinesi l'analisi si rappresenta spesso con dei simboli: ‖ separa soggetto e predicato, le parentesi tonde racchiudono gli attributi, le quadre gli avverbiali e le angolari i complementi:
+
+（我的）朋友 ‖［昨天］［在书店］买了（两本）（很有意思的）书。
+
+Ecco una seconda frase, con un complemento:
+
+ex: 他昨天晚上看完了那本小说。 | Tā zuótiān wǎnshang kànwán le nà běn xiǎoshuō. | Ieri sera ha finito di leggere quel romanzo.
+
+他 ‖［昨天晚上］看〈完〉了（那本）小说。
+
+Qui 他 è il soggetto, 昨天晚上 l'avverbiale di tempo, 看 il verbo, 完 il complemento di risultato, 了 la particella aspettuale, 那本 l'attributo e 小说 l'oggetto.
+
+! Si noti l'ordine, rovesciato rispetto all'italiano: tutto ciò che descrive le circostanze dell'azione (tempo, luogo, modo) sta prima del verbo, mentre ciò che ne esprime il risultato o la quantità sta dopo.
+
+### Le parti del discorso
+
+Le parole cinesi si dividono in classi o parti del discorso (词类 cílèi):
+
+| Termine | Pinyin | Italiano | Esempi |
+| 名词 | míngcí | nome, sostantivo | 书, 老师, 北京 |
+| 代词 | dàicí | pronome | 我, 这, 谁 |
+| 动词 | dòngcí | verbo | 吃, 学习, 是 |
+| 形容词 | xíngróngcí | aggettivo | 大, 高兴, 漂亮 |
+| 数词 | shùcí | numerale | 一, 十, 第一 |
+| 量词 | liàngcí | classificatore | 个, 本, 次 |
+| 副词 | fùcí | avverbio | 很, 不, 都 |
+| 介词 | jiècí | preposizione | 在, 给, 从 |
+| 连词 | liáncí | congiunzione | 和, 但是, 因为 |
+| 助词 | zhùcí | particella | 的, 了, 吗 |
+| 叹词 | tàncí | interiezione | 啊, 哎, 喂 |
+| 拟声词 | nǐshēngcí | onomatopea | 哈哈, 汪汪, 砰 |
+
+Alcune sottoclassi hanno un nome proprio: i verbi modali (能愿动词 néngyuàn dòngcí, come 能, 会, 想) sono un tipo di verbo; le parole di tempo (今天, 现在) e le parole di luogo e di posizione (上, 里, 前边) sono tipi di nome; le particelle comprendono le particelle strutturali (的, 地, 得), aspettuali (了, 着, 过) e modali (吗, 呢, 吧, 啊), queste ultime dette anche 语气词 yǔqìcí.
+
+! L'aggettivo cinese si comporta in gran parte come un verbo: può fare da predicato da solo e si nega con 不 (他不忙 «non è occupato»). Per questo molti linguisti lo chiamano «verbo di stato».
+
+Una stessa parola può appartenere a più classi senza cambiare forma. Per esempio 在 è un verbo, una preposizione o un avverbio a seconda della posizione:
+ex: 他**在**家。 | Tā **zài** jiā. | È a casa. (verbo)
+ex: 他**在**家看书。 | Tā **zài** jiā kàn shū. | Legge a casa. (preposizione)
+ex: 他**在**看书。 | Tā **zài** kàn shū. | Sta leggendo. (avverbio)
+
+### 实词 e 虚词
+
+Le parti del discorso si raggruppano in due grandi insiemi:
+- le parole piene (实词 shící), che hanno un significato lessicale e possono fungere da componenti della frase: nomi, verbi, aggettivi, numerali, classificatori, pronomi;
+- le parole vuote o funzionali (虚词 xūcí), che hanno soprattutto una funzione grammaticale e non possono fungere da soggetto, predicato o oggetto: preposizioni, congiunzioni, particelle.
+
+La collocazione di avverbi, interiezioni e onomatopee varia da una grammatica all'altra; nei manuali per stranieri gli avverbi sono spesso contati tra i 虚词, perché formano una classe relativamente chiusa e hanno funzioni in gran parte grammaticali.
+
+In una lingua senza desinenze i 虚词 sono fondamentali: basta cambiarne uno per cambiare il senso della frase.
+ex: 他去**了**上海。 | Tā qù **le** Shànghǎi. | È andato a Shanghai.
+ex: 他去**过**上海。 | Tā qù **guo** Shànghǎi. | È stato a Shanghai (in passato).
+ex: 他去上海**吗**？ | Tā qù Shànghǎi **ma**? | Va a Shanghai?
+ex: 他去上海**吧**？ | Tā qù Shànghǎi **ba**? | Va a Shanghai, vero?
+ex: 我**和**他去上海。 | Wǒ **hé** tā qù Shànghǎi. | Io e lui andiamo a Shanghai.

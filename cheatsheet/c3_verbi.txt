@@ -1,0 +1,132 @@
+# Il verbo
+## Caratteristiche e negazione
+Il verbo non si coniuga: il tempo lo dicono parole di tempo, avverbi, particelle.
+| 不 bù | 没 méi / 没有 méiyǒu |
+| presente, futuro, volontà | azione non avvenuta |
+| con 是 shì, modali, aggettivi | 有 yǒu si nega solo così |
+no: 我不有钱。 | Wǒ bù yǒu qián. | Errato: 有 si nega solo con 没.
+ex: 他昨天**没**来。 | Tā zuótiān **méi** lái. | Ieri non è venuto.
+## Doppio oggetto
+Per i verbi che reggono una persona e una cosa: 给 gěi, 送 sòng, 教 jiāo, 问 wèn, 告诉 gàosu, 借 jiè.
+= S + V + persona + cosa
+ex: 老师**教**我们汉语。 | Lǎoshī **jiāo** wǒmen Hànyǔ. | L'insegnante ci insegna il cinese.
+## I verbi separabili (离合词 líhécí)
+Verbo + oggetto già fusi: niente altro oggetto; si «aprono».
+= V + 了 le / 过 guo / durata + O · Prep + persona + verbo separabile
+| Verbo | Aperto | Con persona |
+| 见面 jiànmiàn | 见过面 jiàn guo miàn | 跟他见面 gēn tā jiànmiàn |
+| 帮忙 bāngmáng | 帮个忙 bāng ge máng | 帮他的忙 bāng tā de máng |
+| 生气 shēngqì | 生他的气 shēng tā de qì | 对他生气 duì tā shēngqì |
+| 睡觉 shuìjiào | 睡了八个小时觉 shuì le bā ge xiǎoshí jiào | — |
+no: 我见面他。 | Wǒ jiànmiàn tā. | Errato: 见面 non regge un oggetto.
+ex: 我**跟他见面**。 | Wǒ **gēn tā jiànmiàn**. | Lo incontro.
+## La reduplicazione del verbo
+Verbo ripetuto = «un po', un attimo»; più cortese.
+= V + V · V + 一 yi + V · V + 了 le + V (passato)
+- Bisillabi: 休息休息 xiūxi xiūxi; separabili: 散散步 sànsan bù.
+ex: 你**尝尝**这个菜。 | Nǐ **chángchang** zhège cài. | Assaggia questo piatto.
+## Altri verbi
+Due gruppi con regole proprie.
+- Psicologici e di opinione: ammettono 很 hěn e reggono frasi (喜欢 xǐhuan, 怕 pà, 觉得 juéde, 认为 rènwéi).
+- 来 lái / 去 qù + Luogo + V = venire/andare a fare.
+ex: 我**去**超市**买**东西。 | Wǒ **qù** chāoshì **mǎi** dōngxi. | Vado a fare la spesa.
+# Verbi modali
+## Caratteristiche dei verbi modali (能愿动词 néngyuàn dòngcí)
+Stanno prima del verbo: capacità, permesso, volontà, dovere. Niente 了 le, 过 guo, 着 zhe.
+= S + (不 bù) + modale + V + O · domanda: 会不会 huì bu huì + V
+ex: 你**会不会**说汉语？ | Nǐ **huì bu huì** shuō Hànyǔ? | Sai parlare cinese?
+## I modali a confronto
+«Potere» e «dovere» hanno più traduzioni.
+| Modale | Significato | Modale | Significato |
+| 会 huì | saper fare; è probabile | 能 néng | potere (capacità) |
+| 可以 kěyǐ | potere (permesso) | 要 yào | volere (deciso); dovere |
+| 想 xiǎng | volere, desiderare | 应该 yīnggāi | dovere (morale) |
+| 得 děi | dovere (parlato) | 必须 bìxū | dovere (obbligo) |
+| 需要 xūyào | avere bisogno di | 敢 gǎn | osare |
+| 愿意 yuànyì | essere disposto a | 肯 kěn | acconsentire |
+| 可能 kěnéng | può darsi che | 值得 zhíde | valere la pena |
+- Negazione 不 bù + modale; ma 要 yào, 得 děi, 必须 bìxū → 不用 búyòng; 可以 kěyǐ → spesso 不能 bù néng.
+ex: 我**会**游泳，今天**不能**游。 | Wǒ **huì** yóuyǒng, jīntiān **bù néng** yóu. | So nuotare, ma oggi non posso.
+! «Non devo» non è 不要 búyào (= non farlo!) ma 不用 búyòng.
+ex: A：我要去吗？B：**不用**。 | A: Wǒ yào qù ma? B: **Búyòng**. | A: Devo andarci? B: Non serve.
+- Avverbio prima del modale: 也想 yě xiǎng, 一定要 yídìng yào.
+# Aggettivo
+## L'aggettivo come predicato
+L'aggettivo fa da verbo, senza 是 shì; da solo indica contrasto.
+= S + 很 hěn / 太 tài / 非常 fēicháng + Agg · S + 不 bù + Agg · S + Agg + 了 le (cambiamento)
+ex: 这家饭馆**太**贵**了**。 | Zhè jiā fànguǎn **tài** guì **le**. | Questo ristorante è troppo caro.
+## Gli avverbi di grado
+Dicono «quanto».
+| Avverbio | Valore | Esempio |
+| 很 hěn / 非常 fēicháng | molto / moltissimo | 非常好 fēicháng hǎo |
+| 太……了 tài……le | troppo; che…! | 太好了 tài hǎo le |
+| 真 zhēn | davvero (esclamativo) | 真漂亮 zhēn piàoliang |
+| 比较 bǐjiào / 最 zuì | piuttosto / il più | 最好 zuì hǎo |
+| Agg + 极了 jí le | estremamente | 好极了 hǎo jí le |
+## 有点儿 yǒudiǎnr e 一点儿 yìdiǎnr
+Due «un po'»: prima o dopo l'aggettivo.
+= 有点儿 yǒudiǎnr + Agg (giudizio negativo) · Agg + 一点儿 yìdiǎnr (confronto, richiesta)
+no: 这个一点儿贵。 | Zhège yìdiǎnr guì. | Errato: «un po'» prima dell'aggettivo è 有点儿.
+ex: 这个**有点儿**贵。 | Zhège **yǒudiǎnr** guì. | Questo è un po' caro.
+## L'aggettivo come attributo e la reduplicazione
+Va prima del nome; ripetuto è più vivace (senza 很 hěn né 不 bù).
+= Agg di una sillaba + N · 很 hěn + Agg + 的 de + N
+= 大大的 dàdà de · 干干净净 gānganjìngjìng · 雪白雪白 xuěbái xuěbái
+no: 很好朋友 | hěn hǎo péngyou | Errato: con 很 serve 的.
+ex: 一个**很好的**朋友 | yí ge **hěn hǎo de** péngyou | un ottimo amico
+# Avverbi
+## La posizione degli avverbi
+Dopo il soggetto, prima di verbo e preposizione; ordine 也 yě > 都 dōu > 不 bù.
+no: 也我去。 | Yě wǒ qù. | Errato: l'avverbio va dopo il soggetto.
+ex: 我们**也都不**去。 | Wǒmen **yě dōu bú** qù. | Neanche noi ci andiamo.
+## 就 jiù e 才 cái
+就 jiù = presto, facilmente; 才 cái = tardi, a fatica.
+| Uso | 就 jiù | 才 cái |
+| tempo | già (+ 了 le) | solo allora (senza 了 le) |
+| esempio | 七点就来了 qī diǎn jiù lái le | 十点才来 shí diǎn cái lái |
+| + numero | solo | appena: 才三岁 cái sān suì |
+| correlative | 一……就 yī……jiù | 只有……才 zhǐyǒu……cái |
+no: 他十点才起床了。 | Tā shí diǎn cái qǐchuáng le. | Errato: con 才 di tempo niente 了.
+ex: 他十点**才**起床。 | Tā shí diǎn **cái** qǐchuáng. | Si è alzato solo alle dieci.
+## 又 yòu, 再 zài e 还 hái
+Tre modi di dire «di nuovo, ancora».
+| Avverbio | Uso | Esempio |
+| 又 yòu | di nuovo (già avvenuto) | 他又来了 tā yòu lái le |
+| 再 zài | di nuovo (futuro); poi | 明天再来 míngtiān zài lái |
+| 还 hái | ancora; inoltre; + modale | 我还想去 wǒ hái xiǎng qù |
+ex: 请**再**说一遍。 | Qǐng **zài** shuō yí biàn. | Ripeta, per favore.
+## Altri avverbi
+I più frequenti.
+| Avverbio | Significato | Avverbio | Significato |
+| 已经 yǐjīng | già (+ 了 le) | 刚 gāng | appena |
+| 马上 mǎshàng | subito | 终于 zhōngyú | finalmente |
+| 常常 chángcháng | spesso | 总是 zǒngshì | sempre |
+| 一直 yìzhí | di continuo | 从来 cónglái + 不 bù | mai |
+| 都 dōu | tutti | 只 zhǐ | solo |
+| 也 yě | anche | 一共 yígòng | in tutto |
+| 别 bié | non (imperativo) | 不用 búyòng | non serve |
+| 一定 yídìng | di sicuro | 也许 yěxǔ | forse |
+| 其实 qíshí | in realtà | 难道 nándào | forse che…? |
+| 到底 dàodǐ | insomma | 居然 jūrán | incredibilmente |
+| 只好 zhǐhǎo | non resta che | 差点儿 chàdiǎnr | per poco |
+! 都 dōu riguarda ciò che lo precede; 刚才 gāngcái (poco fa) è nome di tempo e può stare prima di S.
+# Preposizioni
+## La natura delle preposizioni (介词 jiècí)
+Prep + N sta prima del verbo; dopo il verbo solo 在 zài, 到 dào, 给 gěi.
+= S + Prep + N + V + O
+no: 我学习跟他。 | Wǒ xuéxí gēn tā. | Errato: la preposizione va prima del verbo.
+ex: 我**跟他**学习。 | Wǒ **gēn tā** xuéxí. | Studio con lui.
+## Le preposizioni principali
+Quelle d'uso quotidiano.
+| Prep | Significato | Prep | Significato |
+| 在 zài | in, a (luogo) | 离 lí | distante da |
+| 从 cóng | da | 到 dào | fino a |
+| 往 wǎng / 向 xiàng | verso | 朝 cháo | rivolto a |
+| 跟 gēn / 和 hé | con | 给 gěi | a, per (destinatario) |
+| 对 duì | nei confronti di | 为了 wèile | allo scopo di |
+| 替 tì | al posto di | 用 yòng | con (strumento) |
+| 按照 ànzhào | secondo | 关于 guānyú | riguardo a |
+| 除了 chúle | eccetto, oltre a | 比 bǐ | rispetto a |
+no: 我家从学校很近。 | Wǒ jiā cóng xuéxiào hěn jìn. | Errato: per la distanza si usa 离.
+ex: 我家**离**学校很近。 | Wǒ jiā **lí** xuéxiào hěn jìn. | Casa mia è vicina alla scuola.
+! 给 gěi + persona = destinatario (给他写信 gěi tā xiě xìn); 对 duì + persona = atteggiamento (对我很好 duì wǒ hěn hǎo).

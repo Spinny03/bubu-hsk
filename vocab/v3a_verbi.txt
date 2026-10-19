@@ -1,0 +1,87 @@
+@ Verbi della vita quotidiana | 🌅
+是 | shì | essere | - | 1
+有 | yǒu | avere, esserci | - | 1
+看 | kàn | guardare, leggere | 👀 | 1
+听 | tīng | ascoltare | 👂 | 1
+做 | zuò | fare | - | 1
+开 | kāi | aprire, accendere | - | 1
+起床 | qǐchuáng | alzarsi dal letto | ⏰ | 2
+洗 | xǐ | lavare | 🧼 | 2
+给 | gěi | dare; a, per (prep.) | - | 2
+找 | zhǎo | cercare | 🔍 | 2
+等 | děng | aspettare | ⏳ | 2
+开始 | kāishǐ | iniziare | - | 2
+准备 | zhǔnbèi | preparare | - | 2
+帮助 | bāngzhù | aiutare | - | 2
+送 | sòng | regalare, accompagnare | - | 2
+用 | yòng | usare | - | 3
+拿 | ná | prendere (in mano) | - | 3
+带 | dài | portare con sé | - | 3
+换 | huàn | cambiare | - | 3
+洗澡 | xǐzǎo | fare il bagno, la doccia | 🛁 | 3
+刷牙 | shuāyá | lavarsi i denti | 🪥 | 3
+结束 | jiéshù | finire, terminare | - | 3
+照顾 | zhàogù | prendersi cura di | - | 3
+收拾 | shōushi | mettere in ordine | - | 4
+生活 | shēnghuó | vivere, vita | - | 3
+花 | huā | spendere (soldi, tempo) | 💸 | 3
+@ Verbi di movimento e posizione | 🏃
+去 | qù | andare | - | 1
+来 | lái | venire | - | 1
+跑 | pǎo | correre | 🏃 | 2
+进 | jìn | entrare | - | 2
+出 | chū | uscire | - | 2
+回来 | huílai | tornare (qui) | - | 1
+回去 | huíqu | tornare (là) | - | 2
+进来 | jìnlai | entrare (qui) | - | 2
+出去 | chūqu | uscire (fuori) | - | 2
+起来 | qǐlai | alzarsi | - | 2
+飞 | fēi | volare | ✈️ | 3
+走路 | zǒulù | andare a piedi | 🚶 | 3
+到达 | dàodá | arrivare, raggiungere | - | 4
+躺 | tǎng | sdraiarsi | 🛌 | 4
+爬 | pá | arrampicarsi, strisciare | - | 3
+停 | tíng | fermarsi, parcheggiare | 🛑 | 4
+放 | fàng | mettere, posare | - | 3
+经过 | jīngguò | passare per | - | 3
+搬 | bān | spostare, traslocare | 📦 | 3
+转 | zhuǎn | girare, voltare | 🔄 | 4
+推 | tuī | spingere | - | 4
+拉 | lā | tirare | - | 4
+@ Verbi della comunicazione e della mente | 💬
+说 | shuō | dire, parlare | 🗣️ | 1
+想 | xiǎng | pensare, volere | 💭 | 1
+知道 | zhīdao | sapere | - | 2
+觉得 | juéde | sentire, ritenere | - | 2
+认识 | rènshi | conoscere (persone) | - | 1
+叫 | jiào | chiamare, chiamarsi | - | 1
+说话 | shuōhuà | parlare | 🗣️ | 1
+打电话 | dǎ diànhuà | telefonare | 📞 | 1
+问 | wèn | chiedere, domandare | - | 2
+告诉 | gàosu | dire (a qn), informare | - | 2
+希望 | xīwàng | sperare, speranza | - | 2
+介绍 | jièshào | presentare | - | 2
+记得 | jìde | ricordare | - | 3
+忘 | wàng | dimenticare | - | 3
+忘记 | wàngjì | dimenticare | - | 3
+讲 | jiǎng | raccontare, spiegare | - | 3
+相信 | xiāngxìn | credere, fidarsi | - | 3
+同意 | tóngyì | essere d'accordo | - | 3
+决定 | juédìng | decidere | - | 3
+打算 | dǎsuan | avere intenzione di | - | 3
+了解 | liǎojiě | conoscere, informarsi | - | 3
+发现 | fāxiàn | scoprire, accorgersi | - | 3
+注意 | zhùyì | fare attenzione | - | 3
+认为 | rènwéi | ritenere | - | 3
+考虑 | kǎolǜ | considerare, riflettere | 🤔 | 4
+理解 | lǐjiě | comprendere | - | 4
+解释 | jiěshì | spiegare | - | 4
+讨论 | tǎolùn | discutere | - | 4
+建议 | jiànyì | suggerire, consiglio | - | 4
+通知 | tōngzhī | avvisare, avviso | - | 4
+答应 | dāying | promettere, acconsentire | - | 4
+拒绝 | jùjué | rifiutare | 🙅 | 4
+怀疑 | huáiyí | dubitare, sospettare | - | 4
+猜 | cāi | indovinare | - | 4
+道歉 | dàoqiàn | chiedere scusa | 🙇 | 4
+喊 | hǎn | gridare | 📢 | 4

@@ -1,0 +1,133 @@
+## I pronomi dimostrativi
+
+Il cinese ha un sistema dimostrativo a due termini: 这 zhè indica ciò che è vicino a chi parla («questo»), 那 nà ciò che è lontano («quello»; copre anche l'italiano *codesto*). A essi corrispondono le forme interrogative 哪 nǎ «quale» e 怎么 zěnme «come». Da queste basi si formano dimostrativi di cosa, di luogo, di modo e di tempo.
+
+| Uso | Vicino | Lontano | Interrogativo |
+| cosa, persona | 这 zhè, 这个 zhège | 那 nà, 那个 nàge | 哪 nǎ, 哪个 nǎge |
+| plurale | 这些 zhèxiē | 那些 nàxiē | 哪些 nǎxiē |
+| luogo | 这儿 zhèr, 这里 zhèli | 那儿 nàr, 那里 nàli | 哪儿 nǎr, 哪里 nǎli |
+| modo, grado | 这么 zhème | 那么 nàme | 怎么 zěnme |
+| qualità, tipo | 这样 zhèyàng | 那样 nàyàng | 怎么样 zěnmeyàng |
+| tempo | 这时 zhè shí, 这会儿 zhèhuìr | 那时 nà shí, 那会儿 nàhuìr | 什么时候 shénme shíhou |
+
+### 这 e 那 usati da soli
+Da soli, 这 e 那 si usano soprattutto come **soggetto**, in particolare davanti a 是. Come oggetto si usano invece 这个 e 那个.
+
+ex: **这**是我的书。 | **Zhè** shì wǒ de shū. | Questo è il mio libro.
+ex: **那**是什么？ | **Nà** shì shénme? | Che cos'è quello?
+ex: **这**是我朋友马可。 | **Zhè** shì wǒ péngyou Mǎkě. | Questo è il mio amico Marco.
+ex: **这**很重要。 | **Zhè** hěn zhòngyào. | Questo è molto importante.
+
+no: 我要这。 | Wǒ yào zhè. | Errato: come oggetto si usa 这个.
+ex: 我要**这个**。 | Wǒ yào **zhège**. | Voglio questo.
+
+! All'inizio di una frase 那 può anche significare «allora, in tal caso»: 那我们走吧。 «Allora andiamo.» (vedi il capitolo «Frasi causali, ipotetiche e condizionali»).
+
+### 这 e 那 con il classificatore
+Davanti a un nome, 这, 那 e 哪 richiedono un classificatore; l'eventuale numerale si inserisce tra il dimostrativo e il classificatore. Nel parlato, soprattutto al nord, davanti a un classificatore si sentono spesso le pronunce zhèi, nèi, něi (contrazioni di 这一, 那一, 哪一): 这个 zhège / zhèige, 那个 nàge / nèige, 哪个 nǎge / něige. Sono tutte corrette.
+
+= 这 / 那 / 哪 + CL + N
+= 这 / 那 + Num + CL + N
+
+ex: **这本**书很有意思。 | **Zhè běn** shū hěn yǒu yìsi. | Questo libro è molto interessante.
+ex: **那个**人是谁？ | **Nàge** rén shì shéi? | Chi è quella persona?
+ex: 你喜欢**哪件**衣服？ | Nǐ xǐhuan **nǎ jiàn** yīfu? | Quale vestito ti piace?
+ex: **这三本**书都是我的。 | **Zhè sān běn** shū dōu shì wǒ de. | Questi tre libri sono tutti miei.
+ex: **那两个**学生是韩国人。 | **Nà liǎng ge** xuésheng shì Hánguórén. | Quei due studenti sono coreani.
+ex: **这个**很好吃，你尝尝。 | **Zhège** hěn hǎochī, nǐ chángchang. | Questo è buonissimo, assaggialo.
+
+no: 三这本书 | sān zhè běn shū | Errato: il dimostrativo precede il numerale.
+ex: **这三本**书 | **zhè sān běn** shū | questi tre libri
+
+! Con il numerale 一 la forma piena 这一本书 è enfatica («proprio questo libro»); normalmente 一 si omette: 这本书.
+! Nel parlato informale il classificatore talvolta cade (这书, 那人), ma nella lingua standard va sempre espresso.
+
+### 这些, 那些, 哪些
+Le forme plurali 这些 zhèxiē (zhèixiē), 那些 nàxiē (nèixiē) e 哪些 nǎxiē (něixiē) si uniscono direttamente al nome, senza classificatore e senza numerali.
+
+= 这些 / 那些 / 哪些 + N
+
+ex: **这些**书是谁的？ | **Zhèxiē** shū shì shéi de? | Di chi sono questi libri?
+ex: **那些**人都是我的同事。 | **Nàxiē** rén dōu shì wǒ de tóngshì. | Quelli sono tutti miei colleghi.
+ex: 你去过**哪些**国家？ | Nǐ qù guo **nǎxiē** guójiā? | In quali paesi sei stato?
+ex: **这些**都是新的。 | **Zhèxiē** dōu shì xīn de. | Questi sono tutti nuovi.
+
+no: 这些本书 | zhèxiē běn shū | Errato: dopo 这些 non si usa il classificatore.
+ex: **这些**书 | **zhèxiē** shū | questi libri
+no: 那些两个人 | nàxiē liǎng ge rén | Errato: 那些 non si combina con un numerale.
+ex: **那两个**人 | **nà liǎng ge** rén | quelle due persone
+
+### 这儿, 那儿, 哪儿
+Per indicare il luogo si usano 这儿 zhèr / 这里 zhèli «qui, qua», 那儿 nàr / 那里 nàli «lì, là» e l'interrogativo 哪儿 nǎr / 哪里 nǎli «dove». Le forme in 儿 sono più colloquiali e settentrionali, quelle in 里 più diffuse al sud e nello scritto. Sono sostantivi di luogo: possono fare da soggetto e seguono direttamente le preposizioni 在, 从, 到.
+
+ex: **这儿**是我的学校。 | **Zhèr** shì wǒ de xuéxiào. | Questa è la mia scuola. (lett. qui è la mia scuola)
+ex: 我在**这儿**等你。 | Wǒ zài **zhèr** děng nǐ. | Ti aspetto qui.
+ex: 从**这儿**到机场远吗？ | Cóng **zhèr** dào jīchǎng yuǎn ma? | È lontano l'aeroporto da qui?
+ex: **那里**的风景很美。 | **Nàli** de fēngjǐng hěn měi. | Il paesaggio laggiù è bellissimo.
+ex: 你住在**哪儿**？ | Nǐ zhù zài **nǎr**? | Dove abiti?
+ex: A：你的汉语说得真好！B：**哪里哪里**。 | A: Nǐ de Hànyǔ shuō de zhēn hǎo! B: **Nǎli nǎli**. | A: Parli davvero bene il cinese! B: Ma no, figurati.
+
+! Dopo un nome di persona o un pronome, 这儿 e 那儿 trasformano la persona in un luogo: 到我这儿来 «vieni da me» (vedi il capitolo «Il sostantivo»).
+
+### 这么 e 那么
+这么 zhème e 那么 nàme davanti a un aggettivo indicano il grado («così, tanto»); davanti a un verbo indicano il modo («in questo modo, così»).
+
+= 这么 / 那么 + Agg
+= 这么 / 那么 + V
+
+ex: 今天**这么**冷！ | Jīntiān **zhème** lěng! | Che freddo che fa oggi!
+ex: 你的房间**这么**大啊！ | Nǐ de fángjiān **zhème** dà a! | Com'è grande la tua camera!
+ex: **这么**多人！ | **Zhème** duō rén! | Quanta gente!
+ex: 他没有你**那么**高。 | Tā méiyǒu nǐ **nàme** gāo. | Non è alto quanto te. (vedi il capitolo «Le frasi comparative»)
+ex: 这个字**这么**写。 | Zhège zì **zhème** xiě. | Questo carattere si scrive così.
+ex: 别**那么**说！ | Bié **nàme** shuō! | Non dire così!
+ex: 我等了**那么**长时间，他还没来。 | Wǒ děng le **nàme** cháng shíjiān, tā hái méi lái. | Ho aspettato tanto, e lui non è ancora arrivato.
+
+### 这样 e 那样
+这样 zhèyàng e 那样 nàyàng significano «così, di questo tipo, in questo modo». Si usano davanti a 的 + nome (attributo), davanti a un verbo (modo) e, a differenza di 这么, anche da soli come predicato.
+
+= 这样 / 那样 + 的 + N
+= 这样 / 那样 + V
+= S + (是) + 这样 / 那样
+
+ex: 我也想买**这样的**手机。 | Wǒ yě xiǎng mǎi **zhèyàng de** shǒujī. | Anch'io vorrei comprare un cellulare così.
+ex: **那样的**人我不喜欢。 | **Nàyàng de** rén wǒ bù xǐhuan. | Le persone così non mi piacciono.
+ex: 你应该**这样**做。 | Nǐ yīnggāi **zhèyàng** zuò. | Dovresti fare così.
+ex: 别**这样**！ | Bié **zhèyàng**! | Non fare così!
+ex: 事情就是**这样**。 | Shìqing jiù shì **zhèyàng**. | Le cose stanno così.
+ex: 怎么会**这样**？ | Zěnme huì **zhèyàng**? | Com'è potuto succedere?
+
+### 这么 o 这样?
+| Costruzione | 这么 / 那么 | 这样 / 那样 |
+| + Agg (grado) | sì: 这么贵 | meno comune |
+| + V (modo) | sì: 这么做 | sì: 这样做 |
+| + 的 + N | no (ma: 这么大的房子) | sì: 这样的书 |
+| + 一 + CL + N | sì: 这么一个人 | sì: 这样一个人 |
+| da solo, come predicato | no | sì: 别这样！ |
+
+no: 我不喜欢这么的人。 | Wǒ bù xǐhuan zhème de rén. | Errato: davanti a 的 + N si usa 这样.
+ex: 我不喜欢**这样的**人。 | Wǒ bù xǐhuan **zhèyàng de** rén. | Non mi piacciono le persone così.
+no: 你别这么！ | Nǐ bié zhème! | Errato: 这么 non può stare da solo.
+ex: 你别**这样**！ | Nǐ bié **zhèyàng**! | Non fare così!
+
+### 这时, 那时, 这会儿
+I dimostrativi di tempo più comuni sono 这时 zhè shí / 这时候 zhè shíhou «in questo (quel) momento», 那时 nà shí / 那时候 nà shíhou «allora, a quel tempo», e i colloquiali 这会儿 zhèhuìr «adesso, in questo momento» e 那会儿 nàhuìr «allora, in quel periodo». Si usano anche espressioni come 这几天 zhè jǐ tiān «in questi giorni» e 那年 nà nián «quell'anno».
+
+ex: **这时**，电话响了。 | **Zhè shí**, diànhuà xiǎng le. | In quel momento squillò il telefono.
+ex: **那时候**我还是学生。 | **Nà shíhou** wǒ hái shì xuésheng. | A quel tempo ero ancora studente.
+ex: 他**这会儿**不在办公室。 | Tā **zhèhuìr** bú zài bàngōngshì. | In questo momento non è in ufficio.
+ex: **那会儿**我们都很年轻。 | **Nàhuìr** wǒmen dōu hěn niánqīng. | A quell'epoca eravamo tutti giovani.
+ex: **这几天**我很忙。 | **Zhè jǐ tiān** wǒ hěn máng. | In questi giorni sono molto impegnato.
+
+! Nei racconti 这时 si riferisce al momento della narrazione e si traduce di solito con «in quel momento», «a quel punto».
+
+### L'ordine delle parole nel gruppo nominale
+In cinese tutti i modificatori precedono il nome, nell'ordine seguente.
+
+= (Possessore + 的) + 这 / 那 + Num + CL + (Agg) + N
+
+ex: **我的那两件**红衣服 | **wǒ de nà liǎng jiàn** hóng yīfu | quei miei due vestiti rossi
+ex: **这三个**新学生 | **zhè sān ge** xīn xuésheng | questi tre nuovi studenti
+ex: **那本**很有意思的书 | **nà běn** hěn yǒu yìsi de shū | quel libro molto interessante
+
+! In italiano l'aggettivo segue spesso il nome (*vestiti rossi*) e il possessivo sta tra articolo e nome (*i miei vestiti*); in cinese, invece, tutto ciò che determina il nome si trova prima di esso.

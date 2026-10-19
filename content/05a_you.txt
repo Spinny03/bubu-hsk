@@ -1,0 +1,262 @@
+@ Tipi di frase
+
+# Le frasi con 有 e le frasi esistenziali
+
+Il verbo 有 yǒu è uno dei verbi più frequenti del cinese. Corrisponde in parte all'italiano «avere» (possesso) e in parte all'italiano «c'è, ci sono» (esistenza): la differenza dipende da che cosa occupa la posizione iniziale della frase, una persona (o un ente) oppure un luogo o un tempo. In questo capitolo si studiano i due usi fondamentali di 有, le principali costruzioni che lo contengono, le frasi esistenziali (存现句 cúnxiànjù), che dicono che qualcosa si trova, compare o scompare in un luogo, e infine le frasi senza soggetto.
+
+## 有 e il possesso
+
+### La struttura di base
+
+Quando indica possesso, 有 si comporta come un normale verbo transitivo: il possessore è il soggetto e ciò che si possiede è l'oggetto. Se l'oggetto è numerabile, è spesso preceduto da numerale e classificatore (vedi il capitolo «I classificatori»).
+
+= S + 有 + O
+= S + 有 + Num + CL + N
+
+ex: 我**有**一个哥哥。 | Wǒ **yǒu** yí ge gēge. | Ho un fratello maggiore.
+ex: 小王**有**两只猫。 | Xiǎo Wáng **yǒu** liǎng zhī māo. | Xiao Wang ha due gatti.
+ex: 李老师**有**很多中文书。 | Lǐ lǎoshī **yǒu** hěn duō Zhōngwén shū. | Il professor Li ha molti libri in cinese.
+ex: 玛丽亚**有**一个中国朋友。 | Mǎlìyà **yǒu** yí ge Zhōngguó péngyou. | Maria ha un amico cinese.
+ex: 我们**有**时间，不着急。 | Wǒmen **yǒu** shíjiān, bù zháojí. | Abbiamo tempo, non c'è fretta.
+ex: 我今天下午**有**课。 | Wǒ jīntiān xiàwǔ **yǒu** kè. | Oggi pomeriggio ho lezione.
+
+Come «avere» in italiano, 有 esprime anche il rapporto fra un tutto e le sue parti, le relazioni di parentela e molti possessi astratti:
+
+ex: 这个房间**有**两个窗户。 | Zhège fángjiān **yǒu** liǎng ge chuānghu. | Questa stanza ha due finestre.
+ex: 一年**有**十二个月。 | Yì nián **yǒu** shí'èr ge yuè. | Un anno ha dodici mesi.
+ex: 我**有**一个问题。 | Wǒ **yǒu** yí ge wèntí. | Ho una domanda.
+
+! 有 indica uno stato e di solito non prende 了. Con 了, però, segnala che il possesso è una situazione nuova: 我有了一个新想法 «mi è venuta un'idea nuova» (vedi il capitolo «La particella 了»).
+
+### La negazione: 没有, mai 不有
+
+有 è l'unico verbo che si nega sempre e soltanto con 没 méi, mai con 不. La regola vale per il presente, per il passato e per il futuro.
+
+= S + 没(有) + O
+
+ex: 我**没有**哥哥。 | Wǒ **méiyǒu** gēge. | Non ho fratelli maggiori.
+ex: 他**没有**车。 | Tā **méiyǒu** chē. | Non ha la macchina.
+ex: 明天我**没有**空。 | Míngtiān wǒ **méiyǒu** kòng. | Domani non sono libero.
+no: 我不有时间。 | Wǒ bù yǒu shíjiān. | Errato: 有 non si nega mai con 不.
+ex: 我**没有**时间。 | Wǒ **méiyǒu** shíjiān. | Non ho tempo.
+
+Nella frase negativa l'oggetto di norma non ha numerale e classificatore: si dice 我没有哥哥, non 我没有一个哥哥. Per dire «neanche uno» si usa la costruzione enfatica 一 + CL + (N) + 也 + 没有 (vedi il capitolo «La negazione»):
+
+ex: 我**一个**朋友**也没有**。 | Wǒ **yí ge** péngyou **yě méiyǒu**. | Non ho neanche un amico.
+
+### 没 da solo
+
+Nel parlato, davanti all'oggetto, 没有 si riduce molto spesso a 没:
+
+ex: 我**没**钱。 | Wǒ **méi** qián. | Non ho soldi.
+ex: 他**没**女朋友。 | Tā **méi** nǚpéngyou. | Non ha la ragazza.
+ex: 今天**没**课。 | Jīntiān **méi** kè. | Oggi non c'è lezione.
+ex: **没**办法。 | **Méi** bànfǎ. | Non c'è niente da fare.
+
+Nelle risposte brevi e in fine di frase si usa normalmente la forma piena 没有:
+
+ex: A：你有零钱吗？B：**没有**。 | A: Nǐ yǒu língqián ma? B: **Méiyǒu**. | A: Hai degli spiccioli? B: No.
+
+### Le domande
+
+Le domande con 有 si formano in tre modi: con 吗, con la forma affermativo-negativa 有没有 oppure con 没有 in fine di frase (vedi il capitolo «Le frasi interrogative»). Si risponde con 有 o 没有, non con 是 o 不是.
+
+= S + 有 + O + 吗？
+= S + 有没有 + O？
+= S + 有 + O + 没有？
+
+ex: 你**有**兄弟姐妹**吗**？ | Nǐ **yǒu** xiōngdì jiěmèi **ma**? | Hai fratelli o sorelle?
+ex: 你**有没有**微信？ | Nǐ **yǒu méiyǒu** Wēixìn? | Hai WeChat?
+ex: 你**有**笔**没有**？ | Nǐ **yǒu** bǐ **méiyǒu**? | Hai una penna?
+ex: 你**有**几个孩子？ | Nǐ **yǒu** jǐ ge háizi? | Quanti figli hai?
+ex: A：你有护照吗？B：**有**。 | A: Nǐ yǒu hùzhào ma? B: **Yǒu**. | A: Hai il passaporto? B: Sì.
+no: 你有不有车？ | Nǐ yǒu bu yǒu chē? | Errato: la forma affermativo-negativa di 有 è 有没有.
+ex: 你**有没有**车？ | Nǐ **yǒu méiyǒu** chē? | Hai la macchina?
+
+### 有 + nome astratto: espressioni di qualità
+
+Con molti nomi astratti, 有 forma espressioni che equivalgono ad aggettivi italiani: 有意思 (lett. «avere interesse») significa «interessante», 有名 (lett. «avere nome») significa «famoso». Proprio perché si comportano come aggettivi, queste espressioni possono essere precedute da avverbi di grado come 很, 非常, 特别, 挺, 太……了, che normalmente non si usano davanti a un verbo seguito da oggetto.
+
+= S + (很/非常/挺/太) + 有 + N astratto
+
+| Espressione | Pinyin | Lett. | Significato |
+| 有意思 | yǒu yìsi | avere interesse | interessante, divertente |
+| 有用 | yǒuyòng | avere uso | utile |
+| 有名 | yǒumíng | avere nome | famoso |
+| 有钱 | yǒu qián | avere soldi | ricco |
+| 有道理 | yǒu dàoli | avere logica | sensato, giusto |
+| 有经验 | yǒu jīngyàn | avere esperienza | esperto |
+| 有意义 | yǒu yìyì | avere significato | significativo |
+| 有礼貌 | yǒu lǐmào | avere cortesia | educato |
+| 有水平 | yǒu shuǐpíng | avere livello | bravo, di alto livello |
+| 有能力 | yǒu nénglì | avere capacità | capace, competente |
+| 有空 | yǒu kòng | avere tempo libero | libero, disponibile |
+
+ex: 这本书**很有意思**。 | Zhè běn shū **hěn yǒu yìsi**. | Questo libro è molto interessante.
+ex: 他爸爸**非常有钱**。 | Tā bàba **fēicháng yǒu qián**. | Suo padre è ricchissimo.
+ex: 你说得**很有道理**。 | Nǐ shuō de **hěn yǒu dàoli**. | Quello che dici è molto sensato.
+ex: 王老师教书**很有经验**。 | Wáng lǎoshī jiāo shū **hěn yǒu jīngyàn**. | Il professor Wang ha molta esperienza nell'insegnamento.
+ex: 这本词典**特别有用**。 | Zhè běn cídiǎn **tèbié yǒuyòng**. | Questo dizionario è utilissimo.
+ex: 这家饭馆**挺有名**的。 | Zhè jiā fànguǎn **tǐng yǒumíng** de. | Questo ristorante è piuttosto famoso.
+ex: 这孩子**真有礼貌**！ | Zhè háizi **zhēn yǒu lǐmào**! | Che bambino educato!
+
+La negazione si fa con 没(有): 没意思 «noioso», 没用 «inutile», 没礼貌 «maleducato», 没道理 «assurdo, irragionevole». Anche le forme negative accettano avverbi come 很, 太, 真; per attenuare si usa 不太 + 有……
+
+ex: 这个电影**没意思**。 | Zhège diànyǐng **méi yìsi**. | Questo film è noioso.
+ex: 你这样做**太没礼貌**了。 | Nǐ zhèyàng zuò **tài méi lǐmào** le. | Comportarti così è davvero maleducato.
+ex: 哭也**没用**。 | Kū yě **méiyòng**. | Piangere non serve a niente.
+ex: 这个故事**不太有意思**。 | Zhège gùshi **bú tài yǒu yìsi**. | Questa storia non è molto interessante.
+
+! Queste espressioni si usano anche nei confronti: 这本书比那本有意思 «questo libro è più interessante di quello» (vedi il capitolo «Le frasi comparative»). Attenzione al doppio senso di 有意思: in 他对你有意思 significa «gli piaci, ha un debole per te».
+! Non confondere il verbo 有 con l'avverbio 有点儿 yǒudiǎnr «un po'», che precede aggettivi e verbi con sfumatura per lo più negativa: 今天有点儿冷 «oggi fa un po' freddo» (vedi il capitolo «Gli avverbi»).
+
+## 有 e l'esistenza
+
+### Luogo o tempo + 有 + nome
+
+Quando il primo elemento della frase è un'espressione di luogo o di tempo, 有 significa «c'è, ci sono». L'ordine è fisso: il luogo (o il tempo) viene sempre per primo, la cosa che esiste viene dopo il verbo. È l'ordine inverso rispetto a frasi italiane come «Un libro è sul tavolo».
+
+= Luogo + 有 + (Num + CL) + N
+= Tempo + 有 + (Num + CL) + N
+
+ex: 桌子上**有**一本书。 | Zhuōzi shang **yǒu** yì běn shū. | Sul tavolo c'è un libro.
+ex: 我们学校**有**三千个学生。 | Wǒmen xuéxiào **yǒu** sānqiān ge xuésheng. | Nella nostra scuola ci sono tremila studenti.
+ex: 冰箱里**有**牛奶吗？ | Bīngxiāng li **yǒu** niúnǎi ma? | C'è del latte in frigo?
+ex: 附近**有没有**银行？ | Fùjìn **yǒu méiyǒu** yínháng? | C'è una banca qui vicino?
+ex: 楼下**有**一家咖啡馆。 | Lóuxià **yǒu** yì jiā kāfēiguǎn. | Sotto casa c'è un bar.
+ex: 明天上午**有**一个会。 | Míngtiān shàngwǔ **yǒu** yí ge huì. | Domani mattina c'è una riunione.
+ex: 房间里**没有**人。 | Fángjiān li **méiyǒu** rén. | Nella stanza non c'è nessuno.
+
+Con i pronomi interrogativi si chiede che cosa o quante cose ci sono:
+
+ex: 你包里**有**什么？ | Nǐ bāo li **yǒu** shénme? | Che cosa c'è nella tua borsa?
+ex: 你家**有**几口人？ | Nǐ jiā **yǒu** jǐ kǒu rén? | Quante persone ci sono nella tua famiglia?
+ex: 教室里**有**多少把椅子？ | Jiàoshì li **yǒu** duōshao bǎ yǐzi? | Quante sedie ci sono in aula?
+
+Il luogo iniziale funziona da soggetto e non è preceduto dalla preposizione 在. I nomi comuni di oggetti e di edifici sono seguiti da un localizzatore (上, 里, 下, 旁边…); i nomi di paesi e di città, invece, non lo vogliono (vedi il capitolo «Il sostantivo»).
+
+no: 在桌子上有一本书。 | Zài zhuōzi shang yǒu yì běn shū. | Errato: il luogo che apre la frase esistenziale non vuole 在.
+ex: 桌子上**有**一本书。 | Zhuōzi shang **yǒu** yì běn shū. | Sul tavolo c'è un libro.
+no: 中国里有很多大城市。 | Zhōngguó li yǒu hěn duō dà chéngshì. | Errato: dopo il nome di un paese non si usa 里.
+ex: **中国有**很多大城市。 | **Zhōngguó yǒu** hěn duō dà chéngshì. | In Cina ci sono molte grandi città.
+
+Possesso ed esistenza non sono sempre distinguibili: 我们学校有三千个学生 si può intendere sia «la nostra scuola ha tremila studenti» sia «nella nostra scuola ci sono tremila studenti», e il senso è lo stesso.
+
+Il cinese evita di cominciare una frase con un soggetto indefinito («un libro», «una persona»). Per presentare qualcosa di nuovo si usa perciò la frase esistenziale con 有 e non una frase con 在:
+
+no: 一本书在桌子上。 | Yì běn shū zài zhuōzi shang. | Innaturale: un soggetto indefinito non si usa con 在.
+ex: 桌子上**有**一本书。 | Zhuōzi shang **yǒu** yì běn shū. | Sul tavolo c'è un libro.
+
+### 有, 在 e 是 a confronto
+
+Per dire dove si trova qualcosa il cinese dispone di tre costruzioni, che si distinguono per l'ordine delle parole e per il tipo di nome:
+
+- N + 在 + Luogo: la cosa è nota (definita) e si dice dove si trova; risponde alla domanda «dov'è?».
+- Luogo + 有 + N: si afferma che in un luogo esiste qualcosa di nuovo (indefinito); risponde alla domanda «che cosa c'è?».
+- Luogo + 是 + N: si sa già che nel luogo c'è qualcosa e lo si identifica; spesso implica che ciò che c'è è soltanto quello, o che occupa tutto lo spazio.
+
+| Struttura | Esempio | Il nome è… | Domanda |
+| N + 在 + Luogo | 书在桌子上。 | definito, noto | 书在哪儿？ |
+| Luogo + 有 + N | 桌子上有一本书。 | indefinito, nuovo | 桌子上有什么？ |
+| Luogo + 是 + N | 桌子上是我的书。 | identificato | 桌子上是什么？ |
+
+ex: 我的手机**在**包里。 | Wǒ de shǒujī **zài** bāo li. | Il mio cellulare è nella borsa.
+ex: 包里**有**一个手机。 | Bāo li **yǒu** yí ge shǒujī. | Nella borsa c'è un cellulare.
+ex: 桌子上**是**我的书，不是你的。 | Zhuōzi shang **shì** wǒ de shū, bú shì nǐ de. | I libri sul tavolo sono miei, non tuoi.
+no: 书有桌子上。 | Shū yǒu zhuōzi shang. | Errato: per dire dove si trova una cosa nota si usa 在.
+ex: 书**在**桌子上。 | Shū **zài** zhuōzi shang. | Il libro è sul tavolo.
+
+Il contrasto fra 有 e 是 è sottile. Con 有 si dice che nel luogo c'è, fra l'altro, una certa cosa; con 是 si dice che cosa occupa quel luogo, come se si rispondesse alla domanda «che cosa c'è lì?». Con 都是 si esprime che il luogo è interamente occupato o ricoperto:
+
+ex: 学校前边**有**一个公园。 | Xuéxiào qiánbian **yǒu** yí ge gōngyuán. | Davanti alla scuola c'è un parco (fra le altre cose).
+ex: 学校前边**是**一个公园。 | Xuéxiào qiánbian **shì** yí ge gōngyuán. | Davanti alla scuola c'è un parco (lo spazio davanti alla scuola è un parco).
+ex: 我家对面**是**一家超市。 | Wǒ jiā duìmiàn **shì** yì jiā chāoshì. | Di fronte a casa mia c'è un supermercato.
+ex: 地上**都是**水。 | Dìshang **dōu shì** shuǐ. | Il pavimento è tutto bagnato (lett. per terra è tutto acqua).
+ex: 广场上**都是**人。 | Guǎngchǎng shang **dōu shì** rén. | La piazza è piena di gente.
+
+Anche la negazione cambia: 在 e 是 si negano con 不, 有 con 没.
+
+| Verbo | Affermativa | Negativa |
+| 在 | 他在家。 | 他不在家。 |
+| 有 | 家里有人。 | 家里没有人。 |
+| 是 | 前边是银行。 | 前边不是银行。 |
+
+! Dopo 有 un nome definito (我的手机, 王老师) compare normalmente solo negli elenchi: 包里有我的手机、钱包和钥匙 «nella borsa ci sono il mio cellulare, il portafoglio e le chiavi».
+
+## Altri usi di 有
+
+### 有 + N + V
+
+有 può reggere un oggetto seguito da un secondo verbo, che spiega a che cosa serve l'oggetto: 有时间看书 «avere tempo per leggere», 有钱买房子 «avere i soldi per comprare casa». Si tratta di un tipo di frase a verbi in serie (vedi il capitolo «Le frasi a verbi in serie»).
+
+= S + 有/没有 + N + V (+ O)
+
+ex: 我今天**没有时间**看电视。 | Wǒ jīntiān **méiyǒu shíjiān** kàn diànshì. | Oggi non ho tempo di guardare la televisione.
+ex: 他**有钱**买房子吗？ | Tā **yǒu qián** mǎi fángzi ma? | Ha i soldi per comprare casa?
+ex: 我**有**一个问题想问你。 | Wǒ **yǒu** yí ge wèntí xiǎng wèn nǐ. | C'è una cosa che vorrei chiederti.
+ex: 他**有**很多事要做。 | Tā **yǒu** hěn duō shì yào zuò. | Ha molte cose da fare.
+ex: 我**没什么**可说的。 | Wǒ **méi shénme** kě shuō de. | Non ho niente da dire.
+
+In posizione iniziale, 有 + N + V serve a introdurre un soggetto indefinito, che in cinese non apre volentieri la frase da solo: 有人找你 «c'è qualcuno che ti cerca».
+
+= 有 + (Num + CL) + N + V (+ O)
+
+ex: **有人**找你。 | **Yǒu rén** zhǎo nǐ. | C'è qualcuno che ti cerca.
+ex: **有**几个同学没来上课。 | **Yǒu** jǐ ge tóngxué méi lái shàng kè. | Alcuni compagni non sono venuti a lezione.
+ex: **有**一辆车停在门口。 | **Yǒu** yí liàng chē tíng zài ménkǒu. | C'è una macchina ferma davanti alla porta.
+no: 一个人在门口等你。 | Yí ge rén zài ménkǒu děng nǐ. | Innaturale: il cinese evita i soggetti indefiniti e li introduce con 有.
+ex: **有**一个人在门口等你。 | **Yǒu** yí ge rén zài ménkǒu děng nǐ. | C'è una persona che ti aspetta alla porta.
+
+### 有的……有的……
+
+有的 yǒude, davanti a un nome, significa «alcuni, certi»; ripetuto in due frasi parallele significa «alcuni…, altri…». 有的 + N si trova sempre davanti al verbo, in posizione di soggetto o di tema, mai in posizione di oggetto.
+
+= 有的 + N + V，有的 + (N) + V
+
+ex: **有的**人喜欢喝茶，**有的**人喜欢喝咖啡。 | **Yǒude** rén xǐhuan hē chá, **yǒude** rén xǐhuan hē kāfēi. | Ad alcuni piace il tè, ad altri il caffè.
+ex: 学生们**有的**在看书，**有的**在写字。 | Xuéshengmen **yǒude** zài kàn shū, **yǒude** zài xiě zì. | Degli studenti, alcuni stanno leggendo, altri scrivono.
+ex: 这些苹果**有的**很甜，**有的**有点儿酸。 | Zhèxiē píngguǒ **yǒude** hěn tián, **yǒude** yǒudiǎnr suān. | Di queste mele, alcune sono dolcissime, altre un po' aspre.
+ex: 他的话**有的**我听懂了，**有的**没听懂。 | Tā de huà **yǒude** wǒ tīngdǒng le, **yǒude** méi tīngdǒng. | Di quello che ha detto, alcune cose le ho capite, altre no.
+no: 我认识有的学生。 | Wǒ rènshi yǒude xuésheng. | Errato: 有的 + N non va in posizione di oggetto.
+ex: **有的**学生我认识。 | **Yǒude** xuésheng wǒ rènshi. | Alcuni studenti li conosco.
+ex: 我认识**一些**学生。 | Wǒ rènshi **yìxiē** xuésheng. | Conosco alcuni studenti.
+
+### 有一天, 有时候, 有一次, 有人
+
+Davanti a parole di tempo, a 一 + classificatore e a 人, 有 forma espressioni indefinite molto frequenti:
+
+| Espressione | Pinyin | Significato |
+| 有一天 | yǒu yì tiān | un giorno (nei racconti) |
+| 有时候 / 有时 | yǒushíhou / yǒushí | a volte |
+| 有的时候 | yǒude shíhou | a volte |
+| 有一次 | yǒu yí cì | una volta |
+| 有人 | yǒu rén | qualcuno; c'è chi… |
+| 有些 | yǒuxiē | alcuni; un po' (+ Agg) |
+
+ex: **有一天**，他在路上遇到了一个老朋友。 | **Yǒu yì tiān**, tā zài lùshang yùdào le yí ge lǎo péngyou. | Un giorno, per strada, incontrò un vecchio amico.
+ex: 我**有时候**坐地铁，**有时候**骑自行车。 | Wǒ **yǒushíhou** zuò dìtiě, **yǒushíhou** qí zìxíngchē. | A volte prendo la metropolitana, a volte vado in bicicletta.
+ex: **有一次**我把护照丢了。 | **Yǒu yí cì** wǒ bǎ hùzhào diū le. | Una volta ho perso il passaporto.
+ex: **有人**说他已经回国了。 | **Yǒu rén** shuō tā yǐjīng huí guó le. | Qualcuno dice che è già tornato nel suo paese.
+ex: **有人**喜欢热闹，**有人**喜欢安静。 | **Yǒu rén** xǐhuan rènao, **yǒu rén** xǐhuan ānjìng. | C'è chi ama la confusione e chi la tranquillità.
+ex: 这个问题**有些**难。 | Zhège wèntí **yǒuxiē** nán. | Questo problema è un po' difficile.
+
+### 有 nei confronti
+
+有 e 没有 servono anche a esprimere il confronto di uguaglianza o di inferiorità: A + 有/没有 + B + (这么/那么) + Agg «A è (non è) tanto … quanto B». La costruzione è trattata nel capitolo «Le frasi comparative».
+
+ex: 他**有**你这么高吗？ | Tā **yǒu** nǐ zhème gāo ma? | È alto quanto te?
+ex: 我的汉语**没有**他的好。 | Wǒ de Hànyǔ **méiyǒu** tā de hǎo. | Il mio cinese non è buono come il suo.
+
+### 有 con le misure
+
+有 + quantità indica che una misura (peso, altezza, lunghezza, distanza, età…) raggiunge un certo valore; spesso sottolinea che la quantità è notevole («ben», «almeno»). L'aggettivo di misura in fondo può mancare, e anche 有 si può omettere: 这条鱼三斤重.
+
+= S + 有 + Num + misura + (Agg)
+
+ex: 这条鱼**有**三斤重。 | Zhè tiáo yú **yǒu** sān jīn zhòng. | Questo pesce pesa ben tre jin (un chilo e mezzo).
+ex: 他儿子**有**一米八了。 | Tā érzi **yǒu** yì mǐ bā le. | Suo figlio è già alto un metro e ottanta.
+ex: 从这儿到机场**有**二十公里。 | Cóng zhèr dào jīchǎng **yǒu** èrshí gōnglǐ. | Da qui all'aeroporto ci sono venti chilometri.
+ex: 那棵树**有**十多米高。 | Nà kē shù **yǒu** shí duō mǐ gāo. | Quell'albero è alto più di dieci metri.
+ex: 他**有**七十岁了吧？ | Tā **yǒu** qīshí suì le ba? | Avrà già settant'anni, no?
+
+Nelle domande sulle misure si usa 有多 + Agg: 这条鱼有多重？ «quanto pesa questo pesce?» (vedi il capitolo «Le frasi interrogative»).

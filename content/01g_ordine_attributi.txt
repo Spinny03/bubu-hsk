@@ -1,0 +1,123 @@
+## L'ordine degli attributi multipli
+
+Quando un nome è preceduto da più attributi, questi seguono un ordine abbastanza fisso. In linea generale gli elementi che delimitano e identificano (a chi appartiene? quale? quanti?) vengono prima, quelli che descrivono (com'è?) vengono dopo, e gli elementi più strettamente legati al nome, che ne indicano il tipo o il materiale, stanno immediatamente prima di esso.
+
+= possessore + 这/那 + Num + CL + attributo con 的 + Agg senza 的 + N attributivo + N
+
+| Ordine | Tipo di attributo | Esempi |
+| 1 | possessore | 我的, 小王的, 学校的 |
+| 2 | dimostrativo | 这, 那 |
+| 3 | numerale + classificatore | 两本, 一件, 三个 |
+| 4 | attributo con 的 | 新买的, 很贵的, 从意大利来的 |
+| 5 | aggettivo senza 的 | 新, 大, 红, 老 |
+| 6 | nome attributivo (tipo, materia, lingua) | 中文, 木头, 女 |
+| 7 | nome testa | 书, 桌子, 老师 |
+
+Naturalmente è raro che siano presenti tutti insieme. Ecco alcuni esempi, dal più semplice al più complesso:
+ex: 他**那件**红色的毛衣 | tā **nà jiàn** hóngsè de máoyī | quel suo maglione rosso
+ex: **我的那两本**新买的中文书 | **wǒ de nà liǎng běn** xīn mǎi de Zhōngwén shū | quei miei due libri di cinese comprati da poco
+ex: 桌子上**那个**蓝色的大杯子 | zhuōzi shang **nàge** lánsè de dà bēizi | quel grande bicchiere blu sul tavolo
+ex: **一位**从意大利来的年轻女老师 | **yí wèi** cóng Yìdàlì lái de niánqīng nǚ lǎoshī | una giovane insegnante venuta dall'Italia
+ex: 我们学校**那位**很有名的老教授 | wǒmen xuéxiào **nà wèi** hěn yǒumíng de lǎo jiàoshòu | quel vecchio professore molto famoso della nostra università
+
+Si analizzi il secondo esempio:
+
+| Elemento | Pinyin | Funzione |
+| 我的 | wǒ de | possessore |
+| 那 | nà | dimostrativo |
+| 两本 | liǎng běn | numerale + classificatore |
+| 新买的 | xīn mǎi de | attributo con 的 (relativa) |
+| 中文 | Zhōngwén | nome attributivo |
+| 书 | shū | testa |
+
+Come si vede, l'ordine cinese è spesso l'inverso di quello italiano: «quei miei due libri di cinese comprati da poco» comincia con il dimostrativo e finisce con la relativa, mentre in cinese la relativa sta in mezzo e «di cinese» è attaccato al nome.
+
+### Il possessore viene per primo
+
+Il possessore precede tutti gli altri attributi. Se è un pronome personale seguito da un dimostrativo, il 的 si omette spesso nel parlato: 我那本书, 他那件毛衣.
+no: 新我的书 | xīn wǒ de shū | Errato: il possessore va per primo.
+ex: **我的**新书 | **wǒ de** xīn shū | il mio libro nuovo
+no: 那我的朋友 | nà wǒ de péngyou | Errato: il possessore precede il dimostrativo.
+ex: **我的那个**朋友 | **wǒ de nàge** péngyou | quel mio amico
+ex: **我那个**朋友 | **wǒ nàge** péngyou | quel mio amico (parlato)
+
+### Gli aggettivi con 的 e senza 的
+
+Un aggettivo monosillabico si unisce spesso direttamente al nome, senza 的, e forma con esso quasi un'unica parola: 新书 «libro nuovo», 好人 «brava persona», 白衬衫 «camicia bianca». Un aggettivo preceduto da un avverbio e una frase relativa vogliono invece sempre 的; gli aggettivi bisillabici lo prendono di solito, e anche quelli monosillabici possono prenderlo quando si vuole mettere in rilievo la qualità. In ogni caso gli attributi senza 的 stanno più vicini al nome di quelli con 的.
+no: 一件白漂亮的衬衫 | yí jiàn bái piàoliang de chènshān | Errato: l'aggettivo senza 的 va vicino al nome.
+ex: 一件**漂亮的**白衬衫 | yí jiàn **piàoliang de** bái chènshān | una bella camicia bianca
+ex: 一个**很大的**红苹果 | yí ge **hěn dà de** hóng píngguǒ | una mela rossa molto grande
+ex: 一张**新的**木头桌子 | yì zhāng **xīn de** mùtou zhuōzi | un tavolo di legno nuovo
+
+### Gli attributi con 的 prima o dopo il dimostrativo
+
+Gli attributi con 的, soprattutto le frasi relative, possono stare anche prima del dimostrativo e del numerale. Con le relative questo è anzi l'ordine più frequente:
+ex: **我昨天买的**那本书 | **wǒ zuótiān mǎi de** nà běn shū | il libro che ho comprato ieri
+ex: 那本**我昨天买的**书 | nà běn **wǒ zuótiān mǎi de** shū | quel libro che ho comprato ieri
+ex: **坐在你旁边的**那个人是谁？ | **Zuò zài nǐ pángbiān de** nàge rén shì shéi? | Chi è quella persona seduta accanto a te?
+
+Quando l'attributo con 的 precede il dimostrativo, serve soprattutto a identificare l'oggetto distinguendolo da altri («proprio quello che ho comprato ieri»); quando lo segue, ha un valore più descrittivo.
+
+! Una lunga catena di attributi con 的 suona pesante: nel parlato si evita di usare più di due 的 di seguito. Il primo 的 dopo un pronome si può omettere (我那本书) e un aggettivo monosillabico si attacca al nome senza 的 (新书). Vedi il capitolo «Le particelle strutturali 的, 地, 得».
+
+## L'ordine degli avverbiali multipli
+
+Anche gli avverbiali che precedono il verbo seguono un ordine tendenziale. Partendo dal soggetto e andando verso il verbo si trovano in genere:
+
+= S + Tempo + Avv di modalità + Avv di ambito + negazione + verbo modale + Prep + N + modo + V
+
+| Ordine | Tipo di avverbiale | Esempi |
+| 1 | tempo | 明天, 每天, 昨天晚上 |
+| 2 | atteggiamento, modalità | 可能, 一定, 其实, 也许 |
+| 3 | ambito e frequenza | 也, 都, 只, 常常 |
+| 4 | negazione | 不, 没(有) |
+| 5 | verbo modale | 能, 会, 想, 要, 应该 |
+| 6 | sintagma preposizionale | 在家, 跟他, 给你 |
+| 7 | modo | 认真地, 慢慢地, 一起 |
+
+Un esempio con molti avverbiali:
+ex: 我们明天也都不能在家吃饭。 | Wǒmen míngtiān yě dōu bù néng zài jiā chī fàn. | Domani neanche noi potremo mangiare a casa, nessuno di noi.
+
+| Elemento | Pinyin | Funzione |
+| 我们 | wǒmen | soggetto |
+| 明天 | míngtiān | tempo |
+| 也 | yě | avverbio «anche» |
+| 都 | dōu | avverbio di ambito «tutti» |
+| 不 | bù | negazione |
+| 能 | néng | verbo modale |
+| 在家 | zài jiā | sintagma preposizionale (luogo) |
+| 吃饭 | chī fàn | verbo + oggetto |
+
+Altri esempi:
+ex: 我明天**一定**给你打电话。 | Wǒ míngtiān **yídìng** gěi nǐ dǎ diànhuà. | Domani ti telefono di sicuro.
+ex: 他**可能不想**跟我们一起去。 | Tā **kěnéng bù xiǎng** gēn wǒmen yìqǐ qù. | Forse non vuole venire con noi.
+ex: 她昨天**也没**在家吃饭。 | Tā zuótiān **yě méi** zài jiā chī fàn. | Ieri anche lei non ha mangiato a casa.
+ex: 他每天**都在图书馆认真地**学习。 | Tā měi tiān **dōu zài túshūguǎn rènzhēn de** xuéxí. | Ogni giorno studia con impegno in biblioteca.
+ex: 你们**应该跟老师**好好谈谈。 | Nǐmen **yīnggāi gēn lǎoshī** hǎohǎo tántan. | Dovreste parlarne seriamente con l'insegnante.
+
+### La posizione della negazione
+
+La negazione precede di norma i verbi modali e i sintagmi preposizionali: si nega cioè tutto ciò che la segue.
+ex: 我**不**能去。 | Wǒ **bù** néng qù. | Non posso andarci.
+ex: 我今天**不**在家吃饭。 | Wǒ jīntiān **bú** zài jiā chī fàn. | Oggi non mangio a casa.
+ex: 他**没**跟我说。 | Tā **méi** gēn wǒ shuō. | Non me l'ha detto.
+no: 我今天在家不吃饭。 | Wǒ jīntiān zài jiā bù chī fàn. | Non significa «oggi non mangio a casa»: per questo senso la negazione va prima del luogo.
+ex: 我今天**不在家**吃饭。 | Wǒ jīntiān **bú zài jiā** chī fàn. | Oggi non mangio a casa.
+
+Gli avverbi di ambito come 都 e 也 precedono invece la negazione: 都不 «nessuno», 也不 «neanche». Se 不 precede 都, il significato cambia:
+ex: 他们**都不**是中国人。 | Tāmen **dōu bú** shì Zhōngguórén. | Nessuno di loro è cinese.
+ex: 他们**不都**是中国人。 | Tāmen **bù dōu** shì Zhōngguórén. | Non sono tutti cinesi.
+
+Vedi il capitolo «Gli avverbi» per le differenze tra 都不 e 不都 e per la posizione degli altri avverbi; vedi «La negazione» per l'uso di 不 e 没.
+
+### Avverbiali all'inizio della frase
+
+Le espressioni di tempo e alcuni avverbi di modalità che riguardano l'intera frase, come 其实 «in realtà», 也许 «forse», 当然 «naturalmente», 难道 «possibile che», possono stare anche prima del soggetto. Gli avverbi come 都, 也, 就, 才, 还, 不 non possono mai precedere il soggetto.
+ex: **其实**我不想去。 | **Qíshí** wǒ bù xiǎng qù. | In realtà non ho voglia di andarci.
+ex: **也许**他已经走了。 | **Yěxǔ** tā yǐjīng zǒu le. | Forse se n'è già andato.
+no: 也我是学生。 | Yě wǒ shì xuésheng. | Errato: 也 va dopo il soggetto, davanti al verbo.
+ex: 我**也**是学生。 | Wǒ **yě** shì xuésheng. | Anch'io sono uno studente.
+no: 都他们来了。 | Dōu tāmen lái le. | Errato: 都 va dopo il soggetto a cui si riferisce.
+ex: 他们**都**来了。 | Tāmen **dōu** lái le. | Sono venuti tutti.
+
+! L'ordine presentato è una tendenza, non una regola assoluta: alcuni avverbi possono spostarsi per ragioni di significato o di rilievo, come si vede nel caso della negazione. In caso di dubbio conviene ricordare il principio generale: ciò che sta a sinistra ha valore su tutto ciò che sta a destra.

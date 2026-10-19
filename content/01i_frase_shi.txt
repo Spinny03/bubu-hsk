@@ -1,0 +1,185 @@
+# La frase semplice e il verbo 是
+
+La frase semplice (单句 dānjù) è formata da un soggetto e da un predicato. In italiano il predicato contiene sempre un verbo: anche quando si attribuisce una qualità al soggetto si usa il verbo «essere» («Marco è alto»). In cinese, invece, il predicato può essere un verbo, ma anche un aggettivo, un nome o perfino un'intera frase, senza alcun verbo copulativo. Questo capitolo presenta i tipi di predicato e il verbo 是 shì, che corrisponde solo in parte all'italiano «essere».
+
+## I tipi di predicato
+
+Secondo la natura del predicato la grammatica cinese distingue quattro tipi di frase:
+
+| Tipo | Termine cinese | Esempio | Traduzione |
+| predicato verbale | 动词谓语句 dòngcí wèiyǔ jù | 我学习汉语。 | Studio cinese. |
+| predicato aggettivale | 形容词谓语句 xíngróngcí wèiyǔ jù | 她很漂亮。 | È molto bella. |
+| predicato nominale | 名词谓语句 míngcí wèiyǔ jù | 今天星期六。 | Oggi è sabato. |
+| predicato soggetto-predicato | 主谓谓语句 zhǔwèi wèiyǔ jù | 他身体很好。 | Sta bene di salute. |
+
+La frase a predicato verbale è la più frequente: il predicato è un verbo, con o senza oggetto e altri elementi. Le frasi con 是 rientrano in questo tipo.
+ex: 他**来**了。 | Tā **lái** le. | È arrivato.
+ex: 我**喜欢**听音乐。 | Wǒ **xǐhuan** tīng yīnyuè. | Mi piace ascoltare musica.
+ex: 我**是**意大利人。 | Wǒ **shì** Yìdàlìrén. | Sono italiano.
+
+Nella frase a predicato aggettivale l'aggettivo fa da predicato da solo, senza verbo «essere».
+ex: 今天很**冷**。 | Jīntiān hěn **lěng**. | Oggi fa freddo.
+ex: 这个房间不**大**。 | Zhège fángjiān bú **dà**. | Questa stanza non è grande.
+
+Nella frase a predicato nominale un nome o un'espressione numerica fa da predicato senza verbo; è limitata a date, età, prezzi e pochi altri casi.
+ex: 明天**国庆节**。 | Míngtiān **Guóqìng Jié**. | Domani è la festa nazionale.
+ex: 我**二十五岁**。 | Wǒ **èrshíwǔ suì**. | Ho venticinque anni.
+
+Nella frase a predicato soggetto-predicato il predicato è a sua volta formato da un soggetto e da un predicato.
+ex: 我**头疼**。 | Wǒ **tóu téng**. | Ho mal di testa. (lett. io, testa fa male)
+
+Ciascun tipo è descritto nelle sezioni seguenti.
+
+## Il verbo 是
+
+Il verbo 是 shì collega due elementi, stabilendo tra di essi un rapporto di identità o di appartenenza a una categoria. Corrisponde all'italiano «essere» di norma solo quando questo è seguito da un nome o da un'espressione nominale.
+
+### A 是 B
+
+= A + 是 + B
+
+Il primo uso di 是 è l'identità: A e B indicano la stessa persona o cosa.
+ex: 我**是**马可。 | Wǒ **shì** Mǎkě. | Sono Marco.
+ex: 她**是**我的中文老师。 | Tā **shì** wǒ de Zhōngwén lǎoshī. | È la mia insegnante di cinese.
+ex: 北京**是**中国的首都。 | Běijīng **shì** Zhōngguó de shǒudū. | Pechino è la capitale della Cina.
+ex: 这**是**什么？ | Zhè **shì** shénme? | Che cos'è questo?
+
+Il secondo uso è la classificazione: A appartiene alla categoria B (professione, nazionalità, tipo).
+ex: 玛丽亚**是**意大利人。 | Mǎlìyà **shì** Yìdàlìrén. | Maria è italiana.
+ex: 他**是**医生。 | Tā **shì** yīshēng. | Fa il medico. (lett. è medico)
+ex: 熊猫**是**中国特有的动物。 | Xióngmāo **shì** Zhōngguó tèyǒu de dòngwù. | Il panda è un animale che vive solo in Cina.
+
+B può essere anche un verbo o una frase:
+ex: 我的爱好**是**看电影。 | Wǒ de àihào **shì** kàn diànyǐng. | Il mio hobby è guardare film.
+ex: 问题**是**我们没有时间。 | Wèntí **shì** wǒmen méiyǒu shíjiān. | Il problema è che non abbiamo tempo.
+
+! Davanti al nome che indica una professione o una nazionalità non serve l'articolo: 我是学生 «sono uno studente». La forma 我是一个学生 è grammaticale e si sente spesso, ma il numerale 一个 non è necessario; si usa soprattutto quando il nome è accompagnato da un aggettivo: 他是一个好老师 «è un buon insegnante».
+
+### «Essere» in italiano e in cinese
+
+Il verbo italiano «essere» si traduce in modi diversi a seconda di ciò che lo segue. Usare sempre 是 è uno degli errori più comuni dei principianti.
+
+| Italiano | Cinese | Esempio |
+| essere + nome | 是 | 他是老师。 |
+| essere + aggettivo | 很 + Agg | 他很高。 |
+| essere in un luogo | 在 | 他在北京。 |
+| c'è, ci sono | 有 | 桌子上有书。 |
+| età, data, prezzo | predicato nominale | 他二十岁。 |
+
+no: 他是北京。 | Tā shì Běijīng. | Errato per «è a Pechino»: per la posizione si usa 在.
+ex: 他**在**北京。 | Tā **zài** Běijīng. | È a Pechino.
+
+Vedi i capitoli «Le frasi con 有 e le frasi esistenziali» e «L'aggettivo».
+
+### La negazione 不是
+
+= A + 不是 + B
+
+是 si nega sempre con 不, che davanti al quarto tono di 是 si pronuncia bú.
+ex: 我**不是**老师，我是学生。 | Wǒ **bú shì** lǎoshī, wǒ shì xuésheng. | Non sono un insegnante, sono uno studente.
+ex: 这**不是**我的手机。 | Zhè **bú shì** wǒ de shǒujī. | Questo non è il mio cellulare.
+ex: 他**不是**日本人，是韩国人。 | Tā **bú shì** Rìběnrén, shì Hánguórén. | Non è giapponese, è coreano.
+
+Poiché 是 non esprime il tempo, la stessa forma vale per il presente e per il passato; il momento si ricava dalle espressioni di tempo. 是 non si nega mai con 没, nemmeno quando ci si riferisce al passato.
+no: 他以前没是老师。 | Tā yǐqián méi shì lǎoshī. | Errato: 是 si nega solo con 不, anche al passato.
+ex: 他以前**不是**老师。 | Tā yǐqián **bú shì** lǎoshī. | Prima non era insegnante.
+ex: 他以前**是**老师，现在是作家。 | Tā yǐqián **shì** lǎoshī, xiànzài shì zuòjiā. | Prima era insegnante, ora è scrittore.
+
+### Le domande
+
+= A + 是 + B + 吗？
+= A + 是不是 + B？
+
+La domanda più semplice si forma aggiungendo 吗 alla fine; la forma 是不是 chiede una risposta sì/no in modo un po' più diretto. Per scegliere tra due possibilità si usa 还是 «oppure».
+ex: 你**是**中国人**吗**？ | Nǐ **shì** Zhōngguórén **ma**? | Sei cinese?
+ex: 你**是不是**中国人？ | Nǐ **shì bu shì** Zhōngguórén? | Sei cinese o no?
+ex: 这是你的书**吧**？ | Zhè shì nǐ de shū **ba**? | Questo è il tuo libro, vero?
+ex: 他**是谁**？ | Tā **shì shéi**? | Chi è?
+ex: 你是老师**还是**学生？ | Nǐ shì lǎoshī **háishi** xuésheng? | Sei un insegnante o uno studente?
+
+Alla domanda si risponde con 是 «sì», 是的 «sì, è così», 对 «giusto» oppure 不是 «no», di solito ripetendo poi la frase.
+ex: A：你是马可吗？B：是，我是马可。 | A: Nǐ shì Mǎkě ma? B: Shì, wǒ shì Mǎkě. | A: Sei Marco? B: Sì, sono Marco.
+ex: A：他是你哥哥吗？B：不是，他是我弟弟。 | A: Tā shì nǐ gēge ma? B: Bú shì, tā shì wǒ dìdi. | A: È tuo fratello maggiore? B: No, è mio fratello minore.
+
+是不是 si usa anche, davanti al predicato o in fondo alla frase, per chiedere conferma di qualcosa che si suppone vero:
+ex: 你**是不是**感冒了？ | Nǐ **shì bu shì** gǎnmào le? | Hai preso il raffreddore, per caso?
+ex: 明天没有课，**是不是**？ | Míngtiān méiyǒu kè, **shì bu shì**? | Domani non c'è lezione, giusto?
+
+Vedi il capitolo «Le frasi interrogative».
+
+### 是 non si usa davanti agli aggettivi
+
+Davanti a un aggettivo predicativo non si usa 是: l'aggettivo fa da predicato da solo, di solito preceduto da 很 o da un altro avverbio di grado. È l'errore più tipico degli italiani, che traducono parola per parola «io sono stanco».
+no: 我是很累。 | Wǒ shì hěn lèi. | Errato: davanti all'aggettivo non si usa 是.
+ex: 我很累。 | Wǒ hěn lèi. | Sono stanco.
+no: 这个菜是好吃。 | Zhège cài shì hǎochī. | Errato: con l'aggettivo predicativo non si usa 是.
+ex: 这个菜很好吃。 | Zhège cài hěn hǎochī. | Questo piatto è buono.
+no: 他是忙。 | Tā shì máng. | Errato: 是 non collega il soggetto all'aggettivo.
+ex: 他很忙。 | Tā hěn máng. | È molto occupato.
+no: 天气不是好。 | Tiānqì bú shì hǎo. | Errato: l'aggettivo si nega direttamente con 不.
+ex: 天气不好。 | Tiānqì bù hǎo. | Il tempo non è bello.
+
+! La sequenza 是 + aggettivo esiste, ma ha un valore enfatico o concessivo: 这个菜是好吃 significa «questo piatto è buono davvero» oppure «è buono, sì (ma…)». Vedi il capitolo «L'enfasi». Esiste inoltre la struttura 是 + aggettivo + 的, descritta qui sotto.
+
+### 是 + sintagma con 的
+
+= S + 是 + … 的
+
+Un sintagma seguito da 的 può sostituire un nome sottinteso: 我的 «il mio», 红的 «quello rosso», 新的 «quello nuovo», 我妈妈的 «quello di mia madre». Questi sintagmi si usano spesso dopo 是 per indicare a chi appartiene una cosa o a quale tipo appartiene.
+ex: 这本书**是我的**。 | Zhè běn shū **shì wǒ de**. | Questo libro è mio.
+ex: 这个包**是我妈妈的**。 | Zhège bāo **shì wǒ māma de**. | Questa borsa è di mia madre.
+ex: 这个杯子**是谁的**？ | Zhège bēizi **shì shéi de**? | Di chi è questo bicchiere?
+ex: 我的手机**是黑的**，不是白的。 | Wǒ de shǒujī **shì hēi de**, bú shì bái de. | Il mio cellulare è nero, non bianco.
+ex: 那件衣服**是新的**。 | Nà jiàn yīfu **shì xīn de**. | Quel vestito è nuovo (non è usato).
+
+Con un aggettivo la differenza tra le due costruzioni è di significato: 这件衣服很新 descrive il vestito («è proprio nuovo»), mentre 这件衣服是新的 lo classifica («è uno di quelli nuovi, non usati»).
+
+! La struttura 是 + … 的 qui descritta non va confusa con la costruzione 是……的 che mette in rilievo il tempo, il luogo o il modo di un'azione passata (我是昨天来的 «sono arrivato ieri»). Vedi il capitolo «La costruzione 是……的».
+
+### 都是, 也是, 就是, 不都是
+
+Gli avverbi che modificano 是 si mettono davanti a esso, mai dopo. Con 也 e 都 insieme l'ordine è 也都.
+ex: 我们**都是**学生。 | Wǒmen **dōu shì** xuésheng. | Siamo tutti studenti.
+ex: 我**也是**意大利人。 | Wǒ **yě shì** Yìdàlìrén. | Anch'io sono italiano.
+ex: 他们**也都是**老师。 | Tāmen **yě dōu shì** lǎoshī. | Anche loro sono tutti insegnanti.
+ex: 我**也不是**老师。 | Wǒ **yě bú shì** lǎoshī. | Neanch'io sono un insegnante.
+ex: 他们**都不是**中国人。 | Tāmen **dōu bú shì** Zhōngguórén. | Nessuno di loro è cinese.
+ex: 他们**不都是**中国人。 | Tāmen **bù dōu shì** Zhōngguórén. | Non sono tutti cinesi.
+no: 我是也学生。 | Wǒ shì yě xuésheng. | Errato: gli avverbi vanno davanti a 是.
+ex: 我**也是**学生。 | Wǒ **yě shì** xuésheng. | Anch'io sono uno studente.
+no: 他们都也是老师。 | Tāmen dōu yě shì lǎoshī. | Errato: l'ordine è 也都.
+ex: 他们**也都是**老师。 | Tāmen **yě dōu shì** lǎoshī. | Anche loro sono tutti insegnanti.
+
+就是 significa «è proprio, è appunto» e identifica con precisione una persona o una cosa:
+ex: 他**就是**王老师。 | Tā **jiù shì** Wáng lǎoshī. | È proprio lui il professor Wang.
+ex: 这**就是**我们的学校。 | Zhè **jiù shì** wǒmen de xuéxiào. | Ecco, questa è la nostra scuola.
+ex: A：哪位是李老师？B：我**就是**。 | A: Nǎ wèi shì Lǐ lǎoshī? B: Wǒ **jiù shì**. | A: Chi è il professor Li? B: Sono io.
+
+Altri avverbi frequenti davanti a 是 sono 真 «davvero», 正 «proprio», 一定 «sicuramente», 可能 «forse», 还 «ancora»:
+ex: 你**真是**个好人。 | Nǐ **zhēn shì** ge hǎo rén. | Sei davvero una brava persona.
+ex: 他**可能是**你们的新老师。 | Tā **kěnéng shì** nǐmen de xīn lǎoshī. | Forse è il vostro nuovo insegnante.
+
+### Altri usi di 是
+
+Il verbo 是 compare anche in altre costruzioni, descritte nei rispettivi capitoli:
+- Luogo + 是 + N indica che cosa occupa un luogo: 学校对面是一家银行 «di fronte alla scuola c'è una banca» (vedi «Le frasi con 有 e le frasi esistenziali»);
+- 是 enfatico e concessivo: 他是很聪明 «è intelligente davvero», 好是好，就是太贵了 «è bello, sì, ma è troppo caro» (vedi «L'enfasi»);
+- la costruzione 是……的 (vedi «La costruzione 是……的»);
+- 不是……吗？ nelle domande retoriche: 你不是去过北京吗？ «ma non sei stato a Pechino?» (vedi «Le frasi interrogative»).
+
+ex: 学校对面**是**一家银行。 | Xuéxiào duìmiàn **shì** yì jiā yínháng. | Di fronte alla scuola c'è una banca.
+ex: 这件衣服好**是**好，就是太贵了。 | Zhè jiàn yīfu hǎo **shì** hǎo, jiùshì tài guì le. | Questo vestito è bello, sì, ma è troppo caro.
+
+### 是 e le particelle aspettuali
+
+是 indica uno stato e non un'azione: per questo non prende le particelle aspettuali 着 e 过 e normalmente nemmeno 了₁. Per dire che qualcuno «è stato» qualcosa in passato basta un'espressione di tempo; per dire che «ha fatto» un certo mestiere si usa 当 dāng «fare da»; per «diventare» si usano 成 chéng, 成为 chéngwéi o 变成 biànchéng.
+no: 我是过学生。 | Wǒ shì guo xuésheng. | Errato: 是 non prende 过.
+ex: 我以前**是**学生。 | Wǒ yǐqián **shì** xuésheng. | Una volta ero uno studente.
+ex: 他**当过**老师。 | Tā **dāng guo** lǎoshī. | Ha fatto l'insegnante.
+no: 他是了我的朋友。 | Tā shì le wǒ de péngyou. | Errato: 是 non prende 了₁.
+ex: 他**成了**我最好的朋友。 | Tā **chéng le** wǒ zuì hǎo de péngyou. | È diventato il mio migliore amico.
+
+In fondo alla frase si può invece trovare 了₂, che indica un cambiamento di situazione:
+ex: 我女儿**已经是**大学生**了**。 | Wǒ nǚ'ér **yǐjīng shì** dàxuéshēng **le**. | Mia figlia ormai è una studentessa universitaria.
+
+Vedi i capitoli «La particella 了» e «La particella 过».

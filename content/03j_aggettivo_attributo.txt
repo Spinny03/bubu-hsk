@@ -1,0 +1,172 @@
+## 有点儿 e 一点儿
+
+Le due espressioni contengono entrambe 一点儿 «un po'», ma hanno posizione e significato diversi, e confonderle è uno degli errori più comuni.
+
+### 有点儿 + Agg
+
+有点儿 yǒudiǎnr (anche 有一点儿) precede l'aggettivo o il verbo psicologico e indica un grado lieve di una qualità di solito sgradita: «un po' (troppo)».
+
+= S + 有点儿 + Agg/V
+
+ex: 这件衣服**有点儿**贵。 | Zhè jiàn yīfu **yǒudiǎnr** guì. | Questo vestito è un po' caro.
+ex: 我今天**有点儿**累。 | Wǒ jīntiān **yǒudiǎnr** lèi. | Oggi sono un po' stanco.
+ex: 外面**有点儿**冷，多穿点儿衣服吧。 | Wàimian **yǒudiǎnr** lěng, duō chuān diǎnr yīfu ba. | Fuori fa un po' freddo, copriti bene.
+ex: 这个菜**有点儿**咸。 | Zhège cài **yǒudiǎnr** xián. | Questo piatto è un po' salato.
+ex: 他**有点儿**不高兴。 | Tā **yǒudiǎnr** bù gāoxìng. | È un po' di cattivo umore.
+ex: 我**有点儿**怕他。 | Wǒ **yǒudiǎnr** pà tā. | Ho un po' paura di lui.
+
+! Con aggettivi positivi 有点儿 suona strano: per «abbastanza buono» si dice 比较好 o 还不错. Rispetto a 太……了, 有点儿 è più attenuato: 有点儿贵 «un po' caro», 太贵了 «troppo caro».
+
+### Agg + 一点儿
+
+一点儿 yìdiǎnr (spesso ridotto a 点儿 diǎnr) segue l'aggettivo nei confronti («un po' più…») e nelle richieste o esortazioni. Davanti a un nome indica una piccola quantità («un po' di»).
+
+= Agg + (一)点儿 (confronto, richiesta)
+= V + (一)点儿 + N (quantità)
+
+ex: 这件比那件便宜**一点儿**。 | Zhè jiàn bǐ nà jiàn piányi **yìdiǎnr**. | Questo costa un po' meno di quello.
+ex: 便宜**一点儿**吧！ | Piányi **yìdiǎnr** ba! | Me lo fa un po' più economico?
+ex: 请你说慢**一点儿**。 | Qǐng nǐ shuō màn **yìdiǎnr**. | Per favore, parli un po' più lentamente.
+ex: 快**点儿**！ | Kuài **diǎnr**! | Sbrigati!
+ex: 小心**一点儿**！ | Xiǎoxīn **yìdiǎnr**! | Fai un po' attenzione!
+ex: 我想喝**一点儿**水。 | Wǒ xiǎng hē **yìdiǎnr** shuǐ. | Vorrei bere un po' d'acqua.
+ex: 我会说**一点儿**汉语。 | Wǒ huì shuō **yìdiǎnr** Hànyǔ. | So parlare un po' di cinese.
+ex: 我们去买**点儿**东西吧。 | Wǒmen qù mǎi **diǎnr** dōngxi ba. | Andiamo a comprare qualcosa.
+
+### 一点儿也不: «per niente»
+
+= 一点儿 + 也/都 + 不/没 + Agg/V
+= 一点儿 + N + 也/都 + 没 + V
+
+ex: 这个菜**一点儿也不**辣。 | Zhège cài **yìdiǎnr yě bú** là. | Questo piatto non è per niente piccante.
+ex: 我**一点儿都不**累。 | Wǒ **yìdiǎnr dōu bú** lèi. | Non sono affatto stanco.
+ex: 他**一点儿也没**变。 | Tā **yìdiǎnr yě méi** biàn. | Non è cambiato per niente.
+ex: 我**一点儿**饭**也没**吃。 | Wǒ **yìdiǎnr** fàn **yě méi** chī. | Non ho mangiato neanche un boccone.
+
+### Confronto
+
+| | 有点儿 | 一点儿 |
+| Posizione | prima di Agg/V | dopo Agg/V; prima di N |
+| Valore | grado lieve, spesso sgradito | confronto, richiesta, quantità |
+| Esempio | 有点儿贵 | 便宜一点儿 |
+| Con la negazione | 有点儿不舒服 | 一点儿也不贵 |
+
+no: 这件衣服一点儿贵。 | Zhè jiàn yīfu yìdiǎnr guì. | Errato: davanti all'aggettivo si usa 有点儿.
+ex: 这件衣服**有点儿**贵。 | Zhè jiàn yīfu **yǒudiǎnr** guì. | Questo vestito è un po' caro.
+no: 请你有点儿慢说。 | Qǐng nǐ yǒudiǎnr màn shuō. | Errato: nelle richieste si usa Agg + 一点儿, dopo il verbo.
+ex: 请你说慢**一点儿**。 | Qǐng nǐ shuō màn **yìdiǎnr**. | Per favore, parli un po' più lentamente.
+no: 便宜有点儿吧！ | Piányi yǒudiǎnr ba! | Errato: 有点儿 non segue l'aggettivo.
+ex: 便宜**一点儿**吧！ | Piányi **yìdiǎnr** ba! | Me lo fa un po' più economico?
+no: 今天比昨天有点儿冷。 | Jīntiān bǐ zuótiān yǒudiǎnr lěng. | Errato: nel confronto con 比 si usa Agg + 一点儿.
+ex: 今天比昨天冷**一点儿**。 | Jīntiān bǐ zuótiān lěng **yìdiǎnr**. | Oggi fa un po' più freddo di ieri.
+no: 这个菜有点儿也不辣。 | Zhège cài yǒudiǎnr yě bú là. | Errato: la negazione totale si forma con 一点儿也不.
+ex: 这个菜**一点儿也不**辣。 | Zhège cài **yìdiǎnr yě bú** là. | Questo piatto non è per niente piccante.
+
+! Non va confuso con 有点儿 il verbo 有 seguito da 一点儿 + nome: 我有一点儿钱。«Ho un po' di soldi.»
+
+## L'aggettivo come attributo
+
+In funzione di attributo (定语 dìngyǔ) l'aggettivo precede sempre il nome, anche quando in italiano lo segue («un libro nuovo» → 新书). L'uso di 的 dipende dalla lunghezza e dalla forma dell'aggettivo.
+
+= Agg (monosillabico) + N
+= Agg (bisillabico) + 的 + N
+= Avv + Agg + 的 + N
+
+### Aggettivi monosillabici: senza 的
+
+ex: 我买了一本**新书**。 | Wǒ mǎi le yì běn **xīn shū**. | Ho comprato un libro nuovo.
+ex: 他是一个**好人**。 | Tā shì yí ge **hǎorén**. | È una brava persona.
+ex: 你喝**红茶**还是**绿茶**？ | Nǐ hē **hóngchá** háishi **lǜchá**? | Prendi tè nero o tè verde?
+ex: 上海是一个**大城市**。 | Shànghǎi shì yí ge **dà chéngshì**. | Shanghai è una grande città.
+ex: 他是我的**老朋友**。 | Tā shì wǒ de **lǎo péngyou**. | È un mio vecchio amico.
+
+! Molte di queste combinazioni sono diventate parole composte con un significato proprio: 红茶 hóngchá è il «tè nero» (lett. tè rosso), 小说 xiǎoshuō il «romanzo», 大人 dàrén l'«adulto». Con un aggettivo monosillabico si usa 的 solo per un contrasto esplicito: 我要大的，不要小的。«Voglio quello grande, non quello piccolo.»
+
+### Aggettivi bisillabici e aggettivi modificati: con 的
+
+ex: 她穿了一件**漂亮的**衣服。 | Tā chuān le yí jiàn **piàoliang de** yīfu. | Indossava un bel vestito.
+ex: 他是一个**聪明的**孩子。 | Tā shì yí ge **cōngming de** háizi. | È un bambino intelligente.
+ex: 我想要一个**干净的**房间。 | Wǒ xiǎng yào yí ge **gānjìng de** fángjiān. | Vorrei una camera pulita.
+ex: 这是一个**非常重要的**问题。 | Zhè shì yí ge **fēicháng zhòngyào de** wèntí. | È una questione importantissima.
+ex: 他们住在一套**很大的**房子里。 | Tāmen zhù zài yí tào **hěn dà de** fángzi li. | Abitano in una casa molto grande.
+
+no: 他是我很好朋友。 | Tā shì wǒ hěn hǎo péngyou. | Errato: un aggettivo modificato da un avverbio richiede 的.
+ex: 他是我**很好的**朋友。 | Tā shì wǒ **hěn hǎo de** péngyou. | È un mio ottimo amico.
+ex: 他是我的**好朋友**。 | Tā shì wǒ de **hǎo péngyou**. | È un mio caro amico.
+
+! In alcune combinazioni fisse e frequenti anche un aggettivo bisillabico si unisce al nome senza 的: 新鲜空气 «aria fresca», 普通人 «gente comune», 聪明人 «persona intelligente».
+
+### 多 e 少 come attributi
+
+多 duō «molto» e 少 shǎo «poco» non possono modificare un nome da soli: si dice 很多 (+ 的) + N, 不少 + N, 好多 + N (colloquiale), 许多 + N (più formale). Per «pochi» si usa di solito 很少有 + N.
+
+ex: **很多**人喜欢喝茶。 | **Hěn duō** rén xǐhuan hē chá. | A molte persone piace bere il tè.
+ex: 我有**很多**中国朋友。 | Wǒ yǒu **hěn duō** Zhōngguó péngyou. | Ho molti amici cinesi.
+ex: 来了**不少**人。 | Lái le **bù shǎo** rén. | È venuta parecchia gente.
+ex: 他看过**许多**中国电影。 | Tā kàn guo **xǔduō** Zhōngguó diànyǐng. | Ha visto molti film cinesi.
+ex: **很少有人**知道这件事。 | **Hěn shǎo yǒu rén** zhīdao zhè jiàn shì. | Sono in pochi a saperlo.
+
+no: 多人来了。 | Duō rén lái le. | Errato: 多 da solo non può modificare un nome.
+ex: **很多**人来了。 | **Hěn duō** rén lái le. | È venuta molta gente.
+no: 我有多朋友。 | Wǒ yǒu duō péngyou. | Errato: serve 很多.
+ex: 我有**很多**朋友。 | Wǒ yǒu **hěn duō** péngyou. | Ho molti amici.
+
+### L'ordine degli attributi
+
+Quando ci sono più attributi, l'ordine abituale è: possessivo + dimostrativo + numerale + classificatore + aggettivo + nome (vedi anche il capitolo «Le particelle strutturali 的, 地, 得»).
+
+= Possessivo + 这/那 + Num + CL + Agg + N
+
+ex: **我的那两件新**衣服都很贵。 | **Wǒ de nà liǎng jiàn xīn** yīfu dōu hěn guì. | Quei miei due vestiti nuovi sono entrambi cari.
+
+## La reduplicazione dell'aggettivo
+
+Molti aggettivi si possono reduplicare (形容词重叠 xíngróngcí chóngdié) per rendere la descrizione più vivida e intensa, spesso con una sfumatura affettiva. La forma reduplicata è già intensificata e descrive uno stato concreto, come se lo si vedesse.
+
+= AA(儿) + 的 (monosillabici: 高高的)
+= AABB + 的 (bisillabici: 干干净净的)
+= ABAB (aggettivi descrittivi: 雪白雪白)
+= A里AB (aggettivi spregiativi: 糊里糊涂)
+
+| Forma | Esempi | Pinyin |
+| AA(儿)的 | 高高的, 慢慢儿地 | gāogāo de, mànmānr de |
+| AABB | 干干净净, 高高兴兴 | gāngān-jìngjìng, gāogāo-xìngxìng |
+| ABAB | 雪白雪白, 冰凉冰凉 | xuěbái xuěbái, bīngliáng bīngliáng |
+| A里AB | 糊里糊涂, 慌里慌张 | húlihútú, huānglihuāngzhāng |
+
+### AA e AABB
+
+ex: 她有一双**大大的**眼睛。 | Tā yǒu yì shuāng **dàdà de** yǎnjing. | Ha due occhioni grandi.
+ex: 那个男孩**高高的**、**瘦瘦的**。 | Nàge nánhái **gāogāo de**, **shòushòu de**. | Quel ragazzo è alto alto e magro magro.
+ex: 你**慢慢儿**说，别着急。 | Nǐ **mànmānr** shuō, bié zháojí. | Parla con calma, non agitarti.
+ex: 你要**好好儿**学习。 | Nǐ yào **hǎohāor** xuéxí. | Devi studiare per bene.
+ex: 她把房间收拾得**干干净净**的。 | Tā bǎ fángjiān shōushi de **gāngān-jìngjìng** de. | Ha messo in ordine la camera: è pulitissima.
+ex: 孩子们**高高兴兴**地去上学了。 | Háizimen **gāogāo-xìngxìng** de qù shàngxué le. | I bambini sono andati a scuola tutti contenti.
+ex: 老师讲得**清清楚楚**。 | Lǎoshī jiǎng de **qīngqīng-chǔchǔ**. | L'insegnante ha spiegato in modo chiarissimo.
+
+! Nella pronuncia pechinese, nella forma AA儿 la seconda sillaba passa spesso al primo tono (好好儿 hǎohāor, 慢慢儿 mànmānr); nella forma AABB la seconda sillaba si pronuncia spesso atona (gāogaoxìngxìng). In pinyin la forma AABB si scrive con un trattino: gāogāo-xìngxìng.
+
+### ABAB e A里AB
+
+La forma ABAB riguarda gli aggettivi in cui la prima sillaba specifica la seconda (雪白 «bianco come la neve», 冰凉 «freddo come il ghiaccio», 通红 «tutto rosso»): la ripetizione intensifica ulteriormente. La forma A里AB si usa con pochi aggettivi bisillabici dal significato negativo e ne accentua la sfumatura spregiativa.
+
+ex: 她的手**冰凉冰凉**的。 | Tā de shǒu **bīngliáng bīngliáng** de. | Ha le mani gelide.
+ex: 墙刷得**雪白雪白**的。 | Qiáng shuā de **xuěbái xuěbái** de. | Il muro è stato dipinto di un bianco candido.
+ex: 他这个人**糊里糊涂**的，总是忘带钥匙。 | Tā zhège rén **húlihútú** de, zǒngshì wàng dài yàoshi. | È un tipo confusionario, si dimentica sempre le chiavi.
+ex: 她**慌里慌张**地跑了出去。 | Tā **huānglihuāngzhāng** de pǎo le chūqu. | È corsa fuori tutta agitata.
+
+### Restrizioni
+
+- La forma reduplicata non accetta avverbi di grado né la negazione.
+
+no: 她的眼睛很大大的。 | Tā de yǎnjing hěn dàdà de. | Errato: la forma reduplicata non accetta avverbi di grado.
+ex: 她的眼睛**大大的**。 | Tā de yǎnjing **dàdà de**. | Ha gli occhi grandi grandi.
+ex: 她的眼睛**很大**。 | Tā de yǎnjing **hěn dà**. | Ha gli occhi molto grandi.
+no: 房间不干干净净。 | Fángjiān bù gāngān-jìngjìng. | Errato: la forma reduplicata non si nega.
+ex: 房间**不干净**。 | Fángjiān **bù gānjìng**. | La camera non è pulita.
+
+- È quasi sempre seguita da 的 (come predicato o attributo) o da 地 (come avverbiale) e non si usa nei confronti con 比.
+- Non tutti gli aggettivi si reduplicano: quelli astratti o formali (美丽, 伟大, 重要, 优秀) non lo fanno.
+- Un aggettivo usato come verbo si reduplica invece come un verbo, nella forma ABAB: 高兴高兴 «rallegrarsi un po', svagarsi», da non confondere con 高高兴兴 «tutto contento».
+
+ex: 带孩子们去公园玩玩，让他们**高兴高兴**。 | Dài háizimen qù gōngyuán wánwan, ràng tāmen **gāoxìng gāoxìng**. | Porta i bambini al parco a giocare un po', così si svagano.

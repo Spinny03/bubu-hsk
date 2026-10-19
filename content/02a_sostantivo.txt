@@ -1,0 +1,129 @@
+@ Nomi, pronomi, numeri e classificatori
+# Il sostantivo
+
+Il sostantivo (名词 míngcí) indica persone, animali, cose, luoghi, momenti e concetti astratti, esattamente come in italiano. La differenza fondamentale è che il sostantivo cinese è **invariabile**: non cambia mai forma, non ha genere né numero e non è preceduto da articoli. Tutte le informazioni che l'italiano affida a desinenze e articoli (maschile o femminile, singolare o plurale, determinato o indeterminato) in cinese si ricavano dal contesto, dall'ordine delle parole o da parole specifiche come i numerali, i classificatori e i dimostrativi.
+
+## Caratteristiche del sostantivo
+
+### Né genere, né numero, né articoli
+In italiano diciamo *il libro*, *un libro*, *i libri*, *dei libri*: quattro forme diverse. In cinese esiste una sola forma, 书 shū, che può corrispondere a tutte e quattro. Il contesto chiarisce di volta in volta il significato.
+
+| Cinese | Pinyin | Possibili traduzioni |
+| 书 | shū | il libro, un libro, i libri, dei libri |
+| 学生 | xuésheng | lo studente, una studentessa, gli studenti… |
+| 苹果 | píngguǒ | la mela, una mela, le mele, delle mele |
+| 老师 | lǎoshī | il maestro, la professoressa, gli insegnanti… |
+
+ex: **书**在桌子上。 | **Shū** zài zhuōzi shang. | Il libro è sul tavolo. (oppure: I libri sono sul tavolo.)
+ex: 我喜欢看**书**。 | Wǒ xǐhuan kàn **shū**. | Mi piace leggere. (lett. guardare libri)
+ex: 我买了三本**书**。 | Wǒ mǎi le sān běn **shū**. | Ho comprato tre libri.
+ex: 他是**学生**。 | Tā shì **xuésheng**. | È uno studente.
+ex: 他们都是**学生**。 | Tāmen dōu shì **xuésheng**. | Sono tutti studenti.
+
+Il **plurale** si deduce dal contesto oppure è espresso da numerali, classificatori e quantificatori come 很多 hěn duō «molti», 一些 yìxiē «alcuni», 这些 zhèxiē «questi»; per le persone si può usare il suffisso 们 (vedi la sezione seguente).
+
+ex: 桌子上有**很多**书。 | Zhuōzi shang yǒu **hěn duō** shū. | Sul tavolo ci sono molti libri.
+ex: **这些**苹果很甜。 | **Zhèxiē** píngguǒ hěn tián. | Queste mele sono molto dolci.
+ex: 我有**一些**中国朋友。 | Wǒ yǒu **yìxiē** Zhōngguó péngyou. | Ho alcuni amici cinesi.
+
+Il **genere** naturale, quando serve, si esprime con parole a parte: 男 nán «maschio» e 女 nǚ «femmina» per le persone, 公 gōng e 母 mǔ per gli animali.
+
+ex: 我们班有十个**男**学生，八个**女**学生。 | Wǒmen bān yǒu shí ge **nán** xuésheng, bā ge **nǚ** xuésheng. | Nella nostra classe ci sono dieci studenti e otto studentesse.
+ex: 她有**男**朋友吗？ | Tā yǒu **nán** péngyou ma? | Ha il ragazzo? (lett. amico maschio)
+ex: 院子里有一只**公**鸡和三只**母**鸡。 | Yuànzi li yǒu yì zhī **gōng**jī hé sān zhī **mǔ**jī. | Nel cortile ci sono un gallo e tre galline.
+
+Tra un numerale e il nome è obbligatorio un classificatore (量词 liàngcí): è uno degli errori più frequenti dei principianti (vedi il capitolo «I classificatori»).
+
+no: 我买了三书。 | Wǒ mǎi le sān shū. | Errato: tra numerale e nome manca il classificatore.
+ex: 我买了三**本**书。 | Wǒ mǎi le sān **běn** shū. | Ho comprato tre libri.
+
+### Come si esprime la determinatezza
+Senza articoli, la differenza tra *il libro* e *un libro* è affidata soprattutto alla **posizione** del nome nella frase e ad alcune parole che ne precisano il riferimento.
+
+= N a inizio frase (soggetto o tema) → di solito determinato
+= V + N → spesso indeterminato (informazione nuova)
+= 这 / 那 + CL + N → determinato («questo», «quel»)
+= 一 + CL + N → indeterminato («un», «una»)
+= 有 + (一 + CL) + N + V → introduce un referente nuovo («c'è un… che…»)
+
+- Un nome **all'inizio della frase**, come soggetto o tema (主题 zhǔtí), si riferisce normalmente a qualcosa di già noto a chi parla e a chi ascolta: si traduce con l'articolo determinativo.
+- Un nome **dopo il verbo** presenta spesso un'informazione nuova, e corrisponde allora all'articolo indeterminativo o al partitivo.
+- I dimostrativi 这 zhè e 那 nà rendono il nome determinato; spesso 那本书 nà běn shū equivale semplicemente a «il libro (di cui parliamo)».
+- 一 + classificatore corrisponde a «un, uno, una».
+- Un soggetto nuovo, non ancora noto, si introduce di regola con 有 yǒu (vedi il capitolo «Le frasi con 有 e le frasi esistenziali»).
+
+ex: **客人**来了。 | **Kèrén** lái le. | Sono arrivati gli ospiti. (ospiti attesi, già noti)
+ex: 来**客人**了。 | Lái **kèrén** le. | Sono arrivati degli ospiti. (ospiti inattesi, informazione nuova)
+ex: **那本书**很有意思。 | **Nà běn shū** hěn yǒu yìsi. | Quel libro (il libro) è molto interessante.
+ex: 我想买**一本书**。 | Wǒ xiǎng mǎi **yì běn shū**. | Voglio comprare un libro.
+ex: **有人**找你。 | **Yǒu rén** zhǎo nǐ. | C'è qualcuno che ti cerca.
+ex: **有一个**学生没来。 | **Yǒu yí ge** xuésheng méi lái. | Uno studente non è venuto. (lett. c'è uno studente che non è venuto)
+
+no: 一个学生没来。 | Yí ge xuésheng méi lái. | Poco naturale: un soggetto indeterminato a inizio frase si introduce con 有.
+ex: **有**一个学生没来。 | **Yǒu** yí ge xuésheng méi lái. | Uno studente non è venuto.
+
+! Non tradurre meccanicamente l'articolo indeterminativo italiano con 一个. Per indicare professione, nazionalità o identità si dice semplicemente 我是老师。 Wǒ shì lǎoshī. «Sono insegnante.»; 我是一个老师 è possibile, ma suona più descrittivo («sono un insegnante come tanti»).
+! Spesso il cinese non specifica affatto il numero o la determinatezza, perché l'informazione è irrilevante: 我去买菜。 Wǒ qù mǎi cài. «Vado a fare la spesa (lett. comprare verdure).»
+
+### Le funzioni del sostantivo
+Il sostantivo può essere **soggetto**, **oggetto** e **attributo** di un altro nome. Come attributo precede sempre il nome che modifica, con o senza 的 de (vedi il capitolo «Le particelle strutturali 的, 地, 得»). In alcuni casi (date, età, prezzi, provenienza) può essere anche **predicato** senza verbo (vedi il capitolo «La frase semplice e il verbo 是»).
+
+ex: **老师**来了。 | **Lǎoshī** lái le. | È arrivato l'insegnante. (soggetto)
+ex: 我想喝**咖啡**。 | Wǒ xiǎng hē **kāfēi**. | Vorrei bere un caffè. (oggetto)
+ex: 这是**中文**书。 | Zhè shì **Zhōngwén** shū. | Questo è un libro in cinese. (attributo senza 的)
+ex: 这是**老师**的书。 | Zhè shì **lǎoshī** de shū. | Questo è il libro dell'insegnante. (attributo con 的)
+ex: 今天**星期六**。 | Jīntiān **xīngqīliù**. | Oggi è sabato. (predicato nominale)
+
+Un sostantivo non può essere negato direttamente con 不 bù né modificato da avverbi di grado come 很 hěn: per negare un'identità si usa 不是 bú shì.
+
+no: 他不老师。 | Tā bù lǎoshī. | Errato: un nome non si nega con 不 da solo; serve 不是.
+ex: 他**不是**老师。 | Tā **bú shì** lǎoshī. | Non è un insegnante.
+
+## Il suffisso 们
+
+Il suffisso 们 men (sempre atono) forma il plurale dei **nomi di persona** e dei **pronomi personali** (我们, 你们, 他们: vedi il capitolo «I pronomi»). Si scrive attaccato al nome anche in pinyin: xuéshengmen, péngyoumen.
+
+= N (persona) + 们
+
+ex: 同学**们**，早上好！ | Tóngxué**men**, zǎoshang hǎo! | Buongiorno, ragazzi! (lett. compagni di classe)
+ex: 孩子**们**在外面玩儿。 | Háizi**men** zài wàimian wánr. | I bambini giocano fuori.
+ex: 老师**们**都很忙。 | Lǎoshī**men** dōu hěn máng. | Gli insegnanti sono tutti molto impegnati.
+ex: 女士**们**、先生**们**，欢迎大家！ | Nǚshì**men**, xiānsheng**men**, huānyíng dàjiā! | Signore e signori, benvenuti a tutti!
+ex: 朋友**们**都来了。 | Péngyou**men** dōu lái le. | Sono venuti tutti gli amici.
+
+### 们 è facoltativo
+A differenza delle desinenze italiane, 们 non è obbligatorio: si omette quando il plurale è chiaro dal contesto o non è importante. Quando è presente, indica di solito un **gruppo determinato** di persone (gli studenti di quella classe, i bambini di casa), per cui 学生们 xuéshengmen corrisponde a «gli studenti» e quasi mai a «degli studenti». È frequente soprattutto nei vocativi (同学们！, 朋友们！) e nella lingua scritta.
+
+ex: **学生**都来了。 | **Xuésheng** dōu lái le. | Gli studenti sono venuti tutti.
+ex: 他有很多中国**朋友**。 | Tā yǒu hěn duō Zhōngguó **péngyou**. | Ha molti amici cinesi.
+ex: **孩子们**，吃饭了！ | **Háizimen**, chī fàn le! | Bambini, a tavola!
+
+### Quando 们 non si usa
+- Mai con un numerale + classificatore: 三个学生 sān ge xuésheng, non 三个学生们.
+- Mai con quantificatori che indicano già il plurale, come 很多, 一些, 几个, 好几个, 许多.
+- Mai con nomi di cose; con gli animali solo nelle fiabe o in tono scherzoso (小鸟们 xiǎoniǎomen «gli uccellini»).
+- Con 这些 / 那些 si trova talvolta (这些孩子们), ma è ridondante: è meglio 这些孩子.
+
+no: 我们班有二十个学生们。 | Wǒmen bān yǒu èrshí ge xuéshengmen. | Errato: con un numerale non si usa 们.
+ex: 我们班有二十个**学生**。 | Wǒmen bān yǒu èrshí ge **xuésheng**. | Nella nostra classe ci sono venti studenti.
+no: 很多老师们都同意。 | Hěn duō lǎoshīmen dōu tóngyì. | Errato: dopo 很多 non si usa 们.
+ex: 很多**老师**都同意。 | Hěn duō **lǎoshī** dōu tóngyì. | Molti insegnanti sono d'accordo.
+no: 桌子上有很多书们。 | Zhuōzi shang yǒu hěn duō shūmen. | Errato: 们 non si usa con i nomi di cose.
+ex: 桌子上有很多**书**。 | Zhuōzi shang yǒu hěn duō **shū**. | Sul tavolo ci sono molti libri.
+
+! Per dire «Xiao Wang e gli altri», «Xiao Wang e compagnia» non si usa 小王们, ma il nome seguito dal pronome: 小王他们 Xiǎo Wáng tāmen.
+
+ex: **小王他们**明天来。 | **Xiǎo Wáng tāmen** míngtiān lái. | Xiao Wang e gli altri vengono domani.
+ex: 我和**李老师他们**一起去。 | Wǒ hé **Lǐ lǎoshī tāmen** yìqǐ qù. | Vado insieme al professor Li e agli altri.
+
+### 人们
+人们 rénmen significa «la gente, le persone in generale». Si usa come soggetto generico, soprattutto in frasi che esprimono abitudini, opinioni diffuse o verità generali; non indica un gruppo specifico e non si combina con numerali o quantificatori.
+
+ex: **人们**都说杭州很美。 | **Rénmen** dōu shuō Hángzhōu hěn měi. | Tutti dicono che Hangzhou è bellissima.
+ex: 春节的时候，**人们**都回家过年。 | Chūnjié de shíhou, **rénmen** dōu huí jiā guò nián. | Per la Festa di Primavera la gente torna a casa a festeggiare il Capodanno.
+ex: 现在**人们**都用手机付钱。 | Xiànzài **rénmen** dōu yòng shǒujī fù qián. | Oggi la gente paga tutto con il cellulare.
+
+no: 门口有很多人们。 | Ménkǒu yǒu hěn duō rénmen. | Errato: dopo 很多 si usa 人, non 人们.
+ex: 门口有很多**人**。 | Ménkǒu yǒu hěn duō **rén**. | Davanti alla porta c'è molta gente.
+
+! Per un gruppo concreto di persone presenti si usa 这些人 zhèxiē rén «queste persone» o 大家 dàjiā «tutti» (vedi il capitolo «I pronomi»), non 人们.

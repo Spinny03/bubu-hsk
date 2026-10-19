@@ -1,0 +1,140 @@
+## Errori frequenti nei comparativi
+
+Raccogliamo qui gli errori più tipici degli italiani nelle frasi comparative. Molti nascono dalla traduzione parola per parola di «più», «molto più», «non… come».
+
+### Avverbi di grado nella frase con 比
+
+no: 他比我很高。 | Tā bǐ wǒ hěn gāo. | Errato: dopo 比 l'aggettivo non prende 很.
+ex: 他比我高得多。 | Tā bǐ wǒ gāo de duō. | È molto più alto di me.
+no: 这家店比那家非常便宜。 | Zhè jiā diàn bǐ nà jiā fēicháng piányi. | Errato: 非常 non si usa nella frase con 比.
+ex: 这家店比那家便宜多了。 | Zhè jiā diàn bǐ nà jiā piányi duō le. | Questo negozio è molto più economico di quello.
+
+### 不比 al posto di 没有
+
+no: 我的汉语不比你好。 | Wǒ de Hànyǔ bù bǐ nǐ hǎo. | Errato per il senso voluto: significa «non è migliore del tuo», non «è peggiore del tuo».
+ex: 我的汉语没有你好。 | Wǒ de Hànyǔ méiyǒu nǐ hǎo. | Il mio cinese non è buono come il tuo.
+no: 我比他不高。 | Wǒ bǐ tā bù gāo. | Errato: la negazione non va dopo 比.
+ex: 我没有他高。 | Wǒ méiyǒu tā gāo. | Non sono alto quanto lui.
+
+### La posizione della quantità
+
+no: 他比我三岁大。 | Tā bǐ wǒ sān suì dà. | Errato: la differenza va dopo l'aggettivo.
+ex: 他比我大三岁。 | Tā bǐ wǒ dà sān suì. | Ha tre anni più di me.
+no: 我比他一点儿高。 | Wǒ bǐ tā yìdiǎnr gāo. | Errato: 一点儿 segue l'aggettivo.
+ex: 我比他高一点儿。 | Wǒ bǐ tā gāo yìdiǎnr. | Sono un po' più alto di lui.
+no: 他比我来十分钟早。 | Tā bǐ wǒ lái shí fēnzhōng zǎo. | Errato: 早 precede il verbo e la quantità lo segue.
+ex: 他比我早来十分钟。 | Tā bǐ wǒ zǎo lái shí fēnzhōng. | È arrivato dieci minuti prima di me.
+
+### 比 confuso con 一样 e con 比较
+
+no: 他比我一样高。 | Tā bǐ wǒ yíyàng gāo. | Errato: l'uguaglianza si esprime con 跟/和……一样, non con 比.
+ex: 他跟我一样高。 | Tā gēn wǒ yíyàng gāo. | È alto come me.
+no: 这个比较那个好。 | Zhège bǐjiào nàge hǎo. | Errato: 比较 è un avverbio («piuttosto») e non introduce il secondo termine.
+ex: 这个比那个好。 | Zhège bǐ nàge hǎo. | Questo è migliore di quello.
+ex: 这个比较好。 | Zhège bǐjiào hǎo. | Questo è piuttosto buono. / Questo è un po' meglio.
+
+### 一样 e la negazione
+
+Per dire «non è alto come me» molti scrivono 他跟我不一样高. La frase è corretta, ma dice solo che le due altezze sono diverse, senza indicare chi è più alto. Per dire che lui è più basso si usa 没有. Il 不 davanti a 跟, invece, è un vero errore.
+
+no: 他不跟我一样高。 | Tā bù gēn wǒ yíyàng gāo. | Errato: 不 va davanti a 一样.
+ex: 他跟我不一样高。 | Tā gēn wǒ bù yíyàng gāo. | Lui e io non abbiamo la stessa altezza.
+ex: 他没有我高。 | Tā méiyǒu wǒ gāo. | Non è alto quanto me. (= è più basso)
+
+### Riepilogo
+
+| Costruzione | Ammessi | Non ammessi |
+| A 比 B + Agg | 更/还 + Agg; Agg + 一点儿, 多了, Num + CL | 很, 非常, 太, 真 |
+| A 没有 B + Agg | 这么/那么 + Agg | 更, 还, quantità |
+| A 跟 B 一样 + Agg | 完全, 几乎 + 一样 | 很 + 一样 + Agg |
+| 越来越 + Agg/V | 不 + Agg/V; 了 finale | 很, 非常 |
+| 最 + Agg/V | 最……的 + N; ……之一 | 很 + 最 |
+
+# La costruzione con 把
+
+La costruzione con 把 (把字句 bǎzìjù) è una delle strutture più caratteristiche del cinese. 把 bǎ, che in origine era un verbo con il significato di «afferrare, prendere», funziona oggi come una preposizione che porta l'oggetto *davanti* al verbo. Si può immaginarne il senso così: «prendo X e ci faccio qualcosa», cioè 我把苹果吃了 «prendo la mela e la mangio».
+
+## Struttura e significato
+
+Nella frase con 把 l'oggetto, introdotto da 把, si colloca tra il soggetto e il verbo; dopo il verbo deve seguire almeno un altro elemento (un complemento, 了, un secondo oggetto …). Il significato di base è quello di «disposizione» (处置 chǔzhì): la frase dice che cosa il soggetto fa a un oggetto specifico e con quale risultato, cioè come l'oggetto viene spostato, modificato, eliminato o trattato.
+
+= S + 把 + O + V + altri elementi
+
+ex: 我**把**苹果吃了。 | Wǒ **bǎ** píngguǒ chī le. | Ho mangiato la mela. (lett. io prendere mela mangiare-PERF)
+ex: 他**把**门关上了。 | Tā **bǎ** mén guānshang le. | Ha chiuso la porta.
+ex: 请**把**窗户打开。 | Qǐng **bǎ** chuānghu dǎkāi. | Per favore, apri la finestra.
+ex: 妈妈**把**衣服洗干净了。 | Māma **bǎ** yīfu xǐ gānjìng le. | La mamma ha lavato bene i vestiti. (lett. … lavare-pulito)
+ex: 我**把**作业做完了。 | Wǒ **bǎ** zuòyè zuòwán le. | Ho finito i compiti.
+ex: 小王**把**我的自行车骑走了。 | Xiǎo Wáng **bǎ** wǒ de zìxíngchē qízǒu le. | Xiao Wang si è portato via la mia bicicletta.
+
+### SVO e 把: che differenza c'è?
+
+In cinese l'informazione nuova tende a stare alla fine della frase. Nella frase SVO l'oggetto, posto alla fine, è spesso un'informazione nuova; nella frase con 把 l'oggetto è già noto, e alla fine, in posizione di rilievo, si trova il verbo con il suo risultato.
+
+ex: 我吃了一个苹果。 | Wǒ chī le yí ge píngguǒ. | Ho mangiato una mela.
+ex: A：苹果呢？B：我**把**它吃了。 | A: Píngguǒ ne? B: Wǒ **bǎ** tā chī le. | A: E la mela? B: L'ho mangiata.
+
+| Aspetto | 我吃了一个苹果。 | 我把苹果吃了。 |
+| Oggetto | nuovo, spesso indeterminato | noto, determinato |
+| Fuoco | l'azione compiuta | che fine ha fatto l'oggetto |
+| Domanda implicita | Che cosa hai fatto? | Che ne è stato della mela? |
+
+! Non tutte le frasi con oggetto possono avere il 把, e alcune lo richiedono obbligatoriamente: le condizioni sono descritte nelle sezioni seguenti. Il 把 è molto frequente nelle istruzioni e negli ordini (请把……, 把……), perché chi parla chiede di intervenire su un oggetto preciso.
+
+## Le condizioni d'uso
+
+### L'oggetto è determinato o noto
+
+L'oggetto di 把 è di norma determinato: è già stato menzionato, è identificabile dalla situazione oppure è accompagnato da un dimostrativo o da un possessivo. Un oggetto nuovo e indeterminato (一个 + N, 一些 + N) si esprime invece con la frase SVO.
+
+ex: 我**把**那本书买了。 | Wǒ **bǎ** nà běn shū mǎi le. | Quel libro l'ho comprato.
+ex: 你**把**我的雨伞放在哪儿了？ | Nǐ **bǎ** wǒ de yǔsǎn fàng zài nǎr le? | Dove hai messo il mio ombrello?
+no: 我把一杯咖啡喝了。 | Wǒ bǎ yì bēi kāfēi hē le. | Errato se si vuole dire semplicemente «ho bevuto un caffè»: l'oggetto è nuovo.
+ex: 我喝了一杯咖啡。 | Wǒ hē le yì bēi kāfēi. | Ho bevuto un caffè.
+ex: 我**把**那杯咖啡喝了。 | Wǒ **bǎ** nà bēi kāfēi hē le. | Quel caffè l'ho bevuto io.
+
+### Il verbo deve agire sull'oggetto
+
+Il verbo deve essere transitivo ed esprimere un'azione che ha un effetto concreto sull'oggetto. Non si usano con 把 i verbi che indicano esistenza, relazione, conoscenza, opinione, sentimento o percezione, né i verbi di movimento intransitivi.
+
+| Tipo di verbo | Esempi (non ammessi con 把) |
+| essere, avere, esistere | 是, 有, 在, 像, 属于 |
+| conoscenza e opinione | 知道, 认识, 懂, 觉得, 同意 |
+| sentimento | 喜欢, 爱, 怕, 希望 |
+| movimento intransitivo | 来, 去, 回, 到 |
+| percezione | 看见, 听见, 感到 |
+
+no: 我把他认识了。 | Wǒ bǎ tā rènshi le. | Errato: 认识 non esprime un'azione che modifica l'oggetto.
+ex: 我认识他。 | Wǒ rènshi tā. | Lo conosco.
+no: 我把这件事知道了。 | Wǒ bǎ zhè jiàn shì zhīdao le. | Errato: 知道 non si usa con 把.
+ex: 我知道这件事了。 | Wǒ zhīdao zhè jiàn shì le. | Ora sono al corrente di questa faccenda.
+no: 他把那部电影很喜欢。 | Tā bǎ nà bù diànyǐng hěn xǐhuan. | Errato: 喜欢 non si usa con 把.
+ex: 他很喜欢那部电影。 | Tā hěn xǐhuan nà bù diànyǐng. | Quel film gli piace molto.
+no: 我把老师看见了。 | Wǒ bǎ lǎoshī kànjiàn le. | Errato: i verbi di percezione non si usano con 把.
+ex: 我看见老师了。 | Wǒ kànjiàn lǎoshī le. | Ho visto l'insegnante.
+no: 我把北京去了。 | Wǒ bǎ Běijīng qù le. | Errato: 去 non è un verbo transitivo di «disposizione».
+ex: 我去北京了。 | Wǒ qù Běijīng le. | Sono andato a Pechino.
+no: 大家把他的意见同意了。 | Dàjiā bǎ tā de yìjiàn tóngyì le. | Errato: 同意 non si usa con 把.
+ex: 大家同意他的意见。 | Dàjiā tóngyì tā de yìjiàn. | Tutti sono d'accordo con la sua opinione.
+
+! Per esprimere con 把 il raggiungimento di una conoscenza si usano verbi d'azione come 弄 o 搞 con un complemento di risultato: 我终于把这个问题弄懂了 «finalmente sono riuscito a capire questo problema».
+
+### Il verbo non può stare da solo
+
+Dopo il verbo deve esserci almeno un altro elemento che indichi il risultato o l'esito dell'azione: un complemento, 了, un secondo oggetto, il raddoppiamento del verbo, 一下 ecc. (vedi la sezione «Gli elementi dopo il verbo»). Un verbo monosillabico da solo dopo 把 + O è sempre errato.
+
+no: 我把书看。 | Wǒ bǎ shū kàn. | Errato: il verbo non può restare da solo.
+ex: 我把书看完了。 | Wǒ bǎ shū kànwán le. | Ho finito di leggere il libro.
+no: 你把衣服洗。 | Nǐ bǎ yīfu xǐ. | Errato: manca un elemento dopo il verbo.
+ex: 你把衣服洗洗。 | Nǐ bǎ yīfu xǐxi. | Dai una lavata ai vestiti.
+no: 他把窗户开。 | Tā bǎ chuānghu kāi. | Errato: manca il risultato dell'azione.
+ex: 他把窗户打开了。 | Tā bǎ chuānghu dǎkāi le. | Ha aperto la finestra.
+
+! Nello scritto formale si trovano talvolta verbi bisillabi senza altri elementi, preceduti da un verbo modale o da un avverbio: 我们一定要把这个问题彻底解决 «dobbiamo assolutamente risolvere questo problema alla radice». Nel parlato è meglio aggiungere sempre un complemento (解决好, 解决了).
+
+### Il soggetto
+
+Il soggetto della frase con 把 è di solito l'agente, ma l'azione non deve necessariamente essere intenzionale: il 把 si usa anche per eventi spiacevoli e involontari, in cui il soggetto «subisce» le conseguenze di ciò che ha fatto. Il soggetto può anche essere una causa (vedi «Altri usi»).
+
+ex: 我**把**钥匙丢了。 | Wǒ **bǎ** yàoshi diū le. | Ho perso le chiavi.
+ex: 他不小心**把**咖啡洒在电脑上了。 | Tā bù xiǎoxīn **bǎ** kāfēi sǎ zài diànnǎo shang le. | Per sbaglio ha rovesciato il caffè sul computer.

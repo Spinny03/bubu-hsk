@@ -1,0 +1,139 @@
+# La costruzione 是……的
+
+La costruzione 是……的 shì……de ha due usi distinti. Il primo, il più importante, è aspettuale: si usa quando un'azione passata è già nota a chi parla e a chi ascolta, e si vuole mettere in rilievo una sua circostanza (quando, dove, come, perché, chi, da dove). Il secondo è di valutazione: esprime la convinzione o il giudizio del parlante e non è legato al passato.
+
+## Funzione
+
+Nella costruzione aspettuale non si comunica *che* l'azione è avvenuta (questo è già noto o si dà per scontato), ma si mette a fuoco *un dettaglio* dell'azione. 是 si colloca subito prima dell'elemento messo in rilievo, 的 dopo il verbo. In italiano corrisponde spesso a una frase scissa («è stato ieri che…») o a un semplice passato prossimo con l'accento sulla circostanza.
+
+= S + 是 + elemento in rilievo + V + 的
+
+### Il tempo
+
+ex: A：你**是**什么时候来**的**？B：我**是**昨天来**的**。 | A: Nǐ **shì** shénme shíhou lái **de**? B: Wǒ **shì** zuótiān lái **de**. | A: Quando sei arrivato? B: Sono arrivato ieri.
+ex: 他**是**去年毕业**的**。 | Tā **shì** qùnián bìyè **de**. | Si è laureato l'anno scorso.
+
+### Il luogo
+
+ex: A：你们**是**在哪儿认识**的**？B：我们**是**在大学认识**的**。 | A: Nǐmen **shì** zài nǎr rènshi **de**? B: Wǒmen **shì** zài dàxué rènshi **de**. | A: Dove vi siete conosciuti? B: Ci siamo conosciuti all'università.
+
+### Il modo e il mezzo
+
+ex: A：你**是**怎么来**的**？B：我**是**打车来**的**。 | A: Nǐ **shì** zěnme lái **de**? B: Wǒ **shì** dǎchē lái **de**. | A: Come sei venuto? B: Sono venuto in taxi.
+ex: 他**是**坐火车去**的**。 | Tā **shì** zuò huǒchē qù **de**. | Ci è andato in treno.
+ex: 这个菜**是**用什么做**的**？ | Zhège cài **shì** yòng shénme zuò **de**? | Con che cosa è fatto questo piatto?
+
+### Lo scopo
+
+ex: 我**是**来旅游**的**，不**是**来工作**的**。 | Wǒ **shì** lái lǚyóu **de**, bú **shì** lái gōngzuò **de**. | Sono venuto per turismo, non per lavoro.
+
+### L'agente
+
+Quando si mette in rilievo chi ha compiuto l'azione, 是 si colloca davanti al soggetto.
+
+ex: 这幅画**是**谁画**的**？ | Zhè fú huà **shì** shéi huà **de**? | Chi ha dipinto questo quadro?
+ex: **是**我女儿画**的**。 | **Shì** wǒ nǚ'ér huà **de**. | L'ha dipinto mia figlia.
+ex: **是**谁告诉你**的**？ | **Shì** shéi gàosu nǐ **de**? | Chi te l'ha detto?
+
+### La provenienza
+
+ex: 我**是**从意大利来**的**。 | Wǒ **shì** cóng Yìdàlì lái **de**. | Vengo dall'Italia.
+ex: 这封信**是**从上海寄来**的**。 | Zhè fēng xìn **shì** cóng Shànghǎi jìlai **de**. | Questa lettera è stata spedita da Shanghai.
+
+## Struttura e posizione dell'oggetto
+
+### L'oggetto nominale: prima o dopo 的
+
+Se il verbo ha un oggetto nominale, 的 può collocarsi dopo l'oggetto oppure tra il verbo e l'oggetto. Le due forme hanno lo stesso significato; la seconda è molto frequente nel parlato, soprattutto nel nord.
+
+= S + 是 + elemento in rilievo + V + O + 的
+= S + 是 + elemento in rilievo + V + 的 + O
+
+ex: 我**是**在北京学汉语**的**。 | Wǒ **shì** zài Běijīng xué Hànyǔ **de**. | Il cinese l'ho studiato a Pechino.
+ex: 我**是**在北京学**的**汉语。 | Wǒ **shì** zài Běijīng xué **de** Hànyǔ. | Il cinese l'ho studiato a Pechino.
+ex: 你**是**在哪儿买**的**这本书？ | Nǐ **shì** zài nǎr mǎi **de** zhè běn shū? | Dove l'hai comprato questo libro?
+ex: 他们**是**哪一年结**的**婚？ | Tāmen **shì** nǎ yì nián jié **de** hūn? | In che anno si sono sposati?
+
+Come mostra l'ultimo esempio, con i verbi separabili 的 si inserisce tra le due parti del verbo (结的婚, 见的面, 照的相).
+
+### L'oggetto pronominale: sempre prima di 的
+
+Se l'oggetto è un pronome personale, 的 va in fondo alla frase.
+
+no: 我是在路上碰到的他。 | Wǒ shì zài lù shang pèngdào de tā. | Errato: con un pronome oggetto 的 va in fondo.
+ex: 我**是**在路上碰到他**的**。 | Wǒ **shì** zài lù shang pèngdào tā **de**. | L'ho incontrato per strada.
+ex: 我**是**在网上认识她**的**。 | Wǒ **shì** zài wǎng shang rènshi tā **de**. | L'ho conosciuta su internet.
+
+### L'omissione di 是
+
+Nelle frasi affermative 是 si omette spesso, soprattutto nel parlato; 的 invece non può mancare.
+
+ex: 我昨天来**的**。 | Wǒ zuótiān lái **de**. | Sono arrivato ieri.
+ex: 他坐飞机去**的**。 | Tā zuò fēijī qù **de**. | Ci è andato in aereo.
+ex: 谁告诉你**的**？ | Shéi gàosu nǐ **de**? | Chi te l'ha detto?
+
+### La negazione: 不是……的
+
+Nella frase negativa 是 non si può omettere: la negazione è 不是……的. Spesso si aggiunge subito la correzione con 是……的.
+
+no: 我不坐飞机来的。 | Wǒ bú zuò fēijī lái de. | Errato: nella negazione 是 è obbligatorio.
+ex: 我**不是**坐飞机来**的**，**是**坐火车来**的**。 | Wǒ **bú shì** zuò fēijī lái **de**, **shì** zuò huǒchē lái **de**. | Non sono venuto in aereo, sono venuto in treno.
+ex: 这件事**不是**我说**的**。 | Zhè jiàn shì **bú shì** wǒ shuō **de**. | Non sono stato io a dirlo.
+ex: 我们**不是**在中国认识**的**。 | Wǒmen **bú shì** zài Zhōngguó rènshi **de**. | Non ci siamo conosciuti in Cina.
+
+### Le domande
+
+ex: 你**是**一个人来**的吗**？ | Nǐ **shì** yí ge rén lái **de ma**? | Sei venuto da solo?
+ex: 你**是不是**坐地铁来**的**？ | Nǐ **shì bu shì** zuò dìtiě lái **de**? | Sei venuto in metropolitana?
+ex: 你们**是**什么时候到**的**？ | Nǐmen **shì** shénme shíhou dào **de**? | Quando siete arrivati?
+ex: A：这件衣服是在哪儿买的？B：**是**在网上买**的**。 | A: Zhè jiàn yīfu shì zài nǎr mǎi de? B: **Shì** zài wǎng shang mǎi **de**. | A: Dove l'hai comprato questo vestito? B: L'ho comprato online.
+
+Nelle risposte brevi si dice 是的 «sì» oppure 不是, seguito dalla correzione.
+
+## 是……的 e 了 a confronto
+
+了 e 是……的 hanno funzioni complementari. Con 了 si comunica un fatto nuovo: l'azione è avvenuta. Con 是……的, una volta stabilito che l'azione è avvenuta, si chiedono o si danno i dettagli. In una conversazione si passa spesso dall'uno all'altro.
+
+ex: A：他去北京**了**吗？B：去**了**。A：他**是**怎么去**的**？B：**是**坐火车去**的**。 | A: Tā qù Běijīng **le** ma? B: Qù **le**. A: Tā **shì** zěnme qù **de**? B: **Shì** zuò huǒchē qù **de**. | A: È andato a Pechino? B: Sì. A: Come ci è andato? B: In treno.
+ex: A：我买**了**一件新大衣。B：**是**在哪儿买**的**？A：**是**在商场买**的**。 | A: Wǒ mǎi **le** yí jiàn xīn dàyī. B: **Shì** zài nǎr mǎi **de**? A: **Shì** zài shāngchǎng mǎi **de**. | A: Ho comprato un cappotto nuovo. B: Dove l'hai comprato? A: Al centro commerciale.
+
+| Caratteristica | 了 | 是……的 |
+| Che cosa comunica | che l'azione è avvenuta | una circostanza dell'azione |
+| L'azione è già nota? | no, è l'informazione nuova | sì, si dà per scontata |
+| Esempio | 他去北京了。 | 他是坐火车去的。 |
+
+All'interno di 是……的 non si usa 了.
+
+no: 我是昨天来了的。 | Wǒ shì zuótiān lái le de. | Errato: dentro 是……的 non si usa 了.
+no: 我是昨天来了。 | Wǒ shì zuótiān lái le. | Errato: manca 的 e 了 è superfluo.
+ex: 我**是**昨天来**的**。 | Wǒ **shì** zuótiān lái **de**. | Sono arrivato ieri.
+
+Il 是……的 aspettuale si riferisce solo ad azioni già avvenute. Per mettere in rilievo una circostanza di un'azione futura si usa soltanto 是, senza 的.
+
+no: 我是明天走的。 | Wǒ shì míngtiān zǒu de. | Errato: il 是……的 aspettuale riguarda solo azioni avvenute.
+ex: 我**是**明天走，不是今天。 | Wǒ **shì** míngtiān zǒu, bú shì jīntiān. | Parto domani, non oggi.
+
+! Errore tipico: rispondere a «quando sei arrivato?» con 我昨天来了. La domanda dà già per scontato l'arrivo e chiede solo il momento: la risposta naturale è 我是昨天来的.
+
+## Il 是……的 di valutazione
+
+In un secondo uso, 是 + predicato + 的 esprime la convinzione, il giudizio o la spiegazione del parlante. Non si riferisce al passato e non mette in rilievo una circostanza: rafforza tutta l'affermazione, con un tono di certezza («è proprio così», «di sicuro»). Si trova spesso con 会, 能, 可以, 应该 e con aggettivi di giudizio.
+
+= S + 是 + predicato + 的
+
+ex: 这**是**不可能**的**。 | Zhè **shì** bù kěnéng **de**. | Questo è impossibile.
+ex: 他会来**的**。 | Tā huì lái **de**. | Verrà, puoi starne certo.
+ex: 我**是**不会同意**的**。 | Wǒ **shì** bú huì tóngyì **de**. | Io non sarò mai d'accordo.
+ex: 学好一门外语**是**不容易**的**。 | Xuéhǎo yì mén wàiyǔ **shì** bù róngyì **de**. | Imparare bene una lingua straniera non è facile.
+ex: 你的想法**是**对**的**。 | Nǐ de xiǎngfǎ **shì** duì **de**. | La tua idea è giusta.
+ex: 这种事**是**常有**的**。 | Zhè zhǒng shì **shì** cháng yǒu **de**. | Sono cose che capitano spesso.
+
+Anche qui 是 si può omettere, soprattutto con 会……的 (他会来的). Eliminando 是 e 的 la frase resta corretta ma perde il tono di convinzione: 这不可能 «non è possibile» è più neutro di 这是不可能的.
+
+| Caratteristica | 是……的 aspettuale | 是……的 di valutazione |
+| Riferimento temporale | solo azioni già avvenute | qualsiasi |
+| Funzione | rilievo di una circostanza | certezza, giudizio, spiegazione |
+| Posizione di 是 | prima della circostanza | prima del predicato |
+| Esempio | 我是坐火车来的。 | 他是不会来的。 |
+
+! Non confondete queste costruzioni con 是 + espressione nominale con 的, dove 的 sostituisce un nome: 这本书是我的。«Questo libro è mio.»; 这张桌子是木头的。«Questo tavolo è di legno.» (vedi il capitolo «Le particelle strutturali 的, 地, 得»).

@@ -1,0 +1,131 @@
+# Il passivo
+
+Il passivo (被动句 bèidòngjù) è molto meno frequente in cinese che in italiano. Esistono due tipi principali di frasi passive: quelle con un marcatore esplicito (被 e, nel parlato, 叫, 让, 给), che hanno spesso una sfumatura negativa, e quelle senza marcatore, in cui il soggetto è semplicemente l'oggetto che subisce l'azione (饭做好了 «il pranzo è pronto»). Queste ultime sono di gran lunga le più comuni per gli eventi neutri.
+
+## Il passivo con 被
+
+Nella frase con 被 bèi il soggetto è il paziente, cioè chi o che cosa subisce l'azione; l'agente, se espresso, segue 被. Come nella frase con 把, il verbo non può stare da solo e deve essere seguito da un complemento, da 了, da 过 o da un'espressione di quantità; il soggetto è di norma determinato.
+
+= S (paziente) + 被 + (agente) + V + altri elementi
+
+ex: 我的自行车**被**（人）偷了。 | Wǒ de zìxíngchē **bèi** (rén) tōu le. | Mi hanno rubato la bicicletta. (lett. la mia bicicletta PASS (qualcuno) rubare-PERF)
+ex: 他**被**老师批评了一顿。 | Tā **bèi** lǎoshī pīpíng le yí dùn. | È stato rimproverato dall'insegnante.
+ex: 杯子**被**弟弟打破了。 | Bēizi **bèi** dìdi dǎpò le. | Il bicchiere l'ha rotto il mio fratellino.
+ex: 那本书**被**借走了。 | Nà běn shū **bèi** jièzǒu le. | Quel libro è stato preso in prestito.
+ex: 他**被**车撞伤了。 | Tā **bèi** chē zhuàngshāng le. | È stato investito da un'auto ed è rimasto ferito.
+ex: 我的蛋糕**被**谁吃了？ | Wǒ de dàngāo **bèi** shéi chī le? | Chi si è mangiato la mia torta?
+
+Tra 被, 叫 e 让, solo con 被 l'agente può essere omesso, quando è sconosciuto, ovvio o non importante. Al suo posto si usa spesso il generico 人 «qualcuno».
+
+ex: 他的手机**被**偷了。 | Tā de shǒujī **bèi** tōu le. | Gli hanno rubato il cellulare.
+ex: 会议**被**取消了。 | Huìyì **bèi** qǔxiāo le. | La riunione è stata annullata.
+ex: 门**被**风吹开了。 | Mén **bèi** fēng chuīkāi le. | La porta è stata spalancata dal vento.
+
+Talvolta il soggetto è la persona colpita e l'oggetto che le appartiene resta dopo il verbo.
+
+ex: 他**被**小偷偷走了钱包。 | Tā **bèi** xiǎotōu tōuzǒu le qiánbāo. | Un ladro gli ha rubato il portafoglio.
+
+### Il verbo non sta da solo
+
+no: 我的钱包被偷。 | Wǒ de qiánbāo bèi tōu. | Errato: il verbo monosillabico non può restare da solo.
+ex: 我的钱包被偷了。 | Wǒ de qiánbāo bèi tōu le. | Mi hanno rubato il portafoglio.
+no: 窗户被他打。 | Chuānghu bèi tā dǎ. | Errato: manca il risultato dell'azione.
+ex: 窗户被他打破了。 | Chuānghu bèi tā dǎpò le. | La finestra l'ha rotta lui.
+
+! Con molti verbi bisillabi, soprattutto nello scritto o con avverbi di frequenza, il verbo può stare da solo: 他经常被老师批评 «viene spesso rimproverato dall'insegnante», 这个词被广泛使用 «questa parola è largamente usata».
+
+### Sfumatura negativa e usi neutri
+
+Tradizionalmente il 被 si usa per eventi spiacevoli per il soggetto: essere derubati, picchiati, sgridati, imbrogliati, licenziati. Nella lingua moderna, anche per influsso delle lingue europee, è frequente pure con eventi neutri o positivi, soprattutto nello scritto e con verbi come 选为, 评为, 录取, 称为, 认为.
+
+ex: 他**被**选为班长。 | Tā **bèi** xuǎn wéi bānzhǎng. | È stato eletto capoclasse.
+ex: 她**被**北京大学录取了。 | Tā **bèi** Běijīng Dàxué lùqǔ le. | È stata ammessa all'Università di Pechino.
+ex: 这本书**被**翻译成了二十多种语言。 | Zhè běn shū **bèi** fānyì chéng le èrshí duō zhǒng yǔyán. | Questo libro è stato tradotto in più di venti lingue.
+ex: 长城**被**认为是世界七大奇迹之一。 | Chángchéng **bèi** rènwéi shì shìjiè qī dà qíjì zhī yī. | La Grande Muraglia è considerata una delle sette meraviglie del mondo.
+
+### 被 e 把
+
+Le due costruzioni sono simmetriche: con 把 il soggetto è l'agente e il paziente precede il verbo; con 被 il soggetto è il paziente e l'agente segue 被. In entrambe il verbo deve avere altri elementi e la negazione precede il marcatore. Le due costruzioni possono anche combinarsi nel parlato: 他被人把钱包偷走了 «gli hanno rubato il portafoglio».
+
+| Costruzione | Struttura | Esempio |
+| attiva con 把 | agente + 把 + paziente + V | 弟弟把杯子打破了。 |
+| passiva con 被 | paziente + 被 + agente + V | 杯子被弟弟打破了。 |
+
+## 叫, 让, 给 nel parlato
+
+Nella lingua parlata, al posto di 被, si usano spesso 叫 jiào e 让 ràng. Con questi due marcatori l'agente è obbligatorio (si usa 人 se è indeterminato).
+
+= S (paziente) + 叫/让 + agente + V + altri elementi
+
+ex: 我的自行车**叫**人偷了。 | Wǒ de zìxíngchē **jiào** rén tōu le. | Mi hanno rubato la bicicletta.
+ex: 鱼**让**猫吃了。 | Yú **ràng** māo chī le. | Il pesce se l'è mangiato il gatto.
+ex: 他**叫**老板骂了一顿。 | Tā **jiào** lǎobǎn mà le yí dùn. | Si è preso una strigliata dal capo.
+ex: 衣服**让**雨淋湿了。 | Yīfu **ràng** yǔ línshī le. | I vestiti si sono inzuppati di pioggia.
+no: 我的自行车叫偷了。 | Wǒ de zìxíngchē jiào tōu le. | Errato: dopo 叫 e 让 l'agente è obbligatorio.
+ex: 我的自行车叫人偷了。 | Wǒ de zìxíngchē jiào rén tōu le. | Mi hanno rubato la bicicletta.
+
+! 叫 e 让 sono anche verbi causativi («far fare, lasciar fare»): una frase come 我的日记让他看了 può significare «il mio diario l'ha letto lui» (passivo) oppure «il mio diario, gliel'ho lasciato leggere» (causativo). Il contesto chiarisce il senso; in caso di dubbio si usa 被 (vedi il capitolo «Le frasi causative e le frasi a perno»).
+
+Anche 给 gěi ha valore passivo nel parlato. Può introdurre l'agente come 被, oppure precedere direttamente il verbo senza agente. Spesso si combina con 被, 叫 o 让 per rafforzare il senso passivo: in questo caso 给 si mette subito prima del verbo.
+
+= S (paziente) + 给 + agente + V + altri elementi
+= S (paziente) + 给 + V + altri elementi
+= S (paziente) + 被/叫/让 + agente + 给 + V + altri elementi
+
+ex: 杯子**给**他打破了。 | Bēizi **gěi** tā dǎpò le. | Il bicchiere l'ha rotto lui.
+ex: 杯子**给**打破了。 | Bēizi **gěi** dǎpò le. | Il bicchiere si è rotto. (lett. il bicchiere è stato rotto)
+ex: 我的电脑**叫**弟弟**给**弄坏了。 | Wǒ de diànnǎo **jiào** dìdi **gěi** nònghuài le. | Il computer me l'ha rotto mio fratello minore.
+ex: 他**被**人**给**骗了。 | Tā **bèi** rén **gěi** piàn le. | L'hanno imbrogliato.
+ex: 衣服**让**风**给**吹走了。 | Yīfu **ràng** fēng **gěi** chuīzǒu le. | I vestiti sono volati via col vento.
+
+! Lo stesso 给 davanti al verbo si trova anche nelle frasi con 把 nel parlato: 我把钥匙给丢了 «ho perso le chiavi».
+
+| Marcatore | Agente | Registro |
+| 被 | facoltativo | neutro, parlato e scritto |
+| 叫 | obbligatorio | parlato |
+| 让 | obbligatorio | parlato |
+| 给 + agente | obbligatorio | parlato, soprattutto al nord |
+| 给 + V | assente | parlato |
+| 为……所 | obbligatorio | scritto formale |
+
+## Negazione, avverbi e verbi modali
+
+La negazione, i verbi modali e la maggior parte degli avverbi precedono 被 (o 叫, 让), non il verbo. Nella frase negativa con 没(有) scompare il 了 (vedi il capitolo «La negazione»).
+
+= S + 没(有)/不/别 + 被 + (agente) + V (+ altri elementi)
+= S + verbo modale / Avv + 被 + (agente) + V + altri elementi
+
+ex: 他**没**被老师批评。 | Tā **méi** bèi lǎoshī pīpíng. | Non è stato rimproverato dall'insegnante.
+ex: 我的建议**没有**被接受。 | Wǒ de jiànyì **méiyǒu** bèi jiēshòu. | La mia proposta non è stata accettata.
+ex: 你**会**被骂的。 | Nǐ **huì** bèi mà de. | Ti sgrideranno, vedrai.
+ex: 小心**别**被人骗了。 | Xiǎoxīn **bié** bèi rén piàn le. | Attento a non farti imbrogliare.
+ex: 这个问题**已经**被解决了。 | Zhège wèntí **yǐjīng** bèi jiějué le. | Questo problema è già stato risolto.
+ex: 他**又**被老板骂了。 | Tā **yòu** bèi lǎobǎn mà le. | Si è fatto sgridare di nuovo dal capo.
+ex: 我们**可能**被骗了。 | Wǒmen **kěnéng** bèi piàn le. | Forse ci hanno imbrogliati.
+no: 他被老师没批评。 | Tā bèi lǎoshī méi pīpíng. | Errato: la negazione va prima di 被.
+ex: 他没被老师批评。 | Tā méi bèi lǎoshī pīpíng. | Non è stato rimproverato dall'insegnante.
+no: 他没被老师批评了。 | Tā méi bèi lǎoshī pīpíng le. | Errato: con 没 non si usa 了.
+ex: 他没被老师批评。 | Tā méi bèi lǎoshī pīpíng. | Non è stato rimproverato dall'insegnante.
+
+### 被……过
+
+Per indicare un'esperienza passata si usa 过 dopo il verbo (vedi il capitolo «La particella 过»).
+
+ex: 他**被**骗**过**。 | Tā **bèi** piàn **guo**. | È già stato imbrogliato in passato.
+ex: 你**被**狗咬**过**吗？ | Nǐ **bèi** gǒu yǎo **guo** ma? | Ti ha mai morso un cane?
+ex: 我从来没**被**人这样批评**过**。 | Wǒ cónglái méi **bèi** rén zhèyàng pīpíng **guo**. | Nessuno mi ha mai criticato così.
+
+### Niente complemento potenziale
+
+La frase con 被 descrive un evento che il soggetto ha subito; non ammette quindi il complemento potenziale (vedi il capitolo «Il complemento potenziale»). Per esprimere la possibilità si usa la frase attiva, spesso con l'oggetto come tema.
+
+no: 这本书被他看得懂。 | Zhè běn shū bèi tā kàn de dǒng. | Errato: il complemento potenziale non si usa con 被.
+ex: 这本书他看得懂。 | Zhè běn shū tā kàn de dǒng. | Questo libro lui riesce a capirlo.
+no: 这个问题被我们解决不了。 | Zhège wèntí bèi wǒmen jiějué bu liǎo. | Errato: niente complemento potenziale con 被.
+ex: 这个问题我们解决不了。 | Zhège wèntí wǒmen jiějué bu liǎo. | Questo problema non riusciamo a risolverlo.
+
+### Le domande
+
+ex: 你的手机**是不是**被偷了？ | Nǐ de shǒujī **shì bu shì** bèi tōu le? | Ti hanno rubato il cellulare?
+ex: 他**有没有**被老师批评？ | Tā **yǒu méiyǒu** bèi lǎoshī pīpíng? | È stato rimproverato dall'insegnante o no?
+ex: 窗户是被**谁**打破的？ | Chuānghu shì bèi **shéi** dǎpò de? | Chi ha rotto la finestra? (lett. la finestra è stata rotta da chi?)

@@ -1,0 +1,228 @@
+## Le frasi esclamative: caratteristiche generali
+
+Le frasi esclamative esprimono un'emozione intensa di chi parla: sorpresa, ammirazione, entusiasmo, delusione, rammarico, rabbia. In cinese si costruiscono soprattutto con un avverbio di grado molto forte davanti all'aggettivo (o al verbo psicologico) e con una particella modale alla fine (了, 啊 e varianti). L'italiano usa invece spesso «che…!», «come…!», «quanto…!».
+
+| Struttura | Esempio | Valore |
+| 太 + Agg + 了 | 太好了！ | troppo, davvero tanto |
+| 真 + Agg | 真漂亮！ | proprio, davvero |
+| 多(么) + Agg + 啊 | 多美啊！ | quanto…!, com'è…! |
+| 好 + Agg + 啊 | 好冷啊！ | che…!, (parlato) |
+| 可 + Agg + 了 | 可好玩了！ | eccome, (parlato) |
+| Agg + 极了/死了/透了 | 累死了！ | estremamente |
+
+## 太……了
+
+太 tài + Agg + 了 è la struttura esclamativa più comune. Ha due valori: un giudizio positivo entusiasta («che bello!», «fantastico!») oppure un eccesso («troppo»), secondo il contesto e l'aggettivo.
+
+= 太 + Agg/V psicologico + 了
+
+ex: **太**好**了**！ | **Tài** hǎo **le**! | Fantastico!
+ex: 你的中文**太**棒**了**！ | Nǐ de Zhōngwén **tài** bàng **le**! | Il tuo cinese è eccezionale!
+ex: **太**感谢你**了**！ | **Tài** gǎnxiè nǐ **le**! | Grazie infinite!
+ex: 这儿的东西**太**贵**了**。 | Zhèr de dōngxi **tài** guì **le**. | Qui la roba costa troppo.
+ex: 我**太**喜欢这首歌**了**！ | Wǒ **tài** xǐhuan zhè shǒu gē **le**! | Adoro questa canzone!
+ex: 今天**太**热**了**，我们别出去了。 | Jīntiān **tài** rè **le**, wǒmen bié chūqu le. | Oggi fa troppo caldo, non usciamo.
+
+La forma negativa 不太 + Agg «non molto» non è un'esclamazione ma un'attenuazione, e non richiede 了 (vedi il capitolo «Gli avverbi»):
+
+ex: 这个菜**不太**辣。 | Zhège cài **bú tài** là. | Questo piatto non è molto piccante.
+
+! Nel senso di eccesso, l'italiano «troppo» si rende con 太……了 solo in un giudizio esclamativo. Per un eccesso oggettivo e misurabile si preferisce Agg + 了 + quantità: 大了一号 «una taglia di troppo» (vedi il capitolo «Le frasi comparative»).
+
+## 真 + Agg
+
+真 zhēn «davvero, proprio» davanti a un aggettivo dà una valutazione esclamativa sincera. Non richiede 了, ma ammette 啊 alla fine. 真 si usa nelle esclamazioni e nei predicati principali, non negli attributi.
+
+= 真 + Agg (+ 啊)
+
+ex: 这里的风景**真**美！ | Zhèli de fēngjǐng **zhēn** měi! | Che bel paesaggio qui!
+ex: 你**真**聪明！ | Nǐ **zhēn** cōngming! | Come sei intelligente!
+ex: 今天**真**冷啊！ | Jīntiān **zhēn** lěng a! | Che freddo oggi!
+ex: 时间过得**真**快！ | Shíjiān guò de **zhēn** kuài! | Come passa in fretta il tempo!
+ex: **真**没想到！ | **Zhēn** méi xiǎngdào! | Chi l'avrebbe mai detto!
+
+no: 她是一个真漂亮的姑娘。 | Tā shì yí ge zhēn piàoliang de gūniang. | Errato: 真 esclamativo non si usa negli attributi.
+ex: 她是一个**非常**漂亮的姑娘。 | Tā shì yí ge **fēicháng** piàoliang de gūniang. | È una ragazza molto bella.
+ex: 这个姑娘**真**漂亮！ | Zhège gūniang **zhēn** piàoliang! | Com'è bella questa ragazza!
+
+## 多(么)……啊
+
+多 duō o 多么 duōme davanti all'aggettivo corrispondono a «quanto…!», «come…!». La frase termina normalmente con 啊 (o le sue varianti 呀, 哪). 多么 è più enfatico e frequente nello scritto e nei discorsi; 多 è più colloquiale.
+
+= 多(么) + Agg + 啊
+
+ex: 这儿的空气**多**好**啊**！ | Zhèr de kōngqì **duō** hǎo **a**! | Com'è buona l'aria qui!
+ex: 这孩子**多**可爱**呀**！ | Zhè háizi **duō** kě'ài **ya**! | Com'è carino questo bambino!
+ex: 这是**多么**美丽的城市**啊**！ | Zhè shì **duōme** měilì de chéngshì **a**! | Che città splendida!
+ex: 能和家人在一起，**多么**幸福**啊**！ | Néng hé jiārén zài yìqǐ, **duōme** xìngfú **a**! | Che felicità poter stare con la famiglia!
+ex: 你知道我**多**想你**啊**！ | Nǐ zhīdao wǒ **duō** xiǎng nǐ **a**! | Sapessi quanto mi manchi!
+
+! Non confondere 多 esclamativo con 多 interrogativo «quanto?» (你多大？ «quanti anni hai?», 有多远？ «quanto è lontano?»): l'intonazione e il contesto, oltre a 啊, distinguono l'esclamazione dalla domanda (vedi il capitolo «Le frasi interrogative»).
+
+## 好 + Agg + 啊
+
+Nel parlato 好 hǎo davanti a un aggettivo o a un verbo psicologico vale «così, tanto, molto»: 好 + Agg + 啊 è un'esclamazione spontanea e vivace, frequentissima soprattutto fra i giovani.
+
+= 好 + Agg + 啊
+
+ex: **好**冷**啊**！ | **Hǎo** lěng **a**! | Che freddo!
+ex: 这件衣服**好**漂亮**啊**！ | Zhè jiàn yīfu **hǎo** piàoliang **a**! | Che bello questo vestito!
+ex: **好**久不见！ | **Hǎo** jiǔ bú jiàn! | Quanto tempo che non ci si vede!
+ex: 我**好**想你**啊**！ | Wǒ **hǎo** xiǎng nǐ **a**! | Mi manchi tanto!
+ex: **好**多人**啊**！ | **Hǎo** duō rén **a**! | Quanta gente!
+
+! Con 好 + 多/少/几/久 si forma una quantità grande: 好多书 «un sacco di libri», 好几天 «parecchi giorni», 好久 «tanto tempo». Non confondere 好 + Agg con 好 + V «facile da…, buono da…» (好吃, 好看, 好听).
+
+## 可……了
+
+可 kě, nel parlato, rafforza il predicato con tono convinto e un po' enfatico: «eccome», «davvero tanto». Nelle esclamazioni si combina con 了 alla fine.
+
+= 可 + Agg/V psicologico + 了
+
+ex: 这个电影**可**好看**了**！ | Zhège diànyǐng **kě** hǎokàn **le**! | Questo film è bellissimo, davvero!
+ex: 她**可**喜欢小动物**了**。 | Tā **kě** xǐhuan xiǎo dòngwù **le**. | Adora gli animali, eccome.
+ex: 昨天**可**把我累坏**了**！ | Zuótiān **kě** bǎ wǒ lèi huài **le**! | Ieri ero distrutto, davvero!
+ex: 你**可**来**了**！ | Nǐ **kě** lái **le**! | Finalmente sei arrivato!
+
+! Con verbi di azione 可……了 esprime sollievo dopo una lunga attesa («finalmente!»): 你可来了！ Nelle frasi imperative, 可 + 要/别 rafforza la raccomandazione: 你可要小心啊！ «stai proprio attento!», 你可别忘了！ «guarda di non dimenticarlo!».
+
+## ……极了, ……死了, ……透了: promemoria
+
+Il grado estremo si può esprimere anche dopo l'aggettivo, con un complemento di grado (vedi il capitolo «Il complemento di grado»):
+
+- Agg + 极了 jí le «estremamente», neutro e positivo o negativo: 好极了 «benissimo»;
+- Agg + 死了 sǐ le «da morire», colloquiale, spesso negativo: 累死了 «sono stanco morto»;
+- Agg + 透了 tòu le «completamente», quasi sempre negativo: 糟透了 «è un disastro»;
+- Agg + 坏了 huài le, Agg + 得不得了 de bùdéliǎo, Agg + 得要命 de yàomìng: «da matti».
+
+ex: 这个主意好**极了**！ | Zhège zhǔyi hǎo **jí le**! | È un'idea ottima!
+ex: 饿**死了**！ | È **sǐ le**! | Muoio di fame!
+ex: 今天的天气糟**透了**。 | Jīntiān de tiānqì zāo **tòu le**. | Oggi il tempo è pessimo.
+ex: 听到这个消息，她高兴**得不得了**。 | Tīngdào zhège xiāoxi, tā gāoxìng **de bùdéliǎo**. | A sentire la notizia era felicissima.
+
+## Esclamazioni retoriche con 哪里, 什么, 怎么
+
+Alcune parole interrogative usate in frasi esclamative non chiedono nulla, ma negano, protestano o minimizzano (domande retoriche; vedi il capitolo «Le frasi interrogative»).
+
+### 哪里 / 哪儿
+
+哪里 nǎli (哪儿 nǎr) risponde con modestia a un complimento, oppure nega con forza: «ma dove!, macché!».
+
+ex: A：你的汉语说得真好！B：**哪里哪里**！ | A: Nǐ de Hànyǔ shuō de zhēn hǎo! B: **Nǎli nǎli**! | A: Parli benissimo il cinese! B: Ma no, macché!
+ex: 我**哪儿**有那么多钱！ | Wǒ **nǎr** yǒu nàme duō qián! | E dove li prendo tutti quei soldi!
+ex: 他**哪里**知道这些事！ | Tā **nǎli** zhīdao zhèxiē shì! | Figurati se sa queste cose!
+
+### 什么
+
+什么 shénme dopo un verbo o un aggettivo, o da solo, esprime sorpresa, disaccordo o rimprovero.
+
+ex: **什么**？他走了？ | **Shénme**? Tā zǒu le? | Cosa? Se n'è andato?
+ex: 哭**什么**！ | Kū **shénme**! | Che piangi a fare!
+ex: 贵**什么**，一点儿也不贵！ | Guì **shénme**, yìdiǎnr yě bú guì! | Ma che caro, non è affatto caro!
+ex: **什么**好朋友！他根本不帮我。 | **Shénme** hǎo péngyou! Tā gēnběn bù bāng wǒ. | Ma quale buon amico! Non mi aiuta per niente.
+
+### 怎么
+
+怎么 zěnme esprime stupore o disappunto: «come mai…!, ma come…!».
+
+ex: 你**怎么**又迟到了！ | Nǐ **zěnme** yòu chídào le! | Ma come, sei di nuovo in ritardo!
+ex: **怎么**这么贵啊！ | **Zěnme** zhème guì a! | Ma come fa a costare così tanto!
+
+## Le interiezioni
+
+Le interiezioni (叹词 tàncí) sono parole autonome che esprimono direttamente un'emozione o una reazione; stanno di solito all'inizio della frase, separate da una virgola o da un punto esclamativo. Il loro tono varia con il significato: lo stesso carattere può avere toni diversi.
+
+| Interiezione | Pinyin | Valore |
+| 哎呀 | āiyā | sorpresa, dispiacere, fastidio |
+| 哇 | wa / wā | meraviglia, ammirazione |
+| 天哪 | tiān na | sgomento, incredulità |
+| 唉 | āi / ài | sospiro, rassegnazione |
+| 嗯 | ńg / ňg / ǹg | domanda, sorpresa, assenso |
+| 哦 | ó / ò | dubbio; comprensione |
+| 啊 | á / à | domanda di ripetizione; scoperta |
+| 喂 | wéi / wèi | pronto (telefono); ehi |
+
+### 哎呀
+
+ex: **哎呀**，我忘带钥匙了！ | **Āiyā**, wǒ wàng dài yàoshi le! | Accidenti, ho dimenticato le chiavi!
+ex: **哎呀**，你怎么来了？ | **Āiyā**, nǐ zěnme lái le? | Oh, ma che sorpresa! Come mai sei qui?
+ex: **哎呀**，别吵了！ | **Āiyā**, bié chǎo le! | Uffa, smettetela di litigare!
+
+### 哇 e 天哪
+
+ex: **哇**，好漂亮啊！ | **Wā**, hǎo piàoliang a! | Wow, che bello!
+ex: **哇**，你做了这么多菜！ | **Wā**, nǐ zuò le zhème duō cài! | Wow, quanti piatti hai preparato!
+ex: **天哪**，这么晚了！ | **Tiān na**, zhème wǎn le! | Oddio, è già così tardi!
+ex: **我的天哪**！你怎么受伤了？ | **Wǒ de tiān na**! Nǐ zěnme shòu shāng le? | Santo cielo! Come ti sei ferito?
+
+### 唉
+
+唉 āi esprime un sospiro di stanchezza, rassegnazione o tristezza; con il quarto tono (ài) è un rammarico.
+
+ex: **唉**，又下雨了。 | **Āi**, yòu xià yǔ le. | Uff, piove di nuovo.
+ex: **唉**，真没办法。 | **Āi**, zhēn méi bànfǎ. | Eh, non c'è proprio niente da fare.
+
+### 嗯
+
+嗯 cambia valore con il tono: ńg (secondo tono) chiede di ripetere o esprime dubbio; ňg (terzo tono) esprime sorpresa o disaccordo; ǹg (quarto tono) significa «sì, va bene». Nel pinyin corrente si trova spesso semplificato in ng o en.
+
+ex: **嗯**？你说什么？ | **Ńg**? Nǐ shuō shénme? | Eh? Cosa hai detto?
+ex: **嗯**，我知道了。 | **Ǹg**, wǒ zhīdao le. | Sì, ho capito.
+ex: **嗯**？怎么还没来？ | **Ňg**? Zěnme hái méi lái? | Ma come? Non è ancora arrivato?
+
+### 哦
+
+哦 con il secondo tono (ó) esprime dubbio o leggera sorpresa («davvero?»); con il quarto tono (ò) indica che si è capito («ah, ecco»). Come particella finale, invece, è atono (vedi il capitolo «Le particelle modali»).
+
+ex: **哦**？真的吗？ | **Ó**? Zhēn de ma? | Ah sì? Davvero?
+ex: **哦**，原来是这样！ | **Ò**, yuánlái shì zhèyàng! | Ah, ecco com'era!
+ex: **哦**，我想起来了。 | **Ò**, wǒ xiǎng qilai le. | Ah, mi è venuto in mente.
+
+### 啊 e 喂
+
+ex: **啊**？你再说一遍。 | **Á**? Nǐ zài shuō yí biàn. | Come? Ripeti, per favore.
+ex: **啊**，下雪了！ | **À**, xià xuě le! | Oh, nevica!
+ex: **喂**，你好！是王老师吗？ | **Wéi**, nǐ hǎo! Shì Wáng lǎoshī ma? | Pronto, buongiorno! Parlo con il professor Wang?
+ex: **喂**，你的东西掉了！ | **Wèi**, nǐ de dōngxi diào le! | Ehi, ti è caduta una cosa!
+
+! Le interiezioni hanno spesso varianti grafiche e di tono (哎, 唉, 诶 ei per richiamare l'attenzione; 哈哈 hāhā per la risata; 哼 hng per il disprezzo). Più che memorizzarne i toni, conviene imitare l'intonazione dei parlanti nativi.
+
+## Errori tipici degli italiani
+
+### Ordini senza attenuazione
+
+L'imperativo nudo, che in italiano è normale («Siediti», «Passami il sale»), in cinese suona spesso freddo o autoritario. Conviene aggiungere 请, 吧, 一下 o trasformare l'ordine in domanda.
+
+no: 给我盐。 | Gěi wǒ yán. | Poco naturale: suona brusco e quasi sgarbato.
+ex: 把盐**递给我一下**，**好吗**？ | Bǎ yán **dì gěi wǒ yíxià**, **hǎo ma**? | Mi passi il sale, per favore?
+
+### 请 come «per favore» alla fine
+
+no: 帮我一下，请。 | Bāng wǒ yíxià, qǐng. | Errato: 请 non si mette alla fine come il «please» inglese.
+ex: **请**帮我一下。 | **Qǐng** bāng wǒ yíxià. | Mi aiuti un momento, per favore.
+
+### Esclamazioni con 很 o con 是
+
+很 è spesso un semplice legame fra soggetto e aggettivo e non basta a fare un'esclamazione; inoltre davanti all'aggettivo non si usa 是.
+
+no: 这个城市是太美了！ | Zhège chéngshì shì tài měi le! | Errato: davanti all'aggettivo non serve 是.
+ex: 这个城市**太**美**了**！ | Zhège chéngshì **tài** měi **le**! | Che bella questa città!
+ex: 这个城市**真**美！ | Zhège chéngshì **zhēn** měi! | Com'è bella questa città!
+
+### Calco di «che» e «come» esclamativi
+
+no: 什么漂亮的花！ | Shénme piàoliang de huā! | Errato: «che…!» esclamativo non si traduce con 什么.
+ex: **多**漂亮的花**啊**！ | **Duō** piàoliang de huā **a**! | Che bei fiori!
+no: 怎么漂亮！ | Zěnme piàoliang! | Errato: «com'è…!» non si rende con 怎么.
+ex: **多**漂亮**啊**！ | **Duō** piàoliang **a**! | Com'è bello!
+
+### Dimenticare 了 con 太
+
+no: 太好！ | Tài hǎo! | Incompleto: nel senso esclamativo 太 vuole 了 alla fine.
+ex: **太**好**了**！ | **Tài** hǎo **le**! | Fantastico!
+
+### Avverbio di grado e complemento di grado insieme
+
+no: 我很累死了。 | Wǒ hěn lèi sǐ le. | Errato: 死了 indica già il grado estremo e non si combina con 很.
+ex: 我累**死了**。 | Wǒ lèi **sǐ le**. | Sono stanco morto.
+

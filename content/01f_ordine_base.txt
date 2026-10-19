@@ -1,0 +1,193 @@
+# L'ordine delle parole
+
+In una lingua senza desinenze l'ordine delle parole (语序 yǔxù) è il principale strumento grammaticale: indica chi compie l'azione, che cosa la subisce, quali elementi modificano quali altri. L'ordine cinese è molto più rigido di quello italiano e segue pochi principi generali, che questo capitolo presenta uno per uno.
+
+## L'ordine di base soggetto – verbo – oggetto
+
+Come in italiano, l'ordine di base è soggetto – verbo – oggetto.
+
+= S + V + O
+
+ex: 我喝茶。 | Wǒ hē chá. | Bevo tè.
+ex: 玛丽亚学习汉语。 | Mǎlìyà xuéxí Hànyǔ. | Maria studia cinese.
+ex: 小王喜欢踢足球。 | Xiǎo Wáng xǐhuan tī zúqiú. | A Xiao Wang piace giocare a calcio.
+ex: 李老师教我们语法。 | Lǐ lǎoshī jiāo wǒmen yǔfǎ. | Il professor Li ci insegna la grammatica.
+
+A differenza dell'italiano, però, l'oggetto segue il verbo anche quando è un pronome: non esiste nulla di simile ai pronomi atoni italiani che precedono il verbo («ti amo», «lo vedo»).
+no: 我你爱。 | Wǒ nǐ ài. | Errato: l'oggetto va dopo il verbo, anche se è un pronome.
+ex: 我**爱你**。 | Wǒ **ài nǐ**. | Ti amo.
+no: 我他认识。 | Wǒ tā rènshi. | Errato: calco di «lo conosco».
+ex: 我**认识他**。 | Wǒ **rènshi tā**. | Lo conosco.
+
+Inoltre il soggetto precede sempre il verbo: le inversioni dell'italiano, come «Ha telefonato Marco» o «Lo dice anche il professore», non sono possibili.
+no: 喜欢音乐马可。 | Xǐhuan yīnyuè Mǎkě. | Errato: il soggetto non può seguire il verbo.
+ex: **马可**喜欢音乐。 | **Mǎkě** xǐhuan yīnyuè. | A Marco piace la musica.
+
+! Alcuni verbi che indicano comparsa, scomparsa o esistenza possono avere dopo di sé un nome che indica qualcosa di nuovo e indeterminato: 来客人了 «sono arrivati degli ospiti». Non si tratta di un'inversione libera, ma di una costruzione particolare (vedi il capitolo «Le frasi con 有 e le frasi esistenziali»).
+
+### Le domande non cambiano l'ordine
+
+Anche nelle domande l'ordine resta quello della frase affermativa. Le parole interrogative (什么 «che cosa», 谁 «chi», 哪儿 «dove»…) occupano lo stesso posto della parola che le sostituisce nella risposta, mentre in italiano vanno all'inizio della frase.
+ex: 你喝**什么**？ | Nǐ hē **shénme**? | Che cosa bevi?
+ex: 我喝**茶**。 | Wǒ hē **chá**. | Bevo tè.
+ex: **谁**喝咖啡？ | **Shéi** hē kāfēi? | Chi beve caffè?
+ex: 你去**哪儿**？ | Nǐ qù **nǎr**? | Dove vai?
+no: 什么你喝？ | Shénme nǐ hē? | Errato: la parola interrogativa non si sposta all'inizio come in italiano.
+ex: 你喝什么？ | Nǐ hē shénme? | Che cosa bevi?
+
+Vedi il capitolo «Le frasi interrogative».
+
+### Due oggetti
+
+Alcuni verbi come 给 «dare», 送 «regalare», 教 «insegnare», 问 «chiedere», 告诉 «dire, informare» reggono due oggetti: prima la persona, poi la cosa. In italiano la persona è introdotta dalla preposizione «a»; in cinese non c'è preposizione.
+
+= S + V + O (persona) + O (cosa)
+
+ex: 我**给你**一本书。 | Wǒ **gěi nǐ** yì běn shū. | Ti do un libro.
+ex: 他**送**女朋友一束花。 | Tā **sòng** nǚpéngyou yí shù huā. | Regala un mazzo di fiori alla sua ragazza.
+ex: 王老师**教**我们汉语。 | Wáng lǎoshī **jiāo** wǒmen Hànyǔ. | Il professor Wang ci insegna il cinese.
+ex: 我想**问**你一个问题。 | Wǒ xiǎng **wèn** nǐ yí ge wèntí. | Vorrei farti una domanda.
+ex: 请你**告诉**我你的电话号码。 | Qǐng nǐ **gàosu** wǒ nǐ de diànhuà hàomǎ. | Dimmi il tuo numero di telefono, per favore.
+
+### Oggetti verbali e frasi oggettive
+
+L'oggetto può essere anche un verbo con i suoi complementi o un'intera frase, che si mette dopo il verbo principale senza alcuna congiunzione: in cinese non c'è un equivalente di «che» o «di».
+ex: 我喜欢**看电影**。 | Wǒ xǐhuan **kàn diànyǐng**. | Mi piace guardare film.
+ex: 我知道**他是谁**。 | Wǒ zhīdao **tā shì shéi**. | So chi è.
+ex: 我觉得**这个办法很好**。 | Wǒ juéde **zhège bànfǎ hěn hǎo**. | Penso che questo metodo sia buono.
+
+### Le varianti dell'ordine di base
+
+L'ordine S + V + O può cambiare in alcune costruzioni, ciascuna con una funzione precisa:
+- l'oggetto noto si può spostare all'inizio della frase come tema: 这本书我看过 «questo libro l'ho letto» (vedi più avanti «Tema e commento»);
+- con la preposizione 把 l'oggetto si mette prima del verbo: 我把书放在桌子上了 (vedi «La costruzione con 把»);
+- nel passivo con 被 il paziente diventa soggetto: 我的自行车被偷了 «mi hanno rubato la bicicletta» (vedi «Il passivo»).
+
+## Tempo e luogo
+
+Le espressioni di tempo che indicano **quando** avviene l'azione e le espressioni di luogo che indicano **dove** avviene si mettono prima del verbo. L'ordine normale è: prima il tempo, poi il luogo, poi il verbo.
+
+= S + Tempo + Luogo + V + O
+= Tempo + S + Luogo + V + O
+
+ex: 我**明天**去北京。 | Wǒ **míngtiān** qù Běijīng. | Domani vado a Pechino.
+ex: **明天**我去北京。 | **Míngtiān** wǒ qù Běijīng. | Domani vado a Pechino.
+ex: 我**每天早上七点**起床。 | Wǒ **měi tiān zǎoshang qī diǎn** qǐchuáng. | Mi alzo ogni mattina alle sette.
+ex: 他**下午在图书馆**看书。 | Tā **xiàwǔ zài túshūguǎn** kàn shū. | Il pomeriggio legge in biblioteca.
+ex: 我们**晚上在饭馆**吃饭。 | Wǒmen **wǎnshang zài fànguǎn** chī fàn. | La sera mangiamo al ristorante.
+ex: 我妹妹**现在在上海**工作。 | Wǒ mèimei **xiànzài zài Shànghǎi** gōngzuò. | Mia sorella adesso lavora a Shanghai.
+
+### Il tempo
+
+L'espressione di tempo può stare subito dopo il soggetto o prima del soggetto, all'inizio della frase. Messa all'inizio, fa da cornice a tutta la frase e riceve un certo rilievo, soprattutto quando è lunga o quando si contrappone a un altro tempo. Non può invece stare in fondo alla frase, come succede spesso in italiano («Vado a Pechino domani»).
+no: 我去北京明天。 | Wǒ qù Běijīng míngtiān. | Errato: l'espressione di tempo non va in fondo alla frase.
+ex: 我明天去北京。 | Wǒ míngtiān qù Běijīng. | Vado a Pechino domani.
+no: 我们吃饭晚上七点。 | Wǒmen chī fàn wǎnshang qī diǎn. | Errato: l'ora va prima del verbo.
+ex: 我们晚上七点吃饭。 | Wǒmen wǎnshang qī diǎn chī fàn. | Ceniamo alle sette di sera.
+ex: **上个月**我们去了西安，**这个月**去杭州。 | **Shàng ge yuè** wǒmen qù le Xī'ān, **zhège yuè** qù Hángzhōu. | Il mese scorso siamo andati a Xi'an, questo mese andiamo a Hangzhou.
+
+! Le espressioni di **durata** (per quanto tempo) e di **frequenza** (quante volte) non indicano il momento dell'azione: si mettono dopo il verbo, come complementi. Si confronti: 我每天学习两个小时 «studio due ore al giorno», dove 每天 «ogni giorno» precede il verbo e 两个小时 «due ore» lo segue. Vedi il capitolo «I complementi di quantità».
+
+ex: 我**每天**学习**两个小时**。 | Wǒ **měi tiān** xuéxí **liǎng ge xiǎoshí**. | Studio due ore al giorno.
+
+### Dal generale al particolare
+
+Quando un'espressione di tempo o di luogo è composta da più elementi, il cinese procede sempre dall'unità più grande alla più piccola, mentre l'italiano spesso fa il contrario.
+
+= anno + mese + giorno + parte del giorno + ora
+= paese + città + distretto + via + numero
+
+ex: 2026年10月18日上午九点 | èr líng èr liù nián shí yuè shíbā rì shàngwǔ jiǔ diǎn | alle nove del mattino del 18 ottobre 2026
+ex: 星期六下午三点 | xīngqīliù xiàwǔ sān diǎn | sabato alle tre del pomeriggio
+ex: 中国北京市海淀区 | Zhōngguó Běijīng Shì Hǎidiàn Qū | distretto di Haidian, Pechino, Cina
+ex: 意大利罗马 | Yìdàlì Luómǎ | Roma, Italia
+
+Lo stesso principio vale per i nomi di persona, in cui il cognome precede il nome (王明 Wáng Míng: Wang è il cognome), e per i titoli, che seguono il cognome come una specificazione (李老师 Lǐ lǎoshī «il professor Li», 王先生 Wáng xiānsheng «il signor Wang»). Vedi anche «Le espressioni di tempo».
+
+### Il luogo
+
+Il luogo in cui si svolge l'azione è introdotto di solito dalla preposizione 在 zài e si mette prima del verbo. Spostarlo dopo il verbo, come in italiano («Lavoro in banca»), è uno degli errori più frequenti dei principianti.
+
+= S + 在 + Luogo + V + O
+
+no: 我看书在图书馆。 | Wǒ kàn shū zài túshūguǎn. | Errato: il luogo con 在 va prima del verbo.
+ex: 我**在图书馆**看书。 | Wǒ **zài túshūguǎn** kàn shū. | Leggo in biblioteca.
+no: 我工作在银行。 | Wǒ gōngzuò zài yínháng. | Errato: calco di «lavoro in banca».
+ex: 我**在银行**工作。 | Wǒ **zài yínháng** gōngzuò. | Lavoro in banca.
+no: 他在家昨天休息了。 | Tā zài jiā zuótiān xiūxi le. | Innaturale: di norma il tempo precede il luogo.
+ex: 他**昨天在家**休息了。 | Tā **zuótiān zài jiā** xiūxi le. | Ieri si è riposato a casa.
+
+Con i verbi di movimento come 去 «andare», 来 «venire», 到 «arrivare», 回 «tornare» la destinazione è l'oggetto diretto del verbo e non vuole 在:
+no: 我去在北京。 | Wǒ qù zài Běijīng. | Errato: 去 regge direttamente il luogo.
+ex: 我**去北京**。 | Wǒ **qù Běijīng**. | Vado a Pechino.
+ex: 他明天**回家**。 | Tā míngtiān **huí jiā**. | Domani torna a casa.
+
+! Con alcuni verbi, come 住 «abitare», 放 «mettere», 坐 «sedersi», 写 «scrivere», l'espressione 在 + Luogo può seguire il verbo: in questo caso non indica dove si svolge l'azione, ma il punto in cui qualcuno o qualcosa arriva o si trova come risultato dell'azione (我住在北京 «abito a Pechino», 把书放在桌子上 «metti il libro sul tavolo»). Vedi il capitolo «Le preposizioni».
+
+## Il modificatore precede il modificato
+
+Il principio più generale dell'ordine cinese è che l'elemento che modifica (修饰语 xiūshìyǔ) precede sempre l'elemento modificato (中心语 zhōngxīnyǔ). Valgono quindi due regole speculari:
+- gli attributi (定语 dìngyǔ) precedono il nome;
+- gli avverbiali (状语 zhuàngyǔ) precedono il verbo o l'aggettivo.
+
+L'italiano, invece, mette dopo il nome la maggior parte degli aggettivi, tutti i complementi di specificazione e le frasi relative, e dopo il verbo molti complementi di luogo, di modo e di compagnia.
+
+### Gli attributi davanti al nome
+
+ex: **新**衣服 | **xīn** yīfu | vestiti nuovi
+ex: **中国**朋友 | **Zhōngguó** péngyou | amici cinesi
+ex: **我的**手机 | **wǒ de** shǒujī | il mio cellulare
+ex: **妈妈的**生日 | **māma de** shēngrì | il compleanno della mamma
+ex: **很漂亮的**房子 | **hěn piàoliang de** fángzi | una casa molto bella
+ex: **中文**老师 | **Zhōngwén** lǎoshī | insegnante di cinese
+
+no: 我买了一本书很有意思。 | Wǒ mǎi le yì běn shū hěn yǒu yìsi. | Errato per «ho comprato un libro molto interessante»: l'attributo va davanti al nome.
+ex: 我买了一本**很有意思的**书。 | Wǒ mǎi le yì běn **hěn yǒu yìsi de** shū. | Ho comprato un libro molto interessante.
+
+### Le frasi relative
+
+Il cinese non ha pronomi relativi come «che», «il quale», «dove». La frase relativa si mette prima del nome ed è seguita dalla particella 的 de.
+
+= frase relativa + 的 + N
+
+ex: **我昨天买的**书 | **wǒ zuótiān mǎi de** shū | il libro che ho comprato ieri
+ex: **在银行工作的**朋友 | **zài yínháng gōngzuò de** péngyou | l'amico che lavora in banca
+ex: **你认识的**那个人 | **nǐ rènshi de** nàge rén | quella persona che conosci
+ex: **教我们汉语的**老师是北京人。 | **Jiāo wǒmen Hànyǔ de** lǎoshī shì Běijīngrén. | L'insegnante che ci insegna cinese è di Pechino.
+ex: 这是**我妈妈做的**菜。 | Zhè shì **wǒ māma zuò de** cài. | Questo è il piatto che ha cucinato mia madre.
+ex: **我们住的**地方离这儿不远。 | **Wǒmen zhù de** dìfang lí zhèr bù yuǎn. | Il posto dove abitiamo non è lontano da qui.
+
+no: 这是书我昨天买的。 | Zhè shì shū wǒ zuótiān mǎi de. | Errato: la relativa non segue il nome come in italiano.
+ex: 这是**我昨天买的**书。 | Zhè shì **wǒ zuótiān mǎi de** shū. | Questo è il libro che ho comprato ieri.
+
+! Per tradurre una relativa italiana conviene procedere così: individuare il nome a cui si riferisce («il libro»), costruire la relativa come una frase normale senza «che» (我昨天买), aggiungere 的 e mettere tutto davanti al nome: 我昨天买的书. Vedi anche il capitolo «Le particelle strutturali 的, 地, 得».
+
+### Gli avverbiali davanti al verbo
+
+Avverbi, espressioni di tempo, sintagmi preposizionali ed espressioni di modo precedono il verbo:
+ex: 他**常常**迟到。 | Tā **chángcháng** chídào. | Arriva spesso in ritardo.
+ex: 我**也**喜欢喝咖啡。 | Wǒ **yě** xǐhuan hē kāfēi. | Anche a me piace il caffè.
+ex: 我们**跟老师**一起去。 | Wǒmen **gēn lǎoshī** yìqǐ qù. | Andiamo con l'insegnante.
+ex: 她**给我**打了一个电话。 | Tā **gěi wǒ** dǎ le yí ge diànhuà. | Mi ha fatto una telefonata.
+ex: 他**高兴地**笑了。 | Tā **gāoxìng de** xiào le. | Ha sorriso, contento.
+
+no: 我去北京跟他。 | Wǒ qù Běijīng gēn tā. | Errato: «con lui» va prima del verbo.
+ex: 我**跟他**一起去北京。 | Wǒ **gēn tā** yìqǐ qù Běijīng. | Vado a Pechino con lui.
+no: 她走进了教室慢慢地。 | Tā zǒujìn le jiàoshì mànmàn de. | Errato: l'espressione di modo con 地 precede il verbo.
+ex: 她**慢慢地**走进了教室。 | Tā **mànmàn de** zǒujìn le jiàoshì. | È entrata lentamente in aula.
+
+### I complementi dopo il verbo
+
+L'unica grande eccezione al principio riguarda i complementi (补语 bǔyǔ), che seguono il verbo e ne esprimono il risultato, la direzione, la possibilità, il grado, la durata o la frequenza.
+ex: 我听**懂**了。 | Wǒ tīng**dǒng** le. | Ho capito (ascoltando).
+ex: 他跑**出去**了。 | Tā pǎo **chuqu** le. | È corso fuori.
+ex: 他说得**很快**。 | Tā shuō de **hěn kuài**. | Parla molto in fretta.
+ex: 我等了**半个小时**。 | Wǒ děng le **bàn ge xiǎoshí**. | Ho aspettato mezz'ora.
+
+In generale ciò che sta prima del verbo indica le circostanze in cui l'azione si svolge (quando, dove, come, con chi), mentre ciò che sta dopo indica che cosa ne risulta e in che misura. Vedi il capitolo «I complementi: panoramica».
+
+| Elemento | Posizione | Esempio |
+| attributo (定语) | prima del nome | **我的**书, **新**衣服 |
+| frase relativa + 的 | prima del nome | **我买的**书 |
+| avverbiale (状语) | prima del verbo | **在家**看书 |
+| complemento (补语) | dopo il verbo | 看**完**, 说得**很快** |

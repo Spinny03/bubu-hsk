@@ -1,0 +1,157 @@
+## Le frasi esistenziali (存现句)
+
+Oltre a 有 e 是, molti altri verbi possono comparire in frasi che indicano che qualcosa esiste, compare o scompare in un luogo. Queste frasi si chiamano esistenziali (存现句 cúnxiànjù, lett. «frasi di esistenza e di comparsa»). La struttura è la stessa della frase con 有: all'inizio c'è un'espressione di luogo (o di tempo), poi il verbo, accompagnato da 着, da 了 o da un complemento, e infine il nome della persona o della cosa che esiste, compare o scompare.
+
+= Luogo/Tempo + V + 着/了/C + (Num + CL) + N
+
+| Tipo | Il verbo è seguito da | Esempio |
+| esistenza | 着 (o 了, 满) | 门口站着一个人。 |
+| comparsa | 了 o complemento di direzione | 我们班来了一个新同学。 |
+| scomparsa | 了 o complemento | 我家丢了一辆自行车。 |
+
+### L'esistenza: V + 着
+
+Il verbo indica il modo in cui qualcosa si trova in un luogo (in piedi, appeso, scritto, parcheggiato…) ed è seguito da 着, che esprime uno stato che dura (vedi il capitolo «Azione in corso e stato continuato: 在, 正在, 着»). Verbi tipici sono 站, 坐, 躺, 住, 挂, 放, 摆, 贴, 写, 停, 种.
+
+= Luogo + V + 着 + Num + CL + N
+
+ex: 门口**站着**一个人。 | Ménkǒu **zhàn zhe** yí ge rén. | Alla porta c'è una persona (in piedi).
+ex: 墙上**挂着**两张画。 | Qiáng shang **guà zhe** liǎng zhāng huà. | Alla parete sono appesi due quadri.
+ex: 桌子上**放着**一杯咖啡。 | Zhuōzi shang **fàng zhe** yì bēi kāfēi. | Sul tavolo c'è una tazza di caffè.
+ex: 黑板上**写着**几个汉字。 | Hēibǎn shang **xiě zhe** jǐ ge Hànzì. | Alla lavagna sono scritti alcuni caratteri.
+ex: 沙发上**躺着**一只猫。 | Shāfā shang **tǎng zhe** yì zhī māo. | Sul divano è sdraiato un gatto.
+ex: 楼下**停着**很多自行车。 | Lóuxià **tíng zhe** hěn duō zìxíngchē. | Sotto il palazzo ci sono molte biciclette parcheggiate.
+ex: 这个房间里**住着**三个留学生。 | Zhège fángjiān li **zhù zhe** sān ge liúxuéshēng. | In questa stanza abitano tre studenti stranieri.
+ex: 院子里**种着**很多花。 | Yuànzi li **zhòng zhe** hěn duō huā. | Nel cortile sono piantati molti fiori.
+
+Rispetto a 有 e a 是, il verbo con 着 aggiunge un'informazione sul modo in cui la cosa si trova nel luogo:
+
+| Struttura | Esempio | Sfumatura |
+| Luogo + 有 + N | 墙上有一张地图。 | semplice esistenza |
+| Luogo + 是 + N | 墙上是一张地图。 | identificazione |
+| Luogo + V着 + N | 墙上挂着一张地图。 | esistenza e modo (appesa) |
+
+Con molti di questi verbi si può usare 了 al posto di 着, con un significato quasi identico: 墙上挂了两张画. Il complemento di risultato 满 «pieno» indica che il luogo è completamente occupato; in questo caso il nome non ha numerale né classificatore (vedi il capitolo «Il complemento di risultato»).
+
+ex: 墙上**挂满了**照片。 | Qiáng shang **guàmǎn le** zhàopiàn. | La parete è tutta tappezzata di foto.
+ex: 教室里**坐满了**学生。 | Jiàoshì li **zuòmǎn le** xuésheng. | L'aula è piena di studenti.
+ex: 桌子上**堆满了**书。 | Zhuōzi shang **duīmǎn le** shū. | Il tavolo è sommerso di libri.
+
+### La comparsa: V + 了 o complemento di direzione
+
+Il verbo indica l'arrivo o la comparsa di qualcuno o di qualcosa ed è seguito da 了 oppure da un complemento di direzione (vedi il capitolo «Il complemento di direzione»). Verbi tipici sono 来, 到, 出现, 发生, 走过来, 跑进来, 开过来, 搬来, 掉下来.
+
+= Luogo/Tempo + V + 了/C + Num + CL + N
+
+ex: 我们班**来了**一个新同学。 | Wǒmen bān **lái le** yí ge xīn tóngxué. | Nella nostra classe è arrivato un nuovo compagno.
+ex: 前面**走过来**一个老人。 | Qiánmiàn **zǒu guolai** yí ge lǎorén. | Davanti a noi si avvicina un anziano.
+ex: 昨天这儿**发生了**一起车祸。 | Zuótiān zhèr **fāshēng le** yì qǐ chēhuò. | Ieri qui c'è stato un incidente stradale.
+ex: 对面**开过来**一辆出租车。 | Duìmiàn **kāi guolai** yí liàng chūzūchē. | Dalla direzione opposta arriva un taxi.
+ex: 门外**跑进来**一只小狗。 | Mén wài **pǎo jinlai** yì zhī xiǎo gǒu. | Da fuori entra di corsa un cagnolino.
+ex: 楼上**搬来了**一家人。 | Lóushàng **bānlai le** yì jiā rén. | Al piano di sopra è venuta ad abitare una famiglia.
+ex: 树上**掉下来**一个苹果。 | Shù shang **diào xialai** yí ge píngguǒ. | Dall'albero è caduta una mela.
+ex: 天上**出现了**一道彩虹。 | Tiānshàng **chūxiàn le** yí dào cǎihóng. | In cielo è comparso un arcobaleno.
+
+### La scomparsa: V + 了 o complemento
+
+Il verbo indica che qualcuno o qualcosa se ne va, si perde o viene a mancare. Verbi tipici sono 丢, 走, 少, 死, 跑, 搬走, 飞走.
+
+= Luogo/Tempo + V + 了/C + Num + CL + N
+
+ex: 我家**丢了**一辆自行车。 | Wǒ jiā **diū le** yí liàng zìxíngchē. | A casa nostra è sparita una bicicletta.
+ex: 我们班**走了**两个同学。 | Wǒmen bān **zǒu le** liǎng ge tóngxué. | Dalla nostra classe se ne sono andati due compagni.
+ex: 书架上**少了**几本书。 | Shūjià shang **shǎo le** jǐ běn shū. | Dallo scaffale mancano alcuni libri.
+ex: 隔壁**搬走了**一家人。 | Gébì **bānzǒu le** yì jiā rén. | Dall'appartamento accanto se n'è andata una famiglia.
+ex: 笼子里**飞走了**一只鸟。 | Lóngzi li **fēizǒu le** yì zhī niǎo. | Dalla gabbia è volato via un uccellino.
+ex: 村里**死了**一头牛。 | Cūn li **sǐ le** yì tóu niú. | Nel villaggio è morta una mucca.
+
+### Il nome finale è indefinito
+
+La frase esistenziale presenta qualcosa di nuovo. Per questo il nome dopo il verbo è normalmente indefinito: ha un numerale e un classificatore, un'espressione di quantità (很多, 几) oppure è un nome nudo. Se la persona o la cosa è già nota (un nome proprio, un nome con 这/那 o con un possessivo), si usa una frase normale con il soggetto all'inizio, spesso con 在 + Luogo dopo il verbo.
+
+no: 门口站着王老师。 | Ménkǒu zhàn zhe Wáng lǎoshī. | Innaturale: nella frase esistenziale il nome dopo il verbo è di norma indefinito.
+ex: 王老师**站在**门口。 | Wáng lǎoshī **zhàn zài** ménkǒu. | Il professor Wang è in piedi davanti alla porta.
+no: 墙上挂着我的那张画。 | Qiáng shang guà zhe wǒ de nà zhāng huà. | Innaturale: un nome definito non si presenta come cosa nuova.
+ex: 我的那张画**挂在**墙上。 | Wǒ de nà zhāng huà **guà zài** qiáng shang. | Quel mio quadro è appeso alla parete.
+
+Viceversa, un soggetto indefinito all'inizio della frase è innaturale: in questo caso si sceglie la frase esistenziale.
+
+no: 一个人站在门口。 | Yí ge rén zhàn zài ménkǒu. | Innaturale: soggetto indefinito all'inizio della frase.
+ex: 门口**站着**一个人。 | Ménkǒu **zhàn zhe** yí ge rén. | Alla porta c'è una persona.
+
+### Altri errori frequenti
+
+Come nelle frasi con 有, il luogo iniziale non è preceduto da 在. Inoltre, nelle descrizioni, il verbo non può restare nudo: deve essere seguito da 着, da 了 o da un complemento.
+
+no: 在墙上挂着一张地图。 | Zài qiáng shang guà zhe yì zhāng dìtú. | Errato: il luogo iniziale non vuole 在.
+ex: 墙上**挂着**一张地图。 | Qiáng shang **guà zhe** yì zhāng dìtú. | Alla parete è appesa una carta geografica.
+no: 门口站一个人。 | Ménkǒu zhàn yí ge rén. | Errato in una descrizione: il verbo richiede 着, 了 o un complemento.
+ex: 门口**站着**一个人。 | Ménkǒu **zhàn zhe** yí ge rén. | Alla porta c'è una persona.
+
+### Domande e negazione
+
+Le domande si formano con 吗 oppure con un pronome interrogativo al posto del nome. La negazione è poco frequente: si usa 没(有) davanti al verbo, senza 了, oppure la negazione enfatica 什么也没…… (vedi il capitolo «La negazione»).
+
+ex: 墙上**挂着**什么？ | Qiáng shang **guà zhe** shénme? | Che cosa c'è appeso alla parete?
+ex: 教室里**坐着**多少人？ | Jiàoshì li **zuò zhe** duōshao rén? | Quante persone ci sono sedute in aula?
+ex: 你们班**来了**新同学吗？ | Nǐmen bān **lái le** xīn tóngxué ma? | Nella vostra classe è arrivato un nuovo compagno?
+ex: 我们班**没来**新同学。 | Wǒmen bān **méi lái** xīn tóngxué. | Nella nostra classe non è arrivato nessun nuovo compagno.
+ex: 墙上**什么也没挂**。 | Qiáng shang **shénme yě méi guà**. | Alla parete non è appeso niente.
+
+! Le frasi esistenziali sono frequentissime nelle descrizioni e nella narrativa: 远处走来一个穿红衣服的姑娘 «da lontano si avvicina una ragazza vestita di rosso». In italiano si rendono con «c'è, ci sono», con il verbo all'inizio («arriva un taxi») o con un passivo («sono appesi due quadri»).
+
+## Frasi senza soggetto
+
+Alcune frasi cinesi non hanno, né possono avere, un soggetto: si chiamano frasi senza soggetto (无主句 wúzhǔjù). Non vanno confuse con le frasi in cui il soggetto è semplicemente sottinteso perché chiaro dal contesto (A：去吗？B：去。), che in cinese sono frequentissime.
+
+### I fenomeni atmosferici
+
+I fenomeni atmosferici si esprimono con un verbo seguito da un oggetto: 下雨 «piovere» (lett. scendere pioggia), 下雪 «nevicare», 刮风 «tirare vento», 打雷 «tuonare», 出太阳 «uscire il sole». Come in italiano («piove»), non c'è soggetto; spesso la frase termina con 了, che segnala il cambiamento (vedi il capitolo «La particella 了»).
+
+= V + O + (了)
+
+ex: **下雨**了。 | **Xià yǔ** le. | Piove. / Ha cominciato a piovere.
+ex: 外面**刮风**了。 | Wàimiàn **guā fēng** le. | Fuori si è alzato il vento.
+ex: **打雷**了，快回家吧。 | **Dǎ léi** le, kuài huí jiā ba. | Tuona, sbrighiamoci a tornare a casa.
+ex: 明天可能会**下雪**。 | Míngtiān kěnéng huì **xià xuě**. | Domani potrebbe nevicare.
+ex: **出太阳**了。 | **Chū tàiyáng** le. | È uscito il sole.
+ex: 昨天晚上**下了**一场大雨。 | Zuótiān wǎnshang **xià le** yì cháng dà yǔ. | Ieri sera è venuto giù un acquazzone.
+
+Per dire «piove» si dice 下雨了, non 雨下了. Il nome 雨 (o 雪, 风) può però diventare soggetto o tema quando se ne descrive l'andamento:
+
+ex: **雨**停了。 | **Yǔ** tíng le. | Ha smesso di piovere. (lett. la pioggia si è fermata)
+ex: 今天**风**很大。 | Jīntiān **fēng** hěn dà. | Oggi c'è molto vento.
+ex: **雨**下得越来越大了。 | **Yǔ** xià de yuè lái yuè dà le. | Piove sempre più forte.
+
+### 有人 e 没人
+
+Le frasi che cominciano con 有人 «qualcuno» o con 没(有)人 «nessuno» non hanno un soggetto vero e proprio: il soggetto indefinito è introdotto da 有 (vedi sopra «Altri usi di 有»).
+
+ex: **有人**敲门。 | **Yǒu rén** qiāo mén. | Qualcuno bussa alla porta.
+ex: **有人**在吗？ | **Yǒu rén** zài ma? | C'è qualcuno?
+ex: **没人**知道他去哪儿了。 | **Méi rén** zhīdao tā qù nǎr le. | Nessuno sa dove sia andato.
+ex: 这么晚了，**没有人**会来的。 | Zhème wǎn le, **méiyǒu rén** huì lái de. | È così tardi: non verrà nessuno.
+
+### 该……了 e 轮到……了
+
+该 gāi + V + 了 significa «è ora di…»; 该 + persona + 了 e 轮到 lúndào + persona + 了 significano «tocca a…».
+
+= 该 + V (+ O) + 了
+= 该/轮到 + persona + (V) + 了
+
+ex: **该**吃饭**了**。 | **Gāi** chī fàn **le**. | È ora di mangiare.
+ex: 十二点了，**该**睡觉**了**。 | Shí'èr diǎn le, **gāi** shuì jiào **le**. | È mezzanotte, è ora di andare a dormire.
+ex: **该**你**了**。 | **Gāi** nǐ **le**. | Tocca a te.
+ex: **该**谁**了**？ | **Gāi** shéi **le**? | A chi tocca?
+ex: **轮到**你**了**。 | **Lúndào** nǐ **le**. | È il tuo turno.
+ex: **轮到**我发言**了**。 | **Lúndào** wǒ fāyán **le**. | Adesso tocca a me prendere la parola.
+
+### Altre frasi senza soggetto
+
+Sono senza soggetto anche molti annunci, avvisi e cartelli, e numerosi proverbi:
+
+ex: **上课**了！ | **Shàng kè** le! | Comincia la lezione!
+ex: **开饭**了！ | **Kāi fàn** le! | A tavola! (lett. si serve il pasto)
+ex: **到站**了，下车吧。 | **Dào zhàn** le, xià chē ba. | Siamo arrivati alla fermata, scendiamo.
+ex: **禁止**吸烟。 | **Jìnzhǐ** xī yān. | Vietato fumare.
+ex: 活到老，学到老。 | Huó dào lǎo, xué dào lǎo. | Non si finisce mai di imparare. (lett. vivere fino alla vecchiaia, studiare fino alla vecchiaia)

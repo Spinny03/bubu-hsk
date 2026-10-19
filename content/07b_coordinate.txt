@@ -1,0 +1,224 @@
+# Frasi coordinate, successive e progressive
+
+In questo capitolo si trattano tre tipi di frasi complesse coordinate: le frasi coordinate in senso stretto (并列复句 bìngliè fùjù), che accostano fatti o qualità di pari importanza; le frasi successive (承接复句 chéngjiē fùjù), che presentano azioni in ordine cronologico; le frasi progressive (递进复句 dìjìn fùjù), in cui la seconda proposizione «va oltre» la prima. Per i principi generali (ordine delle proposizioni, posizione di congiunzioni e avverbi) vedi il capitolo «Le frasi complesse: principi generali».
+
+## La coordinazione
+
+### 又……又……
+
+又……又…… yòu… yòu… unisce due qualità o due stati che coesistono nello stesso soggetto («e… e…», «sia… sia…»). Si usa soprattutto con aggettivi, ma anche con verbi: in questo caso descrive azioni che si alternano o si ripetono in una scena vivace, oppure due sentimenti contrastanti.
+
+= S + 又 + Agg₁ + 又 + Agg₂
+= S + 又 + V₁ + 又 + V₂
+
+ex: 这个苹果**又**大**又**甜。 | Zhège píngguǒ **yòu** dà **yòu** tián. | Questa mela è grande e dolce.
+ex: 他**又**高**又**帅。 | Tā **yòu** gāo **yòu** shuài. | È alto e bello.
+ex: 我**又**累**又**饿。 | Wǒ **yòu** lèi **yòu** è. | Sono stanco e affamato.
+ex: 这家饭馆的菜**又**便宜**又**好吃。 | Zhè jiā fànguǎn de cài **yòu** piányi **yòu** hǎochī. | In questo ristorante si mangia bene e si spende poco.
+ex: 孩子们**又**唱**又**跳，玩儿得很开心。 | Háizimen **yòu** chàng **yòu** tiào, wánr de hěn kāixīn. | I bambini cantavano e ballavano, divertendosi un mondo.
+ex: 我**又**想去，**又**怕花钱。 | Wǒ **yòu** xiǎng qù, **yòu** pà huā qián. | Da un lato vorrei andarci, dall'altro ho paura di spendere.
+
+! Gli aggettivi retti da 又……又…… non prendono di norma 很 o altri avverbi di grado: 又大又甜, non 又很大又很甜.
+! Le due qualità vanno nella stessa direzione: entrambe positive o entrambe negative. Per contrapporre una qualità positiva e una negativa si usa una frase avversativa.
+
+no: 这件衣服又便宜又难看。 | Zhè jiàn yīfu yòu piányi yòu nánkàn. | Innaturale: «economico» (positivo) e «brutto» (negativo) non si uniscono con 又……又…….
+ex: 这件衣服很便宜，**可是**不好看。 | Zhè jiàn yīfu hěn piányi, **kěshì** bù hǎokàn. | Questo vestito è economico, ma non è bello.
+
+### 既……又/也……
+
+既……又…… jì… yòu… ha lo stesso valore di 又……又……, ma è più formale e sottolinea che entrambe le cose sono vere («sia… sia…», «tanto… quanto…»). 既……也…… si usa soprattutto con verbi e sintagmi verbali.
+
+= S + 既 + Agg/V₁ + 又/也 + Agg/V₂
+
+ex: 她**既**聪明**又**漂亮。 | Tā **jì** cōngming **yòu** piàoliang. | È tanto intelligente quanto bella.
+ex: 这种方法**既**省时间**又**省钱。 | Zhè zhǒng fāngfǎ **jì** shěng shíjiān **yòu** shěng qián. | Questo metodo fa risparmiare sia tempo sia denaro.
+ex: 学习汉语，**既**要多听，**也**要多说。 | Xuéxí Hànyǔ, **jì** yào duō tīng, **yě** yào duō shuō. | Per imparare il cinese bisogna sia ascoltare molto, sia parlare molto.
+ex: 他**既**是我的老师，**也**是我的朋友。 | Tā **jì** shì wǒ de lǎoshī, **yě** shì wǒ de péngyou. | È sia il mio insegnante sia un mio amico.
+
+! 既……又…… (coordinazione) non va confuso con 既然……就…… («dal momento che…»), che è causale (vedi il capitolo «Frasi causali, ipotetiche e condizionali»).
+
+### 也……也……
+
+也……也…… yě… yě… elenca due fatti analoghi, spesso con soggetti diversi. Con la negazione corrisponde all'italiano «né… né…».
+
+= S₁ + 也 + V…，S₂ + 也 + V…
+= S + 也 + 不 + V₁，也 + 不 + V₂
+
+ex: 你**也**去，我**也**去，大家都去。 | Nǐ **yě** qù, wǒ **yě** qù, dàjiā dōu qù. | Ci vai tu, ci vado io: ci andiamo tutti.
+ex: 他**也**不抽烟，**也**不喝酒。 | Tā **yě** bù chōu yān, **yě** bù hē jiǔ. | Non fuma e non beve.
+ex: 我**也**没去过上海，**也**没去过广州。 | Wǒ **yě** méi qù guo Shànghǎi, **yě** méi qù guo Guǎngzhōu. | Non sono mai stato né a Shanghai né a Canton.
+ex: 这样做**也**可以，那样做**也**可以。 | Zhèyàng zuò **yě** kěyǐ, nàyàng zuò **yě** kěyǐ. | Si può fare così, e si può fare anche in quell'altro modo.
+
+### 一边……一边……
+
+一边……一边…… yìbiān… yìbiān… indica due azioni compiute **contemporaneamente** dallo stesso soggetto («mentre…», «e intanto…»). Con verbi monosillabici si può abbreviare in 边……边…….
+
+= S + 一边 + V₁(O)，一边 + V₂(O)
+= S + 边 + V₁ + 边 + V₂
+
+ex: 他**一边**吃饭，**一边**看手机。 | Tā **yìbiān** chī fàn, **yìbiān** kàn shǒujī. | Mangia guardando il cellulare.
+ex: 我们**一边**喝茶，**一边**聊天儿。 | Wǒmen **yìbiān** hē chá, **yìbiān** liáo tiānr. | Chiacchieriamo bevendo il tè.
+ex: 妈妈**一边**做饭，**一边**听音乐。 | Māma **yìbiān** zuò fàn, **yìbiān** tīng yīnyuè. | La mamma cucina ascoltando musica.
+ex: 大家**边**走**边**谈。 | Dàjiā **biān** zǒu **biān** tán. | Tutti camminavano conversando.
+ex: 很多学生**一边**上大学，**一边**打工。 | Hěn duō xuésheng **yìbiān** shàng dàxué, **yìbiān** dǎ gōng. | Molti studenti frequentano l'università e intanto lavorano.
+
+! 一边……一边…… richiede verbi d'azione con una durata. Non si usa con aggettivi né con verbi che indicano un risultato istantaneo (到, 死, 开始…).
+! Per esprimere il modo in cui si compie un'azione («ridendo», «in piedi») si preferisce V₁ + 着 + V₂: 他笑着说 «disse ridendo» (vedi il capitolo «Azione in corso e stato continuato: 在, 正在, 着»).
+
+no: 他一边很高，一边很胖。 | Tā yìbiān hěn gāo, yìbiān hěn pàng. | Errato: 一边……一边…… unisce azioni simultanee, non qualità.
+ex: 他**又**高**又**胖。 | Tā **yòu** gāo **yòu** pàng. | È alto e grasso.
+
+### 一方面……另一方面……
+
+一方面……另一方面…… yì fāngmiàn… lìng yì fāngmiàn… presenta due aspetti di una stessa questione o due ragioni concomitanti («da un lato…, dall'altro…»). Nella seconda proposizione compaiono spesso 也, 又 o 还.
+
+= 一方面 + …，另一方面 + (S) + (也/又/还) + …
+
+ex: **一方面**我想出国留学，**另一方面**又不想离开家人。 | **Yì fāngmiàn** wǒ xiǎng chū guó liú xué, **lìng yì fāngmiàn** yòu bù xiǎng líkāi jiārén. | Da un lato vorrei andare a studiare all'estero, dall'altro non voglio lasciare la mia famiglia.
+ex: 我学汉语，**一方面**是为了工作，**另一方面**也是因为对中国文化感兴趣。 | Wǒ xué Hànyǔ, **yì fāngmiàn** shì wèile gōngzuò, **lìng yì fāngmiàn** yě shì yīnwèi duì Zhōngguó wénhuà gǎn xìngqù. | Studio cinese da un lato per lavoro, dall'altro perché mi interessa la cultura cinese.
+ex: 这次失败，**一方面**是因为准备不够，**另一方面**是因为运气不好。 | Zhè cì shībài, **yì fāngmiàn** shì yīnwèi zhǔnbèi bú gòu, **lìng yì fāngmiàn** shì yīnwèi yùnqi bù hǎo. | Questo insuccesso è dovuto in parte alla preparazione insufficiente, in parte alla sfortuna.
+
+### 有时……有时…… e 一会儿……一会儿……
+
+有时(候)……有时(候)…… yǒushí… yǒushí… indica un'alternanza **abituale** («a volte…, a volte…»). 一会儿……一会儿…… yíhuìr… yíhuìr… indica un'alternanza **rapida**, in un breve arco di tempo («ora…, ora…»).
+
+= S + 有时(候) + V₁，有时(候) + V₂
+= S + 一会儿 + V₁/Agg₁，一会儿 + V₂/Agg₂
+
+ex: 他**有时**坐公交车上班，**有时**骑自行车。 | Tā **yǒushí** zuò gōngjiāochē shàng bān, **yǒushí** qí zìxíngchē. | A volte va al lavoro in autobus, a volte in bicicletta.
+ex: 周末我**有时候**在家看书，**有时候**跟朋友出去玩儿。 | Zhōumò wǒ **yǒu shíhou** zài jiā kàn shū, **yǒu shíhou** gēn péngyou chūqu wánr. | Nel fine settimana a volte leggo a casa, a volte esco con gli amici.
+ex: 今天的天气**一会儿**晴，**一会儿**阴。 | Jīntiān de tiānqì **yíhuìr** qíng, **yíhuìr** yīn. | Oggi il tempo è ora sereno, ora nuvoloso.
+ex: 这个孩子**一会儿**哭，**一会儿**笑。 | Zhège háizi **yíhuìr** kū, **yíhuìr** xiào. | Questo bambino ora piange, ora ride.
+ex: 他**一会儿**说要去，**一会儿**又说不去了。 | Tā **yíhuìr** shuō yào qù, **yíhuìr** yòu shuō bú qù le. | Un momento dice che ci va, un momento dopo dice che non ci va più.
+
+### 不是……而是……
+
+不是……而是…… bú shì… ér shì… nega la prima affermazione e la corregge con la seconda («non…, bensì…»; «non è che…, è che…»). Nel parlato 而 cade spesso: 不是……是…….
+
+= (S) + 不是 + A，而是 + B
+
+ex: 他**不是**不想来，**而是**没有时间。 | Tā **bú shì** bù xiǎng lái, **ér shì** méiyǒu shíjiān. | Non è che non voglia venire: è che non ha tempo.
+ex: 我**不是**中国人，**而是**日本人。 | Wǒ **bú shì** Zhōngguórén, **ér shì** Rìběnrén. | Non sono cinese, bensì giapponese.
+ex: 问题**不是**钱，**而是**时间。 | Wèntí **bú shì** qián, **ér shì** shíjiān. | Il problema non sono i soldi, ma il tempo.
+ex: **不是**我不帮你，**是**我真的没办法。 | **Bú shì** wǒ bù bāng nǐ, **shì** wǒ zhēn de méi bànfǎ. | Non è che non voglia aiutarti: è che davvero non posso farci niente.
+
+! Non confondere 不是……而是…… (correzione: «non A ma B») con 不是……就是…… (alternativa: «o A o B»), trattato nel capitolo «Frasi alternative, avversative e concessive».
+
+### 同时
+
+同时 tóngshí («nello stesso tempo») unisce due fatti contemporanei o due aspetti compresenti; come congiunzione apre la seconda proposizione ed è seguito spesso da 也 o 又. Nello scritto si usa anche 与此同时 yǔ cǐ tóngshí («contemporaneamente a ciò»).
+
+ex: 他是一位作家，**同时**也是一位画家。 | Tā shì yí wèi zuòjiā, **tóngshí** yě shì yí wèi huàjiā. | È uno scrittore e al tempo stesso un pittore.
+ex: 这个政策有好处，**同时**也有一些问题。 | Zhège zhèngcè yǒu hǎochu, **tóngshí** yě yǒu yìxiē wèntí. | Questa politica ha dei vantaggi, ma al tempo stesso presenta alcuni problemi.
+ex: 两个人**同时**到了。 | Liǎng ge rén **tóngshí** dào le. | I due sono arrivati nello stesso momento.
+
+### Riepilogo
+
+| Struttura | Uso | Esempio |
+| 又……又…… | due qualità; azioni in una scena vivace | 又便宜又好吃 |
+| 既……又/也…… | come 又……又……, più formale | 既省时间又省钱 |
+| 也……也…… | fatti analoghi; «né… né…» | 也不抽烟，也不喝酒 |
+| 一边……一边…… | due azioni simultanee | 一边吃饭，一边看书 |
+| 一方面……另一方面…… | due aspetti, due ragioni | 一方面想去，另一方面…… |
+| 有时……有时…… | alternanza abituale | 有时坐车，有时走路 |
+| 一会儿……一会儿…… | alternanza rapida | 一会儿哭，一会儿笑 |
+| 不是……而是…… | correzione | 不是钱，而是时间 |
+
+! 又说又笑 e 一边说一边笑 sono entrambi possibili, ma con una sfumatura diversa: 又……又…… descrive una scena animata in cui le due azioni si mescolano; 一边……一边…… mette in primo piano la simultaneità, come se un'azione accompagnasse l'altra.
+
+## La successione
+
+Le frasi successive presentano azioni o eventi nell'ordine in cui avvengono. L'ordine delle proposizioni riflette l'ordine cronologico: in cinese non si può invertirlo come in italiano («Prima di mangiare mi lavo le mani» → 我先洗手，再吃饭).
+
+### 先……再/然后/接着……
+
+先 xiān («prima») è un avverbio e sta dopo il soggetto. Nella seconda proposizione:
+
+- **再** zài («poi, e solo dopo») si usa per azioni **non ancora avvenute**: programmi, consigli, istruzioni;
+- **然后** ránhòu («poi, dopo») si usa sia per il futuro sia per il passato; spesso si combina con 再: 然后再…;
+- **接着** jiēzhe («subito dopo, di seguito») sottolinea che la seconda azione segue immediatamente la prima.
+
+= S + 先 + V₁，再 + V₂   (azione futura)
+= S + 先 + V₁，然后 + (S) + V₂
+= S + 先 + V₁，接着 + V₂
+
+ex: 我们**先**吃饭，**再**看电影吧。 | Wǒmen **xiān** chī fàn, **zài** kàn diànyǐng ba. | Prima mangiamo, poi andiamo al cinema.
+ex: 你**先**洗手，**然后**再吃东西。 | Nǐ **xiān** xǐ shǒu, **ránhòu** zài chī dōngxi. | Prima lavati le mani, poi mangia.
+ex: 昨天我们**先**去了故宫，**然后**去了天安门。 | Zuótiān wǒmen **xiān** qù le Gùgōng, **ránhòu** qù le Tiān'ānmén. | Ieri siamo andati prima alla Città Proibita, poi a piazza Tian'anmen.
+ex: 他**先**介绍了自己，**接着**介绍了公司的情况。 | Tā **xiān** jièshào le zìjǐ, **jiēzhe** jièshào le gōngsī de qíngkuàng. | Prima si è presentato, poi ha illustrato la situazione dell'azienda.
+ex: 你**先**别着急，听我说完**再**决定。 | Nǐ **xiān** bié zháojí, tīng wǒ shuōwán **zài** juédìng. | Intanto non agitarti: decidi dopo avermi ascoltato fino in fondo.
+
+no: 先我们吃饭，再看电影。 | Xiān wǒmen chī fàn, zài kàn diànyǐng. | Errato: 先 è un avverbio e va dopo il soggetto.
+ex: 我们**先**吃饭，**再**看电影。 | Wǒmen **xiān** chī fàn, **zài** kàn diànyǐng. | Prima mangiamo, poi guardiamo il film.
+no: 昨天我先吃了饭，再看了电影。 | Zuótiān wǒ xiān chī le fàn, zài kàn le diànyǐng. | Da evitare: 再 si riferisce ad azioni non ancora avvenute; per il passato si usa 然后.
+ex: 昨天我**先**吃了饭，**然后**看了电影。 | Zuótiān wǒ **xiān** chī le fàn, **ránhòu** kàn le diànyǐng. | Ieri prima ho mangiato, poi ho visto un film.
+
+### 首先……其次……最后……
+
+首先 shǒuxiān («innanzitutto»), 其次 qícì («in secondo luogo»), 然后 ránhòu, 最后 zuìhòu («infine») scandiscono le fasi di un procedimento o i punti di un discorso. Sono tipici di discorsi, istruzioni e testi argomentativi. A differenza di 先, 首先 può stare anche all'inizio della frase, prima del soggetto.
+
+ex: **首先**，我要感谢大家的帮助；**其次**，我想介绍一下我们的新计划；**最后**，祝大家新年快乐！ | **Shǒuxiān**, wǒ yào gǎnxiè dàjiā de bāngzhù; **qícì**, wǒ xiǎng jièshào yíxià wǒmen de xīn jìhuà; **zuìhòu**, zhù dàjiā xīnnián kuàilè! | Innanzitutto voglio ringraziarvi tutti per l'aiuto; in secondo luogo vorrei presentarvi il nostro nuovo progetto; infine, auguro a tutti buon anno!
+ex: 做这个菜，**首先**要把肉切好，**然后**放到锅里炒，**最后**加盐。 | Zuò zhège cài, **shǒuxiān** yào bǎ ròu qiēhǎo, **ránhòu** fàngdào guō li chǎo, **zuìhòu** jiā yán. | Per fare questo piatto, prima si taglia la carne, poi la si salta in padella e infine si aggiunge il sale.
+ex: 我们**首先**要了解情况，**然后**再想办法。 | Wǒmen **shǒuxiān** yào liǎojiě qíngkuàng, **ránhòu** zài xiǎng bànfǎ. | Prima di tutto dobbiamo capire la situazione, poi penseremo a una soluzione.
+
+### 一……就……
+
+一……就…… yī… jiù… indica che la seconda azione segue immediatamente la prima («appena… subito…»), oppure che la segue ogni volta («ogni volta che…»). 一 e 就 sono avverbi: con soggetti diversi, ciascuno si colloca dopo il proprio soggetto.
+
+= S + 一 + V₁，就 + V₂
+= S₁ + 一 + V₁，S₂ + 就 + V₂
+
+ex: 我**一**到家**就**给你打电话。 | Wǒ **yí** dào jiā **jiù** gěi nǐ dǎ diànhuà. | Appena arrivo a casa ti telefono.
+ex: 他**一**喝酒**就**脸红。 | Tā **yì** hē jiǔ **jiù** liǎn hóng. | Ogni volta che beve diventa rosso in viso.
+ex: 老师**一**说，我**就**明白了。 | Lǎoshī **yì** shuō, wǒ **jiù** míngbai le. | Appena l'insegnante l'ha spiegato, ho capito.
+ex: 天**一**黑，路灯**就**亮了。 | Tiān **yì** hēi, lùdēng **jiù** liàng le. | Appena fa buio, si accendono i lampioni.
+
+! La pronuncia di 一 segue le regole del cambio tonale: yí davanti al quarto tono (一到 yí dào), yì davanti agli altri toni (一喝 yì hē). Per l'uso temporale di 一……就…… vedi anche il capitolo «Frasi finali, temporali e altre strutture correlative».
+
+### 刚……就……
+
+刚……就…… gāng… jiù… sottolinea che tra le due azioni è trascorso pochissimo tempo («avevo appena… che già…»). Si riferisce di solito al passato.
+
+= S₁ + 刚 + V₁，(S₂) + 就 + V₂
+
+ex: 我**刚**出门，**就**下雨了。 | Wǒ **gāng** chū mén, **jiù** xià yǔ le. | Ero appena uscito di casa che si è messo a piovere.
+ex: 电影**刚**开始，他**就**睡着了。 | Diànyǐng **gāng** kāishǐ, tā **jiù** shuìzháo le. | Il film era appena cominciato e lui si era già addormentato.
+ex: 我**刚**到家，妈妈**就**来电话了。 | Wǒ **gāng** dào jiā, māma **jiù** lái diànhuà le. | Ero appena arrivato a casa quando mi ha chiamato la mamma.
+
+### ……以后……
+
+V + (了) + 以后 yǐhòu («dopo che…») colloca la seconda azione dopo la prima; il soggetto della subordinata, se diverso, precede il verbo. Per i dettagli vedi il capitolo «Frasi finali, temporali e altre strutture correlative».
+
+ex: 下课**以后**，我们去图书馆。 | Xià kè **yǐhòu**, wǒmen qù túshūguǎn. | Dopo la lezione andiamo in biblioteca.
+ex: 他大学毕业**以后**，去了上海工作。 | Tā dàxué bì yè **yǐhòu**, qù le Shànghǎi gōngzuò. | Dopo la laurea è andato a lavorare a Shanghai.
+
+### 于是, 接着, 便
+
+- **于是** yúshì («e così, perciò») introduce un'azione che segue la precedente e ne è la conseguenza; si usa nella narrazione di fatti passati e apre la proposizione, prima del soggetto.
+- **接着** jiēzhe («subito dopo; continuare a») indica una prosecuzione immediata.
+- **便** biàn è l'equivalente scritto dell'avverbio 就 e, come questo, va dopo il soggetto.
+
+ex: 外面下大雨了，**于是**我们决定不出去了。 | Wàimiàn xià dà yǔ le, **yúshì** wǒmen juédìng bù chūqu le. | Fuori pioveva forte, e così abbiamo deciso di non uscire.
+ex: 他看大家都不说话，**于是**自己先开口了。 | Tā kàn dàjiā dōu bù shuō huà, **yúshì** zìjǐ xiān kāi kǒu le. | Vedendo che nessuno parlava, prese lui per primo la parola.
+ex: 他喝了口水，**接着**说下去。 | Tā hē le kǒu shuǐ, **jiēzhe** shuō xiaqu. | Bevve un sorso d'acqua e continuò a parlare.
+ex: 他吃过晚饭**便**出门了。 | Tā chī guo wǎnfàn **biàn** chū mén le. | Dopo cena uscì.
+ex: 天一亮，他们**便**出发了。 | Tiān yí liàng, tāmen **biàn** chūfā le. | Alle prime luci del giorno partirono.
+
+### 然后, 以后 e 后来
+
+Gli italiani tendono a tradurre «poi», «dopo» e «in seguito» sempre con la stessa parola. In cinese i tre termini hanno usi ben distinti.
+
+| Parola | Valore | Posizione e tempo | Esempio |
+| 然后 ránhòu | «poi», azione successiva | apre la 2ª proposizione; passato e futuro | 先吃饭，然后看电影 |
+| 以后 yǐhòu | «dopo X»; da solo «in futuro» | dopo un verbo, una frase o un'espressione di tempo | 毕业以后；以后再说 |
+| 后来 hòulái | «in seguito, poi» | solo passato; da solo, mai dopo un verbo | 后来他去了美国 |
+
+ex: 我们一起吃了饭，**然后**他就走了。 | Wǒmen yìqǐ chī le fàn, **ránhòu** tā jiù zǒu le. | Abbiamo mangiato insieme, poi lui se n'è andato.
+ex: 我跟他见过一次面，**后来**再也没见过。 | Wǒ gēn tā jiàn guo yí cì miàn, **hòulái** zài yě méi jiàn guo. | L'ho incontrato una volta, e in seguito non l'ho più rivisto.
+ex: **以后**我想去中国工作。 | **Yǐhòu** wǒ xiǎng qù Zhōngguó gōngzuò. | In futuro vorrei andare a lavorare in Cina.
+no: 吃饭然后，我们去看电影。 | Chī fàn ránhòu, wǒmen qù kàn diànyǐng. | Errato: 然后 non segue un verbo; «dopo aver mangiato» si dice 吃饭以后.
+ex: 吃饭**以后**，我们去看电影。 | Chī fàn **yǐhòu**, wǒmen qù kàn diànyǐng. | Dopo mangiato andiamo al cinema.
+no: 后来我要去中国。 | Hòulái wǒ yào qù Zhōngguó. | Errato: 后来 si riferisce solo al passato; per il futuro si usa 以后.
+ex: **以后**我要去中国。 | **Yǐhòu** wǒ yào qù Zhōngguó. | In futuro andrò in Cina.
+no: 毕业后来，他去了上海。 | Bì yè hòulái, tā qù le Shànghǎi. | Errato: 后来 non segue un verbo; si dice 毕业以后 (o 毕业后).
+ex: 毕业**以后**，他去了上海。 | Bì yè **yǐhòu**, tā qù le Shànghǎi. | Dopo la laurea è andato a Shanghai.
