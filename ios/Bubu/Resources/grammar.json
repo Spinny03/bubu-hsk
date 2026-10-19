@@ -1,0 +1,1824 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Prefissi: piccolo e numeri ordinali",
+      "unit": 2,
+      "source": "content/07j_formazione_parole.txt",
+      "sourceHeading": "La formazione delle parole",
+      "syllabusPage": 386,
+      "body": "Il lessico cinese si forma in larga parte combinando unità minime dotate di significato. Conoscere i meccanismi di formazione delle parole (构词法 gòucífǎ) aiuta a memorizzare il vocabolario, a capire parole mai viste e a evitare errori di costruzione: alcuni tipi di parole composte, per esempio, non possono reggere un oggetto. Questo capitolo descrive i morfemi, le parole composte, i prefissi e i suffissi, l'儿化 ér huà, la reduplicazione, le abbreviazioni, i 成语 chéng yǔ e i prestiti.\n\nIn cinese si distinguono due nozioni che in italiano tendono a confondersi:",
+      "examples": [
+        {
+          "hanzi": "这双鞋的大小正合适。",
+          "pinyin": "Zhè shuāng xié de dàxiǎo zhèng héshì.",
+          "italian": "Questo paio di scarpe è proprio della misura giusta."
+        },
+        {
+          "hanzi": "他在北京做买卖。",
+          "pinyin": "Tā zài Běijīng zuò mǎimai.",
+          "italian": "Fa affari a Pechino."
+        },
+        {
+          "hanzi": "我喝红茶，不喝绿茶。",
+          "pinyin": "Wǒ hē hóngchá, bù hē lǜchá.",
+          "italian": "Bevo tè nero, non tè verde. (lett. tè rosso)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Suffissi: plurale e posizione",
+      "unit": 1,
+      "source": "content/02c_pronomi.txt",
+      "sourceHeading": "我们 wǒ men e 咱们 zán men",
+      "syllabusPage": 386,
+      "body": "我们 wǒmen può includere o escludere l'ascoltatore; 咱们 zánmen lo include sempre («noi, io e te / io e voi») ed è tipico del parlato, soprattutto nel nord.",
+      "examples": [
+        {
+          "hanzi": "咱们走吧！",
+          "pinyin": "Zánmen zǒu ba!",
+          "italian": "Andiamo! (tu compreso)"
+        },
+        {
+          "hanzi": "今天晚上咱们一起吃饭吧。",
+          "pinyin": "Jīntiān wǎnshang zánmen yìqǐ chī fàn ba.",
+          "italian": "Stasera mangiamo insieme."
+        },
+        {
+          "hanzi": "我们明天去长城，你们呢？",
+          "pinyin": "Wǒmen míngtiān qù Chángchéng, nǐmen ne?",
+          "italian": "Noi domani andiamo alla Grande Muraglia, e voi?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Parole di posizione",
+      "unit": 5,
+      "source": "content/02b_localizzazione.txt",
+      "sourceHeading": "Le parole di localizzazione",
+      "syllabusPage": 386,
+      "body": "Le parole di localizzazione (方位词 fāngwèicí) indicano una posizione nello spazio (sopra, sotto, dentro, davanti…) e, per estensione, nel tempo o in un ambito astratto. A differenza dell'italiano, che usa preposizioni poste prima del nome (*sul* tavolo, *nella* stanza), il cinese colloca il localizzatore dopo il nome: 桌子上 zhuōzi shang, lett. «tavolo-sopra».\n\nLe forme monosillabiche si attaccano direttamente al nome, senza 的 de. Dopo un nome, 上 shàng e 里 lǐ sono normalmente atoni: zhuōzi shang, fángjiān li.",
+      "examples": [
+        {
+          "hanzi": "书在桌子上。",
+          "pinyin": "Shū zài zhuōzi shang.",
+          "italian": "Il libro è sul tavolo. (lett. libro essere-a tavolo-sopra)"
+        },
+        {
+          "hanzi": "他在房间里看书。",
+          "pinyin": "Tā zài fángjiān li kàn shū.",
+          "italian": "Sta leggendo in camera."
+        },
+        {
+          "hanzi": "猫在床下。",
+          "pinyin": "Māo zài chuáng xià.",
+          "italian": "Il gatto è sotto il letto."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Saper fare e riuscire",
+      "unit": 6,
+      "source": "content/03f_modali.txt",
+      "sourceHeading": "会 huì, 要 yào, 想 xiǎng come verbi pieni",
+      "syllabusPage": 386,
+      "body": "会 huì, 要 yào e 想 xiǎng possono anche essere verbi pieni con un oggetto nominale: 会 huì «conoscere (una lingua, un'abilità)», 要 yào «volere, chiedere», 想 xiǎng «sentire la mancanza di».",
+      "examples": [
+        {
+          "hanzi": "我会汉语。",
+          "pinyin": "Wǒ huì Hànyǔ.",
+          "italian": "So il cinese."
+        },
+        {
+          "hanzi": "我要一杯咖啡。",
+          "pinyin": "Wǒ yào yì bēi kāfēi.",
+          "italian": "Prendo un caffè."
+        },
+        {
+          "hanzi": "我想妈妈了。",
+          "pinyin": "Wǒ xiǎng māma le.",
+          "italian": "Mi manca la mamma."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Desiderare e volere",
+      "unit": 7,
+      "source": "content/03g_modali_volonta_obbligo.txt",
+      "sourceHeading": "要 yào e 想 xiǎng",
+      "syllabusPage": 386,
+      "body": "要 yào è uno dei verbi più polivalenti del cinese. Come modale esprime:\n\nCome verbo pieno significa «volere, chiedere» (+ nome) e «richiedere, metterci» (+ durata o prezzo).",
+      "examples": [
+        {
+          "hanzi": "我要学好汉语。",
+          "pinyin": "Wǒ yào xuéhǎo Hànyǔ.",
+          "italian": "Voglio imparare bene il cinese."
+        },
+        {
+          "hanzi": "你感冒了，要多喝水。",
+          "pinyin": "Nǐ gǎnmào le, yào duō hē shuǐ.",
+          "italian": "Hai il raffreddore: devi bere molta acqua."
+        },
+        {
+          "hanzi": "学外语要多听多说。",
+          "pinyin": "Xué wàiyǔ yào duō tīng duō shuō.",
+          "italian": "Per imparare una lingua straniera bisogna ascoltare e parlare molto."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Chiedere il permesso",
+      "unit": 6,
+      "source": "content/03f_modali.txt",
+      "sourceHeading": "会 huì, 能 néng, 可以 kě yǐ",
+      "syllabusPage": 386,
+      "body": "Tutti e tre possono tradurre «potere», e 会 huì traduce anche «sapere». La scelta dipende dalla fonte della possibilità: un'abilità appresa (会 huì), una capacità fisica o le circostanze (能 néng), un permesso (可以 kě yǐ).",
+      "examples": [
+        {
+          "hanzi": "我会说三种语言。",
+          "pinyin": "Wǒ huì shuō sān zhǒng yǔyán.",
+          "italian": "So parlare tre lingue."
+        },
+        {
+          "hanzi": "你会开车吗？",
+          "pinyin": "Nǐ huì kāichē ma?",
+          "italian": "Sai guidare?"
+        },
+        {
+          "hanzi": "我女儿已经会写自己的名字了。",
+          "pinyin": "Wǒ nǚ'ér yǐjīng huì xiě zìjǐ de míngzi le.",
+          "italian": "Mia figlia sa già scrivere il suo nome."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Verbi separabili",
+      "unit": 11,
+      "source": "content/03b_verbo_separabili.txt",
+      "sourceHeading": "I verbi separabili (离合词 lí hé cí)",
+      "syllabusPage": 386,
+      "body": "I verbi separabili (离合词 líhécí, lett. «parole che si separano e si riuniscono») sono verbi bisillabici formati, in origine, da un verbo + il suo oggetto: in 睡觉 shuìjiào «dormire» 睡 shuì è «dormire» e 觉 jué è «il sonno»; in 见面 jiànmiàn «incontrarsi» 见 jiàn è «vedere» e 面 miàn è «la faccia». Quando le due sillabe sono unite si comportano come un'unica parola, ma tra di esse si possono inserire particelle aspettuali, complementi, espressioni di quantità e attributi, proprio come tra un verbo e il suo oggetto.\n\nDalla loro struttura deriva anche la regola più importante: poiché la seconda sillaba è già un oggetto, i verbi separabili non possono reggere un altro oggetto diretto.",
+      "examples": [
+        {
+          "hanzi": "我们见过面。",
+          "pinyin": "Wǒmen jiàn guo miàn.",
+          "italian": "Ci siamo già incontrati."
+        },
+        {
+          "hanzi": "他结了婚以后就搬走了。",
+          "pinyin": "Tā jié le hūn yǐhòu jiù bānzǒu le.",
+          "italian": "Dopo essersi sposato si è trasferito."
+        },
+        {
+          "hanzi": "你洗了澡再睡吧。",
+          "pinyin": "Nǐ xǐ le zǎo zài shuì ba.",
+          "italian": "Fatti la doccia prima di andare a dormire."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Pronomi interrogativi",
+      "unit": 1,
+      "source": "content/02e_interrogativi.txt",
+      "sourceHeading": "I pronomi interrogativi",
+      "syllabusPage": 386,
+      "body": "I pronomi interrogativi servono a formare le domande aperte, quelle che chiedono un'informazione precisa (chi, che cosa, dove, quando…). Qui ne vediamo forma e significato; la costruzione delle domande in generale è trattata nel capitolo «Le frasi interrogative».\n\nIn cinese il pronome interrogativo occupa la stessa posizione che avrà la risposta: non si sposta all'inizio della frase come in italiano e l'ordine delle parole non cambia. Per rispondere basta sostituire il pronome con l'informazione richiesta.",
+      "examples": [
+        {
+          "hanzi": "A：你去哪儿？B：我去银行。",
+          "pinyin": "A: Nǐ qù nǎr? B: Wǒ qù yínháng.",
+          "italian": "A: Dove vai? B: Vado in banca. (lett. tu andare dove?)"
+        },
+        {
+          "hanzi": "A：谁是你们的老师？B：李老师是我们的老师。",
+          "pinyin": "A: Shéi shì nǐmen de lǎoshī? B: Lǐ lǎoshī shì wǒmen de lǎoshī.",
+          "italian": "A: Chi è il vostro insegnante? B: È il professor Li."
+        },
+        {
+          "hanzi": "A：你什么时候回来？B：我下个月回来。",
+          "pinyin": "A: Nǐ shénme shíhou huílai? B: Wǒ xià ge yuè huílai.",
+          "italian": "A: Quando torni? B: Torno il mese prossimo."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Pronomi personali",
+      "unit": 1,
+      "source": "content/02c_pronomi.txt",
+      "sourceHeading": "I pronomi personali",
+      "syllabusPage": 386,
+      "body": "他 tā, 她 tā e 它 tā si pronunciano allo stesso modo, tā: la distinzione esiste solo nella scrittura. Il plurale si forma sempre con il suffisso 们 men.\n\nIl pronome oggetto occupa la stessa posizione di un nome oggetto, cioè dopo il verbo; non si anticipa mai come i pronomi atoni italiani (*ti* amo, *lo* conosco).",
+      "examples": [
+        {
+          "hanzi": "我认识他。",
+          "pinyin": "Wǒ rènshi tā.",
+          "italian": "Io lo conosco."
+        },
+        {
+          "hanzi": "他认识我。",
+          "pinyin": "Tā rènshi wǒ.",
+          "italian": "Lui mi conosce."
+        },
+        {
+          "hanzi": "我明天给你打电话。",
+          "pinyin": "Wǒ míngtiān gěi nǐ dǎ diànhuà.",
+          "italian": "Domani ti telefono."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Dimostrativi",
+      "unit": 3,
+      "source": "content/02d_dimostrativi.txt",
+      "sourceHeading": "这 zhè e 那 nà usati da soli",
+      "syllabusPage": 386,
+      "body": "Da soli, 这 zhè e 那 nà si usano soprattutto come soggetto, in particolare davanti a 是 shì. Come oggetto si usano invece 这个 zhè ge e 那个 nà ge.\n\nAll'inizio di una frase 那 nà può anche significare «allora, in tal caso»: 那我们走吧 nà wǒ men zǒu ba。 «Allora andiamo.» (vedi il capitolo «Frasi causali, ipotetiche e condizionali»).",
+      "examples": [
+        {
+          "hanzi": "这是我的书。",
+          "pinyin": "Zhè shì wǒ de shū.",
+          "italian": "Questo è il mio libro."
+        },
+        {
+          "hanzi": "那是什么？",
+          "pinyin": "Nà shì shénme?",
+          "italian": "Che cos'è quello?"
+        },
+        {
+          "hanzi": "这是我朋友马可。",
+          "pinyin": "Zhè shì wǒ péngyou Mǎkě.",
+          "italian": "Questo è il mio amico Marco."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Numeri cardinali",
+      "unit": 2,
+      "source": "content/02f_numeri.txt",
+      "sourceHeading": "I numeri",
+      "syllabusPage": 386,
+      "body": "I numerali (数词 shùcí) cinesi formano un sistema molto regolare: conoscendo le cifre da zero a dieci e poche unità superiori (百 bǎi «cento», 千 qiān «mille», 万 wàn «diecimila», 亿 yì «cento milioni») si può costruire qualsiasi numero. Richiedono attenzione soprattutto tre punti: l'uso di 零 líng per gli zeri interni, il raggruppamento delle cifre per quattro (万 wàn, 亿 yì) anziché per tre come in italiano, e la scelta tra 二 èr e 两 liǎng. Ricordiamo inoltre che tra un numerale e un nome è sempre necessario un classificatore (vedi il capitolo «I classificatori»).\n\nI numeri da 11 a 99 si formano per semplice combinazione, come se si dicesse «dieci-uno», «due-dieci», «due-dieci-uno».",
+      "examples": [
+        {
+          "hanzi": "我今年二十五岁。",
+          "pinyin": "Wǒ jīnnián èrshíwǔ suì.",
+          "italian": "Quest'anno ho venticinque anni."
+        },
+        {
+          "hanzi": "我们班有十八个学生。",
+          "pinyin": "Wǒmen bān yǒu shíbā ge xuésheng.",
+          "italian": "Nella nostra classe ci sono diciotto studenti."
+        },
+        {
+          "hanzi": "这本书四十九块。",
+          "pinyin": "Zhè běn shū sìshíjiǔ kuài.",
+          "italian": "Questo libro costa quarantanove yuan."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Classificatori per gli oggetti",
+      "unit": 3,
+      "source": "content/02h_classificatori.txt",
+      "sourceHeading": "I classificatori",
+      "syllabusPage": 386,
+      "body": "I classificatori (量词 liàngcí), detti anche «parole di misura», sono uno dei tratti più caratteristici del cinese. Anche l'italiano ne possiede qualcosa: diciamo *tre fogli di carta*, *due paia di scarpe*, *un bicchiere d'acqua*. In cinese, però, questo tipo di costruzione è sistematico e riguarda tutti i nomi: non si può dire «tre libri» senza inserire una parola come 本 běn tra il numero e il nome. Si distinguono i classificatori nominali (名量词 míngliàngcí), che accompagnano i nomi, e i classificatori verbali (动量词 dòngliàngcí), che contano le azioni.\n\nTra un numerale e il nome, ma anche dopo i dimostrativi 这 zhè e 那 nà, gli interrogativi 哪 nǎ e 几 jǐ e il pronome 每 měi, il classificatore è obbligatorio. Ogni nome ha il suo classificatore tipico, spesso legato alla forma o alla categoria dell'oggetto.",
+      "examples": [
+        {
+          "hanzi": "我买了三本书。",
+          "pinyin": "Wǒ mǎi le sān běn shū.",
+          "italian": "Ho comprato tre libri."
+        },
+        {
+          "hanzi": "这本书是谁的？",
+          "pinyin": "Zhè běn shū shì shéi de?",
+          "italian": "Di chi è questo libro?"
+        },
+        {
+          "hanzi": "你要哪本书？",
+          "pinyin": "Nǐ yào nǎ běn shū?",
+          "italian": "Quale libro vuoi?"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Contenitori come classificatori",
+      "unit": 7,
+      "source": "content/02i_classificatori_usi.txt",
+      "sourceHeading": "Classificatori di misura e contenitori",
+      "syllabusPage": 386,
+      "body": "Le unità di misura (度量词 dùliàngcí) seguono direttamente il numerale, senza 个 gè. Accanto alle unità metriche (公斤 gōng jīn, 米 mǐ, 公里 gōng lǐ, 升 shēng) si usano ancora molto quelle tradizionali cinesi (斤 jīn, 两 liǎng, 里 lǐ): al mercato, in particolare, frutta, verdura e carne si vendono a 斤 jīn.\n\nNum + unità + N indica una quantità (三斤苹果 sān jīn píng guǒ «tre jin di mele»); Num + unità + 的 de + N descrive una caratteristica (一个五斤的西瓜 yí gè wǔ jīn de xī guā «un'anguria da cinque jin»).",
+      "examples": [
+        {
+          "hanzi": "我买了两斤苹果。",
+          "pinyin": "Wǒ mǎi le liǎng jīn píngguǒ.",
+          "italian": "Ho comprato un chilo di mele. (lett. due jin)"
+        },
+        {
+          "hanzi": "这个箱子有二十公斤。",
+          "pinyin": "Zhège xiāngzi yǒu èrshí gōngjīn.",
+          "italian": "Questa valigia pesa venti chili."
+        },
+        {
+          "hanzi": "他一米八。",
+          "pinyin": "Tā yì mǐ bā.",
+          "italian": "È alto un metro e ottanta."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Unità di tempo",
+      "unit": 2,
+      "source": "content/02j_tempo.txt",
+      "sourceHeading": "Le espressioni di tempo",
+      "syllabusPage": 386,
+      "body": "Le espressioni di tempo (时间词 shíjiāncí) comprendono le date, le ore, i giorni della settimana e le parole come 今天 jīn tiān, 去年 qù nián, 现在 xiàn zài. In cinese seguono due principi fondamentali: si procede sempre dall'unità più grande alla più piccola (anno, mese, giorno, ora), cioè all'opposto dell'italiano, e, quando indicano il momento di un'azione, si collocano prima del verbo, senza preposizioni (vedi i capitoli «Il sostantivo» e «L'ordine delle parole»).\n\nLo stesso principio vale per gli indirizzi, che cominciano dal paese e finiscono con il numero civico: 中国北京市海淀区 zhōng guó běi jīng shì hǎi diàn qū… «Cina, città di Pechino, distretto di Haidian…».",
+      "examples": [
+        {
+          "hanzi": "2026年10月18日星期日上午九点",
+          "pinyin": "èr líng èr liù nián shí yuè shíbā rì xīngqīrì shàngwǔ jiǔ diǎn",
+          "italian": "domenica 18 ottobre 2026, alle nove del mattino"
+        },
+        {
+          "hanzi": "我是1998年5月3号出生的。",
+          "pinyin": "Wǒ shì yī jiǔ jiǔ bā nián wǔ yuè sān hào chūshēng de.",
+          "italian": "Sono nato il 3 maggio 1998."
+        },
+        {
+          "hanzi": "会议下星期三下午两点开始。",
+          "pinyin": "Huìyì xià xīngqīsān xiàwǔ liǎng diǎn kāishǐ.",
+          "italian": "La riunione comincia mercoledì prossimo alle due del pomeriggio."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Avverbi di grado",
+      "unit": 4,
+      "source": "content/03k_avverbi_1.txt",
+      "sourceHeading": "Gli avverbi",
+      "syllabusPage": 386,
+      "body": "Gli avverbi (副词 fùcí) cinesi sono parole invariabili che modificano un verbo, un aggettivo o l'intero predicato, esprimendo grado, tempo, frequenza, ambito, negazione o il giudizio di chi parla. A differenza dell'italiano, in cui l'avverbio gode di una certa libertà («Parlo bene il cinese», «Già l'ho visto», «L'ho già visto»), in cinese la posizione è molto rigida: l'avverbio sta quasi sempre dopo il soggetto e prima del verbo (o dell'aggettivo). Un piccolo gruppo di avverbi che commentano l'intera frase può stare anche davanti al soggetto.\n\nGli avverbi cinesi non si formano da aggettivi con un suffisso come «-mente»: sono per lo più parole a sé (已经 yǐ jīng, 常常 cháng cháng, 也 yě). Gli aggettivi che descrivono il modo di un'azione si usano come avverbiali con la particella 地 dì (认真地学习 rèn zhēn dì xué xí «studiare con impegno»): vedi il capitolo «Le particelle strutturali 的 de, 地 dì, 得 dé».",
+      "examples": [
+        {
+          "hanzi": "我也是学生。",
+          "pinyin": "Wǒ yě shì xuésheng.",
+          "italian": "Anch'io sono uno studente."
+        },
+        {
+          "hanzi": "他已经回家了。",
+          "pinyin": "Tā yǐjīng huí jiā le.",
+          "italian": "È già tornato a casa."
+        },
+        {
+          "hanzi": "我们都喜欢吃中国菜。",
+          "pinyin": "Wǒmen dōu xǐhuan chī Zhōngguó cài.",
+          "italian": "A tutti noi piace la cucina cinese."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Tutti",
+      "unit": 13,
+      "source": "content/03k_avverbi_1.txt",
+      "sourceHeading": "Gli avverbi",
+      "syllabusPage": 386,
+      "body": "Gli avverbi (副词 fùcí) cinesi sono parole invariabili che modificano un verbo, un aggettivo o l'intero predicato, esprimendo grado, tempo, frequenza, ambito, negazione o il giudizio di chi parla. A differenza dell'italiano, in cui l'avverbio gode di una certa libertà («Parlo bene il cinese», «Già l'ho visto», «L'ho già visto»), in cinese la posizione è molto rigida: l'avverbio sta quasi sempre dopo il soggetto e prima del verbo (o dell'aggettivo). Un piccolo gruppo di avverbi che commentano l'intera frase può stare anche davanti al soggetto.\n\nGli avverbi cinesi non si formano da aggettivi con un suffisso come «-mente»: sono per lo più parole a sé (已经 yǐ jīng, 常常 cháng cháng, 也 yě). Gli aggettivi che descrivono il modo di un'azione si usano come avverbiali con la particella 地 dì (认真地学习 rèn zhēn dì xué xí «studiare con impegno»): vedi il capitolo «Le particelle strutturali 的 de, 地 dì, 得 dé».",
+      "examples": [
+        {
+          "hanzi": "我也是学生。",
+          "pinyin": "Wǒ yě shì xuésheng.",
+          "italian": "Anch'io sono uno studente."
+        },
+        {
+          "hanzi": "他已经回家了。",
+          "pinyin": "Tā yǐjīng huí jiā le.",
+          "italian": "È già tornato a casa."
+        },
+        {
+          "hanzi": "我们都喜欢吃中国菜。",
+          "pinyin": "Wǒmen dōu xǐhuan chī Zhōngguó cài.",
+          "italian": "A tutti noi piace la cucina cinese."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Avverbi per azioni in corso",
+      "unit": 11,
+      "source": "content/04f_zai_zhe_1.txt",
+      "sourceHeading": "Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe",
+      "syllabusPage": 386,
+      "body": "Il cinese distingue con cura due situazioni che chi parla italiano tende a confondere quando traduce: l'azione in corso di svolgimento (aspetto progressivo: «sta leggendo») e lo stato che perdura come risultato di un'azione (aspetto durativo: «è seduto», «la porta è aperta»). La prima si esprime con gli avverbi 在 zài, 正在 zhèng zài, 正 zhèng e con la particella 呢 ne; la seconda con la particella aspettuale 着 zhe.\n\nIl progressivo non indica il presente: con un'espressione di tempo o una frase con ……的时候 de shí hòu si colloca nel passato o nel futuro, come l'italiano «stavo facendo» o «starò facendo».",
+      "examples": [
+        {
+          "hanzi": "他在看书。",
+          "pinyin": "Tā zài kàn shū.",
+          "italian": "Sta leggendo."
+        },
+        {
+          "hanzi": "妈妈正在做饭呢。",
+          "pinyin": "Māma zhèngzài zuò fàn ne.",
+          "italian": "La mamma sta preparando da mangiare."
+        },
+        {
+          "hanzi": "我们正开会呢，等一会儿再打给你。",
+          "pinyin": "Wǒmen zhèng kāihuì ne, děng yíhuìr zài dǎ gěi nǐ.",
+          "italian": "Siamo in riunione proprio adesso, ti richiamo tra un po'."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Fare di nuovo",
+      "unit": 11,
+      "source": "content/03l_avverbi_2.txt",
+      "sourceHeading": "又 yòu, 再 zài e 还 hái",
+      "syllabusPage": 386,
+      "body": "Tutti e tre possono tradursi «di nuovo, ancora», ma si distinguono per il rapporto con il tempo dell'azione ripetuta.\n\n又 yòu e 还 hái precedono il modale; 再 zài lo segue.",
+      "examples": [
+        {
+          "hanzi": "他昨天来了，今天又来了。",
+          "pinyin": "Tā zuótiān lái le, jīntiān yòu lái le.",
+          "italian": "È venuto ieri, e oggi è venuto di nuovo."
+        },
+        {
+          "hanzi": "你怎么又迟到了？",
+          "pinyin": "Nǐ zěnme yòu chídào le?",
+          "italian": "Come mai sei di nuovo in ritardo?"
+        },
+        {
+          "hanzi": "明天又是星期一了。",
+          "pinyin": "Míngtiān yòu shì xīngqīyī le.",
+          "italian": "Domani è di nuovo lunedì."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Anche e ancora",
+      "unit": 13,
+      "source": "content/03k_avverbi_1.txt",
+      "sourceHeading": "Gli avverbi",
+      "syllabusPage": 386,
+      "body": "Gli avverbi (副词 fùcí) cinesi sono parole invariabili che modificano un verbo, un aggettivo o l'intero predicato, esprimendo grado, tempo, frequenza, ambito, negazione o il giudizio di chi parla. A differenza dell'italiano, in cui l'avverbio gode di una certa libertà («Parlo bene il cinese», «Già l'ho visto», «L'ho già visto»), in cinese la posizione è molto rigida: l'avverbio sta quasi sempre dopo il soggetto e prima del verbo (o dell'aggettivo). Un piccolo gruppo di avverbi che commentano l'intera frase può stare anche davanti al soggetto.\n\nGli avverbi cinesi non si formano da aggettivi con un suffisso come «-mente»: sono per lo più parole a sé (已经 yǐ jīng, 常常 cháng cháng, 也 yě). Gli aggettivi che descrivono il modo di un'azione si usano come avverbiali con la particella 地 dì (认真地学习 rèn zhēn dì xué xí «studiare con impegno»): vedi il capitolo «Le particelle strutturali 的 de, 地 dì, 得 dé».",
+      "examples": [
+        {
+          "hanzi": "我也是学生。",
+          "pinyin": "Wǒ yě shì xuésheng.",
+          "italian": "Anch'io sono uno studente."
+        },
+        {
+          "hanzi": "他已经回家了。",
+          "pinyin": "Tā yǐjīng huí jiā le.",
+          "italian": "È già tornato a casa."
+        },
+        {
+          "hanzi": "我们都喜欢吃中国菜。",
+          "pinyin": "Wǒmen dōu xǐhuan chī Zhōngguó cài.",
+          "italian": "A tutti noi piace la cucina cinese."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Negazione",
+      "unit": 1,
+      "source": "content/05e_negazione.txt",
+      "sourceHeading": "不 bù e 没 méi(有 yǒu): le regole fondamentali",
+      "syllabusPage": 386,
+      "body": "不 bù nega la volontà, l'abitudine, le azioni future, le verità generali, gli stati e le qualità; si usa con 是 shì, con il verbo 在 zài, con i verbi modali, con gli aggettivi e con i verbi che indicano stati psicologici e di conoscenza. 没 méi(有 yǒu) nega il fatto: dice che un'azione non è avvenuta o non si è compiuta, o che un cambiamento non si è (ancora) verificato; è inoltre l'unica negazione di 有 yǒu.\n\nLa differenza più importante è quella fra 不 bù + V, che nega la volontà, l'abitudine o un'azione futura, e 没 méi + V, che nega che un'azione sia avvenuta. In italiano la differenza è espressa soprattutto dal tempo verbale:",
+      "examples": [
+        {
+          "hanzi": "我不去。",
+          "pinyin": "Wǒ bú qù.",
+          "italian": "Non ci vado. (decisione, volontà)"
+        },
+        {
+          "hanzi": "我没去。",
+          "pinyin": "Wǒ méi qù.",
+          "italian": "Non ci sono andato. (fatto)"
+        },
+        {
+          "hanzi": "他不吃肉。",
+          "pinyin": "Tā bù chī ròu.",
+          "italian": "Non mangia carne. (abitudine: per esempio è vegetariano)"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Preposizione di tempo e luogo",
+      "unit": 5,
+      "source": "content/03m_preposizioni_1.txt",
+      "sourceHeading": "Il luogo: 在 zài",
+      "syllabusPage": 386,
+      "body": "在 zài + luogo, davanti al verbo, indica dove si svolge l'azione. Il luogo deve essere un vero nome di luogo (北京 běi jīng, 学校 xué xiào, 银行 yín háng, 家 jiā) oppure un nome comune seguito da una parola di localizzazione (桌子上 zhuō zi shàng, 房间里 fáng jiān lǐ, 我旁边 wǒ páng biān). Con i nomi di persona e i pronomi si aggiunge 这儿 zhè ér / 那儿 nà ér (vedi il capitolo «Il sostantivo»).\n\nIl 在 zài preposizione non va confuso con il 在 zài avverbio di azione in corso (我在吃饭 wǒ zài chī fàn «sto mangiando»): vedi il capitolo «Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe».",
+      "examples": [
+        {
+          "hanzi": "他们在咖啡馆聊天。",
+          "pinyin": "Tāmen zài kāfēiguǎn liáotiān.",
+          "italian": "Chiacchierano al caffè."
+        },
+        {
+          "hanzi": "孩子们在公园里玩儿。",
+          "pinyin": "Háizimen zài gōngyuán li wánr.",
+          "italian": "I bambini giocano nel parco."
+        },
+        {
+          "hanzi": "我在网上买了一本书。",
+          "pinyin": "Wǒ zài wǎngshang mǎi le yì běn shū.",
+          "italian": "Ho comprato un libro su internet."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Preposizioni: con e verso",
+      "unit": 6,
+      "source": "content/03n_preposizioni_2.txt",
+      "sourceHeading": "Compagnia e relazione: 跟 gēn, 和 hé, 同 tóng, 与 yǔ",
+      "syllabusPage": 386,
+      "body": "跟 gēn, 和 hé, 同 tóng e 与 yǔ introducono la persona con cui si compie un'azione o con cui si ha un rapporto («con»). Hanno lo stesso significato ma registri diversi: 跟 gēn è il più colloquiale (soprattutto al nord), 和 hé è neutro, 同 tóng è più frequente al sud e nello scritto, 与 yǔ è decisamente scritto e formale (titoli, documenti).\n\nSi usano con 一起 yì qǐ «insieme» e con i verbi che richiedono un partner: 说 shuō, 谈 tán, 商量 shāng liáng «discutere», 结婚 jié hūn «sposarsi», 见面 jiàn miàn «incontrarsi», 吵架 chǎo jià «litigare», 聊天 liáo tiān «chiacchierare», 合作 hé zuò «collaborare», 有关系 yǒu guān xì «avere a che fare con». Si usano anche nei confronti di uguaglianza 跟 gēn……一样 yī yàng (vedi il capitolo «Le frasi comparative»).",
+      "examples": [
+        {
+          "hanzi": "我想跟你一起去。",
+          "pinyin": "Wǒ xiǎng gēn nǐ yìqǐ qù.",
+          "italian": "Vorrei venire con te."
+        },
+        {
+          "hanzi": "你跟他说了吗？",
+          "pinyin": "Nǐ gēn tā shuō le ma?",
+          "italian": "Gliel'hai detto?"
+        },
+        {
+          "hanzi": "她跟一个中国人结婚了。",
+          "pinyin": "Tā gēn yí ge Zhōngguó rén jiéhūn le.",
+          "italian": "Ha sposato un cinese."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Unire nomi con «e»",
+      "unit": 1,
+      "source": "content/07b_coordinate.txt",
+      "sourceHeading": "Frasi coordinate, successive e progressive",
+      "syllabusPage": 386,
+      "body": "In questo capitolo si trattano tre tipi di frasi complesse coordinate: le frasi coordinate in senso stretto (并列复句 bìngliè fùjù), che accostano fatti o qualità di pari importanza; le frasi successive (承接复句 chéngjiē fùjù), che presentano azioni in ordine cronologico; le frasi progressive (递进复句 dìjìn fùjù), in cui la seconda proposizione «va oltre» la prima. Per i principi generali (ordine delle proposizioni, posizione di congiunzioni e avverbi) vedi il capitolo «Le frasi complesse: principi generali».\n\n又……又…… yòu… yòu… unisce due qualità o due stati che coesistono nello stesso soggetto («e… e…», «sia… sia…»). Si usa soprattutto con aggettivi, ma anche con verbi: in questo caso descrive azioni che si alternano o si ripetono in una scena vivace, oppure due sentimenti contrastanti.",
+      "examples": [
+        {
+          "hanzi": "这个苹果又大又甜。",
+          "pinyin": "Zhège píngguǒ yòu dà yòu tián.",
+          "italian": "Questa mela è grande e dolce."
+        },
+        {
+          "hanzi": "他又高又帅。",
+          "pinyin": "Tā yòu gāo yòu shuài.",
+          "italian": "È alto e bello."
+        },
+        {
+          "hanzi": "我又累又饿。",
+          "pinyin": "Wǒ yòu lèi yòu è.",
+          "italian": "Sono stanco e affamato."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "La particella del possesso",
+      "unit": 3,
+      "source": "content/03o_particelle_strutturali_1.txt",
+      "sourceHeading": "Le particelle strutturali 的 de, 地 dì, 得 dé",
+      "syllabusPage": 386,
+      "body": "Le particelle strutturali (结构助词 jiégòu zhùcí) sono parole grammaticali prive di significato proprio che segnalano il rapporto tra due elementi della frase. Il cinese standard ne ha tre, tutte pronunciate *de* in tono neutro ma scritte con caratteri diversi:\n\nDelle tre, 的 de è di gran lunga la più frequente: è in assoluto uno dei caratteri più comuni della lingua cinese.",
+      "examples": [
+        {
+          "hanzi": "我得走了。",
+          "pinyin": "Wǒ děi zǒu le.",
+          "italian": "Devo andare."
+        },
+        {
+          "hanzi": "他得了第一名。",
+          "pinyin": "Tā dé le dì-yī míng.",
+          "italian": "Si è classificato primo."
+        },
+        {
+          "hanzi": "他跑得很快。",
+          "pinyin": "Tā pǎo de hěn kuài.",
+          "italian": "Corre veloce."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "La particella dell’azione compiuta",
+      "unit": 7,
+      "source": "content/04b_le_1.txt",
+      "sourceHeading": "La particella 了 le",
+      "syllabusPage": 386,
+      "body": "了 le è la particella più frequente e, per chi studia il cinese, la più insidiosa. In realtà dietro la stessa forma si nascondono due particelle diverse:\n\nQuando il verbo si trova in fondo alla frase, le due particelle coincidono in un unico 了 le (他走了 tā zǒu le。«Se n'è andato.»): vedi la sezione «了 le₁ e 了 le₂ insieme».",
+      "examples": [
+        {
+          "hanzi": "我买了三本书。",
+          "pinyin": "Wǒ mǎi le sān běn shū.",
+          "italian": "Ho comprato tre libri."
+        },
+        {
+          "hanzi": "我看了那部电影。",
+          "pinyin": "Wǒ kàn le nà bù diànyǐng.",
+          "italian": "Ho visto quel film."
+        },
+        {
+          "hanzi": "玛丽亚喝了一杯咖啡。",
+          "pinyin": "Mǎlìyà hē le yì bēi kāfēi.",
+          "italian": "Maria ha bevuto un caffè."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Particelle a fine frase",
+      "unit": 6,
+      "source": "content/05g_particelle.txt",
+      "sourceHeading": "吗 ma",
+      "syllabusPage": 386,
+      "body": "吗 ma trasforma una frase dichiarativa in una domanda sì/no (vedi il capitolo «Le frasi interrogative»). Si usa anche nelle domande retoriche con 难道 nán dào e 不是 bú shì.\n\n吗 ma non si usa nelle domande con pronome interrogativo, nelle domande affermativo-negative, in quelle alternative con 还是 hái shì e insieme a 呢 ne.",
+      "examples": [
+        {
+          "hanzi": "你是老师吗？",
+          "pinyin": "Nǐ shì lǎoshī ma?",
+          "italian": "Sei un insegnante?"
+        },
+        {
+          "hanzi": "你明天有空吗？",
+          "pinyin": "Nǐ míngtiān yǒu kòng ma?",
+          "italian": "Domani sei libero?"
+        },
+        {
+          "hanzi": "你不是很忙吗？怎么有时间来？",
+          "pinyin": "Nǐ bú shì hěn máng ma? Zěnme yǒu shíjiān lái?",
+          "italian": "Ma non eri tanto occupato? Come mai hai il tempo di venire?"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Rispondere al telefono",
+      "unit": 6,
+      "source": "content/05j_esclamative.txt",
+      "sourceHeading": "啊 e 喂 wèi",
+      "syllabusPage": 386,
+      "body": "Le interiezioni hanno spesso varianti grafiche e di tono (哎 āi, 唉 āi, 诶 ei per richiamare l'attenzione; 哈哈 hāhā per la risata; 哼 hng per il disprezzo). Più che memorizzarne i toni, conviene imitare l'intonazione dei parlanti nativi.",
+      "examples": [
+        {
+          "hanzi": "啊？你再说一遍。",
+          "pinyin": "Á? Nǐ zài shuō yí biàn.",
+          "italian": "Come? Ripeti, per favore."
+        },
+        {
+          "hanzi": "啊，下雪了！",
+          "pinyin": "À, xià xuě le!",
+          "italian": "Oh, nevica!"
+        },
+        {
+          "hanzi": "喂，你的东西掉了！",
+          "pinyin": "Wèi, nǐ de dōngxi diào le!",
+          "italian": "Ehi, ti è caduta una cosa!"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Gruppi coordinati",
+      "unit": 13,
+      "source": "content/07b_coordinate.txt",
+      "sourceHeading": "Frasi coordinate, successive e progressive",
+      "syllabusPage": 387,
+      "body": "In questo capitolo si trattano tre tipi di frasi complesse coordinate: le frasi coordinate in senso stretto (并列复句 bìngliè fùjù), che accostano fatti o qualità di pari importanza; le frasi successive (承接复句 chéngjiē fùjù), che presentano azioni in ordine cronologico; le frasi progressive (递进复句 dìjìn fùjù), in cui la seconda proposizione «va oltre» la prima. Per i principi generali (ordine delle proposizioni, posizione di congiunzioni e avverbi) vedi il capitolo «Le frasi complesse: principi generali».\n\n又……又…… yòu… yòu… unisce due qualità o due stati che coesistono nello stesso soggetto («e… e…», «sia… sia…»). Si usa soprattutto con aggettivi, ma anche con verbi: in questo caso descrive azioni che si alternano o si ripetono in una scena vivace, oppure due sentimenti contrastanti.",
+      "examples": [
+        {
+          "hanzi": "这个苹果又大又甜。",
+          "pinyin": "Zhège píngguǒ yòu dà yòu tián.",
+          "italian": "Questa mela è grande e dolce."
+        },
+        {
+          "hanzi": "他又高又帅。",
+          "pinyin": "Tā yòu gāo yòu shuài.",
+          "italian": "È alto e bello."
+        },
+        {
+          "hanzi": "我又累又饿。",
+          "pinyin": "Wǒ yòu lèi yòu è.",
+          "italian": "Sono stanco e affamato."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Modificatore prima del nome",
+      "unit": 3,
+      "source": "content/01g_ordine_attributi.txt",
+      "sourceHeading": "L'ordine degli attributi multipli",
+      "syllabusPage": 387,
+      "body": "Quando un nome è preceduto da più attributi, questi seguono un ordine abbastanza fisso. In linea generale gli elementi che delimitano e identificano (a chi appartiene? quale? quanti?) vengono prima, quelli che descrivono (com'è?) vengono dopo, e gli elementi più strettamente legati al nome, che ne indicano il tipo o il materiale, stanno immediatamente prima di esso.\n\nNaturalmente è raro che siano presenti tutti insieme. Ecco alcuni esempi, dal più semplice al più complesso:",
+      "examples": [
+        {
+          "hanzi": "他那件红色的毛衣",
+          "pinyin": "tā nà jiàn hóngsè de máoyī",
+          "italian": "quel suo maglione rosso"
+        },
+        {
+          "hanzi": "我的那两本新买的中文书",
+          "pinyin": "wǒ de nà liǎng běn xīn mǎi de Zhōngwén shū",
+          "italian": "quei miei due libri di cinese comprati da poco"
+        },
+        {
+          "hanzi": "桌子上那个蓝色的大杯子",
+          "pinyin": "zhuōzi shang nàge lánsè de dà bēizi",
+          "italian": "quel grande bicchiere blu sul tavolo"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Verbo e oggetto",
+      "unit": 1,
+      "source": "content/01f_ordine_base.txt",
+      "sourceHeading": "L'ordine di base soggetto – verbo – oggetto",
+      "syllabusPage": 387,
+      "body": "Come in italiano, l'ordine di base è soggetto – verbo – oggetto.\n\nA differenza dell'italiano, però, l'oggetto segue il verbo anche quando è un pronome: non esiste nulla di simile ai pronomi atoni italiani che precedono il verbo («ti amo», «lo vedo»).",
+      "examples": [
+        {
+          "hanzi": "我喝茶。",
+          "pinyin": "Wǒ hē chá.",
+          "italian": "Bevo tè."
+        },
+        {
+          "hanzi": "玛丽亚学习汉语。",
+          "pinyin": "Mǎlìyà xuéxí Hànyǔ.",
+          "italian": "Maria studia cinese."
+        },
+        {
+          "hanzi": "小王喜欢踢足球。",
+          "pinyin": "Xiǎo Wáng xǐhuan tī zúqiú.",
+          "italian": "A Xiao Wang piace giocare a calcio."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Soggetto e predicato",
+      "unit": 1,
+      "source": "content/01j_frase_predicati.txt",
+      "sourceHeading": "Frasi a predicato soggetto-predicato",
+      "syllabusPage": 387,
+      "body": "Nella frase a predicato soggetto-predicato (主谓谓语句 zhǔwèi wèiyǔ jù) il predicato è a sua volta formato da un soggetto e da un predicato. Il primo elemento della frase funziona come un tema: indica la persona, la cosa o il luogo di cui si parla; il secondo soggetto ne specifica una parte, un aspetto o un ambito; il predicato finale dice qualcosa di questo secondo soggetto.\n\nIn italiano queste frasi si traducono quasi sempre ristrutturandole: con il verbo «avere» («ho mal di testa»), con complementi di limitazione («sta bene di salute») o con altri giri di frase.",
+      "examples": [
+        {
+          "hanzi": "他身体很好。",
+          "pinyin": "Tā shēntǐ hěn hǎo.",
+          "italian": "Sta bene di salute. (lett. lui, corpo molto bene)"
+        },
+        {
+          "hanzi": "我头疼。",
+          "pinyin": "Wǒ tóu téng.",
+          "italian": "Ho mal di testa. (lett. io, testa fa male)"
+        },
+        {
+          "hanzi": "她眼睛很大。",
+          "pinyin": "Tā yǎnjing hěn dà.",
+          "italian": "Ha gli occhi grandi."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Gruppi con quantità",
+      "unit": 3,
+      "source": "content/02h_classificatori.txt",
+      "sourceHeading": "I classificatori",
+      "syllabusPage": 387,
+      "body": "I classificatori (量词 liàngcí), detti anche «parole di misura», sono uno dei tratti più caratteristici del cinese. Anche l'italiano ne possiede qualcosa: diciamo *tre fogli di carta*, *due paia di scarpe*, *un bicchiere d'acqua*. In cinese, però, questo tipo di costruzione è sistematico e riguarda tutti i nomi: non si può dire «tre libri» senza inserire una parola come 本 běn tra il numero e il nome. Si distinguono i classificatori nominali (名量词 míngliàngcí), che accompagnano i nomi, e i classificatori verbali (动量词 dòngliàngcí), che contano le azioni.\n\nTra un numerale e il nome, ma anche dopo i dimostrativi 这 zhè e 那 nà, gli interrogativi 哪 nǎ e 几 jǐ e il pronome 每 měi, il classificatore è obbligatorio. Ogni nome ha il suo classificatore tipico, spesso legato alla forma o alla categoria dell'oggetto.",
+      "examples": [
+        {
+          "hanzi": "我买了三本书。",
+          "pinyin": "Wǒ mǎi le sān běn shū.",
+          "italian": "Ho comprato tre libri."
+        },
+        {
+          "hanzi": "这本书是谁的？",
+          "pinyin": "Zhè běn shū shì shéi de?",
+          "italian": "Di chi è questo libro?"
+        },
+        {
+          "hanzi": "你要哪本书？",
+          "pinyin": "Nǐ yào nǎ běn shū?",
+          "italian": "Quale libro vuoi?"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Gruppi con preposizioni",
+      "unit": 5,
+      "source": "content/03m_preposizioni_1.txt",
+      "sourceHeading": "Le preposizioni",
+      "syllabusPage": 387,
+      "body": "Le preposizioni cinesi (介词 jiècí) introducono un nome o un pronome per indicare luogo, direzione, tempo, destinatario, causa, scopo, strumento e altre relazioni. Insieme al nome formano un sintagma preposizionale (介词短语 jiècí duǎnyǔ) che, di norma, si colloca davanti al verbo, dopo il soggetto: «Lavoro in banca» diventa «io + in banca + lavoro».\n\nQuasi tutte le preposizioni cinesi derivano storicamente da verbi, e molte si usano ancora anche come verbi: 在 zài «trovarsi», 给 gěi «dare», 到 dào «arrivare», 跟 gēn «seguire», 对 duì «essere rivolto a», 离 lí «separarsi», 朝 cháo «essere rivolto verso». Per questo le grammatiche occidentali le chiamano spesso *coverbi* (verbi che accompagnano il verbo principale).",
+      "examples": [
+        {
+          "hanzi": "我在家。",
+          "pinyin": "Wǒ zài jiā.",
+          "italian": "Sono a casa. (在 zài verbo)"
+        },
+        {
+          "hanzi": "我在家吃饭。",
+          "pinyin": "Wǒ zài jiā chī fàn.",
+          "italian": "Mangio a casa. (在 zài preposizione)"
+        },
+        {
+          "hanzi": "他给我一本书。",
+          "pinyin": "Tā gěi wǒ yì běn shū.",
+          "italian": "Mi dà un libro. (给 gěi verbo)"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Gruppi di posizione",
+      "unit": 5,
+      "source": "content/02b_localizzazione.txt",
+      "sourceHeading": "Le parole di localizzazione",
+      "syllabusPage": 387,
+      "body": "Le parole di localizzazione (方位词 fāngwèicí) indicano una posizione nello spazio (sopra, sotto, dentro, davanti…) e, per estensione, nel tempo o in un ambito astratto. A differenza dell'italiano, che usa preposizioni poste prima del nome (*sul* tavolo, *nella* stanza), il cinese colloca il localizzatore dopo il nome: 桌子上 zhuōzi shang, lett. «tavolo-sopra».\n\nLe forme monosillabiche si attaccano direttamente al nome, senza 的 de. Dopo un nome, 上 shàng e 里 lǐ sono normalmente atoni: zhuōzi shang, fángjiān li.",
+      "examples": [
+        {
+          "hanzi": "书在桌子上。",
+          "pinyin": "Shū zài zhuōzi shang.",
+          "italian": "Il libro è sul tavolo. (lett. libro essere-a tavolo-sopra)"
+        },
+        {
+          "hanzi": "他在房间里看书。",
+          "pinyin": "Tā zài fángjiān li kàn shū.",
+          "italian": "Sta leggendo in camera."
+        },
+        {
+          "hanzi": "猫在床下。",
+          "pinyin": "Māo zài chuáng xià.",
+          "italian": "Il gatto è sotto il letto."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Il soggetto",
+      "unit": 1,
+      "source": "content/01f_ordine_base.txt",
+      "sourceHeading": "L'ordine di base soggetto – verbo – oggetto",
+      "syllabusPage": 387,
+      "body": "Come in italiano, l'ordine di base è soggetto – verbo – oggetto.\n\nA differenza dell'italiano, però, l'oggetto segue il verbo anche quando è un pronome: non esiste nulla di simile ai pronomi atoni italiani che precedono il verbo («ti amo», «lo vedo»).",
+      "examples": [
+        {
+          "hanzi": "我喝茶。",
+          "pinyin": "Wǒ hē chá.",
+          "italian": "Bevo tè."
+        },
+        {
+          "hanzi": "玛丽亚学习汉语。",
+          "pinyin": "Mǎlìyà xuéxí Hànyǔ.",
+          "italian": "Maria studia cinese."
+        },
+        {
+          "hanzi": "小王喜欢踢足球。",
+          "pinyin": "Xiǎo Wáng xǐhuan tī zúqiú.",
+          "italian": "A Xiao Wang piace giocare a calcio."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Predicato nominale",
+      "unit": 2,
+      "source": "content/01j_frase_predicati.txt",
+      "sourceHeading": "Frasi a predicato nominale",
+      "syllabusPage": 387,
+      "body": "Nella frase a predicato nominale (名词谓语句 míngcí wèiyǔ jù) un nome o un'espressione nominale fa da predicato direttamente, senza 是 shì. Non si tratta di una possibilità generale: il predicato nominale si usa quasi soltanto con espressioni di tempo e con espressioni numeriche, cioè per indicare date, giorni della settimana, ore, età, prezzi, quantità, e inoltre per la provenienza e il tempo atmosferico. Sono frasi brevi, tipiche della lingua parlata.\n\nIl 斤 jīn è un'unità di peso tradizionale ancora molto usata nei mercati: corrisponde a mezzo chilo. Vedi il capitolo «I classificatori».",
+      "examples": [
+        {
+          "hanzi": "今天星期六。",
+          "pinyin": "Jīntiān xīngqīliù.",
+          "italian": "Oggi è sabato."
+        },
+        {
+          "hanzi": "明天十月十九号。",
+          "pinyin": "Míngtiān shí yuè shíjiǔ hào.",
+          "italian": "Domani è il 19 ottobre."
+        },
+        {
+          "hanzi": "现在三点半。",
+          "pinyin": "Xiànzài sān diǎn bàn.",
+          "italian": "Sono le tre e mezza."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Predicato verbale o aggettivale",
+      "unit": 4,
+      "source": "content/01j_frase_predicati.txt",
+      "sourceHeading": "Frasi a predicato aggettivale",
+      "syllabusPage": 387,
+      "body": "Nella frase a predicato aggettivale (形容词谓语句 xíngróngcí wèiyǔ jù) l'aggettivo fa da predicato da solo, senza alcun verbo, come se fosse un verbo che significa «essere alto», «essere stanco». Nella frase affermativa l'aggettivo è di solito preceduto da 很 hěn o da un altro avverbio di grado.\n\nIn questa posizione 很 hěn ha un significato molto debole e non va tradotto sempre con «molto»: 我很好 wǒ hěn hǎo significa semplicemente «sto bene». Se manca qualunque avverbio, l'aggettivo da solo assume un valore di confronto o di contrasto, implicito o esplicito:",
+      "examples": [
+        {
+          "hanzi": "我很好。",
+          "pinyin": "Wǒ hěn hǎo.",
+          "italian": "Sto bene."
+        },
+        {
+          "hanzi": "今天很冷。",
+          "pinyin": "Jīntiān hěn lěng.",
+          "italian": "Oggi fa freddo."
+        },
+        {
+          "hanzi": "汉语很有意思。",
+          "pinyin": "Hànyǔ hěn yǒu yìsi.",
+          "italian": "Il cinese è interessante."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "L’oggetto",
+      "unit": 1,
+      "source": "content/01f_ordine_base.txt",
+      "sourceHeading": "L'ordine di base soggetto – verbo – oggetto",
+      "syllabusPage": 387,
+      "body": "Come in italiano, l'ordine di base è soggetto – verbo – oggetto.\n\nA differenza dell'italiano, però, l'oggetto segue il verbo anche quando è un pronome: non esiste nulla di simile ai pronomi atoni italiani che precedono il verbo («ti amo», «lo vedo»).",
+      "examples": [
+        {
+          "hanzi": "我喝茶。",
+          "pinyin": "Wǒ hē chá.",
+          "italian": "Bevo tè."
+        },
+        {
+          "hanzi": "玛丽亚学习汉语。",
+          "pinyin": "Mǎlìyà xuéxí Hànyǔ.",
+          "italian": "Maria studia cinese."
+        },
+        {
+          "hanzi": "小王喜欢踢足球。",
+          "pinyin": "Xiǎo Wáng xǐhuan tī zúqiú.",
+          "italian": "A Xiao Wang piace giocare a calcio."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "L’attributo",
+      "unit": 3,
+      "source": "content/01g_ordine_attributi.txt",
+      "sourceHeading": "L'ordine degli attributi multipli",
+      "syllabusPage": 387,
+      "body": "Quando un nome è preceduto da più attributi, questi seguono un ordine abbastanza fisso. In linea generale gli elementi che delimitano e identificano (a chi appartiene? quale? quanti?) vengono prima, quelli che descrivono (com'è?) vengono dopo, e gli elementi più strettamente legati al nome, che ne indicano il tipo o il materiale, stanno immediatamente prima di esso.\n\nNaturalmente è raro che siano presenti tutti insieme. Ecco alcuni esempi, dal più semplice al più complesso:",
+      "examples": [
+        {
+          "hanzi": "他那件红色的毛衣",
+          "pinyin": "tā nà jiàn hóngsè de máoyī",
+          "italian": "quel suo maglione rosso"
+        },
+        {
+          "hanzi": "我的那两本新买的中文书",
+          "pinyin": "wǒ de nà liǎng běn xīn mǎi de Zhōngwén shū",
+          "italian": "quei miei due libri di cinese comprati da poco"
+        },
+        {
+          "hanzi": "桌子上那个蓝色的大杯子",
+          "pinyin": "zhuōzi shang nàge lánsè de dà bēizi",
+          "italian": "quel grande bicchiere blu sul tavolo"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Tempo e luogo prima del verbo",
+      "unit": 2,
+      "source": "content/01f_ordine_base.txt",
+      "sourceHeading": "Tempo e luogo",
+      "syllabusPage": 387,
+      "body": "Le espressioni di tempo che indicano quando avviene l'azione e le espressioni di luogo che indicano dove avviene si mettono prima del verbo. L'ordine normale è: prima il tempo, poi il luogo, poi il verbo.\n\nL'espressione di tempo può stare subito dopo il soggetto o prima del soggetto, all'inizio della frase. Messa all'inizio, fa da cornice a tutta la frase e riceve un certo rilievo, soprattutto quando è lunga o quando si contrappone a un altro tempo. Non può invece stare in fondo alla frase, come succede spesso in italiano («Vado a Pechino domani»).",
+      "examples": [
+        {
+          "hanzi": "我明天去北京。",
+          "pinyin": "Wǒ míngtiān qù Běijīng.",
+          "italian": "Domani vado a Pechino."
+        },
+        {
+          "hanzi": "明天我去北京。",
+          "pinyin": "Míngtiān wǒ qù Běijīng.",
+          "italian": "Domani vado a Pechino."
+        },
+        {
+          "hanzi": "我每天早上七点起床。",
+          "pinyin": "Wǒ měi tiān zǎoshang qī diǎn qǐchuáng.",
+          "italian": "Mi alzo ogni mattina alle sette."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Complemento di quantità",
+      "unit": 11,
+      "source": "content/04r_quantita_1.txt",
+      "sourceHeading": "I complementi di quantità",
+      "syllabusPage": 387,
+      "body": "I complementi di quantità «misurano» l'azione o la qualità espressa dal predicato: per quanto tempo dura un'azione (complemento di durata), quante volte si compie (complemento di frequenza), di quanto differisce una qualità (complemento di quantità differenziale). Tutti si collocano dopo il verbo o l'aggettivo, a differenza dell'italiano, dove queste indicazioni sono molto libere nella frase.\n\nIl complemento di durata (时量补语 shíliàng bǔyǔ) indica per quanto tempo si svolge un'azione o dura uno stato. Segue il verbo, con 了 le o 过 guò se l'azione è compiuta o vissuta.",
+      "examples": [
+        {
+          "hanzi": "我等了半个小时。",
+          "pinyin": "Wǒ děng le bàn ge xiǎoshí.",
+          "italian": "Ho aspettato mezz'ora."
+        },
+        {
+          "hanzi": "他每天睡八个小时。",
+          "pinyin": "Tā měi tiān shuì bā ge xiǎoshí.",
+          "italian": "Dorme otto ore al giorno."
+        },
+        {
+          "hanzi": "我们休息一会儿吧。",
+          "pinyin": "Wǒmen xiūxi yíhuìr ba.",
+          "italian": "Riposiamoci un po'."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Frase con predicato verbale",
+      "unit": 1,
+      "source": "content/01j_frase_predicati.txt",
+      "sourceHeading": "Frasi a predicato soggetto-predicato",
+      "syllabusPage": 387,
+      "body": "Nella frase a predicato soggetto-predicato (主谓谓语句 zhǔwèi wèiyǔ jù) il predicato è a sua volta formato da un soggetto e da un predicato. Il primo elemento della frase funziona come un tema: indica la persona, la cosa o il luogo di cui si parla; il secondo soggetto ne specifica una parte, un aspetto o un ambito; il predicato finale dice qualcosa di questo secondo soggetto.\n\nIn italiano queste frasi si traducono quasi sempre ristrutturandole: con il verbo «avere» («ho mal di testa»), con complementi di limitazione («sta bene di salute») o con altri giri di frase.",
+      "examples": [
+        {
+          "hanzi": "他身体很好。",
+          "pinyin": "Tā shēntǐ hěn hǎo.",
+          "italian": "Sta bene di salute. (lett. lui, corpo molto bene)"
+        },
+        {
+          "hanzi": "我头疼。",
+          "pinyin": "Wǒ tóu téng.",
+          "italian": "Ho mal di testa. (lett. io, testa fa male)"
+        },
+        {
+          "hanzi": "她眼睛很大。",
+          "pinyin": "Tā yǎnjing hěn dà.",
+          "italian": "Ha gli occhi grandi."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Frase con predicato aggettivale",
+      "unit": 4,
+      "source": "content/03i_aggettivo_predicato.txt",
+      "sourceHeading": "L'aggettivo",
+      "syllabusPage": 387,
+      "body": "L'aggettivo (形容词 xíngróngcí) cinese è molto più vicino al verbo di quello italiano: non concorda in genere e numero, può fare da predicato senza alcun verbo «essere» e, come il verbo, si nega con 不 bù e prende 了 le per indicare un cambiamento. Per questo alcune grammatiche lo chiamano «verbo di qualità». Quando modifica un nome, invece, lo precede sempre.\n\nNella frase con predicato aggettivale (形容词谓语句 xíngróngcí wèiyǔ jù) l'aggettivo segue direttamente il soggetto: «essere» non si traduce.",
+      "examples": [
+        {
+          "hanzi": "今天很冷。",
+          "pinyin": "Jīntiān hěn lěng.",
+          "italian": "Oggi fa freddo."
+        },
+        {
+          "hanzi": "她很漂亮。",
+          "pinyin": "Tā hěn piàoliang.",
+          "italian": "È carina."
+        },
+        {
+          "hanzi": "我最近很忙。",
+          "pinyin": "Wǒ zuìjìn hěn máng.",
+          "italian": "Ultimamente sono molto impegnato."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Frase con predicato nominale",
+      "unit": 2,
+      "source": "content/01j_frase_predicati.txt",
+      "sourceHeading": "Frasi a predicato nominale",
+      "syllabusPage": 387,
+      "body": "Nella frase a predicato nominale (名词谓语句 míngcí wèiyǔ jù) un nome o un'espressione nominale fa da predicato direttamente, senza 是 shì. Non si tratta di una possibilità generale: il predicato nominale si usa quasi soltanto con espressioni di tempo e con espressioni numeriche, cioè per indicare date, giorni della settimana, ore, età, prezzi, quantità, e inoltre per la provenienza e il tempo atmosferico. Sono frasi brevi, tipiche della lingua parlata.\n\nIl 斤 jīn è un'unità di peso tradizionale ancora molto usata nei mercati: corrisponde a mezzo chilo. Vedi il capitolo «I classificatori».",
+      "examples": [
+        {
+          "hanzi": "今天星期六。",
+          "pinyin": "Jīntiān xīngqīliù.",
+          "italian": "Oggi è sabato."
+        },
+        {
+          "hanzi": "明天十月十九号。",
+          "pinyin": "Míngtiān shí yuè shíjiǔ hào.",
+          "italian": "Domani è il 19 ottobre."
+        },
+        {
+          "hanzi": "现在三点半。",
+          "pinyin": "Xiànzài sān diǎn bàn.",
+          "italian": "Sono le tre e mezza."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Frasi senza soggetto espresso",
+      "unit": 6,
+      "source": "content/01h_ordine_tema.txt",
+      "sourceHeading": "L'omissione del soggetto",
+      "syllabusPage": 387,
+      "body": "Il soggetto si omette quando è chiaro dal contesto, soprattutto nelle frasi coordinate, nelle risposte, negli ordini e nelle frasi che descrivono fenomeni naturali.\n\nI pronomi soggetto si usano in cinese più spesso che in italiano, perché il verbo non indica la persona: 我去 wǒ qù «vado», 你去 nǐ qù «vai». Si omettono quando il contesto è chiaro, ma una frase isolata come 去 qù non dice chi va.",
+      "examples": [
+        {
+          "hanzi": "我昨天去了超市，买了很多东西。",
+          "pinyin": "Wǒ zuótiān qù le chāoshì, mǎi le hěn duō dōngxi.",
+          "italian": "Ieri sono andato al supermercato e ho comprato un sacco di cose."
+        },
+        {
+          "hanzi": "下雨了。",
+          "pinyin": "Xià yǔ le.",
+          "italian": "Si è messo a piovere."
+        },
+        {
+          "hanzi": "A：你在做什么？B：看电视。",
+          "pinyin": "A: Nǐ zài zuò shénme? B: Kàn diànshì.",
+          "italian": "A: Che cosa stai facendo? B: Guardo la televisione."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Frase dichiarativa",
+      "unit": 1,
+      "source": "content/01f_ordine_base.txt",
+      "sourceHeading": "L'ordine delle parole",
+      "syllabusPage": 387,
+      "body": "In una lingua senza desinenze l'ordine delle parole (语序 yǔxù) è il principale strumento grammaticale: indica chi compie l'azione, che cosa la subisce, quali elementi modificano quali altri. L'ordine cinese è molto più rigido di quello italiano e segue pochi principi generali, che questo capitolo presenta uno per uno.\n\nCome in italiano, l'ordine di base è soggetto – verbo – oggetto.",
+      "examples": [
+        {
+          "hanzi": "我喝茶。",
+          "pinyin": "Wǒ hē chá.",
+          "italian": "Bevo tè."
+        },
+        {
+          "hanzi": "玛丽亚学习汉语。",
+          "pinyin": "Mǎlìyà xuéxí Hànyǔ.",
+          "italian": "Maria studia cinese."
+        },
+        {
+          "hanzi": "小王喜欢踢足球。",
+          "pinyin": "Xiǎo Wáng xǐhuan tī zúqiú.",
+          "italian": "A Xiao Wang piace giocare a calcio."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Domande sì/no",
+      "unit": 1,
+      "source": "content/05c_interrogative.txt",
+      "sourceHeading": "Domande con 吗 ma",
+      "syllabusPage": 387,
+      "body": "Le domande con 吗 ma, dette anche domande sì/no (是非问句 shìfēi wènjù), si formano aggiungendo 吗 ma a una frase affermativa o negativa, senza cambiare nient'altro. Sono il tipo di domanda più semplice e più frequente.\n\nIl cinese non ha una parola che corrisponda esattamente a «sì». Per rispondere affermativamente si ripete il verbo, l'aggettivo o il verbo modale della domanda (senza l'oggetto); per rispondere negativamente lo si nega con 不 bù o 没 méi.",
+      "examples": [
+        {
+          "hanzi": "你是学生吗？",
+          "pinyin": "Nǐ shì xuésheng ma?",
+          "italian": "Sei uno studente?"
+        },
+        {
+          "hanzi": "你喜欢吃辣的吗？",
+          "pinyin": "Nǐ xǐhuan chī là de ma?",
+          "italian": "Ti piace il piccante?"
+        },
+        {
+          "hanzi": "你明天来吗？",
+          "pinyin": "Nǐ míngtiān lái ma?",
+          "italian": "Vieni domani?"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Domande aperte",
+      "unit": 1,
+      "source": "content/02e_interrogativi.txt",
+      "sourceHeading": "I pronomi interrogativi",
+      "syllabusPage": 387,
+      "body": "I pronomi interrogativi servono a formare le domande aperte, quelle che chiedono un'informazione precisa (chi, che cosa, dove, quando…). Qui ne vediamo forma e significato; la costruzione delle domande in generale è trattata nel capitolo «Le frasi interrogative».\n\nIn cinese il pronome interrogativo occupa la stessa posizione che avrà la risposta: non si sposta all'inizio della frase come in italiano e l'ordine delle parole non cambia. Per rispondere basta sostituire il pronome con l'informazione richiesta.",
+      "examples": [
+        {
+          "hanzi": "A：你去哪儿？B：我去银行。",
+          "pinyin": "A: Nǐ qù nǎr? B: Wǒ qù yínháng.",
+          "italian": "A: Dove vai? B: Vado in banca. (lett. tu andare dove?)"
+        },
+        {
+          "hanzi": "A：谁是你们的老师？B：李老师是我们的老师。",
+          "pinyin": "A: Shéi shì nǐmen de lǎoshī? B: Lǐ lǎoshī shì wǒmen de lǎoshī.",
+          "italian": "A: Chi è il vostro insegnante? B: È il professor Li."
+        },
+        {
+          "hanzi": "A：你什么时候回来？B：我下个月回来。",
+          "pinyin": "A: Nǐ shénme shíhou huílai? B: Wǒ xià ge yuè huílai.",
+          "italian": "A: Quando torni? B: Torno il mese prossimo."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Domande affermativo-negative",
+      "unit": 6,
+      "source": "content/05d_interrogative2.txt",
+      "sourceHeading": "Domande con 多 duō + aggettivo",
+      "syllabusPage": 387,
+      "body": "Per chiedere una misura (età, altezza, lunghezza, distanza, peso, durata) si usa 多 duō «quanto» seguito da un aggettivo; davanti a 多 duō si può mettere 有 yǒu. Si usano gli aggettivi che indicano il polo «positivo» della misura: 大 dà, 高 gāo, 长 zhǎng, 远 yuǎn, 重 zhòng, 宽 kuān, 深 shēn, 久 jiǔ.\n\nNella risposta la misura precede l'aggettivo, che spesso si omette:",
+      "examples": [
+        {
+          "hanzi": "你今年多大？",
+          "pinyin": "Nǐ jīnnián duō dà?",
+          "italian": "Quanti anni hai?"
+        },
+        {
+          "hanzi": "你多高？",
+          "pinyin": "Nǐ duō gāo?",
+          "italian": "Quanto sei alto?"
+        },
+        {
+          "hanzi": "长江有多长？",
+          "pinyin": "Cháng Jiāng yǒu duō cháng?",
+          "italian": "Quanto è lungo il Fiume Azzurro?"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Richieste e comandi",
+      "unit": 6,
+      "source": "content/05i_imperative.txt",
+      "sourceHeading": "Le frasi imperative ed esclamative",
+      "syllabusPage": 387,
+      "body": "Questo capitolo tratta due tipi di frase che servono non tanto a informare quanto ad agire sull'interlocutore o a esprimere un'emozione: le frasi imperative (祈使句 qíshǐjù), con cui si dà un ordine, si chiede, si invita, si consiglia o si vieta, e le frasi esclamative (感叹句 gǎntànjù), con cui si manifesta sorpresa, ammirazione, gioia, dolore o disappunto.\n\nIl cinese non ha un modo imperativo: il verbo resta invariato (vedi il capitolo «Il verbo»). Una frase è imperativa per la situazione, l'intonazione e una serie di elementi che ne regolano la forza: il soggetto 你 nǐ/您 nín/你们 nǐ men (spesso omesso), avverbi come 快 kuài, 请 qǐng, 千万 qiān wàn, 一定 yí dìng, particelle modali come 吧 ba e 啊 a, e forme che attenuano l'azione come 一下 yī xià o la reduplicazione del verbo.",
+      "examples": [
+        {
+          "hanzi": "听我说！",
+          "pinyin": "Tīng wǒ shuō!",
+          "italian": "Ascoltami!"
+        },
+        {
+          "hanzi": "你过来。",
+          "pinyin": "Nǐ guòlai.",
+          "italian": "Vieni qui."
+        },
+        {
+          "hanzi": "同学们，打开书，看第十页。",
+          "pinyin": "Tóngxuémen, dǎkāi shū, kàn dì-shí yè.",
+          "italian": "Ragazzi, aprite il libro e guardate pagina dieci."
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Esclamazioni",
+      "unit": 4,
+      "source": "content/05j_esclamative.txt",
+      "sourceHeading": "太 tài……了 le",
+      "syllabusPage": 387,
+      "body": "太 tài + Agg + 了 le è la struttura esclamativa più comune. Ha due valori: un giudizio positivo entusiasta («che bello!», «fantastico!») oppure un eccesso («troppo»), secondo il contesto e l'aggettivo.\n\nLa forma negativa 不太 bù tài + Agg «non molto» non è un'esclamazione ma un'attenuazione, e non richiede 了 le (vedi il capitolo «Gli avverbi»):",
+      "examples": [
+        {
+          "hanzi": "太好了！",
+          "pinyin": "Tài hǎo le!",
+          "italian": "Fantastico!"
+        },
+        {
+          "hanzi": "你的中文太棒了！",
+          "pinyin": "Nǐ de Zhōngwén tài bàng le!",
+          "italian": "Il tuo cinese è eccezionale!"
+        },
+        {
+          "hanzi": "太感谢你了！",
+          "pinyin": "Tài gǎnxiè nǐ le!",
+          "italian": "Grazie infinite!"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Identità e categoria",
+      "unit": 1,
+      "source": "content/01i_frase_shi.txt",
+      "sourceHeading": "La frase semplice e il verbo 是 shì",
+      "syllabusPage": 387,
+      "body": "La frase semplice (单句 dānjù) è formata da un soggetto e da un predicato. In italiano il predicato contiene sempre un verbo: anche quando si attribuisce una qualità al soggetto si usa il verbo «essere» («Marco è alto»). In cinese, invece, il predicato può essere un verbo, ma anche un aggettivo, un nome o perfino un'intera frase, senza alcun verbo copulativo. Questo capitolo presenta i tipi di predicato e il verbo 是 shì, che corrisponde solo in parte all'italiano «essere».\n\nSecondo la natura del predicato la grammatica cinese distingue quattro tipi di frase:",
+      "examples": [
+        {
+          "hanzi": "他来了。",
+          "pinyin": "Tā lái le.",
+          "italian": "È arrivato."
+        },
+        {
+          "hanzi": "我喜欢听音乐。",
+          "pinyin": "Wǒ xǐhuan tīng yīnyuè.",
+          "italian": "Mi piace ascoltare musica."
+        },
+        {
+          "hanzi": "我是意大利人。",
+          "pinyin": "Wǒ shì Yìdàlìrén.",
+          "italian": "Sono italiano."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Il possesso",
+      "unit": 1,
+      "source": "content/05a_you.txt",
+      "sourceHeading": "有 yǒu e il possesso",
+      "syllabusPage": 387,
+      "body": "Quando indica possesso, 有 yǒu si comporta come un normale verbo transitivo: il possessore è il soggetto e ciò che si possiede è l'oggetto. Se l'oggetto è numerabile, è spesso preceduto da numerale e classificatore (vedi il capitolo «I classificatori»).\n\nCome «avere» in italiano, 有 yǒu esprime anche il rapporto fra un tutto e le sue parti, le relazioni di parentela e molti possessi astratti:",
+      "examples": [
+        {
+          "hanzi": "我有一个哥哥。",
+          "pinyin": "Wǒ yǒu yí ge gēge.",
+          "italian": "Ho un fratello maggiore."
+        },
+        {
+          "hanzi": "小王有两只猫。",
+          "pinyin": "Xiǎo Wáng yǒu liǎng zhī māo.",
+          "italian": "Xiao Wang ha due gatti."
+        },
+        {
+          "hanzi": "李老师有很多中文书。",
+          "pinyin": "Lǐ lǎoshī yǒu hěn duō Zhōngwén shū.",
+          "italian": "Il professor Li ha molti libri in cinese."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Identificare qualcosa in un luogo",
+      "unit": 5,
+      "source": "content/05b_esistenziali.txt",
+      "sourceHeading": "Le frasi esistenziali (存现句 cún xiàn jù)",
+      "syllabusPage": 387,
+      "body": "Oltre a 有 yǒu e 是 shì, molti altri verbi possono comparire in frasi che indicano che qualcosa esiste, compare o scompare in un luogo. Queste frasi si chiamano esistenziali (存现句 cúnxiànjù, lett. «frasi di esistenza e di comparsa»). La struttura è la stessa della frase con 有 yǒu: all'inizio c'è un'espressione di luogo (o di tempo), poi il verbo, accompagnato da 着 zhe, da 了 le o da un complemento, e infine il nome della persona o della cosa che esiste, compare o scompare.\n\nIl verbo indica il modo in cui qualcosa si trova in un luogo (in piedi, appeso, scritto, parcheggiato…) ed è seguito da 着 zhe, che esprime uno stato che dura (vedi il capitolo «Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe»). Verbi tipici sono 站 zhàn, 坐 zuò, 躺 tǎng, 住 zhù, 挂 guà, 放 fàng, 摆 bǎi, 贴 tiē, 写 xiě, 停 tíng, 种 zhǒng.",
+      "examples": [
+        {
+          "hanzi": "门口站着一个人。",
+          "pinyin": "Ménkǒu zhàn zhe yí ge rén.",
+          "italian": "Alla porta c'è una persona (in piedi)."
+        },
+        {
+          "hanzi": "墙上挂着两张画。",
+          "pinyin": "Qiáng shang guà zhe liǎng zhāng huà.",
+          "italian": "Alla parete sono appesi due quadri."
+        },
+        {
+          "hanzi": "桌子上放着一杯咖啡。",
+          "pinyin": "Zhuōzi shang fàng zhe yì bēi kāfēi.",
+          "italian": "Sul tavolo c'è una tazza di caffè."
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Dire che cosa c’è",
+      "unit": 5,
+      "source": "content/05b_esistenziali.txt",
+      "sourceHeading": "有人 yǒu rén e 没人 méi rén",
+      "syllabusPage": 387,
+      "body": "Le frasi che cominciano con 有人 yǒu rén «qualcuno» o con 没 méi(有 yǒu)人 rén «nessuno» non hanno un soggetto vero e proprio: il soggetto indefinito è introdotto da 有 yǒu (vedi sopra «Altri usi di 有 yǒu»).",
+      "examples": [
+        {
+          "hanzi": "有人敲门。",
+          "pinyin": "Yǒu rén qiāo mén.",
+          "italian": "Qualcuno bussa alla porta."
+        },
+        {
+          "hanzi": "有人在吗？",
+          "pinyin": "Yǒu rén zài ma?",
+          "italian": "C'è qualcuno?"
+        },
+        {
+          "hanzi": "没人知道他去哪儿了。",
+          "pinyin": "Méi rén zhīdao tā qù nǎr le.",
+          "italian": "Nessuno sa dove sia andato."
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Azioni in successione e scopo",
+      "unit": 8,
+      "source": "content/06h_verbi_in_serie.txt",
+      "sourceHeading": "Lo scopo",
+      "syllabusPage": 387,
+      "body": "Il primo verbo indica un movimento (去 qù, 来 lái, 回 huí, 到 dào, 上 shàng), il secondo lo scopo del movimento. Per lo scopo immediato di uno spostamento non serve 为了 wèi le «per».\n\nIl luogo può mancare. 来 lái + V senza alcun movimento indica anche che il parlante «si incarica» di fare qualcosa.",
+      "examples": [
+        {
+          "hanzi": "我去商店买东西。",
+          "pinyin": "Wǒ qù shāngdiàn mǎi dōngxi.",
+          "italian": "Vado al negozio a fare acquisti."
+        },
+        {
+          "hanzi": "他来中国学习汉语。",
+          "pinyin": "Tā lái Zhōngguó xuéxí Hànyǔ.",
+          "italian": "È venuto in Cina a studiare il cinese."
+        },
+        {
+          "hanzi": "我们去图书馆借书吧。",
+          "pinyin": "Wǒmen qù túshūguǎn jiè shū ba.",
+          "italian": "Andiamo in biblioteca a prendere dei libri in prestito."
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Il mezzo di un’azione",
+      "unit": 8,
+      "source": "content/06h_verbi_in_serie.txt",
+      "sourceHeading": "Il mezzo e il modo",
+      "syllabusPage": 387,
+      "body": "Il primo verbo, con il suo oggetto, indica il mezzo di trasporto, lo strumento o il modo; il secondo l'azione principale. In italiano il mezzo segue di solito il verbo («vado a Pechino in aereo»); in cinese lo precede sempre.\n\nCon 着 zhe dopo il primo verbo si indica il modo o lo stato che accompagna l'azione principale, come un gerundio italiano (vedi il capitolo «Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe»).",
+      "examples": [
+        {
+          "hanzi": "他坐飞机去北京。",
+          "pinyin": "Tā zuò fēijī qù Běijīng.",
+          "italian": "Va a Pechino in aereo."
+        },
+        {
+          "hanzi": "我每天骑自行车上班。",
+          "pinyin": "Wǒ měi tiān qí zìxíngchē shàng bān.",
+          "italian": "Ogni giorno vado al lavoro in bicicletta."
+        },
+        {
+          "hanzi": "中国人用筷子吃饭。",
+          "pinyin": "Zhōngguórén yòng kuàizi chī fàn.",
+          "italian": "I cinesi mangiano con le bacchette."
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Verbi con due oggetti",
+      "unit": 6,
+      "source": "content/03a_verbo.txt",
+      "sourceHeading": "Il verbo come soggetto e come oggetto",
+      "syllabusPage": 387,
+      "body": "Un verbo, da solo o con il suo oggetto, può fare da soggetto o da oggetto di un altro verbo senza alcun cambiamento di forma: non servono infinito, articolo o suffissi. Dove l'italiano usa l'infinito («nuotare è divertente», «mi piace leggere»), il cinese mette semplicemente il verbo.",
+      "examples": [
+        {
+          "hanzi": "游泳很有意思。",
+          "pinyin": "Yóuyǒng hěn yǒu yìsi.",
+          "italian": "Nuotare è molto divertente."
+        },
+        {
+          "hanzi": "学汉语不太难。",
+          "pinyin": "Xué Hànyǔ bú tài nán.",
+          "italian": "Studiare il cinese non è molto difficile."
+        },
+        {
+          "hanzi": "抽烟对身体不好。",
+          "pinyin": "Chōuyān duì shēntǐ bù hǎo.",
+          "italian": "Fumare fa male alla salute."
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Frasi unite senza congiunzioni",
+      "unit": 13,
+      "source": "content/07a_frasi_complesse.txt",
+      "sourceHeading": "Le frasi complesse: principi generali",
+      "syllabusPage": 388,
+      "body": "Una frase complessa (复句 fùjù) è formata da due o più proposizioni (分句 fēnjù) legate da un rapporto logico: causa, condizione, contrasto, successione e così via. Si contrappone alla frase semplice (单句 dānjù), che contiene un solo predicato principale. Il rapporto tra le proposizioni può essere espresso da parole di collegamento, dette in cinese 关联词语 guānlián cíyǔ («parole correlative»), oppure può restare implicito e affidato al contesto.\n\nIn questa parte della grammatica si descrivono prima i principi comuni a tutte le frasi complesse (ordine delle proposizioni, posizione delle congiunzioni e degli avverbi correlativi, paratassi), poi i singoli tipi di rapporto nei capitoli successivi.",
+      "examples": [
+        {
+          "hanzi": "因为下雨，所以比赛取消了。",
+          "pinyin": "Yīnwèi xià yǔ, suǒyǐ bǐsài qǔxiāo le.",
+          "italian": "Siccome pioveva, la partita è stata annullata."
+        },
+        {
+          "hanzi": "如果明天不下雨，我们就去爬山。",
+          "pinyin": "Rúguǒ míngtiān bú xià yǔ, wǒmen jiù qù pá shān.",
+          "italian": "Se domani non piove, andiamo a fare un'escursione in montagna."
+        },
+        {
+          "hanzi": "只要你努力，就一定能学好。",
+          "pinyin": "Zhǐyào nǐ nǔlì, jiù yídìng néng xuéhǎo.",
+          "italian": "Basta che ti impegni, e imparerai di sicuro."
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Aggiungere con «anche»",
+      "unit": 13,
+      "source": "content/07b_coordinate.txt",
+      "sourceHeading": "既 jì……又 yòu/也 yě……",
+      "syllabusPage": 388,
+      "body": "既 jì……又 yòu…… jì… yòu… ha lo stesso valore di 又 yòu……又 yòu……, ma è più formale e sottolinea che entrambe le cose sono vere («sia… sia…», «tanto… quanto…»). 既 jì……也 yě…… si usa soprattutto con verbi e sintagmi verbali.\n\n既 jì……又 yòu…… (coordinazione) non va confuso con 既然 jì rán……就 jiù…… («dal momento che…»), che è causale (vedi il capitolo «Frasi causali, ipotetiche e condizionali»).",
+      "examples": [
+        {
+          "hanzi": "她既聪明又漂亮。",
+          "pinyin": "Tā jì cōngming yòu piàoliang.",
+          "italian": "È tanto intelligente quanto bella."
+        },
+        {
+          "hanzi": "这种方法既省时间又省钱。",
+          "pinyin": "Zhè zhǒng fāngfǎ jì shěng shíjiān yòu shěng qián.",
+          "italian": "Questo metodo fa risparmiare sia tempo sia denaro."
+        },
+        {
+          "hanzi": "学习汉语，既要多听，也要多说。",
+          "pinyin": "Xuéxí Hànyǔ, jì yào duō tīng, yě yào duō shuō.",
+          "italian": "Per imparare il cinese bisogna sia ascoltare molto, sia parlare molto."
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Aggiungere con «ancora»",
+      "unit": 13,
+      "source": "content/07b_coordinate.txt",
+      "sourceHeading": "Frasi coordinate, successive e progressive",
+      "syllabusPage": 388,
+      "body": "In questo capitolo si trattano tre tipi di frasi complesse coordinate: le frasi coordinate in senso stretto (并列复句 bìngliè fùjù), che accostano fatti o qualità di pari importanza; le frasi successive (承接复句 chéngjiē fùjù), che presentano azioni in ordine cronologico; le frasi progressive (递进复句 dìjìn fùjù), in cui la seconda proposizione «va oltre» la prima. Per i principi generali (ordine delle proposizioni, posizione di congiunzioni e avverbi) vedi il capitolo «Le frasi complesse: principi generali».\n\n又……又…… yòu… yòu… unisce due qualità o due stati che coesistono nello stesso soggetto («e… e…», «sia… sia…»). Si usa soprattutto con aggettivi, ma anche con verbi: in questo caso descrive azioni che si alternano o si ripetono in una scena vivace, oppure due sentimenti contrastanti.",
+      "examples": [
+        {
+          "hanzi": "这个苹果又大又甜。",
+          "pinyin": "Zhège píngguǒ yòu dà yòu tián.",
+          "italian": "Questa mela è grande e dolce."
+        },
+        {
+          "hanzi": "他又高又帅。",
+          "pinyin": "Tā yòu gāo yòu shuài.",
+          "italian": "È alto e bello."
+        },
+        {
+          "hanzi": "我又累又饿。",
+          "pinyin": "Wǒ yòu lèi yòu è.",
+          "italian": "Sono stanco e affamato."
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Azione compiuta",
+      "unit": 7,
+      "source": "content/04b_le_1.txt",
+      "sourceHeading": "La particella 了 le",
+      "syllabusPage": 388,
+      "body": "了 le è la particella più frequente e, per chi studia il cinese, la più insidiosa. In realtà dietro la stessa forma si nascondono due particelle diverse:\n\nQuando il verbo si trova in fondo alla frase, le due particelle coincidono in un unico 了 le (他走了 tā zǒu le。«Se n'è andato.»): vedi la sezione «了 le₁ e 了 le₂ insieme».",
+      "examples": [
+        {
+          "hanzi": "我买了三本书。",
+          "pinyin": "Wǒ mǎi le sān běn shū.",
+          "italian": "Ho comprato tre libri."
+        },
+        {
+          "hanzi": "我看了那部电影。",
+          "pinyin": "Wǒ kàn le nà bù diànyǐng.",
+          "italian": "Ho visto quel film."
+        },
+        {
+          "hanzi": "玛丽亚喝了一杯咖啡。",
+          "pinyin": "Mǎlìyà hē le yì bēi kāfēi.",
+          "italian": "Maria ha bevuto un caffè."
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Cambiamento di situazione",
+      "unit": 7,
+      "source": "content/04c_le_2.txt",
+      "sourceHeading": "了 le₁ e 了 le₂ insieme",
+      "syllabusPage": 388,
+      "body": "Se dopo il verbo (o dopo il verbo con il suo complemento) non c'è nient'altro, 了 le₁ e 了 le₂ si fondono in un unico 了 le, che indica allo stesso tempo l'azione compiuta e la situazione nuova.\n\nQuando la frase contiene sia 了 le₁ dopo il verbo sia 了 le₂ in fondo, con in mezzo una durata o una quantità, il significato cambia in modo importante: la durata o la quantità indicate sono quelle raggiunte *fino a questo momento*, e di solito l'azione continua.",
+      "examples": [
+        {
+          "hanzi": "他走了。",
+          "pinyin": "Tā zǒu le.",
+          "italian": "Se n'è andato."
+        },
+        {
+          "hanzi": "我明白了。",
+          "pinyin": "Wǒ míngbai le.",
+          "italian": "Ho capito."
+        },
+        {
+          "hanzi": "客人都来了。",
+          "pinyin": "Kèrén dōu lái le.",
+          "italian": "Gli ospiti sono arrivati tutti."
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Azione in corso",
+      "unit": 11,
+      "source": "content/04f_zai_zhe_1.txt",
+      "sourceHeading": "Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe",
+      "syllabusPage": 388,
+      "body": "Il cinese distingue con cura due situazioni che chi parla italiano tende a confondere quando traduce: l'azione in corso di svolgimento (aspetto progressivo: «sta leggendo») e lo stato che perdura come risultato di un'azione (aspetto durativo: «è seduto», «la porta è aperta»). La prima si esprime con gli avverbi 在 zài, 正在 zhèng zài, 正 zhèng e con la particella 呢 ne; la seconda con la particella aspettuale 着 zhe.\n\nIl progressivo non indica il presente: con un'espressione di tempo o una frase con ……的时候 de shí hòu si colloca nel passato o nel futuro, come l'italiano «stavo facendo» o «starò facendo».",
+      "examples": [
+        {
+          "hanzi": "他在看书。",
+          "pinyin": "Tā zài kàn shū.",
+          "italian": "Sta leggendo."
+        },
+        {
+          "hanzi": "妈妈正在做饭呢。",
+          "pinyin": "Māma zhèngzài zuò fàn ne.",
+          "italian": "La mamma sta preparando da mangiare."
+        },
+        {
+          "hanzi": "我们正开会呢，等一会儿再打给你。",
+          "pinyin": "Wǒmen zhèng kāihuì ne, děng yíhuìr zài dǎ gěi nǐ.",
+          "italian": "Siamo in riunione proprio adesso, ti richiamo tra un po'."
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Azione in corso con particella finale",
+      "unit": 11,
+      "source": "content/04f_zai_zhe_1.txt",
+      "sourceHeading": "在 zài, 正在 zhèng zài, 正 zhèng + V (+ 呢 ne)",
+      "syllabusPage": 388,
+      "body": "Il progressivo non indica il presente: con un'espressione di tempo o una frase con ……的时候 de shí hòu si colloca nel passato o nel futuro, come l'italiano «stavo facendo» o «starò facendo».\n\nSe il verbo è preceduto da 在 zài + luogo (preposizione), il 在 zài progressivo non si ripete: un solo 在 zài svolge entrambe le funzioni. Per sottolineare il progressivo si aggiunge 正 zhèng o 呢 ne.",
+      "examples": [
+        {
+          "hanzi": "他在看书。",
+          "pinyin": "Tā zài kàn shū.",
+          "italian": "Sta leggendo."
+        },
+        {
+          "hanzi": "妈妈正在做饭呢。",
+          "pinyin": "Māma zhèngzài zuò fàn ne.",
+          "italian": "La mamma sta preparando da mangiare."
+        },
+        {
+          "hanzi": "我们正开会呢，等一会儿再打给你。",
+          "pinyin": "Wǒmen zhèng kāihuì ne, děng yíhuìr zài dǎ gěi nǐ.",
+          "italian": "Siamo in riunione proprio adesso, ti richiamo tra un po'."
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Particella per azione in corso",
+      "unit": 11,
+      "source": "content/05h_particelle2.txt",
+      "sourceHeading": "嘛 ma, 呗 bei, 罢了 bà le, 而已 ér yǐ, 的 de, 着呢 zhe ne, 哦 ó",
+      "syllabusPage": 388,
+      "body": "嘛 ma presenta qualcosa come ovvio, evidente («…, no?», «si sa», «è chiaro»); nelle richieste esprime un'insistenza affettuosa o capricciosa («dai!»); dopo il tema segna una pausa.\n\n呗 bei, tipico del parlato del nord, presenta una soluzione come ovvia e semplice, spesso con una sfumatura di rassegnazione o di indifferenza: «e allora…», «basta…», «che problema c'è».",
+      "examples": [
+        {
+          "hanzi": "他还是个孩子嘛，别对他太严格。",
+          "pinyin": "Tā hái shì ge háizi ma, bié duì tā tài yángé.",
+          "italian": "È ancora un bambino, no? Non essere troppo severo con lui."
+        },
+        {
+          "hanzi": "有问题就问嘛。",
+          "pinyin": "Yǒu wèntí jiù wèn ma.",
+          "italian": "Se hai dei dubbi, chiedi, no?"
+        },
+        {
+          "hanzi": "我早就说过嘛！",
+          "pinyin": "Wǒ zǎo jiù shuō guo ma!",
+          "italian": "Te l'avevo detto, no?"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Prezzi e denaro",
+      "unit": 9,
+      "source": "content/02f_numeri.txt",
+      "sourceHeading": "I numeri",
+      "syllabusPage": 388,
+      "body": "I numerali (数词 shùcí) cinesi formano un sistema molto regolare: conoscendo le cifre da zero a dieci e poche unità superiori (百 bǎi «cento», 千 qiān «mille», 万 wàn «diecimila», 亿 yì «cento milioni») si può costruire qualsiasi numero. Richiedono attenzione soprattutto tre punti: l'uso di 零 líng per gli zeri interni, il raggruppamento delle cifre per quattro (万 wàn, 亿 yì) anziché per tre come in italiano, e la scelta tra 二 èr e 两 liǎng. Ricordiamo inoltre che tra un numerale e un nome è sempre necessario un classificatore (vedi il capitolo «I classificatori»).\n\nI numeri da 11 a 99 si formano per semplice combinazione, come se si dicesse «dieci-uno», «due-dieci», «due-dieci-uno».",
+      "examples": [
+        {
+          "hanzi": "我今年二十五岁。",
+          "pinyin": "Wǒ jīnnián èrshíwǔ suì.",
+          "italian": "Quest'anno ho venticinque anni."
+        },
+        {
+          "hanzi": "我们班有十八个学生。",
+          "pinyin": "Wǒmen bān yǒu shíbā ge xuésheng.",
+          "italian": "Nella nostra classe ci sono diciotto studenti."
+        },
+        {
+          "hanzi": "这本书四十九块。",
+          "pinyin": "Zhè běn shū sìshíjiǔ kuài.",
+          "italian": "Questo libro costa quarantanove yuan."
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Numeri ordinali",
+      "unit": 2,
+      "source": "content/02g_ordinali_approssimazione.txt",
+      "sourceHeading": "I numeri ordinali",
+      "syllabusPage": 388,
+      "body": "Gli ordinali si formano anteponendo al numero il prefisso 第 dì. Se segue un nome, tra l'ordinale e il nome si inserisce il classificatore, come con i cardinali. In pinyin 第 dì si unisce al numero con un trattino: dì-yī, dì-èr. Negli ordinali si usa sempre 二 èr, mai 两 liǎng, e 一 yī conserva il primo tono.\n\nNei racconti 第二天 dì èr tiān significa «il giorno dopo»; non va confuso con 两天 liǎng tiān «due giorni» (durata).",
+      "examples": [
+        {
+          "hanzi": "这是我第一次来中国。",
+          "pinyin": "Zhè shì wǒ dì-yī cì lái Zhōngguó.",
+          "italian": "È la prima volta che vengo in Cina."
+        },
+        {
+          "hanzi": "他考了第一名。",
+          "pinyin": "Tā kǎo le dì-yī míng.",
+          "italian": "È arrivato primo all'esame."
+        },
+        {
+          "hanzi": "第二天，我们去了长城。",
+          "pinyin": "Dì-èr tiān, wǒmen qù le Chángchéng.",
+          "italian": "Il giorno dopo siamo andati alla Grande Muraglia."
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Anni, mesi e giorni",
+      "unit": 2,
+      "source": "content/02j_tempo.txt",
+      "sourceHeading": "Le espressioni di tempo",
+      "syllabusPage": 388,
+      "body": "Le espressioni di tempo (时间词 shíjiāncí) comprendono le date, le ore, i giorni della settimana e le parole come 今天 jīn tiān, 去年 qù nián, 现在 xiàn zài. In cinese seguono due principi fondamentali: si procede sempre dall'unità più grande alla più piccola (anno, mese, giorno, ora), cioè all'opposto dell'italiano, e, quando indicano il momento di un'azione, si collocano prima del verbo, senza preposizioni (vedi i capitoli «Il sostantivo» e «L'ordine delle parole»).\n\nLo stesso principio vale per gli indirizzi, che cominciano dal paese e finiscono con il numero civico: 中国北京市海淀区 zhōng guó běi jīng shì hǎi diàn qū… «Cina, città di Pechino, distretto di Haidian…».",
+      "examples": [
+        {
+          "hanzi": "2026年10月18日星期日上午九点",
+          "pinyin": "èr líng èr liù nián shí yuè shíbā rì xīngqīrì shàngwǔ jiǔ diǎn",
+          "italian": "domenica 18 ottobre 2026, alle nove del mattino"
+        },
+        {
+          "hanzi": "我是1998年5月3号出生的。",
+          "pinyin": "Wǒ shì yī jiǔ jiǔ bā nián wǔ yuè sān hào chūshēng de.",
+          "italian": "Sono nato il 3 maggio 1998."
+        },
+        {
+          "hanzi": "会议下星期三下午两点开始。",
+          "pinyin": "Huìyì xià xīngqīsān xiàwǔ liǎng diǎn kāishǐ.",
+          "italian": "La riunione comincia mercoledì prossimo alle due del pomeriggio."
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Ore e minuti",
+      "unit": 2,
+      "source": "content/02j_tempo.txt",
+      "sourceHeading": "L'ora",
+      "syllabusPage": 388,
+      "body": "L'ora si indica con 点 diǎn (o 点钟 diǎnzhōng per le ore intere), i minuti con 分 fēn, il quarto d'ora con 刻 kè e la mezz'ora con 半 bàn; 差 chà «mancare» corrisponde all'italiano «meno».\n\nLa parte del giorno si colloca prima dell'ora, secondo il principio «dal più grande al più piccolo»: 晚上八点 wǎn shàng bā diǎn «le otto di sera».",
+      "examples": [
+        {
+          "hanzi": "八点半",
+          "pinyin": "bā diǎn bàn",
+          "italian": "le otto e mezza"
+        },
+        {
+          "hanzi": "十二点",
+          "pinyin": "shí'èr diǎn",
+          "italian": "le dodici"
+        },
+        {
+          "hanzi": "我晚上八点下班。",
+          "pinyin": "Wǒ wǎnshang bā diǎn xià bān.",
+          "italian": "Stacco dal lavoro alle otto di sera."
+        }
+      ]
+    }
+  ]
+}
