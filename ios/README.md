@@ -91,8 +91,26 @@ Grafica: 95 caratteri provengono dai file già presenti nel prototipo; i cinque 
 
 Suite finale: **17 test superati, zero errori** (13 test di logica/contenuti e 4 test UI).
 
-Verifiche automatiche: YIN su segnali noti da 80 a 480 Hz e rifiuto del silenzio; 100 grafici con percorsi validi, 15 dialoghi entro il vocabolario, sintesi e riproduzione Apple, navigazione dei moduli e assenza del footer. I due controlli pinyin sul nuovo corpus danno zero segnalazioni. Gli screenshot da 12 a 18 mostrano questa revisione.
+Verifiche automatiche: YIN su segnali noti da 80 a 480 Hz e rifiuto del silenzio; 100 grafici con percorsi validi, 15 dialoghi entro il vocabolario, sintesi e riproduzione Apple, navigazione dei moduli e assenza del footer. I due controlli pinyin sul nuovo corpus danno zero segnalazioni. Gli screenshot da 12 a 18, rigenerati nel blocco 5, mostrano queste funzioni con il nuovo design.
 
 Restano da verificare con persone: pronuncia Apple (letture multiple, toni neutri, cambi tonali), naturalezza e difficoltà degli 800 quesiti, qualità dei feedback sul microfono reale, scrittura con Apple Pencil, accessibilità con VoiceOver e Dynamic Type. Non è stata eseguita una prova reale completa di 40 minuti; i test temporali usano un orologio accelerato. Il target minimo è iOS 17, ma il runtime provato è iOS 26.5 sul simulatore.
+
+## Blocco 5: design «quaderno e sigillo»
+
+L’interfaccia passa da schermate SwiftUI standard a un sistema unico, definito in `App/Design.swift` e usato da tutte le funzioni.
+
+- Colori: carta calda (`#F4F1EA`), superfici bianche senza bordi, inchiostro (`#1E2422`) per testo e azioni primarie. Il rosso del sigillo (`#A6303C`) resta all’identità, alla selezione e agli errori; il giada (`#1F6B57`) alle risposte corrette e all’avanzamento. Testo secondario `#5C6360`: almeno 5:1 su carta e bianco. I colori dei toni restano quelli standard e configurabili.
+- Tipografia a tre voci: New York per titoli compatti, SF per l’interfaccia, PingFang SC esplicito per i caratteri (forme semplificate garantite, Dynamic Type con `relativeTo`). Il pinyin sta sopra i caratteri a circa metà della loro dimensione; nelle prove e nei dialoghi resta sopra ogni carattere, colorato secondo il piano.
+- Motivi riconoscibili: sigillo 步步 accanto al nome Bùbù, griglia 田字格 dietro le parole grandi e nella scrittura, percorso come sequenza di passi collegati (步步, passo dopo passo).
+- Componenti condivisi: gruppi di righe al posto di una scheda per riga, un pulsante primario a tutta larghezza, un solo stile di opzione con stati selezionata/corretta/errata/attenuata, banner di esito, interruttori a pastiglia, metri di avanzamento e intervallo 0–40 per la preparazione.
+- Sessioni: durante ripasso e prove la barra delle schede è nascosta; dopo la risposta le opzioni restano visibili con la soluzione e la pagina scorre fino a «Continua». Simulazione e piazzamento mostrano solo la selezione, senza correzione anticipata.
+- Testi: slogan e titoli grandi sostituiti da intestazioni compatte; copertura e preparazione restano sezioni separate. «Il mio piano → Fonti e progetto» contiene programma, versione dell’app, licenze e dicitura di non affiliazione. Nessun footer fisso.
+- Accessibilità: testo con stili dinamici, griglie che passano a una colonna nelle taglie di accessibilità, bersagli di almeno 44 punti, stato delle opzioni annunciato da VoiceOver (selezionata, corretta, errata) e annuncio dell’esito dopo ogni risposta. La punteggiatura cinese non apre mai una riga nel testo con pinyin.
+
+Persistenza, dati didattici, FSRS, regole di simulazione (audio automatico due volte, niente riascolto né correzione anticipata) e di allenamento (riascolto, 0,8×, correzione immediata) non cambiano. Il test UI del ripasso torna indietro prima di cambiare scheda, perché la barra delle schede è nascosta durante la sessione, e salva due nuove catture: `19-ripasso-errore` e `20-pinyin-correzione`.
+
+Verificato: suite completa **17 test superati, zero errori** su iPhone 17 Pro / iOS 26.4; controllo visivo su iPhone 17 Pro / iOS 26.5 di home, livello, percorso, unità, parole, ripasso (fronte, retro, errore, pinyin), grammatica e quiz, esame nelle tre modalità con correzione dell’allenamento e lettura del piazzamento, toni, scrittura, dialoghi, orale e piano; Dynamic Type «accessibility-large» su home, livello e carta del pinyin. Screenshot 01–20 in `evidence/`.
+
+Da verificare: VoiceOver parlato su dispositivo, taglie di accessibilità più grandi su tutte le schermate, iPad, iOS 17 reale e risultato della simulazione completa con la stima a intervallo popolata.
 
 Sviluppi ulteriori del report: calibrazione della difficoltà e previsione alla data d’esame, consolidamento finale guidato, scomposizioni didattiche dei caratteri, esercizi specifici HSK 2 e simulatore orale completo HSK 3. L’MVP non presenta queste capacità come già disponibili.
