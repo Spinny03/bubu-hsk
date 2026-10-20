@@ -116,6 +116,17 @@ final class NavigationTests: XCTestCase {
         XCTAssertTrue(app.staticTexts.matching(NSPredicate(format:"label CONTAINS %@","[ɕ]")).firstMatch.waitForExistence(timeout:5))
         capture("23-suono-ipa")
     }
+    func testRadicals() {
+        let app=XCUIApplication();app.launchArguments=["--uitesting"];app.launch()
+        app.buttons["level-1"].tap()
+        tapVisible(app,app.buttons.matching(NSPredicate(format:"label BEGINSWITH %@","Caratteri,")).firstMatch)
+        XCTAssertTrue(app.navigationBars["246 caratteri"].waitForExistence(timeout:5))
+        capture("24-radicali")
+        tapVisible(app,app.buttons["char-好"])
+        XCTAssertTrue(app.navigationBars["Carattere"].waitForExistence(timeout:5))
+        XCTAssertTrue(app.staticTexts.matching(NSPredicate(format:"label CONTAINS %@","女 nǚ")).firstMatch.waitForExistence(timeout:5))
+        capture("25-carattere-radicale")
+    }
     func openModule(_ app:XCUIApplication,_ id:String) { tapVisible(app,app.buttons[id]) }
     /// Scorre nelle due direzioni finché l'elemento sta tra la barra di navigazione e quella delle schede, poi lo tocca.
     func tapVisible(_ app:XCUIApplication,_ element:XCUIElement) {

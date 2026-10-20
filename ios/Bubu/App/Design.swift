@@ -200,6 +200,8 @@ struct TianGrid: View {
 struct HanziHero: View {
     let hanzi: String
     let pinyin: String
+    /// Nel dettaglio parola i caratteri sono disegnati dai tratti, con il radicale colorato.
+    var showsRadicals = false
     @ScaledMetric(relativeTo: .largeTitle) private var cell: CGFloat = 96
     var body: some View {
         let characters = Array(hanzi)
@@ -210,7 +212,11 @@ struct HanziHero: View {
                 ForEach(Array(characters.enumerated()), id: \.offset) { _, character in
                     ZStack {
                         TianGrid()
-                        Text(String(character)).font(.custom("PingFangSC-Regular", fixedSize: side * 0.66))
+                        if showsRadicals && StrokeCatalog.all[String(character)] != nil {
+                            RadicalGlyph(hanzi: String(character)).padding(side * 0.1)
+                        } else {
+                            Text(String(character)).font(.custom("PingFangSC-Regular", fixedSize: side * 0.66))
+                        }
                     }.frame(width: side, height: side)
                 }
             }
