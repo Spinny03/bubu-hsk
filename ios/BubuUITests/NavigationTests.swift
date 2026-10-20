@@ -7,8 +7,7 @@ final class NavigationTests: XCTestCase {
         app.buttons["level-1"].tap()
         XCTAssertTrue(app.staticTexts["Copertura del programma"].waitForExistence(timeout: 5))
         capture("02-hsk1")
-        app.swipeUp()
-        app.buttons.matching(NSPredicate(format: "label CONTAINS %@", "Il percorso")).firstMatch.tap()
+        tapVisible(app, app.buttons.matching(NSPredicate(format: "label CONTAINS %@", "Il percorso")).firstMatch)
         XCTAssertTrue(app.staticTexts["15 modi di usare il cinese"].waitForExistence(timeout: 5))
         capture("03-percorso")
     }
@@ -39,20 +38,19 @@ final class NavigationTests: XCTestCase {
         // Durante il ripasso la barra delle schede è nascosta: si torna indietro prima di cambiare scheda.
         app.navigationBars.buttons.firstMatch.tap()
         app.tabBars.buttons["Livelli"].tap()
-        app.buttons["level-1"].tap(); app.swipeUp()
-        app.buttons.matching(NSPredicate(format: "label CONTAINS %@", "70 righe")).firstMatch.tap()
+        app.buttons["level-1"].tap()
+        tapVisible(app, app.buttons.matching(NSPredicate(format: "label CONTAINS %@", "70 righe")).firstMatch)
         XCTAssertTrue(app.navigationBars["Grammatica"].waitForExistence(timeout: 5))
         capture("07-grammatica")
         app.cells.element(boundBy:1).tap()
-        for _ in 0..<20 { if app.buttons["grammar-quiz"].isHittable { break }; app.swipeUp() }
-        app.buttons["grammar-quiz"].tap()
+        tapVisible(app, app.buttons["grammar-quiz"])
         XCTAssertTrue(app.staticTexts["Quale significato esprime questa frase?"].waitForExistence(timeout:5))
         XCTAssertFalse(app.buttons["answer-1"].exists, "La grammatica non deve mostrare una parola con lo stesso ID numerico")
     }
     func testExamModes() {
         let app=XCUIApplication();app.launchArguments=["--uitesting"];app.launch()
-        app.buttons["level-1"].tap();app.swipeUp()
-        app.buttons["exam-landing"].tap()
+        app.buttons["level-1"].tap()
+        tapVisible(app,app.buttons["exam-landing"])
         XCTAssertTrue(app.buttons["start-exam"].waitForExistence(timeout:5))
         capture("08-esame-modalita")
         app.segmentedControls.buttons["Allenamento"].tap()
@@ -101,9 +99,35 @@ final class NavigationTests: XCTestCase {
         app.swipeUp()
         capture("18-fonti-nel-piano")
     }
-    func openModule(_ app:XCUIApplication,_ id:String) {
-        for _ in 0..<6 {if app.buttons[id].isHittable{break};app.swipeUp()}
-        app.buttons[id].tap()
+    func testPinyinIPA() {
+        let app=XCUIApplication();app.launchArguments=["--uitesting"];app.launch()
+        app.buttons["level-1"].tap()
+        openModule(app,"pinyin-ipa")
+        XCTAssertTrue(app.navigationBars["Pinyin e IPA"].waitForExistence(timeout:5))
+        let field=app.textFields["ipa-input"];field.tap();field.typeText("xie4xie5\n")
+        XCTAssertTrue(app.staticTexts.matching(NSPredicate(format:"label == %@","[ɕje˥˩.ɕje˩]")).firstMatch.waitForExistence(timeout:5))
+        capture("21-pinyin-ipa")
+        app.buttons.matching(NSPredicate(format:"label CONTAINS %@","谢谢")).firstMatch.tap()
+        XCTAssertTrue(app.staticTexts["word-ipa"].waitForExistence(timeout:5))
+        for _ in 0..<4 {if app.staticTexts["word-ipa"].isHittable{break};app.swipeUp()}
+        capture("22-parola-ipa")
+        app.navigationBars.buttons.firstMatch.tap()
+        openModule(app,"sound-x")
+        XCTAssertTrue(app.staticTexts.matching(NSPredicate(format:"label CONTAINS %@","[ɕ]")).firstMatch.waitForExistence(timeout:5))
+        capture("23-suono-ipa")
+    }
+    func openModule(_ app:XCUIApplication,_ id:String) { tapVisible(app,app.buttons[id]) }
+    /// Scorre nelle due direzioni finché l'elemento sta tra la barra di navigazione e quella delle schede, poi lo tocca.
+    func tapVisible(_ app:XCUIApplication,_ element:XCUIElement) {
+        // Le griglie pigre creano le celle solo quando entrano nello schermo.
+        if !element.waitForExistence(timeout:2) { for _ in 0..<10 where !element.exists { app.swipeUp(velocity:.slow) } }
+        for _ in 0..<8 {
+            let top=app.navigationBars.firstMatch.exists ? app.navigationBars.firstMatch.frame.maxY : 0
+            let bottom=app.tabBars.firstMatch.exists ? app.tabBars.firstMatch.frame.minY : app.frame.maxY
+            if element.isHittable && element.frame.minY>=top && element.frame.maxY<=bottom {break}
+            if element.frame.minY<top {app.swipeDown(velocity:.slow)} else {app.swipeUp(velocity:.slow)}
+        }
+        element.tap()
     }
     func capture(_ name: String) {
         Thread.sleep(forTimeInterval:0.6) // Completa la transizione prima di esportare l'immagine.

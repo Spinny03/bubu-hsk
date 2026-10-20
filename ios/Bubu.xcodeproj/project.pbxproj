@@ -20,6 +20,8 @@
 		4633F7922A6C71E67459597C /* StudyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7683A719959B6C8D5F12787E /* StudyTests.swift */; };
 		51842CBCF9B1BED3EDD957DA /* SpeechPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB1AE396E748C027CB0B446 /* SpeechPlayer.swift */; };
 		58A72B5DA30A32271E2264C5 /* BubuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCBC158E4DBACB8BF438772D /* BubuApp.swift */; };
+		591AE7CBD5F806BA28F33965 /* PinyinIPAViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB366FAEB290546BA8889C3A /* PinyinIPAViews.swift */; };
+		597F87EEDFD5410BA97E295D /* PinyinIPA.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF4EDE8F56B3E780DF30FA9 /* PinyinIPA.swift */; };
 		599F12C7F55B216748B5C230 /* WritingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D939D417B982D33ABD2623 /* WritingViews.swift */; };
 		5AF7AF970ECFAE267C245911 /* OralViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E3EBD21A808A13B08FCDB10 /* OralViews.swift */; };
 		5E033465F61AA8122AA90F76 /* ContentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A439F89140ECC2A69083AF0 /* ContentTests.swift */; };
@@ -32,6 +34,7 @@
 		9A7D42750C7EE2C715FF60BE /* StudyEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C1829FBB97DAD65CCAF60E /* StudyEngine.swift */; };
 		9DE751AE29387937D5113EF5 /* PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9001CC641CED5E8F967D9A9A /* PracticeTests.swift */; };
 		A704EFEFE56EFF5D9FD866DA /* Pitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7FC108112B8F512463C0AC /* Pitch.swift */; };
+		B56DEA4CA5885EB24F67D011 /* PinyinIPATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF12B918B878808B3FEE2A7 /* PinyinIPATests.swift */; };
 		BBE4383EC200D2480393B386 /* writing-strokes.json in Resources */ = {isa = PBXBuildFile; fileRef = 9A2F63C5C05DC05285843C8F /* writing-strokes.json */; };
 		C11C5BB6F996989D6BD4941A /* Design.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7BAC8FB16386A7E164C21B /* Design.swift */; };
 		C44FB818ED1890A9D6DC16EB /* Handwriting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A41A660A79071A91F8E85E4 /* Handwriting.swift */; };
@@ -89,6 +92,8 @@
 		9CC7C3CD8032B919FFCAB2E3 /* dialogues.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = dialogues.json; sourceTree = "<group>"; };
 		A9AF8DD32D7E749F149ABBC0 /* Content.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Content.swift; sourceTree = "<group>"; };
 		BAB0957AB7FB61234D2A6C75 /* DialogueViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialogueViews.swift; sourceTree = "<group>"; };
+		BB366FAEB290546BA8889C3A /* PinyinIPAViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinyinIPAViews.swift; sourceTree = "<group>"; };
+		CEF4EDE8F56B3E780DF30FA9 /* PinyinIPA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinyinIPA.swift; sourceTree = "<group>"; };
 		D0BF4708E9B4170AA8CA3CC5 /* ExamTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamTests.swift; sourceTree = "<group>"; };
 		DD87628EAA858FE8E42CD382 /* ExamViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamViews.swift; sourceTree = "<group>"; };
 		E264BBC6F2B13F23FA365218 /* FoundationViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoundationViews.swift; sourceTree = "<group>"; };
@@ -98,6 +103,7 @@
 		EED0455ACFE648E89C18E25E /* BubuUITests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = BubuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6625EB342CF943FC21A2937 /* NavigationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationTests.swift; sourceTree = "<group>"; };
 		FA2BD9C91BAFACFE1202E6DB /* Exam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exam.swift; sourceTree = "<group>"; };
+		FAF12B918B878808B3FEE2A7 /* PinyinIPATests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinyinIPATests.swift; sourceTree = "<group>"; };
 		FCBC158E4DBACB8BF438772D /* BubuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubuApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -163,6 +169,7 @@
 				8DC671689A043485FABCCE8E /* Grammar.swift */,
 				0A41A660A79071A91F8E85E4 /* Handwriting.swift */,
 				7D5809366B18936E83A84536 /* OralRecorder.swift */,
+				CEF4EDE8F56B3E780DF30FA9 /* PinyinIPA.swift */,
 				2C7FC108112B8F512463C0AC /* Pitch.swift */,
 				2CE067E847EBFA61C788207A /* Progress.swift */,
 				6BB1AE396E748C027CB0B446 /* SpeechPlayer.swift */,
@@ -184,6 +191,7 @@
 			children = (
 				6A439F89140ECC2A69083AF0 /* ContentTests.swift */,
 				D0BF4708E9B4170AA8CA3CC5 /* ExamTests.swift */,
+				FAF12B918B878808B3FEE2A7 /* PinyinIPATests.swift */,
 				9001CC641CED5E8F967D9A9A /* PracticeTests.swift */,
 				7683A719959B6C8D5F12787E /* StudyTests.swift */,
 			);
@@ -213,6 +221,7 @@
 				E264BBC6F2B13F23FA365218 /* FoundationViews.swift */,
 				314D1CA186DD139A56E7E566 /* GrammarViews.swift */,
 				2E3EBD21A808A13B08FCDB10 /* OralViews.swift */,
+				BB366FAEB290546BA8889C3A /* PinyinIPAViews.swift */,
 				0E941EEB027EE93214F31497 /* StudyViews.swift */,
 				525FCCDA0980FC91478642C3 /* ToneViews.swift */,
 				92D939D417B982D33ABD2623 /* WritingViews.swift */,
@@ -372,6 +381,8 @@
 				C44FB818ED1890A9D6DC16EB /* Handwriting.swift in Sources */,
 				243CC1CEFDA169A0AE5E0CD9 /* OralRecorder.swift in Sources */,
 				5AF7AF970ECFAE267C245911 /* OralViews.swift in Sources */,
+				597F87EEDFD5410BA97E295D /* PinyinIPA.swift in Sources */,
+				591AE7CBD5F806BA28F33965 /* PinyinIPAViews.swift in Sources */,
 				A704EFEFE56EFF5D9FD866DA /* Pitch.swift in Sources */,
 				77E0A9D8BCA932CD98E6F370 /* Progress.swift in Sources */,
 				51842CBCF9B1BED3EDD957DA /* SpeechPlayer.swift in Sources */,
@@ -388,6 +399,7 @@
 			files = (
 				5E033465F61AA8122AA90F76 /* ContentTests.swift in Sources */,
 				0019A26241C6467AD172FECD /* ExamTests.swift in Sources */,
+				B56DEA4CA5885EB24F67D011 /* PinyinIPATests.swift in Sources */,
 				9DE751AE29387937D5113EF5 /* PracticeTests.swift in Sources */,
 				4633F7922A6C71E67459597C /* StudyTests.swift in Sources */,
 			);

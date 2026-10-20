@@ -112,6 +112,7 @@ struct LicensesView:View {
             Section("Ripasso") {Text("FSRS Swift · MIT · revisione 4fbaf20184d62f82a9f44f343337c61a2c5483e9");NavigationLink("Licenza MIT completa"){LicenseTextView(name:"LICENSE-FSRS")}}
             Section {Text("Make Me a Hanzi / hanzi-writer-data 2.0.1 · Arphic Public License. Sono inclusi tratti e mediane di 100 caratteri.");NavigationLink("Arphic Public License completa"){LicenseTextView(name:"ARPHICPL")}} header:{Text("Grafica dei tratti")} footer:{Text("Le scomposizioni e i radicali di Make Me a Hanzi sono LGPL v3. Questo modulo non li include e non li usa.")}
             Section("Voce e analisi") {Text("Voci Apple locali, provvisorie e non revisionate. YIN: de Cheveigné e Kawahara, 2002, DOI 10.1121/1.1458024. La classificazione orientativa dei toni non è validata.")}
+            Section("Trascrizione IPA") {Text("Tabelle di Wikipedia «Pinyin», «Standard Chinese phonology» ed «Erhua» (CC BY-SA 4.0), basate su Lee & Zee 2003, «Standard Chinese (Beijing)», JIPA 33(1); Duanmu 2007, The Phonology of Standard Chinese; Lin 2007, The Sounds of Chinese. Toni: Chao 1968. Trascrizione larga, senza varianti regionali.")}
         }.paperList().navigationTitle("Licenze").navigationBarTitleDisplayMode(.inline)
     }
 }
