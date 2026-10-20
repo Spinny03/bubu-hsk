@@ -4,6 +4,10 @@ import Foundation
 /// Trascrizione larga del cinese standard (Putonghua) secondo le tabelle di Wikipedia «Pinyin» e
 /// «Standard Chinese phonology» (basate su Lee & Zee 2003, JIPA 33(1); Duanmu 2007; Lin 2007),
 /// erhua secondo «Erhua» (Duanmu 2007; Lin 2007), toni con le lettere di Chao (1968).
+/// Revisioni consultate il 20/10/2026: «Pinyin» oldid 1379787349, «Standard Chinese phonology» oldid 1380933413,
+/// «Erhua» oldid 1380844942, «Help:IPA/Mandarin» oldid 1370474013.
+/// Il 3° tono a metà parola è scritto [˨˩] per convenzione didattica (come in 小孩儿 nella voce «Erhua»):
+/// le fonti non danno un valore unico e Help:IPA/Mandarin scrive [˩].
 /// Le varianti regionali e individuali sono escluse: è un riferimento per lo studio, non un'analisi fonetica.
 enum PinyinIPA {
     struct Sound: Identifiable, Hashable {
@@ -116,8 +120,8 @@ enum PinyinIPA {
 
     private static let finalIPA = Dictionary(uniqueKeysWithValues: finals.map { ($0.id, $0.ipa) })
     private static let initialIPA = Dictionary(uniqueKeysWithValues: initials.filter { $0.group != "Semivocali" }.map { ($0.id, $0.ipa) })
-    /// Finali rotacizzate presenti nel lessico HSK 1 (tabella della voce «Erhua»).
-    private static let erhuaIPA = ["a": "ɐʵ", "ai": "ɐʵ", "an": "ɐʵ", "e": "ɤʵ", "ia": "jɐʵ", "ian": "jɐʵ", "ua": "wɐʵ", "uan": "wɐʵ",
+    /// Finali rotacizzate verificate nella voce «Erhua»; le altre non vengono trascritte.
+    private static let erhuaIPA = ["a": "ɐʵ", "ai": "ɐʵ", "an": "ɐʵ", "e": "ɤʵ", "ian": "jɐʵ", "uan": "wɐʵ",
                                    "üan": "ɥɐʵ", "ao": "ɑu̯˞", "iao": "jɑu̯˞", "ou": "ou̯˞", "u": "u˞"]
     private static let toneMarks: [Character: (Character, Int)] = [
         "ā": ("a", 1), "á": ("a", 2), "ǎ": ("a", 3), "à": ("a", 4), "ē": ("e", 1), "é": ("e", 2), "ě": ("e", 3), "è": ("e", 4),
