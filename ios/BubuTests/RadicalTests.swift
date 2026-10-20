@@ -19,7 +19,8 @@ final class RadicalTests: XCTestCase {
         let catalog = try XCTUnwrap(RadicalCatalog.shared)
         let expected: [String: (String, Set<Int>)] = [
             "好": ("女", [0, 1, 2]), "汉": ("氵", [0, 1, 2]), "这": ("辶", [4, 5, 6]), "国": ("囗", [0, 1, 7]),
-            "我": ("戈", [1, 4, 5, 6]), "起": ("走", [0, 1, 2, 3, 4, 5, 9]), "能": ("月", [2, 3, 4, 5]), "想": ("心", [9, 10, 11, 12]),
+            "我": ("戈", [1, 4, 5, 6]), "起": ("走", [0, 1, 2, 3, 4, 5, 6]), "超": ("走", [0, 1, 2, 3, 4, 5, 6]),
+            "能": ("月", [2, 3, 4, 5]), "想": ("心", [9, 10, 11, 12]), "年": ("干", [1, 4, 5]), "也": ("乙", [2]),
         ]
         for (hanzi, (form, strokes)) in expected {
             let match = try XCTUnwrap(catalog.entry(for: hanzi))
@@ -27,6 +28,7 @@ final class RadicalTests: XCTestCase {
             XCTAssertEqual(match.strokes, strokes, hanzi)
         }
         XCTAssertTrue(try XCTUnwrap(catalog.entry(for: "口")).whole)
+        XCTAssertFalse(try XCTUnwrap(catalog.entry(for: "电")).whole, "电 ha il radicale 田 ma non è un radicale")
         XCTAssertEqual(try XCTUnwrap(catalog.entry(for: "脑")).form.canonical, "肉", "Il 月 di 脑 è il radicale carne, non luna")
         XCTAssertEqual(try XCTUnwrap(catalog.entry(for: "朋")).form.canonical, "月")
     }

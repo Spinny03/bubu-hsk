@@ -26,8 +26,8 @@ struct RadicalCatalog: Codable {
     }()
     func entry(for hanzi: String) -> Match? {
         guard let entry = characters[hanzi], let form = forms[entry.radical] else { return nil }
-        let total = StrokeCatalog.all[hanzi]?.strokes.count ?? 0
-        return Match(key: entry.radical, form: form, strokes: Set(entry.strokes), whole: entry.strokes.count == total)
+        // «È esso stesso un radicale» solo se il carattere coincide con la forma (口, 女), non quando tutti i tratti sono colorati (电 = 田).
+        return Match(key: entry.radical, form: form, strokes: Set(entry.strokes), whole: hanzi == form.form)
     }
     /// Altri caratteri con la stessa forma di radicale, nell'ordine del catalogo.
     func siblings(of hanzi: String, in list: [Hanzi]) -> [Hanzi] {
