@@ -11,10 +11,11 @@ import XCTest
         XCTAssertNil(YIN.frequency(samples:Array(repeating:0,count:2048),sampleRate:rate))
         XCTAssertEqual(ToneFeedback.analyze([],baseline:nil).recognized,"Tono non riconosciuto")
     }
-    func testOneHundredStrokeGraphicsAndFifteenDialogues() throws {
+    func testStrokeGraphicsAndFifteenDialogues() throws {
         let c=try Curriculum.load()
-        XCTAssertEqual(StrokeCatalog.all.count,100)
-        for ch in c.writingCharacters {
+        // Grafica di tutti i caratteri mostrati: 246 da riconoscere, 5 solo da scrivere, 店 e 饺 delle parole.
+        XCTAssertEqual(StrokeCatalog.all.count,253)
+        for ch in c.writingCharacters+c.characters {
             let graphics=try XCTUnwrap(StrokeCatalog.all[ch.hanzi])
             XCTAssertFalse(graphics.strokes.isEmpty)
             XCTAssertEqual(graphics.strokes.count,graphics.medians.count)

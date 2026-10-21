@@ -1,0 +1,756 @@
+# Estratto da Unicode 18.0.0 Unihan (Unihan_IRGSources.txt) e CJKRadicals.txt, Unicode License v3.
+# https://www.unicode.org/Public/18.0.0/ucd/Unihan.zip
+# sha256 Unihan.zip 4c93ea9c1f636451729a840978f1667a53886af37ba854fdcce109721c63d43e
+# sha256 CJKRadicals.txt 689e2e5852699e7115823dc0b6d3e615eb767c7f477b615678f4f989d1f06105
+U+4E00	kRSUnicode	1.0
+U+4E00	kTotalStrokes	1
+U+4E03	kRSUnicode	1.1
+U+4E03	kTotalStrokes	2
+U+4E09	kRSUnicode	1.2
+U+4E09	kTotalStrokes	3
+U+4E0A	kRSUnicode	1.2
+U+4E0A	kTotalStrokes	3
+U+4E0B	kRSUnicode	1.2
+U+4E0B	kTotalStrokes	3
+U+4E0D	kRSUnicode	1.3
+U+4E0D	kTotalStrokes	4
+U+4E1C	kRSUnicode	1.4
+U+4E1C	kTotalStrokes	5
+U+4E24	kRSUnicode	1.6
+U+4E24	kTotalStrokes	7
+U+4E2A	kRSUnicode	2.2
+U+4E2A	kTotalStrokes	3
+U+4E2D	kRSUnicode	2.3
+U+4E2D	kTotalStrokes	4
+U+4E3A	kRSUnicode	3.3
+U+4E3A	kTotalStrokes	4
+U+4E48	kRSUnicode	4.2
+U+4E48	kTotalStrokes	3
+U+4E5D	kRSUnicode	5.1
+U+4E5D	kTotalStrokes	2
+U+4E5F	kRSUnicode	5.2
+U+4E5F	kTotalStrokes	3
+U+4E60	kRSUnicode	5.2 15.1
+U+4E60	kTotalStrokes	3
+U+4E66	kRSUnicode	5.3 2.3
+U+4E66	kTotalStrokes	4
+U+4E70	kRSUnicode	5.5
+U+4E70	kTotalStrokes	6
+U+4E86	kRSUnicode	6.1
+U+4E86	kTotalStrokes	2
+U+4E8B	kRSUnicode	6.7
+U+4E8B	kTotalStrokes	8
+U+4E8C	kRSUnicode	7.0
+U+4E8C	kTotalStrokes	2
+U+4E94	kRSUnicode	7.2
+U+4E94	kTotalStrokes	4
+U+4E9B	kRSUnicode	7.5
+U+4E9B	kTotalStrokes	8
+U+4EAE	kRSUnicode	8.7
+U+4EAE	kTotalStrokes	9
+U+4EBA	kRSUnicode	9.0
+U+4EBA	kTotalStrokes	2
+U+4EC0	kRSUnicode	9.2
+U+4EC0	kTotalStrokes	4
+U+4ECA	kRSUnicode	9.2
+U+4ECA	kTotalStrokes	4
+U+4ED6	kRSUnicode	9.3
+U+4ED6	kTotalStrokes	5
+U+4EE5	kRSUnicode	9.3
+U+4EE5	kTotalStrokes	5
+U+4EEC	kRSUnicode	9.3
+U+4EEC	kTotalStrokes	5
+U+4EF6	kRSUnicode	9.4
+U+4EF6	kTotalStrokes	6
+U+4F11	kRSUnicode	9.4
+U+4F11	kTotalStrokes	6
+U+4F1A	kRSUnicode	9.4
+U+4F1A	kTotalStrokes	6
+U+4F4F	kRSUnicode	9.5
+U+4F4F	kTotalStrokes	7
+U+4F5C	kRSUnicode	9.5
+U+4F5C	kTotalStrokes	7
+U+4F60	kRSUnicode	9.5
+U+4F60	kTotalStrokes	7
+U+4FBF	kRSUnicode	9.7
+U+4FBF	kTotalStrokes	9
+U+5019	kRSUnicode	9.8
+U+5019	kTotalStrokes	10
+U+505A	kRSUnicode	9.9
+U+505A	kTotalStrokes	11
+U+513F	kRSUnicode	10.0
+U+513F	kTotalStrokes	2
+U+5143	kRSUnicode	10.2
+U+5143	kTotalStrokes	4
+U+5148	kRSUnicode	10.4
+U+5148	kTotalStrokes	6
+U+516B	kRSUnicode	12.0
+U+516B	kTotalStrokes	2
+U+516C	kRSUnicode	12.2
+U+516C	kTotalStrokes	4
+U+516D	kRSUnicode	12.2
+U+516D	kTotalStrokes	4
+U+5173	kRSUnicode	12.4 37.3
+U+5173	kTotalStrokes	6
+U+5174	kRSUnicode	12.4
+U+5174	kTotalStrokes	6
+U+518D	kRSUnicode	13.4
+U+518D	kTotalStrokes	6
+U+5199	kRSUnicode	14.3
+U+5199	kTotalStrokes	5
+U+51B7	kRSUnicode	15.5
+U+51B7	kTotalStrokes	7
+U+51E0	kRSUnicode	16.0
+U+51E0	kTotalStrokes	2
+U+51FA	kRSUnicode	17.3
+U+51FA	kTotalStrokes	5
+U+5206	kRSUnicode	18.2
+U+5206	kTotalStrokes	4
+U+5230	kRSUnicode	18.6
+U+5230	kTotalStrokes	8
+U+524D	kRSUnicode	18.7
+U+524D	kTotalStrokes	9
+U+5305	kRSUnicode	20.3
+U+5305	kTotalStrokes	5
+U+533B	kRSUnicode	23.5
+U+533B	kTotalStrokes	7
+U+5341	kRSUnicode	24.0
+U+5341	kTotalStrokes	2
+U+5343	kRSUnicode	24.1
+U+5343	kTotalStrokes	3
+U+5348	kRSUnicode	24.2
+U+5348	kTotalStrokes	4
+U+534A	kRSUnicode	24.3
+U+534A	kTotalStrokes	5
+U+5356	kRSUnicode	24.6
+U+5356	kTotalStrokes	8
+U+53BB	kRSUnicode	28.3
+U+53BB	kTotalStrokes	5
+U+53CB	kRSUnicode	29.2
+U+53CB	kTotalStrokes	4
+U+53E3	kRSUnicode	30.0
+U+53E3	kTotalStrokes	3
+U+53EA	kRSUnicode	30.2
+U+53EA	kTotalStrokes	5
+U+53EB	kRSUnicode	30.2
+U+53EB	kTotalStrokes	5
+U+53EF	kRSUnicode	30.2
+U+53EF	kTotalStrokes	5
+U+53F7	kRSUnicode	30.2
+U+53F7	kTotalStrokes	5
+U+53F8	kRSUnicode	30.2
+U+53F8	kTotalStrokes	5
+U+5403	kRSUnicode	30.3
+U+5403	kTotalStrokes	6
+U+540C	kRSUnicode	30.3
+U+540C	kTotalStrokes	6
+U+540D	kRSUnicode	30.3
+U+540D	kTotalStrokes	6
+U+540E	kRSUnicode	30.3
+U+540E	kTotalStrokes	6
+U+5417	kRSUnicode	30.3
+U+5417	kTotalStrokes	6
+U+5427	kRSUnicode	30.4
+U+5427	kTotalStrokes	7
+U+542C	kRSUnicode	30.4
+U+542C	kTotalStrokes	7
+U+5462	kRSUnicode	30.5
+U+5462	kTotalStrokes	8
+U+548C	kRSUnicode	30.5
+U+548C	kTotalStrokes	8
+U+54E5	kRSUnicode	30.7
+U+54E5	kTotalStrokes	10
+U+54EA	kRSUnicode	30.7
+U+54EA	kTotalStrokes	9
+U+5531	kRSUnicode	30.8
+U+5531	kTotalStrokes	11
+U+5546	kRSUnicode	30.8
+U+5546	kTotalStrokes	11
+U+5582	kRSUnicode	30.9
+U+5582	kTotalStrokes	12
+U+559C	kRSUnicode	30.9
+U+559C	kTotalStrokes	12
+U+559D	kRSUnicode	30.9
+U+559D	kTotalStrokes	12
+U+56DB	kRSUnicode	31.2
+U+56DB	kTotalStrokes	5
+U+56DE	kRSUnicode	31.3
+U+56DE	kTotalStrokes	6
+U+56FD	kRSUnicode	31.5
+U+56FD	kTotalStrokes	8
+U+5728	kRSUnicode	32.3
+U+5728	kTotalStrokes	6
+U+5730	kRSUnicode	32.3
+U+5730	kTotalStrokes	6
+U+5750	kRSUnicode	32.4
+U+5750	kTotalStrokes	7
+U+5757	kRSUnicode	32.4
+U+5757	kTotalStrokes	7
+U+58EB	kRSUnicode	33.0
+U+58EB	kTotalStrokes	3
+U+5916	kRSUnicode	36.2
+U+5916	kTotalStrokes	5
+U+591A	kRSUnicode	36.3
+U+591A	kTotalStrokes	6
+U+5927	kRSUnicode	37.0
+U+5927	kTotalStrokes	3
+U+5929	kRSUnicode	37.1
+U+5929	kTotalStrokes	4
+U+592A	kRSUnicode	37.1
+U+592A	kTotalStrokes	4
+U+5973	kRSUnicode	38.0
+U+5973	kTotalStrokes	3
+U+5976	kRSUnicode	38.2
+U+5976	kTotalStrokes	5
+U+5979	kRSUnicode	38.3
+U+5979	kTotalStrokes	6
+U+597D	kRSUnicode	38.3
+U+597D	kTotalStrokes	6
+U+5988	kRSUnicode	38.3
+U+5988	kTotalStrokes	6
+U+59B9	kRSUnicode	38.5
+U+59B9	kTotalStrokes	8
+U+59D0	kRSUnicode	38.5
+U+59D0	kTotalStrokes	8
+U+5B50	kRSUnicode	39.0
+U+5B50	kTotalStrokes	3
+U+5B57	kRSUnicode	39.3
+U+5B57	kTotalStrokes	6
+U+5B66	kRSUnicode	39.5
+U+5B66	kTotalStrokes	8
+U+5B69	kRSUnicode	39.6
+U+5B69	kTotalStrokes	9
+U+5B83	kRSUnicode	40.2
+U+5B83	kTotalStrokes	5
+U+5B9C	kRSUnicode	40.5
+U+5B9C	kTotalStrokes	8
+U+5BA2	kRSUnicode	40.6
+U+5BA2	kTotalStrokes	9
+U+5BB6	kRSUnicode	40.7
+U+5BB6	kTotalStrokes	10
+U+5BF9	kRSUnicode	41.2 29.3
+U+5BF9	kTotalStrokes	5
+U+5C0F	kRSUnicode	42.0
+U+5C0F	kTotalStrokes	3
+U+5C11	kRSUnicode	42.1
+U+5C11	kTotalStrokes	4
+U+5C81	kRSUnicode	46.3
+U+5C81	kTotalStrokes	6
+U+5DE5	kRSUnicode	48.0
+U+5DE5	kTotalStrokes	3
+U+5E02	kRSUnicode	50.2
+U+5E02	kTotalStrokes	5
+U+5E08	kRSUnicode	50.3
+U+5E08	kTotalStrokes	6
+U+5E38	kRSUnicode	50.8
+U+5E38	kTotalStrokes	11
+U+5E74	kRSUnicode	51.3
+U+5E74	kTotalStrokes	6
+U+5E8A	kRSUnicode	53.4
+U+5E8A	kTotalStrokes	7
+U+5E97	kRSUnicode	53.5
+U+5E97	kTotalStrokes	8
+U+5F00	kRSUnicode	55.1 1.3
+U+5F00	kTotalStrokes	4
+U+5F1F	kRSUnicode	57.4
+U+5F1F	kTotalStrokes	7
+U+5F71	kRSUnicode	59.12
+U+5F71	kTotalStrokes	15
+U+5F88	kRSUnicode	60.6
+U+5F88	kTotalStrokes	9
+U+5F97	kRSUnicode	60.8
+U+5F97	kTotalStrokes	11
+U+5FD9	kRSUnicode	61.3
+U+5FD9	kTotalStrokes	6
+U+600E	kRSUnicode	61.5
+U+600E	kTotalStrokes	9
+U+606F	kRSUnicode	61.6
+U+606F	kTotalStrokes	10
+U+60A8	kRSUnicode	61.7
+U+60A8	kTotalStrokes	11
+U+60F3	kRSUnicode	61.9
+U+60F3	kTotalStrokes	13
+U+6211	kRSUnicode	62.3
+U+6211	kTotalStrokes	7
+U+623F	kRSUnicode	63.4
+U+623F	kTotalStrokes	8
+U+624B	kRSUnicode	64.0
+U+624B	kTotalStrokes	4
+U+6253	kRSUnicode	64.2
+U+6253	kTotalStrokes	5
+U+627E	kRSUnicode	64.4
+U+627E	kTotalStrokes	7
+U+6587	kRSUnicode	67.0
+U+6587	kTotalStrokes	4
+U+65B0	kRSUnicode	69.9
+U+65B0	kTotalStrokes	13
+U+65E5	kRSUnicode	72.0
+U+65E5	kTotalStrokes	4
+U+65E9	kRSUnicode	72.2
+U+65E9	kTotalStrokes	6
+U+65F6	kRSUnicode	72.3
+U+65F6	kTotalStrokes	7
+U+660E	kRSUnicode	72.4
+U+660E	kTotalStrokes	8
+U+661F	kRSUnicode	72.5
+U+661F	kTotalStrokes	9
+U+6628	kRSUnicode	72.5
+U+6628	kTotalStrokes	9
+U+662F	kRSUnicode	72.5
+U+662F	kTotalStrokes	9
+U+665A	kRSUnicode	72.7
+U+665A	kTotalStrokes	11
+U+6708	kRSUnicode	74.0
+U+6708	kTotalStrokes	4
+U+6709	kRSUnicode	74.2
+U+6709	kTotalStrokes	6
+U+670B	kRSUnicode	74.4
+U+670B	kTotalStrokes	8
+U+670D	kRSUnicode	74.4
+U+670D	kTotalStrokes	8
+U+671F	kRSUnicode	74.8
+U+671F	kTotalStrokes	12
+U+672C	kRSUnicode	75.1
+U+672C	kTotalStrokes	5
+U+673A	kRSUnicode	75.2
+U+673A	kTotalStrokes	6
+U+6761	kRSUnicode	75.3
+U+6761	kTotalStrokes	7
+U+6765	kRSUnicode	75.3 1.6
+U+6765	kTotalStrokes	7
+U+676F	kRSUnicode	75.4
+U+676F	kTotalStrokes	8
+U+679C	kRSUnicode	75.4
+U+679C	kTotalStrokes	8
+U+6821	kRSUnicode	75.6
+U+6821	kTotalStrokes	10
+U+6837	kRSUnicode	75.6
+U+6837	kTotalStrokes	10
+U+684C	kRSUnicode	75.6
+U+684C	kTotalStrokes	10
+U+6905	kRSUnicode	75.8
+U+6905	kTotalStrokes	12
+U+6B22	kRSUnicode	76.2 29.4
+U+6B22	kTotalStrokes	6
+U+6B4C	kRSUnicode	76.10
+U+6B4C	kTotalStrokes	14
+U+6B63	kRSUnicode	77.1
+U+6B63	kTotalStrokes	5
+U+6BD4	kRSUnicode	81.0
+U+6BD4	kTotalStrokes	4
+U+6C14	kRSUnicode	84.0
+U+6C14	kTotalStrokes	4
+U+6C34	kRSUnicode	85.0
+U+6C34	kTotalStrokes	4
+U+6C49	kRSUnicode	85.2
+U+6C49	kTotalStrokes	5
+U+6CA1	kRSUnicode	85.4
+U+6CA1	kTotalStrokes	7
+U+6F02	kRSUnicode	85.11
+U+6F02	kTotalStrokes	14
+U+706B	kRSUnicode	86.0
+U+706B	kTotalStrokes	4
+U+70B9	kRSUnicode	86.5
+U+70B9	kTotalStrokes	9
+U+70ED	kRSUnicode	86.6
+U+70ED	kTotalStrokes	10
+U+7231	kRSUnicode	87.6
+U+7231	kTotalStrokes	10
+U+7238	kRSUnicode	88.4
+U+7238	kTotalStrokes	8
+U+725B	kRSUnicode	93.0
+U+725B	kTotalStrokes	4
+U+72D7	kRSUnicode	94.5
+U+72D7	kTotalStrokes	8
+U+732B	kRSUnicode	94.9
+U+732B	kTotalStrokes	12
+U+73A9	kRSUnicode	96.4
+U+73A9	kTotalStrokes	8
+U+73B0	kRSUnicode	96.4
+U+73B0	kTotalStrokes	8
+U+73ED	kRSUnicode	96.6
+U+73ED	kTotalStrokes	10
+U+751F	kRSUnicode	100.0
+U+751F	kTotalStrokes	5
+U+7535	kRSUnicode	102.0
+U+7535	kTotalStrokes	5
+U+7537	kRSUnicode	102.2
+U+7537	kTotalStrokes	7
+U+75C5	kRSUnicode	104.5
+U+75C5	kTotalStrokes	10
+U+767D	kRSUnicode	106.0
+U+767D	kTotalStrokes	5
+U+767E	kRSUnicode	106.1
+U+767E	kTotalStrokes	6
+U+7684	kRSUnicode	106.3
+U+7684	kTotalStrokes	8
+U+770B	kRSUnicode	109.4
+U+770B	kTotalStrokes	9
+U+771F	kRSUnicode	109.5 12.8
+U+771F	kTotalStrokes	10
+U+7761	kRSUnicode	109.9 109.8
+U+7761	kTotalStrokes	13
+U+77E5	kRSUnicode	111.3
+U+77E5	kTotalStrokes	8
+U+79DF	kRSUnicode	115.5
+U+79DF	kTotalStrokes	10
+U+7A7F	kRSUnicode	116.4
+U+7A7F	kTotalStrokes	9
+U+7B2C	kRSUnicode	118.5
+U+7B2C	kTotalStrokes	11
+U+7C73	kRSUnicode	119.0
+U+7C73	kTotalStrokes	6
+U+7CFB	kRSUnicode	120.1
+U+7CFB	kTotalStrokes	7
+U+7ED9	kRSUnicode	120'.6
+U+7ED9	kTotalStrokes	9
+U+8001	kRSUnicode	125.0
+U+8001	kTotalStrokes	6
+U+80FD	kRSUnicode	130.6
+U+80FD	kTotalStrokes	10
+U+8111	kRSUnicode	130.6
+U+8111	kTotalStrokes	10
+U+82F9	kRSUnicode	140.5
+U+82F9	kTotalStrokes	9
+U+8336	kRSUnicode	140.6
+U+8336	kTotalStrokes	10
+U+83DC	kRSUnicode	140.8
+U+83DC	kTotalStrokes	12
+U+86CB	kRSUnicode	142.5
+U+86CB	kTotalStrokes	11
+U+8863	kRSUnicode	145.0
+U+8863	kTotalStrokes	6
+U+897F	kRSUnicode	146.0
+U+897F	kTotalStrokes	6
+U+8981	kRSUnicode	146.3
+U+8981	kTotalStrokes	9
+U+89C1	kRSUnicode	147'.0
+U+89C1	kTotalStrokes	4
+U+89C6	kRSUnicode	113.4
+U+89C6	kTotalStrokes	8
+U+89C9	kRSUnicode	147'.5
+U+89C9	kTotalStrokes	9
+U+8BA4	kRSUnicode	149'.2
+U+8BA4	kTotalStrokes	4
+U+8BC6	kRSUnicode	149'.5
+U+8BC6	kTotalStrokes	7
+U+8BDD	kRSUnicode	149'.6
+U+8BDD	kTotalStrokes	8
+U+8BED	kRSUnicode	149'.7
+U+8BED	kTotalStrokes	9
+U+8BF4	kRSUnicode	149'.7
+U+8BF4	kTotalStrokes	9
+U+8BF7	kRSUnicode	149'.8
+U+8BF7	kTotalStrokes	10
+U+8BFB	kRSUnicode	149'.8
+U+8BFB	kTotalStrokes	10
+U+8BFE	kRSUnicode	149'.8
+U+8BFE	kTotalStrokes	10
+U+8C01	kRSUnicode	149'.8
+U+8C01	kTotalStrokes	10
+U+8C22	kRSUnicode	149'.10
+U+8C22	kTotalStrokes	12
+U+8D35	kRSUnicode	154'.5
+U+8D35	kTotalStrokes	9
+U+8D77	kRSUnicode	156.3
+U+8D77	kTotalStrokes	10
+U+8D85	kRSUnicode	156.5
+U+8D85	kTotalStrokes	12
+U+8F66	kRSUnicode	159'.0
+U+8F66	kTotalStrokes	4
+U+8FB9	kRSUnicode	162.2
+U+8FB9	kTotalStrokes	6
+U+8FC7	kRSUnicode	162.3
+U+8FC7	kTotalStrokes	7
+U+8FD8	kRSUnicode	162.4
+U+8FD8	kTotalStrokes	8
+U+8FD9	kRSUnicode	162.4
+U+8FD9	kTotalStrokes	8
+U+9053	kRSUnicode	162.9
+U+9053	kTotalStrokes	13
+U+90A3	kRSUnicode	163.4
+U+90A3	kTotalStrokes	7
+U+90FD	kRSUnicode	163.9
+U+90FD	kTotalStrokes	12
+U+91CC	kRSUnicode	166.0
+U+91CC	kTotalStrokes	7
+U+949F	kRSUnicode	167'.4
+U+949F	kTotalStrokes	9
+U+94B1	kRSUnicode	167'.5
+U+94B1	kTotalStrokes	10
+U+957F	kRSUnicode	168'.0
+U+957F	kTotalStrokes	4
+U+95EE	kRSUnicode	169'.3
+U+95EE	kTotalStrokes	6
+U+95F4	kRSUnicode	169'.4
+U+95F4	kTotalStrokes	7
+U+9662	kRSUnicode	170.7
+U+9662	kTotalStrokes	9
+U+96E8	kRSUnicode	173.0
+U+96E8	kTotalStrokes	8
+U+96EA	kRSUnicode	173.3
+U+96EA	kTotalStrokes	11
+U+96F6	kRSUnicode	173.5
+U+96F6	kTotalStrokes	13
+U+975E	kRSUnicode	175.0
+U+975E	kTotalStrokes	8
+U+9762	kRSUnicode	176.0
+U+9762	kTotalStrokes	9
+U+9898	kRSUnicode	181'.9
+U+9898	kTotalStrokes	15
+U+98DE	kRSUnicode	183'.0
+U+98DE	kTotalStrokes	3
+U+996D	kRSUnicode	184'.4
+U+996D	kTotalStrokes	7
+U+997A	kRSUnicode	184'.6
+U+997A	kTotalStrokes	9
+U+9AD8	kRSUnicode	189.0
+U+9AD8	kTotalStrokes	10
+U+9E21	kRSUnicode	196'.2
+U+9E21	kTotalStrokes	7
+R	1; 2F00; 4E00
+R	2; 2F01; 4E28
+R	3; 2F02; 4E36
+R	4; 2F03; 4E3F
+R	5; 2F04; 4E59
+R	6; 2F05; 4E85
+R	7; 2F06; 4E8C
+R	8; 2F07; 4EA0
+R	9; 2F08; 4EBA
+R	10; 2F09; 513F
+R	11; 2F0A; 5165
+R	12; 2F0B; 516B
+R	13; 2F0C; 5182
+R	14; 2F0D; 5196
+R	15; 2F0E; 51AB
+R	16; 2F0F; 51E0
+R	17; 2F10; 51F5
+R	18; 2F11; 5200
+R	19; 2F12; 529B
+R	20; 2F13; 52F9
+R	21; 2F14; 5315
+R	22; 2F15; 531A
+R	23; 2F16; 5338
+R	24; 2F17; 5341
+R	25; 2F18; 535C
+R	26; 2F19; 5369
+R	27; 2F1A; 5382
+R	28; 2F1B; 53B6
+R	29; 2F1C; 53C8
+R	30; 2F1D; 53E3
+R	31; 2F1E; 56D7
+R	32; 2F1F; 571F
+R	33; 2F20; 58EB
+R	34; 2F21; 5902
+R	35; 2F22; 590A
+R	36; 2F23; 5915
+R	37; 2F24; 5927
+R	38; 2F25; 5973
+R	39; 2F26; 5B50
+R	40; 2F27; 5B80
+R	41; 2F28; 5BF8
+R	42; 2F29; 5C0F
+R	43; 2F2A; 5C22
+R	44; 2F2B; 5C38
+R	45; 2F2C; 5C6E
+R	46; 2F2D; 5C71
+R	47; 2F2E; 5DDB
+R	48; 2F2F; 5DE5
+R	49; 2F30; 5DF1
+R	50; 2F31; 5DFE
+R	51; 2F32; 5E72
+R	52; 2F33; 5E7A
+R	53; 2F34; 5E7F
+R	54; 2F35; 5EF4
+R	55; 2F36; 5EFE
+R	56; 2F37; 5F0B
+R	57; 2F38; 5F13
+R	58; 2F39; 5F50
+R	59; 2F3A; 5F61
+R	60; 2F3B; 5F73
+R	61; 2F3C; 5FC3
+R	62; 2F3D; 6208
+R	63; 2F3E; 6236
+R	64; 2F3F; 624B
+R	65; 2F40; 652F
+R	66; 2F41; 6534
+R	67; 2F42; 6587
+R	68; 2F43; 6597
+R	69; 2F44; 65A4
+R	70; 2F45; 65B9
+R	71; 2F46; 65E0
+R	72; 2F47; 65E5
+R	73; 2F48; 66F0
+R	74; 2F49; 6708
+R	75; 2F4A; 6728
+R	76; 2F4B; 6B20
+R	77; 2F4C; 6B62
+R	78; 2F4D; 6B79
+R	79; 2F4E; 6BB3
+R	80; 2F4F; 6BCB
+R	81; 2F50; 6BD4
+R	82; 2F51; 6BDB
+R	83; 2F52; 6C0F
+R	84; 2F53; 6C14
+R	85; 2F54; 6C34
+R	86; 2F55; 706B
+R	87; 2F56; 722A
+R	88; 2F57; 7236
+R	89; 2F58; 723B
+R	90; 2F59; 723F
+R	90'; 2EA6; 4E2C
+R	91; 2F5A; 7247
+R	92; 2F5B; 7259
+R	93; 2F5C; 725B
+R	94; 2F5D; 72AC
+R	95; 2F5E; 7384
+R	96; 2F5F; 7389
+R	97; 2F60; 74DC
+R	98; 2F61; 74E6
+R	99; 2F62; 7518
+R	100; 2F63; 751F
+R	101; 2F64; 7528
+R	102; 2F65; 7530
+R	103; 2F66; 758B
+R	104; 2F67; 7592
+R	105; 2F68; 7676
+R	106; 2F69; 767D
+R	107; 2F6A; 76AE
+R	108; 2F6B; 76BF
+R	109; 2F6C; 76EE
+R	110; 2F6D; 77DB
+R	111; 2F6E; 77E2
+R	112; 2F6F; 77F3
+R	113; 2F70; 793A
+R	114; 2F71; 79B8
+R	115; 2F72; 79BE
+R	116; 2F73; 7A74
+R	117; 2F74; 7ACB
+R	118; 2F75; 7AF9
+R	119; 2F76; 7C73
+R	120; 2F77; 7CF8
+R	120'; 2EB0; 7E9F
+R	121; 2F78; 7F36
+R	122; 2F79; 7F51
+R	123; 2F7A; 7F8A
+R	124; 2F7B; 7FBD
+R	125; 2F7C; 8001
+R	126; 2F7D; 800C
+R	127; 2F7E; 8012
+R	128; 2F7F; 8033
+R	129; 2F80; 807F
+R	130; 2F81; 8089
+R	131; 2F82; 81E3
+R	132; 2F83; 81EA
+R	133; 2F84; 81F3
+R	134; 2F85; 81FC
+R	135; 2F86; 820C
+R	136; 2F87; 821B
+R	137; 2F88; 821F
+R	138; 2F89; 826E
+R	139; 2F8A; 8272
+R	140; 2F8B; 8278
+R	141; 2F8C; 864D
+R	142; 2F8D; 866B
+R	143; 2F8E; 8840
+R	144; 2F8F; 884C
+R	145; 2F90; 8863
+R	146; 2F91; 897E
+R	147; 2F92; 898B
+R	147'; 2EC5; 89C1
+R	148; 2F93; 89D2
+R	149; 2F94; 8A00
+R	149'; 2EC8; 8BA0
+R	150; 2F95; 8C37
+R	151; 2F96; 8C46
+R	152; 2F97; 8C55
+R	153; 2F98; 8C78
+R	154; 2F99; 8C9D
+R	154'; 2EC9; 8D1D
+R	155; 2F9A; 8D64
+R	156; 2F9B; 8D70
+R	157; 2F9C; 8DB3
+R	158; 2F9D; 8EAB
+R	159; 2F9E; 8ECA
+R	159'; 2ECB; 8F66
+R	160; 2F9F; 8F9B
+R	161; 2FA0; 8FB0
+R	162; 2FA1; 8FB5
+R	163; 2FA2; 9091
+R	164; 2FA3; 9149
+R	165; 2FA4; 91C6
+R	166; 2FA5; 91CC
+R	167; 2FA6; 91D1
+R	167'; 2ED0; 9485
+R	168; 2FA7; 9577
+R	168'; 2ED3; 957F
+R	169; 2FA8; 9580
+R	169'; 2ED4; 95E8
+R	170; 2FA9; 961C
+R	171; 2FAA; 96B6
+R	172; 2FAB; 96B9
+R	173; 2FAC; 96E8
+R	174; 2FAD; 9751
+R	175; 2FAE; 975E
+R	176; 2FAF; 9762
+R	177; 2FB0; 9769
+R	178; 2FB1; 97CB
+R	178'; 2ED9; 97E6
+R	179; 2FB2; 97ED
+R	180; 2FB3; 97F3
+R	181; 2FB4; 9801
+R	181'; 2EDA; 9875
+R	182; 2FB5; 98A8
+R	182'; 2EDB; 98CE
+R	182''; ; 322C4
+R	183; 2FB6; 98DB
+R	183'; 2EDC; 98DE
+R	184; 2FB7; 98DF
+R	184'; 2EE0; 9963
+R	185; 2FB8; 9996
+R	186; 2FB9; 9999
+R	187; 2FBA; 99AC
+R	187'; 2EE2; 9A6C
+R	188; 2FBB; 9AA8
+R	189; 2FBC; 9AD8
+R	190; 2FBD; 9ADF
+R	191; 2FBE; 9B25
+R	192; 2FBF; 9B2F
+R	193; 2FC0; 9B32
+R	194; 2FC1; 9B3C
+R	195; 2FC2; 9B5A
+R	195'; 2EE5; 9C7C
+R	196; 2FC3; 9CE5
+R	196'; 2EE6; 9E1F
+R	197; 2FC4; 9E75
+R	197'; 2EE7; 5364
+R	198; 2FC5; 9E7F
+R	199; 2FC6; 9EA5
+R	199'; 2EE8; 9EA6
+R	200; 2FC7; 9EBB
+R	201; 2FC8; 9EC3
+R	201'; 2EE9; 9EC4
+R	202; 2FC9; 9ECD
+R	203; 2FCA; 9ED1
+R	204; 2FCB; 9EF9
+R	205; 2FCC; 9EFD
+R	205'; 2EEA; 9EFE
+R	206; 2FCD; 9F0E
+R	207; 2FCE; 9F13
+R	208; 2FCF; 9F20
+R	208''; ; 9F21
+R	209; 2FD0; 9F3B
+R	210; 2FD1; 9F4A
+R	210'; 2EEC; 9F50
+R	210''; 2EEB; 6589
+R	211; 2FD2; 9F52
+R	211'; 2EEE; 9F7F
+R	211''; 2EED; 6B6F
+R	212; 2FD3; 9F8D
+R	212'; 2EF0; 9F99
+R	212''; 2EEF; 7ADC
+R	212'''; ; 31DE5
+R	213; 2FD4; 9F9C
+R	213'; 2EF3; 9F9F
+R	213''; 2EF2; 4E80
+R	214; 2FD5; 9FA0

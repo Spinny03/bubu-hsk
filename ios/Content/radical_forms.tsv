@@ -1,0 +1,111 @@
+# Forme dei radicali usate dai caratteri HSK 1. Numero del radicale secondo Unihan (kRSUnicode, sistema Kangxi;
+# l'apostrofo indica la forma semplificata). Colonne: radicale, forma, carattere di riferimento, pinyin, tratti, significato.
+1	一	一	yī	1	uno
+2	丨	丨	gǔn	1	tratto verticale
+3	丶	丶	zhǔ	1	punto
+4	丿	丿	piě	1	tratto obliquo
+5	乙	乙	yǐ	1	tratto uncinato
+6	亅	亅	jué	1	uncino
+7	二	二	èr	2	due
+8	亠	亠	tóu	2	coperchio
+9	人	人	rén	2	persona
+9	亻	人	rén	2	persona
+10	儿	儿	ér	2	bambino, gambe
+12	八	八	bā	2	otto, dividere
+12	丷	八	bā	2	otto, dividere
+13	冂	冂	jiōng	2	confine
+14	冖	冖	mì	2	copertura
+15	冫	冫	bīng	2	ghiaccio
+16	几	几	jī	2	tavolino
+17	凵	凵	kǎn	2	recipiente aperto
+18	刀	刀	dāo	2	coltello
+18	刂	刀	dāo	2	coltello
+20	勹	勹	bāo	2	avvolgere
+23	匸	匸	xì	2	nascondere, recipiente
+24	十	十	shí	2	dieci
+28	厶	厶	sī	2	privato
+29	又	又	yòu	2	mano, di nuovo
+30	口	口	kǒu	3	bocca
+31	囗	囗	wéi	3	recinto
+32	土	土	tǔ	3	terra
+33	士	士	shì	3	studioso
+36	夕	夕	xī	3	sera
+37	大	大	dà	3	grande
+38	女	女	nǚ	3	donna
+39	子	子	zǐ	3	figlio, bambino
+40	宀	宀	mián	3	tetto
+41	寸	寸	cùn	3	pollice, misura
+42	小	小	xiǎo	3	piccolo
+46	山	山	shān	3	montagna
+48	工	工	gōng	3	lavoro
+50	巾	巾	jīn	3	panno
+51	干	干	gān	3	secco, scudo
+53	广	广	guǎng	3	tettoia
+55	廾	廾	gǒng	3	due mani
+57	弓	弓	gōng	3	arco
+59	彡	彡	shān	3	ornamento
+60	彳	彳	chì	3	passo
+61	心	心	xīn	4	cuore
+61	忄	心	xīn	3	cuore
+62	戈	戈	gē	4	alabarda
+63	户	户	hù	4	porta
+64	手	手	shǒu	4	mano
+64	扌	手	shǒu	3	mano
+67	文	文	wén	4	scrittura
+69	斤	斤	jīn	4	ascia
+72	日	日	rì	4	sole, giorno
+74	月	月	yuè	4	luna, mese
+75	木	木	mù	4	albero, legno
+76	欠	欠	qiàn	4	mancare
+77	止	止	zhǐ	4	fermarsi
+81	比	比	bǐ	4	confrontare
+84	气	气	qì	4	aria, vapore
+85	水	水	shuǐ	4	acqua
+85	氵	水	shuǐ	3	acqua
+86	火	火	huǒ	4	fuoco
+86	灬	火	huǒ	4	fuoco
+87	爫	爪	zhǎo	4	artiglio
+88	父	父	fù	4	padre
+93	牛	牛	niú	4	bue
+94	犭	犬	quǎn	3	cane
+96	王	玉	yù	4	giada
+100	生	生	shēng	5	nascere, vita
+102	田	田	tián	5	campo
+104	疒	疒	nè	5	malattia
+106	白	白	bái	5	bianco
+109	目	目	mù	5	occhio
+111	矢	矢	shǐ	5	freccia
+113	礻	示	shì	4	rito, mostrare
+115	禾	禾	hé	5	cereale
+116	穴	穴	xué	5	grotta
+118	⺮	竹	zhú	6	bambù
+119	米	米	mǐ	6	riso
+120'	纟	糸	mì	3	seta
+120	糸	糸	mì	6	seta
+125	老	老	lǎo	6	vecchio
+130	月	肉	ròu	4	carne
+140	艹	草	cǎo	3	erba
+142	虫	虫	chóng	6	insetto
+145	衣	衣	yī	6	abito
+146	西	西	xī	6	ovest
+146	覀	襾	yà	6	coprire
+147'	见	见	jiàn	4	vedere
+149'	讠	言	yán	2	parola
+154'	贝	贝	bèi	4	conchiglia, denaro
+156	走	走	zǒu	7	camminare
+159'	车	车	chē	4	veicolo
+162	辶	辵	chuò	3	camminare
+163	阝	邑	yì	2	città
+166	里	里	lǐ	7	villaggio
+167'	钅	金	jīn	5	metallo
+168'	长	长	cháng	4	lungo
+169'	门	门	mén	3	porta
+170	阝	阜	fù	2	collina
+173	雨	雨	yǔ	8	pioggia
+175	非	非	fēi	8	non
+176	面	面	miàn	9	viso
+181'	页	页	yè	6	testa, pagina
+183'	飞	飞	fēi	3	volare
+184'	饣	食	shí	3	cibo
+189	高	高	gāo	10	alto
+196'	鸟	鸟	niǎo	5	uccello

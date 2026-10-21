@@ -14,6 +14,7 @@
 		0F59F3A242DB34074BBB6167 /* LICENSE-FSRS.txt in Resources */ = {isa = PBXBuildFile; fileRef = E84EB49B65395C134845442B /* LICENSE-FSRS.txt */; };
 		1017C3829A972D477081C4C8 /* ExamViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD87628EAA858FE8E42CD382 /* ExamViews.swift */; };
 		1AFAA528BFCFE98A92A0CD08 /* DialogueViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAB0957AB7FB61234D2A6C75 /* DialogueViews.swift */; };
+		1F9DB15510C277E7AD77E90E /* strokes.json in Resources */ = {isa = PBXBuildFile; fileRef = 57310ACAB176E2B8CE2FD508 /* strokes.json */; };
 		243CC1CEFDA169A0AE5E0CD9 /* OralRecorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5809366B18936E83A84536 /* OralRecorder.swift */; };
 		2D6DDB90789E708222F96F28 /* StudyViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E941EEB027EE93214F31497 /* StudyViews.swift */; };
 		35D51BD36D0E7C4367A57100 /* ExamSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 661A105EEF26694A6DE08A8B /* ExamSession.swift */; };
@@ -25,17 +26,21 @@
 		599F12C7F55B216748B5C230 /* WritingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D939D417B982D33ABD2623 /* WritingViews.swift */; };
 		5AF7AF970ECFAE267C245911 /* OralViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E3EBD21A808A13B08FCDB10 /* OralViews.swift */; };
 		5E033465F61AA8122AA90F76 /* ContentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A439F89140ECC2A69083AF0 /* ContentTests.swift */; };
+		63C24AFBC63022BE51FC2C6B /* radicals.json in Resources */ = {isa = PBXBuildFile; fileRef = 6D1EE87684E13D82F8487167 /* radicals.json */; };
 		652B1B4D261CFA8A9B91B9A7 /* Content.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9AF8DD32D7E749F149ABBC0 /* Content.swift */; };
 		75BBCF6040E51A3E1650F9AC /* FoundationViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264BBC6F2B13F23FA365218 /* FoundationViews.swift */; };
 		77E0A9D8BCA932CD98E6F370 /* Progress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE067E847EBFA61C788207A /* Progress.swift */; };
 		7C544CC99B0F085E8FCBAAD2 /* NavigationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6625EB342CF943FC21A2937 /* NavigationTests.swift */; };
 		8117A950403A1C2F0A5DD291 /* provenance.json in Resources */ = {isa = PBXBuildFile; fileRef = 98FC10DAC2096FE22D4D8EB2 /* provenance.json */; };
+		8284903795435839A04A50FE /* Radicals.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53CF136E707008E6C66D915 /* Radicals.swift */; };
 		8AA3D818F58E5FA6AC499311 /* Dialogue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C4D51215C7F6905ED76B46 /* Dialogue.swift */; };
+		939BC2B112F793E835EA8BDA /* RadicalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE6FEE0EB2759C1AB39285C7 /* RadicalTests.swift */; };
+		95C17F3282AE503AACF7F576 /* RadicalViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFDD70F8F5E2C28D1A308C9F /* RadicalViews.swift */; };
 		9A7D42750C7EE2C715FF60BE /* StudyEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C1829FBB97DAD65CCAF60E /* StudyEngine.swift */; };
 		9DE751AE29387937D5113EF5 /* PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9001CC641CED5E8F967D9A9A /* PracticeTests.swift */; };
 		A704EFEFE56EFF5D9FD866DA /* Pitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7FC108112B8F512463C0AC /* Pitch.swift */; };
 		B56DEA4CA5885EB24F67D011 /* PinyinIPATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF12B918B878808B3FEE2A7 /* PinyinIPATests.swift */; };
-		BBE4383EC200D2480393B386 /* writing-strokes.json in Resources */ = {isa = PBXBuildFile; fileRef = 9A2F63C5C05DC05285843C8F /* writing-strokes.json */; };
+		B5FFF4909338BD2A8B5650C6 /* LICENSE-UNICODE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 54746AA730E48A1B734825D1 /* LICENSE-UNICODE.txt */; };
 		C11C5BB6F996989D6BD4941A /* Design.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7BAC8FB16386A7E164C21B /* Design.swift */; };
 		C44FB818ED1890A9D6DC16EB /* Handwriting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A41A660A79071A91F8E85E4 /* Handwriting.swift */; };
 		CCB8AF397E97F012958319F3 /* Exam.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2BD9C91BAFACFE1202E6DB /* Exam.swift */; };
@@ -75,12 +80,15 @@
 		314D1CA186DD139A56E7E566 /* GrammarViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrammarViews.swift; sourceTree = "<group>"; };
 		41C4D51215C7F6905ED76B46 /* Dialogue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dialogue.swift; sourceTree = "<group>"; };
 		525FCCDA0980FC91478642C3 /* ToneViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToneViews.swift; sourceTree = "<group>"; };
+		54746AA730E48A1B734825D1 /* LICENSE-UNICODE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "LICENSE-UNICODE.txt"; sourceTree = "<group>"; };
 		54C1829FBB97DAD65CCAF60E /* StudyEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyEngine.swift; sourceTree = "<group>"; };
+		57310ACAB176E2B8CE2FD508 /* strokes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = strokes.json; sourceTree = "<group>"; };
 		5A70B3718BA0D29839706159 /* Bubu.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Bubu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CD7A868ADF644A685A597B7 /* BubuTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = BubuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		661A105EEF26694A6DE08A8B /* ExamSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamSession.swift; sourceTree = "<group>"; };
 		6A439F89140ECC2A69083AF0 /* ContentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentTests.swift; sourceTree = "<group>"; };
 		6BB1AE396E748C027CB0B446 /* SpeechPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechPlayer.swift; sourceTree = "<group>"; };
+		6D1EE87684E13D82F8487167 /* radicals.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = radicals.json; sourceTree = "<group>"; };
 		7683A719959B6C8D5F12787E /* StudyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyTests.swift; sourceTree = "<group>"; };
 		7D5809366B18936E83A84536 /* OralRecorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OralRecorder.swift; sourceTree = "<group>"; };
 		7D7BAC8FB16386A7E164C21B /* Design.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Design.swift; sourceTree = "<group>"; };
@@ -88,11 +96,12 @@
 		9001CC641CED5E8F967D9A9A /* PracticeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeTests.swift; sourceTree = "<group>"; };
 		92D939D417B982D33ABD2623 /* WritingViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WritingViews.swift; sourceTree = "<group>"; };
 		98FC10DAC2096FE22D4D8EB2 /* provenance.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = provenance.json; sourceTree = "<group>"; };
-		9A2F63C5C05DC05285843C8F /* writing-strokes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "writing-strokes.json"; sourceTree = "<group>"; };
 		9CC7C3CD8032B919FFCAB2E3 /* dialogues.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = dialogues.json; sourceTree = "<group>"; };
 		A9AF8DD32D7E749F149ABBC0 /* Content.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Content.swift; sourceTree = "<group>"; };
+		B53CF136E707008E6C66D915 /* Radicals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Radicals.swift; sourceTree = "<group>"; };
 		BAB0957AB7FB61234D2A6C75 /* DialogueViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialogueViews.swift; sourceTree = "<group>"; };
 		BB366FAEB290546BA8889C3A /* PinyinIPAViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinyinIPAViews.swift; sourceTree = "<group>"; };
+		BE6FEE0EB2759C1AB39285C7 /* RadicalTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadicalTests.swift; sourceTree = "<group>"; };
 		CEF4EDE8F56B3E780DF30FA9 /* PinyinIPA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinyinIPA.swift; sourceTree = "<group>"; };
 		D0BF4708E9B4170AA8CA3CC5 /* ExamTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamTests.swift; sourceTree = "<group>"; };
 		DD87628EAA858FE8E42CD382 /* ExamViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamViews.swift; sourceTree = "<group>"; };
@@ -101,6 +110,7 @@
 		E84EB49B65395C134845442B /* LICENSE-FSRS.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "LICENSE-FSRS.txt"; sourceTree = "<group>"; };
 		EC8E32629F9E162F1B8DB14B /* ARPHICPL.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ARPHICPL.txt; sourceTree = "<group>"; };
 		EED0455ACFE648E89C18E25E /* BubuUITests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = BubuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EFDD70F8F5E2C28D1A308C9F /* RadicalViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadicalViews.swift; sourceTree = "<group>"; };
 		F6625EB342CF943FC21A2937 /* NavigationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationTests.swift; sourceTree = "<group>"; };
 		FA2BD9C91BAFACFE1202E6DB /* Exam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exam.swift; sourceTree = "<group>"; };
 		FAF12B918B878808B3FEE2A7 /* PinyinIPATests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinyinIPATests.swift; sourceTree = "<group>"; };
@@ -172,6 +182,7 @@
 				CEF4EDE8F56B3E780DF30FA9 /* PinyinIPA.swift */,
 				2C7FC108112B8F512463C0AC /* Pitch.swift */,
 				2CE067E847EBFA61C788207A /* Progress.swift */,
+				B53CF136E707008E6C66D915 /* Radicals.swift */,
 				6BB1AE396E748C027CB0B446 /* SpeechPlayer.swift */,
 				54C1829FBB97DAD65CCAF60E /* StudyEngine.swift */,
 			);
@@ -193,6 +204,7 @@
 				D0BF4708E9B4170AA8CA3CC5 /* ExamTests.swift */,
 				FAF12B918B878808B3FEE2A7 /* PinyinIPATests.swift */,
 				9001CC641CED5E8F967D9A9A /* PracticeTests.swift */,
+				BE6FEE0EB2759C1AB39285C7 /* RadicalTests.swift */,
 				7683A719959B6C8D5F12787E /* StudyTests.swift */,
 			);
 			path = BubuTests;
@@ -207,8 +219,10 @@
 				E2770A6860687AC45E8AA18A /* exam-bank.json */,
 				202FD51652213DC2571F3CD7 /* grammar.json */,
 				E84EB49B65395C134845442B /* LICENSE-FSRS.txt */,
+				54746AA730E48A1B734825D1 /* LICENSE-UNICODE.txt */,
 				98FC10DAC2096FE22D4D8EB2 /* provenance.json */,
-				9A2F63C5C05DC05285843C8F /* writing-strokes.json */,
+				6D1EE87684E13D82F8487167 /* radicals.json */,
+				57310ACAB176E2B8CE2FD508 /* strokes.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -222,6 +236,7 @@
 				314D1CA186DD139A56E7E566 /* GrammarViews.swift */,
 				2E3EBD21A808A13B08FCDB10 /* OralViews.swift */,
 				BB366FAEB290546BA8889C3A /* PinyinIPAViews.swift */,
+				EFDD70F8F5E2C28D1A308C9F /* RadicalViews.swift */,
 				0E941EEB027EE93214F31497 /* StudyViews.swift */,
 				525FCCDA0980FC91478642C3 /* ToneViews.swift */,
 				92D939D417B982D33ABD2623 /* WritingViews.swift */,
@@ -343,12 +358,14 @@
 			files = (
 				037BB4661147419BF9C65A93 /* ARPHICPL.txt in Resources */,
 				0F59F3A242DB34074BBB6167 /* LICENSE-FSRS.txt in Resources */,
+				B5FFF4909338BD2A8B5650C6 /* LICENSE-UNICODE.txt in Resources */,
 				E3CDA2E5A764B67008412CF4 /* curriculum.json in Resources */,
 				D32AEC30C50BD966B3B68ECB /* dialogues.json in Resources */,
 				F330717CA7663AAD311C9DC0 /* exam-bank.json in Resources */,
 				01F8D5BE29A271BC320D88FA /* grammar.json in Resources */,
 				8117A950403A1C2F0A5DD291 /* provenance.json in Resources */,
-				BBE4383EC200D2480393B386 /* writing-strokes.json in Resources */,
+				63C24AFBC63022BE51FC2C6B /* radicals.json in Resources */,
+				1F9DB15510C277E7AD77E90E /* strokes.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -385,6 +402,8 @@
 				591AE7CBD5F806BA28F33965 /* PinyinIPAViews.swift in Sources */,
 				A704EFEFE56EFF5D9FD866DA /* Pitch.swift in Sources */,
 				77E0A9D8BCA932CD98E6F370 /* Progress.swift in Sources */,
+				95C17F3282AE503AACF7F576 /* RadicalViews.swift in Sources */,
+				8284903795435839A04A50FE /* Radicals.swift in Sources */,
 				51842CBCF9B1BED3EDD957DA /* SpeechPlayer.swift in Sources */,
 				9A7D42750C7EE2C715FF60BE /* StudyEngine.swift in Sources */,
 				2D6DDB90789E708222F96F28 /* StudyViews.swift in Sources */,
@@ -401,6 +420,7 @@
 				0019A26241C6467AD172FECD /* ExamTests.swift in Sources */,
 				B56DEA4CA5885EB24F67D011 /* PinyinIPATests.swift in Sources */,
 				9DE751AE29387937D5113EF5 /* PracticeTests.swift in Sources */,
+				939BC2B112F793E835EA8BDA /* RadicalTests.swift in Sources */,
 				4633F7922A6C71E67459597C /* StudyTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

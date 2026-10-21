@@ -129,4 +129,24 @@ Dove stanno i dati: le tabelle (suoni, indicazioni in italiano, toni) sono costa
 
 Test: tutte le 300 parole (con entrambe le grafie di 谁) e i 246 caratteri si scompongono in una sillaba per carattere, erhua compreso; trascrizioni di riferimento (hǎo, nǐ hǎo, lǎoshī, zì, xué, qù, nǚ’ér, zhèr, yǒudiǎnr, miàntiáor…); grafie non valide rifiutate; numeri convertiti in segni di tono. Test UI: convertitore, parola collegata e scheda del suono, con screenshot 21–23.
 
+## Blocco 7: radicali colorati
+
+Il radicale di ogni carattere è disegnato nel rosso del sigillo, con i tratti in stile kai della grafia Arphic.
+
+- Griglia dei 246 caratteri: ogni tessera mostra il carattere disegnato dai tratti, con il radicale in rosso, e apre la nuova scheda «Carattere».
+- Scheda «Carattere»: carattere grande, ascolto, radicale con forma, carattere di riferimento, pinyin e significato in italiano, caratteri con lo stesso radicale, parole che lo contengono e collegamento alla scrittura.
+- Scrittura: radicale in rosso nell’ordine dei tratti e, attenuato, nella guida della tela.
+- Dettaglio parola: caratteri nella griglia 田字格 con il radicale colorato e sezione «Caratteri» collegata alle schede.
+
+Dati, tutti nel bundle e generati da `Scripts/import_radicals.py`:
+- `Resources/strokes.json` sostituisce `writing-strokes.json` e copre 253 caratteri (246 da riconoscere, 5 solo da scrivere, 店 e 饺 delle parole). È ancora soltanto grafica Arphic: tratti e mediane, hash in `Content/strokes-provenance.json`. 店 e 饺 vengono da `hanzi-writer-data@2.0.1`, come gli altri cinque extra.
+- Numero e forma del radicale: Unicode 18.0 Unihan (`kRSUnicode`, sistema Kangxi con le forme semplificate) e `CJKRadicals.txt`, Unicode License v3 inclusa nell’app. L’estratto versionato `Content/unihan-radicals.txt` riporta l’hash di `Unihan.zip`.
+- Tratti del radicale: annotazione originale di questo progetto in `Content/radicals.tsv`, secondo l’ordine dei tratti dello standard cinese; forme, pinyin e significati in `Content/radical_forms.tsv`. Le scomposizioni e i `radStrokes` di Make Me a Hanzi (LGPL v3) restano esclusi.
+
+Lo script verifica che ogni carattere abbia il radicale indicato da Unihan, che il numero di tratti corrisponda alla forma (氵 3, 讠 2, 辶 3…) e ai tratti residui di Unihan. Sei caratteri contano i tratti in modo diverso da Unihan (以, 些, 哪, 猫, 都, 睡) e sono annotati esplicitamente. Tutti i 253 caratteri sono stati controllati visivamente su un’anteprima generata dallo script (`--preview`). Controllo incrociato, solo di verifica e senza includere dati: confronto con i `radStrokes` di hanzi-writer-data presenti nel prototipo. 191 caratteri su 199 coincidono. Quattro errori di questa annotazione sono stati corretti con la geometria dei tratti: in 起 e 超 il 走 si scrive per intero prima del componente a destra; in 年 la verticale parte dall’orizzontale in alto; in 也 il radicale è 乚, l’ultimo tratto. Tre differenze dipendono dal sistema di radicali (视 礻/见, 习 乙/冫, 书 乙/丨): qui vale Unihan. In 电 il radicale 田 comprende il 竖弯钩 che ne forma la verticale centrale.
+
+Test: tutti i caratteri hanno radicale, pinyin e significato con tratti validi; casi di riferimento (好 女, 汉 氵, 这 辶, 国 囗 a cornice, 我 戈 intrecciato, 起 走 col tratto finale, 能 e 脑 con il radicale carne); test UI della griglia e della scheda con screenshot 24–25.
+
+Da verificare con un insegnante: scelta del radicale nei caratteri dove il sistema Kangxi è poco intuitivo (年 干, 电 田, 九 乙) e significati brevi in italiano.
+
 Sviluppi ulteriori del report: calibrazione della difficoltà e previsione alla data d’esame, consolidamento finale guidato, scomposizioni didattiche dei caratteri, esercizi specifici HSK 2 e simulatore orale completo HSK 3. L’MVP non presenta queste capacità come già disponibili.

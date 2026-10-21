@@ -421,7 +421,7 @@ struct WordDetail: View {
     var body: some View {
         Page {
             Panel(padding: 20, spacing: 18) {
-                HanziHero(hanzi: word.hanzi, pinyin: word.pinyin)
+                HanziHero(hanzi: word.hanzi, pinyin: word.pinyin, showsRadicals: true)
                 AudioButton(title: "Ascolta", speaking: speech.isSpeaking, size: 56) { speech.speak(word.hanzi) }.frame(maxWidth: .infinity)
             }
             VStack(alignment: .leading, spacing: 10) {
@@ -432,6 +432,7 @@ struct WordDetail: View {
                     if !wordClass.isEmpty { Tag(text: wordClass) }
                 }
             }.padding(.horizontal, 4)
+            WordCharactersSection(content: content, word: word)
             WordIPASection(content: content, word: word)
             NavigationLink { StudySessionView(content: content, initialQueue: ["meaning", "audio", "pinyin"].map { ReviewItem(contentID: String(word.id), kind: $0) }) } label: {
                 Label("Verifica questa parola", systemImage: "checkmark.circle")
@@ -457,24 +458,16 @@ struct CharactersView: View {
             NavigationLink { WritingListView(content: content) } label: {
                 RowGroup { ActionRow(title: "Scrittura dei 100 caratteri", detail: "Ordine dei tratti e pratica a mano", icon: "pencil.and.outline") }
             }.buttonStyle(.plain)
-            HStack(alignment: .firstTextBaseline) {
+            HStack(alignment: .firstTextBaseline, spacing: 12) {
                 Text("Da riconoscere").font(.headline).accessibilityAddTraits(.isHeader)
                 Spacer()
-                Label("anche da scrivere", systemImage: "pencil").font(.footnote).foregroundStyle(Palette.inkSoft)
+                RadicalLegend()
+                Label("da scrivere", systemImage: "pencil").font(.footnote).foregroundStyle(Palette.inkSoft)
             }.padding(.horizontal, 4)
             LazyVGrid(columns: [GridItem(.adaptive(minimum: tile), spacing: 8)], spacing: 8) {
                 ForEach(content.characters) { character in
-                    VStack(spacing: 0) {
-                        Text(character.pinyin).font(.caption).foregroundStyle(Palette.inkSoft).lineLimit(1).minimumScaleFactor(0.7)
-                        Text(character.hanzi).font(.hanzi(28, relativeTo: .title))
-                    }
-                    .padding(.vertical, 8).frame(maxWidth: .infinity, minHeight: tile)
-                    .background(Palette.surface, in: RoundedRectangle(cornerRadius: 12, style: .continuous))
-                    .overlay(alignment: .topTrailing) {
-                        if character.writing { Image(systemName: "pencil").font(.caption2.weight(.semibold)).foregroundStyle(Palette.red).padding(6) }
-                    }
-                    .accessibilityElement(children: .ignore)
-                    .accessibilityLabel("\(character.hanzi), \(character.pinyin)\(character.writing ? ", anche da scrivere" : "")")
+                    NavigationLink { CharacterDetailView(content: content, character: character) } label: { CharacterTile(character: character, size: tile) }
+                        .buttonStyle(.plain).accessibilityLabel(CharacterTile.spoken(character)).accessibilityIdentifier("char-\(character.hanzi)")
                 }
             }
         }.navigationTitle("246 caratteri").navigationBarTitleDisplayMode(.inline)
