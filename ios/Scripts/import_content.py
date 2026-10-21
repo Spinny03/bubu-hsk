@@ -21,7 +21,8 @@ def main():
         e=extras[w['n']]
         assert e['hz']==w['hanzi']
         # Le parentesi con classificatori nelle traduzioni ricevono il pinyin.
-        it=re.sub(r'[\u3400-\u9fff]+',lambda m:m[0]+' '+' '.join(lazy_pinyin(m[0],style=Style.TONE)),e['it'])
+        # 只 come classificatore si legge zhī (pypinyin dà zhǐ).
+        it=re.sub(r'[\u3400-\u9fff]+',lambda m:m[0]+' '+({'只':'zhī'}.get(m[0]) or ' '.join(lazy_pinyin(m[0],style=Style.TONE))),e['it'])
         words.append(dict(id=w['n'],hanzi=w['hanzi'],pinyin=w['pinyin'],category=w['pos'],unit=e['unit'],italian=it,emoji=e['emoji']))
     assert len(words)==300 and len({w['id'] for w in words})==300
     assert not [(w['hanzi'],[p for py in w['pinyin'].split('/') for p in check_line(w['hanzi'],py)]) for w in words if [p for py in w['pinyin'].split('/') for p in check_line(w['hanzi'],py)]]

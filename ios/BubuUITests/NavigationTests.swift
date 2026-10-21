@@ -136,6 +136,17 @@ final class NavigationTests: XCTestCase {
         XCTAssertTrue(app.descendants(matching:.any)["character-back"].waitForExistence(timeout:5))
         capture("26-carattere-risposta")
     }
+    func testGame() {
+        let app=XCUIApplication();app.launchArguments=["--uitesting"];app.launch()
+        tapVisible(app,app.buttons["game"])
+        XCTAssertTrue(app.staticTexts["game-hanzi"].waitForExistence(timeout:5))
+        XCTAssertEqual(app.buttons.matching(identifier:"game-option").count,4)
+        capture("27-sfida")
+        app.buttons["game-option"].firstMatch.tap()
+        // Dopo la risposta il pinyin accompagna il carattere; con un errore compare «Avanti».
+        XCTAssertTrue(app.staticTexts["game-streak"].exists)
+        capture("28-sfida-risposta")
+    }
     func openModule(_ app:XCUIApplication,_ id:String) { tapVisible(app,app.buttons[id]) }
     /// Scorre nelle due direzioni finché l'elemento sta tra la barra di navigazione e quella delle schede, poi lo tocca.
     func tapVisible(_ app:XCUIApplication,_ element:XCUIElement) {
