@@ -43,12 +43,15 @@ struct WritingView:View {
                 ZStack {TianGrid();RadicalGlyph(hanzi:character.hanzi).padding(8)}.frame(width:76,height:76).background(Palette.surface)
                 VStack(alignment:.leading,spacing:2) {
                     Text(character.pinyin).font(.title2.weight(.semibold))
+                    if let meaning=CharacterMeaning.all[character.hanzi] {
+                        HStack(spacing:6) {CharacterImage(meaning:meaning,size:18);Text(meaning.meaning).font(.subheadline)}
+                    }
                     Text(strokeCount == 1 ? "1 tratto" : "\(strokeCount) tratti").font(.subheadline).foregroundStyle(Palette.inkSoft)
                     if let radical {
                         Text(radical.whole ? "È un radicale: \(radical.form.meaning)" : "Radicale \(radical.form.label), \(radical.form.meaning)").font(.footnote).foregroundStyle(Palette.red)
                     }
                 }
-            }.accessibilityElement(children:.ignore).accessibilityLabel("\(character.hanzi), \(character.pinyin), \(strokeCount) tratti\(radical.map { ", radicale \($0.form.canonical) \($0.form.pinyin)" } ?? "")")
+            }.accessibilityElement(children:.ignore).accessibilityLabel("\(character.hanzi), \(character.pinyin)\(CharacterMeaning.all[character.hanzi].map { ", \($0.meaning)" } ?? ""), \(strokeCount) tratti\(radical.map { ", radicale \($0.form.canonical) \($0.form.pinyin)" } ?? "")")
             VStack(alignment:.leading,spacing:10) {
                 SectionTitle(title:"Ordine dei tratti",detail:"\(shown)/\(strokeCount)")
                 Panel(spacing:14) {

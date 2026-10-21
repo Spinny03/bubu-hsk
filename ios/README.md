@@ -149,4 +149,20 @@ Test: tutti i caratteri hanno radicale, pinyin e significato con tratti validi; 
 
 Da verificare con un insegnante: scelta del radicale nei caratteri dove il sistema Kangxi è poco intuitivo (年 干, 电 田, 九 乙) e significati brevi in italiano.
 
+## Blocco 8: significato e immagine di ogni carattere
+
+Ogni carattere ha un significato breve in italiano e un’immagine che ne suggerisce il senso a colpo d’occhio.
+
+- Griglia dei caratteri: immagine piccola nell’angolo di ogni tessera.
+- Scheda «Carattere»: immagine grande e significato sotto il carattere.
+- Scrittura e dettaglio parola: significato con immagine accanto a ogni carattere.
+- Riconoscimento nel ripasso: significato e immagine compaiono solo dopo la risposta, come le emoji delle parole.
+
+Dati: `Content/character_meanings.tsv` → `Resources/character-meanings.json` (`Scripts/import_character_meanings.py`).
+- 137 caratteri sono anche parole del catalogo: significato ed emoji della parola. Le 29 parole senza emoji ricevono un’immagine; 国 passa da 🏳️ (bandiera bianca) a 🗺️ solo per il carattere.
+- 116 caratteri hanno un significato scritto per Bùbù, controllato sulle definizioni Unihan (`kDefinition`) e riferito all’uso nell’HSK 1; da rivedere come gli altri contenuti originali.
+- Immagini: emoji di sistema Apple, offline. Dove non esiste un’emoji adatta, 12 disegni originali in SVG nello stesso stile (`Assets.xcassets/glyph-*`): 桌 tavolo, 千 1000, 的 possesso, 了 azione compiuta, 呢 «e tu?», 也 «+1», 都 tutti, 我 io e la famiglia dei classificatori «1 + oggetto» per 个, 件, 只, 条.
+
+Lo script verifica che tutti i 253 caratteri abbiano significato e immagine, che i disegni esistano e che i significati presi dalle parole coincidano con il catalogo. L’asset catalog non contiene ancora l’icona dell’app (`ASSETCATALOG_COMPILER_APPICON_NAME` vuoto in `project.yml`).
+
 Sviluppi ulteriori del report: calibrazione della difficoltà e previsione alla data d’esame, consolidamento finale guidato, scomposizioni didattiche dei caratteri, esercizi specifici HSK 2 e simulatore orale completo HSK 3. L’MVP non presenta queste capacità come già disponibili.

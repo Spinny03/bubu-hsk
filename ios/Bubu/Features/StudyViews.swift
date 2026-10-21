@@ -119,7 +119,20 @@ struct StudySessionView: View {
             ForEach(characterOptions) { option in
                 ChoiceButton(state: state(option.id == character.id, chosen: option.hanzi == response), alignment: .center) { answer(option.id == character.id, response: option.hanzi) } label: {
                     ChineseText(hanzi: option.hanzi, pinyin: option.pinyin, size: .card, alignment: .center)
-                }.disabled(answered)
+                }.disabled(answered).accessibilityIdentifier("character-option")
+            }
+        }
+        // Significato e immagine solo dopo la risposta, come le emoji delle parole.
+        if answered, let meaning = CharacterMeaning.all[character.hanzi] {
+            Panel {
+                HStack(spacing: 12) {
+                    CharacterImage(meaning: meaning, size: 36)
+                    VStack(alignment: .leading, spacing: 2) {
+                        Text("\(character.hanzi) \(character.pinyin)").font(.headline)
+                        Text(meaning.meaning).font(.subheadline)
+                    }
+                }
+                .accessibilityElement(children: .combine).accessibilityIdentifier("character-back")
             }
         }
     }

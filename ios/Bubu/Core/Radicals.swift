@@ -35,3 +35,13 @@ struct RadicalCatalog: Codable {
         return list.filter { $0.hanzi != hanzi && characters[$0.hanzi]?.radical == key }
     }
 }
+/// Significato breve e immagine di ogni carattere (Content/character_meanings.tsv).
+/// L'immagine è un'emoji di sistema oppure «asset:nome», un disegno originale in Assets.xcassets.
+struct CharacterMeaning: Codable, Hashable {
+    let meaning, image: String
+    static let all: [String: CharacterMeaning] = {
+        guard let url = Bundle.main.url(forResource: "character-meanings", withExtension: "json"), let data = try? Data(contentsOf: url) else { return [:] }
+        return (try? JSONDecoder().decode([String: CharacterMeaning].self, from: data)) ?? [:]
+    }()
+    var assetName: String? { image.hasPrefix("asset:") ? "glyph-" + image.dropFirst(6) : nil }
+}

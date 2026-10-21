@@ -125,7 +125,16 @@ final class NavigationTests: XCTestCase {
         tapVisible(app,app.buttons["char-好"])
         XCTAssertTrue(app.navigationBars["Carattere"].waitForExistence(timeout:5))
         XCTAssertTrue(app.staticTexts.matching(NSPredicate(format:"label CONTAINS %@","女 nǚ")).firstMatch.waitForExistence(timeout:5))
+        XCTAssertTrue(app.descendants(matching:.any)["character-meaning"].waitForExistence(timeout:5))
         capture("25-carattere-radicale")
+        // Nel ripasso dei caratteri significato e immagine compaiono solo dopo la risposta.
+        app.navigationBars.buttons.firstMatch.tap()
+        tapVisible(app,app.buttons.matching(NSPredicate(format:"label CONTAINS %@","Verifica il riconoscimento")).firstMatch)
+        XCTAssertTrue(app.buttons["character-option"].firstMatch.waitForExistence(timeout:5))
+        XCTAssertFalse(app.descendants(matching:.any)["character-back"].exists)
+        app.buttons["character-option"].firstMatch.tap()
+        XCTAssertTrue(app.descendants(matching:.any)["character-back"].waitForExistence(timeout:5))
+        capture("26-carattere-risposta")
     }
     func openModule(_ app:XCUIApplication,_ id:String) { tapVisible(app,app.buttons[id]) }
     /// Scorre nelle due direzioni finché l'elemento sta tra la barra di navigazione e quella delle schede, poi lo tocca.

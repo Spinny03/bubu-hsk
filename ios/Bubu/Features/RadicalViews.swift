@@ -1,5 +1,17 @@
 import SwiftUI
 
+/// Immagine del significato: emoji di sistema o disegno originale nello stesso stile.
+struct CharacterImage: View {
+    let meaning: CharacterMeaning
+    var size: CGFloat = 24
+    var body: some View {
+        Group {
+            if let asset = meaning.assetName { Image(asset).resizable().scaledToFit().frame(width: size, height: size) }
+            else { Text(meaning.image).font(.system(size: size * 0.86)).frame(width: size, height: size) }
+        }
+        .accessibilityHidden(true)
+    }
+}
 /// Tessera di un carattere: pinyin sopra, tratti con il radicale nel rosso del sigillo.
 struct CharacterTile: View {
     let character: Hanzi
@@ -14,12 +26,16 @@ struct CharacterTile: View {
         .overlay(alignment: .topTrailing) {
             if character.writing { Image(systemName: "pencil").font(.caption2.weight(.semibold)).foregroundStyle(Palette.inkSoft).padding(6) }
         }
+        .overlay(alignment: .bottomLeading) {
+            if let meaning = CharacterMeaning.all[character.hanzi] { CharacterImage(meaning: meaning, size: max(16, size * 0.24)).padding(6) }
+        }
         .contentShape(Rectangle())
         .accessibilityElement(children: .ignore)
         .accessibilityLabel(CharacterTile.spoken(character))
     }
     static func spoken(_ character: Hanzi) -> String {
         var text = "\(character.hanzi), \(character.pinyin)"
+        if let meaning = CharacterMeaning.all[character.hanzi] { text += ", \(meaning.meaning)" }
         if let match = RadicalCatalog.shared?.entry(for: character.hanzi) {
             text += match.whole ? ", è un radicale: \(match.form.meaning)" : ", radicale \(match.form.canonical) \(match.form.pinyin), \(match.form.meaning)"
         }
@@ -78,6 +94,14 @@ struct CharacterDetailView: View {
                 }
                 .frame(maxWidth: .infinity)
                 .accessibilityElement(children: .ignore).accessibilityLabel("\(character.hanzi), \(character.pinyin)")
+                if let meaning = CharacterMeaning.all[character.hanzi] {
+                    HStack(spacing: 12) {
+                        CharacterImage(meaning: meaning, size: 44)
+                        Text(meaning.meaning).font(.title3.weight(.semibold)).fixedSize(horizontal: false, vertical: true)
+                    }
+                    .frame(maxWidth: .infinity)
+                    .accessibilityElement(children: .combine).accessibilityIdentifier("character-meaning")
+                }
                 AudioButton(title: "Ascolta", speaking: speech.isSpeaking, size: 52) { speech.speak(character.hanzi) }.frame(maxWidth: .infinity)
             }
             if let match { RadicalPanel(match: match) }
@@ -150,6 +174,9 @@ struct WordCharactersSection: View {
                                 ZStack { TianGrid(); RadicalGlyph(hanzi: character.hanzi).padding(5) }.frame(width: 46, height: 46).accessibilityHidden(true)
                                 VStack(alignment: .leading, spacing: 2) {
                                     Text("\(character.hanzi) \(character.pinyin)").font(.headline)
+                                    if let meaning = CharacterMeaning.all[character.hanzi] {
+                                        HStack(spacing: 6) { CharacterImage(meaning: meaning, size: 18); Text(meaning.meaning).font(.subheadline) }
+                                    }
                                     if let match = RadicalCatalog.shared?.entry(for: character.hanzi) {
                                         Text(match.whole ? "È un radicale: \(match.form.meaning)" : "Radicale \(match.form.label), \(match.form.meaning)")
                                             .font(.footnote).foregroundStyle(Palette.inkSoft)

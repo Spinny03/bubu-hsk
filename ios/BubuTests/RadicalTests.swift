@@ -33,3 +33,22 @@ final class RadicalTests: XCTestCase {
         XCTAssertEqual(try XCTUnwrap(catalog.entry(for: "朋")).form.canonical, "月")
     }
 }
+final class CharacterMeaningTests: XCTestCase {
+    func testEveryCharacterHasAMeaningAndAnImage() throws {
+        XCTAssertEqual(CharacterMeaning.all.count, StrokeCatalog.all.count)
+        let words = try Curriculum.load().words
+        for (hanzi, meaning) in CharacterMeaning.all {
+            XCTAssertFalse(meaning.meaning.isEmpty, hanzi)
+            if let asset = meaning.assetName { XCTAssertNotNil(UIImage(named: asset), "\(hanzi) \(asset)") }
+            else {
+                // Emoji vera: presentazione emoji predefinita oppure selettore di variante U+FE0F.
+                let scalars = meaning.image.unicodeScalars
+                XCTAssertTrue(scalars.contains { $0.properties.isEmojiPresentation } || scalars.contains { $0.value == 0xFE0F }, "\(hanzi) \(meaning.image)")
+            }
+            // Per i caratteri che sono anche parole, il significato coincide con quello della parola.
+            if let word = words.first(where: { $0.hanzi == hanzi }) { XCTAssertEqual(meaning.meaning, word.italian, hanzi) }
+        }
+        XCTAssertEqual(CharacterMeaning.all["桌"]?.assetName, "glyph-zhuo")
+        XCTAssertEqual(CharacterMeaning.all["国"]?.image, "🗺️", "Non la bandiera bianca: 国 è paese")
+    }
+}
