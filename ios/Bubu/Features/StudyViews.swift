@@ -4,6 +4,9 @@ import SwiftData
 struct StudySessionView: View {
     let content: Curriculum
     let initialQueue: [ReviewItem]
+    var unitAssessment: Int? = nil
+    @State private var correctCount = 0
+    @State private var assessmentSaved = false
     @Environment(\.modelContext) private var context
     @StateObject private var speech = SpeechPlayer()
     @State private var queue: [ReviewItem] = []
@@ -18,7 +21,10 @@ struct StudySessionView: View {
     @State private var characterOptions: [Hanzi] = []
     @FocusState private var typing: Bool
     var item: ReviewItem? { index < queue.count ? queue[index] : nil }
-    var word: Word? { content.words.first { String($0.id) == item?.contentID } }
+    var word: Word? {
+        guard let item, ["meaning", "audio", "pinyin"].contains(item.kind) else { return nil }
+        return content.words.first { String($0.id) == item.contentID }
+    }
     var character: Hanzi? { content.characters.first { $0.id == item?.contentID } }
     var body: some View {
         Page {
@@ -58,6 +64,8 @@ struct StudySessionView: View {
                     if answered { ChineseText(hanzi: character.hanzi, pinyin: character.pinyin) }
                 } else if item.kind == "grammar", let lesson = GrammarCatalog.shared?.lessons.first(where: { String($0.id) == item.contentID }) {
                     GrammarExercise(lesson: lesson) { result, response in answer(result, response: response) }.id(item.id)
+                } else if item.kind == "tone", let exercise = ToneExercise.all.first(where: { $0.id == item.contentID }) {
+                    ToneQuiz(exercise: exercise, answered: answered) { result, response in answer(result, response: response) }
                 } else {
                     Text("Contenuto non disponibile per questa carta.")
                     Button("Prosegui") { next() }
@@ -74,7 +82,9 @@ struct StudySessionView: View {
                 if let error { Text(error).foregroundStyle(Palette.red); Button("Riprova a salvare") { answer(correct, response: response) } }
                 if let error = speech.error { Text(error).foregroundStyle(Palette.red) }
             } else {
+                if unitAssessment != nil { Panel { Text("Mini-test: \(correctCount)/\(queue.count)").font(.headline); Text(correctCount * 10 >= queue.count * 8 ? "Puoi passare alla prossima unità. Continua comunque i ripassi." : "Riprendi le parole che ti hanno fermato, poi riprova."); Text("Criterio didattico: almeno 8 risposte su 10. Non è una soglia d’esame.").font(.caption) } }
                 Panel { Image(systemName: "checkmark.circle").font(.largeTitle).foregroundStyle(Palette.jade); Text("Ripasso completato").font(.title2.bold()); Text("Le risposte sono salvate. Le carte torneranno quando sarà utile riprenderle.") }
+                if let error { Text(error).foregroundStyle(Palette.red); Button("Salva il mini-test") { saveAssessment() } }
             }
         }.navigationTitle("Ripasso").navigationBarTitleDisplayMode(.inline)
             .onAppear { if queue.isEmpty { queue = initialQueue; prepare() } }
@@ -90,7 +100,7 @@ struct StudySessionView: View {
         }
     }
     func label(_ kind: String) -> String {
-        switch kind { case "audio": return "ASCOLTO → SIGNIFICATO"; case "pinyin": return "RICHIAMO DEL PINYIN"; case "grammar": return "GRAMMATICA"; case "character": return "RICONOSCIMENTO"; default: return "CINESE → SIGNIFICATO" }
+        switch kind { case "audio": return "ASCOLTO → SIGNIFICATO"; case "pinyin": return "RICHIAMO DEL PINYIN"; case "grammar": return "GRAMMATICA"; case "character": return "RICONOSCIMENTO"; case "tone": return "TONI NELLE PAROLE"; default: return "CINESE → SIGNIFICATO" }
     }
     func answer(_ result: Bool, response: String) {
         guard !answered, let item else { return }
@@ -98,9 +108,21 @@ struct StudySessionView: View {
         do {
             try StudyEngine.record(item, correct: result, uncertain: uncertain, response: response, duration: Date().timeIntervalSince(started), context: context)
             answered = true; error = nil
+            if result { correctCount += 1 }
         } catch { self.error = "Risposta non salvata: \(error.localizedDescription)" }
     }
-    func next() { speech.stop(); index += 1; answered = false; response = ""; uncertain = false; error = nil; prepare() }
+    func saveAssessment() {
+        if let unitAssessment, !assessmentSaved {
+            context.insert(StudyEvent(key: "unit-\(unitAssessment)", correct: correctCount * 10 >= queue.count * 8, mode: "unit-assessment", response: "\(correctCount)/\(queue.count)"))
+            do { try context.save(); assessmentSaved = true; error = nil } catch { context.rollback(); self.error = "Mini-test non salvato: \(error.localizedDescription)" }
+        }
+    }
+    func next() {
+        speech.stop(); index += 1
+        answered = false; response = ""; uncertain = false; error = nil
+        if index >= queue.count { saveAssessment() }
+        prepare()
+    }
     func prepare() {
         started = .now
         if let word { options = StudyEngine.distractors(for: word, in: content.words) }

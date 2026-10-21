@@ -9,9 +9,8 @@ struct RootView: View {
         TabView(selection: $selected) {
             NavigationStack { HomeView(content: content) }.tabItem { Label("Livelli", systemImage: "square.stack.3d.up") }.tag(0)
             NavigationStack { ReviewLanding(content: content) }.tabItem { Label("Ripasso", systemImage: "arrow.triangle.2.circlepath") }.tag(1)
-            NavigationStack { PlanView() }.tabItem { Label("Il mio piano", systemImage: "calendar") }.tag(2)
+            NavigationStack { PlanView(content: content) }.tabItem { Label("Il mio piano", systemImage: "calendar") }.tag(2)
         }
-        SourceFooter()
         }.background(Palette.paper)
     }
 }
@@ -19,6 +18,7 @@ struct HomeView: View {
     let content: Curriculum
     @Query private var cards: [StudyCard]
     @AppStorage("placementDone") private var placementDone = false
+    var dueCount: Int { cards.filter { $0.due <= .now }.count }
     var body: some View {
         Page {
             HStack(alignment: .firstTextBaseline) {
@@ -32,7 +32,7 @@ struct HomeView: View {
                 VStack(alignment: .leading, spacing: 10) {
                     Label("IL RIPASSO DI OGGI", systemImage: "arrow.clockwise").font(.caption.bold())
                     HStack {
-                        Text(cards.filter { $0.due <= .now }.isEmpty ? "Comincia da qui" : "\(cards.filter { $0.due <= .now }.count) carte pronte").font(.title2.bold())
+                        Text(dueCount == 0 ? "Comincia da qui" : (dueCount == 1 ? "1 carta pronta" : "\(dueCount) carte pronte")).font(.title2.bold())
                         Spacer(); Image(systemName: "arrow.right.circle.fill").font(.title)
                     }
                     Text("Un solo ripasso per parole e abilità.").font(.subheadline)
@@ -60,6 +60,7 @@ struct HomeView: View {
 struct LevelView: View {
     let content: Curriculum
     @Query private var cards: [StudyCard]
+    @Query private var events: [StudyEvent]
     var learned: Int { content.words.filter { word in ["meaning", "audio", "pinyin"].allSatisfy { kind in cards.contains { $0.contentID == String(word.id) && $0.kind == kind && $0.successes >= 2 && $0.lastCorrect } } }.count }
     var body: some View {
         Page {
@@ -70,6 +71,7 @@ struct LevelView: View {
                 coverage("Parole verificate", count: learned, total: 300)
                 coverage("Caratteri verificati", count: cards.filter { $0.kind == "character" && $0.successes >= 2 && $0.lastCorrect }.count, total: 246)
                 coverage("Righe di grammatica", count: cards.filter { $0.kind == "grammar" && $0.successes >= 2 && $0.lastCorrect }.count, total: 70)
+                coverage("Unità con mini-test superato", count: Set(events.filter { $0.mode == "unit-assessment" && $0.correct }.map(\.key)).count, total: 15)
                 Text("Le verifiche contano. Aprire una lezione non basta.").font(.caption).foregroundStyle(.secondary)
             }
             ReadinessView()
@@ -81,6 +83,16 @@ struct LevelView: View {
                 NavigationLink { GrammarListView(content: content) } label: { ActionRow(title: "Grammatica", detail: "70 righe collegate ai testi del libro", icon: "text.book.closed") }
                 Divider()
                 NavigationLink { CharactersView(content: content) } label: { ActionRow(title: "Caratteri", detail: "246 da riconoscere · 100 da scrivere", icon: "pencil.tip") }
+                Divider()
+                NavigationLink { TonePracticeView(content: content) } label: { ActionRow(title: "Pronuncia e toni", detail: "Terzo tono, cambio 3–3 e parole", icon: "waveform") }.accessibilityIdentifier("tone-practice")
+                Divider()
+                NavigationLink { WritingListView(content: content) } label: { ActionRow(title: "Scrittura", detail: "100 caratteri · dito o Apple Pencil", icon: "pencil.and.outline") }.accessibilityIdentifier("writing-practice")
+                Divider()
+                NavigationLink { DialogueListView(content: content, listening: true) } label: { ActionRow(title: "Ascolto", detail: "15 dialoghi con trascrizione", icon: "headphones") }.accessibilityIdentifier("listening-practice")
+                Divider()
+                NavigationLink { DialogueListView(content: content, listening: false) } label: { ActionRow(title: "Lettura", detail: "Testi graduati sulle parole verificate", icon: "text.alignleft") }.accessibilityIdentifier("reading-practice")
+                Divider()
+                NavigationLink { OralPracticeView() } label: { ActionRow(title: "Pratica orale", detail: "Registra e riascoltati, senza voti", icon: "mic") }.accessibilityIdentifier("oral-practice")
             }.buttonStyle(.plain)
         }.navigationTitle("HSK 1").navigationBarTitleDisplayMode(.inline)
     }
@@ -144,6 +156,7 @@ struct UnitsView: View {
 struct UnitView: View {
     let content: Curriculum
     let unit: LearningUnit
+    @AppStorage("allowGeneratedContent") private var allowGenerated = true
     var body: some View {
         Page {
             Text(unit.title).font(.system(.largeTitle, design: .serif).bold())
@@ -153,6 +166,11 @@ struct UnitView: View {
                 Panel { ActionRow(title: "Le parole dell’unità", detail: "Studia e verifica quello che ricordi", icon: "rectangle.on.rectangle") }
             }.buttonStyle(.plain)
             NavigationLink { GrammarListView(content: content, unit: unit.id) } label: { Panel { ActionRow(title: "Grammatica dell’unità", detail: "Spiegazione, esempi e verifica", icon: "text.book.closed") } }.buttonStyle(.plain)
+            if allowGenerated, let dialogue = Dialogue.all.first(where: { $0.id == unit.id }) {
+                NavigationLink { DialogueView(content: content, dialogue: dialogue, listening: true) } label: { Panel { ActionRow(title: "Dialogo e comprensione", detail: "Ascolta, leggi e rispondi", icon: "headphones") } }.buttonStyle(.plain)
+            }
+            NavigationLink { TonePracticeView(content: content) } label: { Panel { ActionRow(title: "Pronuncia", detail: "Ascolta il modello e prova con la voce", icon: "waveform") } }.buttonStyle(.plain)
+            NavigationLink { StudySessionView(content: content, initialQueue: Array(content.words.filter { $0.unit == unit.id }.flatMap { w in ["meaning", "audio", "pinyin"].map { ReviewItem(contentID: String(w.id), kind: $0) } }.shuffled().prefix(10)), unitAssessment: unit.id) } label: { Panel { ActionRow(title: "Mini-test dell’unità", detail: "10 verifiche per decidere se proseguire", icon: "checkmark.seal") } }.buttonStyle(.plain)
         }.navigationTitle("Unità \(unit.id)").navigationBarTitleDisplayMode(.inline)
     }
 }
@@ -187,9 +205,17 @@ struct WordDetail: View {
 }
 struct CharactersView: View {
     let content: Curriculum
+    @Query private var cards: [StudyCard]
+    var practice: [ReviewItem] {
+        let due = cards.filter { $0.kind == "character" && $0.due <= .now }.sorted { $0.due < $1.due }.map { ReviewItem(contentID: $0.contentID, kind: "character") }
+        let seen = Set(cards.filter { $0.kind == "character" }.map(\.contentID))
+        let fresh = content.characters.filter { !seen.contains($0.id) }.map { ReviewItem(contentID: $0.id, kind: "character") }
+        return Array((due + fresh).prefix(10))
+    }
     var body: some View {
         List {
-            NavigationLink { StudySessionView(content: content, initialQueue: Array(content.characters.prefix(10)).map { ReviewItem(contentID: $0.id, kind: "character") }) } label: { Label("Verifica il riconoscimento", systemImage: "play.fill") }
+            NavigationLink("Apri la scrittura dei 100 caratteri") { WritingListView(content: content) }
+            NavigationLink { StudySessionView(content: content, initialQueue: practice) } label: { Label("Verifica il riconoscimento", systemImage: "play.fill") }.disabled(practice.isEmpty)
             ForEach(content.characters) { character in
                 HStack { ChineseText(hanzi: character.hanzi, pinyin: character.pinyin); Spacer(); if character.writing { Text("Anche da scrivere").font(.caption).foregroundStyle(.secondary) } }
             }
@@ -204,7 +230,7 @@ struct ReviewLanding: View {
         Page {
             Text("Un ripasso,\ntutte le tue abilità.").font(.system(.largeTitle, design: .serif).bold())
             Panel {
-                Text(due.isEmpty ? "Puoi imparare qualcosa di nuovo" : "\(due.count) carte da riprendere").font(.title2.bold())
+                Text(due.isEmpty ? "Puoi imparare qualcosa di nuovo" : (due.count == 1 ? "1 carta da riprendere" : "\(due.count) carte da riprendere")).font(.title2.bold())
                 Text("Parole, ascolto, pinyin, caratteri e grammatica. Le scadenze seguono quello che ricordi davvero.").foregroundStyle(.secondary)
                 NavigationLink { StudySessionView(content: content, initialQueue: StudyEngine.queue(cards: cards, words: content.words)) } label: { Label(due.isEmpty ? "Inizia a studiare" : "Inizia il ripasso", systemImage: "play.fill") }.buttonStyle(.borderedProminent).foregroundStyle(.white).accessibilityIdentifier("start-review")
             }
@@ -213,6 +239,7 @@ struct ReviewLanding: View {
     }
 }
 struct PlanView: View {
+    let content: Curriculum
     @AppStorage("examCenter") private var center = ""
     @AppStorage("examVariant") private var variant = "Computer"
     @AppStorage("hasExamDate") private var hasDate = false
@@ -221,6 +248,7 @@ struct PlanView: View {
     @AppStorage("allowGeneratedContent") private var allowGenerated = true
     var body: some View {
         Form {
+            Section("Da dove partire") { NavigationLink("Ripeti il test di piazzamento") { ExamLandingView(content: content, initialMode: .placement) } }
             Section("Il tuo esame") {
                 TextField("Centro d’esame", text: $center)
                 Picker("Modalità", selection: $variant) { Text("Computer").tag("Computer"); Text("Carta").tag("Carta") }
@@ -233,7 +261,12 @@ struct PlanView: View {
                 HStack { ForEach(Array(["mā 1°", "má 2°", "mǎ 3°", "mà 4°"].enumerated()), id: \.offset) { i, s in Text(s).foregroundStyle(Palette.tone(i+1, mode: palette)); Spacer() } }
                 Text("I segni di tono restano sempre visibili.").font(.caption)
             }
-            Section("Contenuti di pratica") { Toggle("Mostra le domande originali IA", isOn: $allowGenerated); Text("La banca d’esame richiede ancora revisione linguistica umana.").font(.caption) }
+            Section("Contenuti di pratica") { Toggle("Mostra domande e dialoghi IA", isOn: $allowGenerated); Text("La banca d’esame e i dialoghi richiedono ancora revisione linguistica umana.").font(.caption) }
+            Section("Fonti e progetto") {
+                Text("Programma: 考试大纲 kǎoshì dàgāng 2025-11 · Formato: 样题 yàngtí 2025-12")
+                Text("Non affiliata né approvata da CTI o CLEC").font(.caption)
+                NavigationLink("Licenze e componenti") { LicensesView() }
+            }
             Section("I tuoi dati") { Text("Contenuti e progressi sono salvati sul dispositivo. Nessun account richiesto."); Text("Voce di sistema provvisoria: non ancora revisionata da un parlante madrelingua.").font(.caption) }
         }.navigationTitle("Il mio piano")
     }

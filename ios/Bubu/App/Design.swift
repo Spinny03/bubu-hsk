@@ -8,6 +8,7 @@ enum Palette {
     static func tone(_ number: Int, mode: String) -> Color {
         if mode == "Disattivati" { return ink }
         let standard = [0x595959, 0xC43149, 0x7A3D00, 0x007A7A, 0x313DC4]
+        if mode == "Alto contrasto" { return Color(hex: [0x2C2C2C, 0x850021, 0x582B00, 0x005454, 0x152090][min(max(number, 0), 4)]) }
         let accessible = [0x595959, 0x934B00, 0x004D80, 0x5E3C99, 0x202020]
         return Color(hex: (mode == "Daltonismo" ? accessible : standard)[min(max(number, 0), 4)])
     }
@@ -24,15 +25,6 @@ struct ChineseText: View {
             Text(pinyin).font(large ? .title3 : .subheadline).foregroundStyle(.secondary)
             Text(hanzi).font(large ? .system(.largeTitle, design: .serif) : .title3)
         }.accessibilityElement(children: .ignore).accessibilityLabel("\(hanzi), \(pinyin)")
-    }
-}
-struct SourceFooter: View {
-    var body: some View {
-        VStack(spacing: 2) {
-            Text("Programma: 考试大纲 kǎoshì dàgāng 2025-11")
-            Text("Formato: 样题 yàngtí 2025-12 · Non affiliata né approvata da CTI o CLEC")
-        }.font(.caption2).foregroundStyle(Color(hex: 0x565B57)).multilineTextAlignment(.center)
-            .frame(maxWidth: .infinity).padding(.horizontal, 10).padding(.vertical, 5).background(Palette.paper)
     }
 }
 struct Page<Content: View>: View {

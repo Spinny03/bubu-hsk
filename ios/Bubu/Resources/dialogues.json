@@ -1,0 +1,1835 @@
+[
+  {
+    "id": 1,
+    "title": "Presentarsi",
+    "lines": [
+      {
+        "hanzi": "你好，我是学生。你呢？",
+        "pinyin": "nǐ hǎo ， wǒ shì xué shēng 。 nǐ ne ？",
+        "italian": "Ciao, sono studente. E tu?",
+        "tokens": [
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "好",
+            "pinyin": "hǎo"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "是",
+            "pinyin": "shì"
+          },
+          {
+            "hanzi": "学",
+            "pinyin": "xué"
+          },
+          {
+            "hanzi": "生",
+            "pinyin": "shēng"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "呢",
+            "pinyin": "ne"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          144,
+          146,
+          147,
+          188,
+          221,
+          248
+        ]
+      },
+      {
+        "hanzi": "我也是学生。我学习汉语。",
+        "pinyin": "wǒ yě shì xué shēng 。 wǒ xué xí Hàn yǔ 。",
+        "italian": "Anch’io sono studente. Studio cinese.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě"
+          },
+          {
+            "hanzi": "是",
+            "pinyin": "shì"
+          },
+          {
+            "hanzi": "学",
+            "pinyin": "xué"
+          },
+          {
+            "hanzi": "生",
+            "pinyin": "shēng"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "学",
+            "pinyin": "xué"
+          },
+          {
+            "hanzi": "习",
+            "pinyin": "xí"
+          },
+          {
+            "hanzi": "汉",
+            "pinyin": "Hàn"
+          },
+          {
+            "hanzi": "语",
+            "pinyin": "yǔ"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          69,
+          188,
+          221,
+          248,
+          249,
+          253
+        ]
+      }
+    ],
+    "question": "Che cosa studia la seconda persona?",
+    "choices": [
+      "Cinese",
+      "Medicina",
+      "Non lo dice"
+    ],
+    "answer": 0,
+    "wordIDs": [
+      69,
+      144,
+      146,
+      147,
+      188,
+      221,
+      248,
+      249,
+      253
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Date, orari e numeri",
+    "lines": [
+      {
+        "hanzi": "我们今天几点上课？",
+        "pinyin": "wǒ men jīn tiān jǐ diǎn shàng kè ？",
+        "italian": "A che ora abbiamo lezione oggi?",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "们",
+            "pinyin": "men"
+          },
+          {
+            "hanzi": "今",
+            "pinyin": "jīn"
+          },
+          {
+            "hanzi": "天",
+            "pinyin": "tiān"
+          },
+          {
+            "hanzi": "几",
+            "pinyin": "jǐ"
+          },
+          {
+            "hanzi": "点",
+            "pinyin": "diǎn"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shàng"
+          },
+          {
+            "hanzi": "课",
+            "pinyin": "kè"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          33,
+          85,
+          94,
+          177,
+          222
+        ]
+      },
+      {
+        "hanzi": "我们八点上课。",
+        "pinyin": "wǒ men bā diǎn shàng kè 。",
+        "italian": "Abbiamo lezione alle otto.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "们",
+            "pinyin": "men"
+          },
+          {
+            "hanzi": "八",
+            "pinyin": "bā"
+          },
+          {
+            "hanzi": "点",
+            "pinyin": "diǎn"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shàng"
+          },
+          {
+            "hanzi": "课",
+            "pinyin": "kè"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          2,
+          33,
+          177,
+          222
+        ]
+      }
+    ],
+    "question": "A che ora inizia la lezione?",
+    "choices": [
+      "Alle sette",
+      "Alle otto",
+      "Alle nove"
+    ],
+    "answer": 1,
+    "wordIDs": [
+      2,
+      33,
+      85,
+      94,
+      177,
+      222
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Gli oggetti",
+    "lines": [
+      {
+        "hanzi": "你的杯子在哪儿？",
+        "pinyin": "nǐ de bēi zi zài nǎ r ？",
+        "italian": "Dov’è il tuo bicchiere?",
+        "tokens": [
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de"
+          },
+          {
+            "hanzi": "杯",
+            "pinyin": "bēi"
+          },
+          {
+            "hanzi": "子",
+            "pinyin": "zi"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài"
+          },
+          {
+            "hanzi": "哪",
+            "pinyin": "nǎ"
+          },
+          {
+            "hanzi": "儿",
+            "pinyin": "r"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          9,
+          30,
+          134,
+          146,
+          271
+        ]
+      },
+      {
+        "hanzi": "在桌子上。我的杯子很小。",
+        "pinyin": "zài zhuō zi shàng 。 wǒ de bēi zi hěn xiǎo 。",
+        "italian": "È sul tavolo. Il mio bicchiere è piccolo.",
+        "tokens": [
+          {
+            "hanzi": "在",
+            "pinyin": "zài"
+          },
+          {
+            "hanzi": "桌",
+            "pinyin": "zhuō"
+          },
+          {
+            "hanzi": "子",
+            "pinyin": "zi"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shàng"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de"
+          },
+          {
+            "hanzi": "杯",
+            "pinyin": "bēi"
+          },
+          {
+            "hanzi": "子",
+            "pinyin": "zi"
+          },
+          {
+            "hanzi": "很",
+            "pinyin": "hěn"
+          },
+          {
+            "hanzi": "小",
+            "pinyin": "xiǎo"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          9,
+          30,
+          79,
+          175,
+          221,
+          234,
+          271,
+          295
+        ]
+      }
+    ],
+    "question": "Dov’è il bicchiere?",
+    "choices": [
+      "Sotto il tavolo",
+      "A scuola",
+      "Sul tavolo"
+    ],
+    "answer": 2,
+    "wordIDs": [
+      9,
+      30,
+      79,
+      134,
+      146,
+      175,
+      221,
+      234,
+      271,
+      295
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Il tempo atmosferico",
+    "lines": [
+      {
+        "hanzi": "今天冷吗？",
+        "pinyin": "jīn tiān lěng ma ？",
+        "italian": "Oggi fa freddo?",
+        "tokens": [
+          {
+            "hanzi": "今",
+            "pinyin": "jīn"
+          },
+          {
+            "hanzi": "天",
+            "pinyin": "tiān"
+          },
+          {
+            "hanzi": "冷",
+            "pinyin": "lěng"
+          },
+          {
+            "hanzi": "吗",
+            "pinyin": "ma"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          94,
+          109,
+          115
+        ]
+      },
+      {
+        "hanzi": "今天不冷。今天下雨。",
+        "pinyin": "jīn tiān bù lěng 。 jīn tiān xià yǔ 。",
+        "italian": "Oggi non fa freddo. Piove.",
+        "tokens": [
+          {
+            "hanzi": "今",
+            "pinyin": "jīn"
+          },
+          {
+            "hanzi": "天",
+            "pinyin": "tiān"
+          },
+          {
+            "hanzi": "不",
+            "pinyin": "bù"
+          },
+          {
+            "hanzi": "冷",
+            "pinyin": "lěng"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "今",
+            "pinyin": "jīn"
+          },
+          {
+            "hanzi": "天",
+            "pinyin": "tiān"
+          },
+          {
+            "hanzi": "下",
+            "pinyin": "xià"
+          },
+          {
+            "hanzi": "雨",
+            "pinyin": "yǔ"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          13,
+          94,
+          109,
+          227
+        ]
+      }
+    ],
+    "question": "Che tempo fa?",
+    "choices": [
+      "Piove",
+      "Nevica",
+      "Non lo dice"
+    ],
+    "answer": 0,
+    "wordIDs": [
+      13,
+      94,
+      109,
+      115,
+      227
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Luoghi e ambienti",
+    "lines": [
+      {
+        "hanzi": "学校在哪儿？",
+        "pinyin": "xué xiào zài nǎ r ？",
+        "italian": "Dov’è la scuola?",
+        "tokens": [
+          {
+            "hanzi": "学",
+            "pinyin": "xué"
+          },
+          {
+            "hanzi": "校",
+            "pinyin": "xiào"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài"
+          },
+          {
+            "hanzi": "哪",
+            "pinyin": "nǎ"
+          },
+          {
+            "hanzi": "儿",
+            "pinyin": "r"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          134,
+          250,
+          271
+        ]
+      },
+      {
+        "hanzi": "学校在医院前边。",
+        "pinyin": "xué xiào zài yī yuàn qián biān 。",
+        "italian": "La scuola è davanti all’ospedale.",
+        "tokens": [
+          {
+            "hanzi": "学",
+            "pinyin": "xué"
+          },
+          {
+            "hanzi": "校",
+            "pinyin": "xiào"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài"
+          },
+          {
+            "hanzi": "医",
+            "pinyin": "yī"
+          },
+          {
+            "hanzi": "院",
+            "pinyin": "yuàn"
+          },
+          {
+            "hanzi": "前",
+            "pinyin": "qián"
+          },
+          {
+            "hanzi": "边",
+            "pinyin": "biān"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          11,
+          163,
+          250,
+          257,
+          271
+        ]
+      }
+    ],
+    "question": "Dov’è la scuola?",
+    "choices": [
+      "Dietro all’ospedale",
+      "Davanti all’ospedale",
+      "Dentro all’ospedale"
+    ],
+    "answer": 1,
+    "wordIDs": [
+      11,
+      134,
+      163,
+      250,
+      257,
+      271
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Saluti e cortesia",
+    "lines": [
+      {
+        "hanzi": "谢谢你。",
+        "pinyin": "xiè xie nǐ 。",
+        "italian": "Grazie.",
+        "tokens": [
+          {
+            "hanzi": "谢",
+            "pinyin": "xiè"
+          },
+          {
+            "hanzi": "谢",
+            "pinyin": "xie"
+          },
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          146,
+          241
+        ]
+      },
+      {
+        "hanzi": "不客气。再见！",
+        "pinyin": "bú kè qi 。 zài jiàn ！",
+        "italian": "Prego. Arrivederci!",
+        "tokens": [
+          {
+            "hanzi": "不",
+            "pinyin": "bú"
+          },
+          {
+            "hanzi": "客",
+            "pinyin": "kè"
+          },
+          {
+            "hanzi": "气",
+            "pinyin": "qi"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "再",
+            "pinyin": "zài"
+          },
+          {
+            "hanzi": "见",
+            "pinyin": "jiàn"
+          },
+          {
+            "hanzi": "！",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          14,
+          272
+        ]
+      }
+    ],
+    "question": "Quale situazione descrive il dialogo?",
+    "choices": [
+      "Un acquisto",
+      "Una visita medica",
+      "Un ringraziamento e un saluto"
+    ],
+    "answer": 2,
+    "wordIDs": [
+      14,
+      146,
+      241,
+      272
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Cibo e gusti",
+    "lines": [
+      {
+        "hanzi": "早上你吃什么？",
+        "pinyin": "zǎo shang nǐ chī shén me ？",
+        "italian": "Che cosa mangi la mattina?",
+        "tokens": [
+          {
+            "hanzi": "早",
+            "pinyin": "zǎo"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shang"
+          },
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "吃",
+            "pinyin": "chī"
+          },
+          {
+            "hanzi": "什",
+            "pinyin": "shén"
+          },
+          {
+            "hanzi": "么",
+            "pinyin": "me"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          21,
+          146,
+          182,
+          275
+        ]
+      },
+      {
+        "hanzi": "我吃鸡蛋，喝牛奶。",
+        "pinyin": "wǒ chī jī dàn ， hē niú nǎi 。",
+        "italian": "Mangio uova e bevo latte.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "吃",
+            "pinyin": "chī"
+          },
+          {
+            "hanzi": "鸡",
+            "pinyin": "jī"
+          },
+          {
+            "hanzi": "蛋",
+            "pinyin": "dàn"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "喝",
+            "pinyin": "hē"
+          },
+          {
+            "hanzi": "牛",
+            "pinyin": "niú"
+          },
+          {
+            "hanzi": "奶",
+            "pinyin": "nǎi"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          21,
+          77,
+          84,
+          151,
+          221
+        ]
+      }
+    ],
+    "question": "Che cosa beve la seconda persona?",
+    "choices": [
+      "Latte",
+      "Tè",
+      "Acqua"
+    ],
+    "answer": 0,
+    "wordIDs": [
+      21,
+      77,
+      84,
+      146,
+      151,
+      182,
+      221,
+      275
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Spostamenti",
+    "lines": [
+      {
+        "hanzi": "你怎么去公司？",
+        "pinyin": "nǐ zěn me qù gōng sī ？",
+        "italian": "Come vai in azienda?",
+        "tokens": [
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "怎",
+            "pinyin": "zěn"
+          },
+          {
+            "hanzi": "么",
+            "pinyin": "me"
+          },
+          {
+            "hanzi": "去",
+            "pinyin": "qù"
+          },
+          {
+            "hanzi": "公",
+            "pinyin": "gōng"
+          },
+          {
+            "hanzi": "司",
+            "pinyin": "sī"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          62,
+          146,
+          167,
+          276
+        ]
+      },
+      {
+        "hanzi": "我坐出租车去公司。",
+        "pinyin": "wǒ zuò chū zū chē qù gōng sī 。",
+        "italian": "Vado in azienda in taxi.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "坐",
+            "pinyin": "zuò"
+          },
+          {
+            "hanzi": "出",
+            "pinyin": "chū"
+          },
+          {
+            "hanzi": "租",
+            "pinyin": "zū"
+          },
+          {
+            "hanzi": "车",
+            "pinyin": "chē"
+          },
+          {
+            "hanzi": "去",
+            "pinyin": "qù"
+          },
+          {
+            "hanzi": "公",
+            "pinyin": "gōng"
+          },
+          {
+            "hanzi": "司",
+            "pinyin": "sī"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          22,
+          62,
+          167,
+          221,
+          298
+        ]
+      }
+    ],
+    "question": "Quale mezzo usa?",
+    "choices": [
+      "Aereo",
+      "Taxi",
+      "Treno"
+    ],
+    "answer": 1,
+    "wordIDs": [
+      22,
+      62,
+      146,
+      167,
+      221,
+      276,
+      298
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Fare acquisti",
+    "lines": [
+      {
+        "hanzi": "这本书多少钱？",
+        "pinyin": "zhè běn shū duō shao qián ？",
+        "italian": "Quanto costa questo libro?",
+        "tokens": [
+          {
+            "hanzi": "这",
+            "pinyin": "zhè"
+          },
+          {
+            "hanzi": "本",
+            "pinyin": "běn"
+          },
+          {
+            "hanzi": "书",
+            "pinyin": "shū"
+          },
+          {
+            "hanzi": "多",
+            "pinyin": "duō"
+          },
+          {
+            "hanzi": "少",
+            "pinyin": "shao"
+          },
+          {
+            "hanzi": "钱",
+            "pinyin": "qián"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          10,
+          47,
+          164,
+          190,
+          279
+        ]
+      },
+      {
+        "hanzi": "十块钱。",
+        "pinyin": "shí kuài qián 。",
+        "italian": "Dieci yuan.",
+        "tokens": [
+          {
+            "hanzi": "十",
+            "pinyin": "shí"
+          },
+          {
+            "hanzi": "块",
+            "pinyin": "kuài"
+          },
+          {
+            "hanzi": "钱",
+            "pinyin": "qián"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          105,
+          164,
+          184
+        ]
+      },
+      {
+        "hanzi": "我要买这本书。",
+        "pinyin": "wǒ yào mǎi zhè běn shū 。",
+        "italian": "Voglio comprare questo libro.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "要",
+            "pinyin": "yào"
+          },
+          {
+            "hanzi": "买",
+            "pinyin": "mǎi"
+          },
+          {
+            "hanzi": "这",
+            "pinyin": "zhè"
+          },
+          {
+            "hanzi": "本",
+            "pinyin": "běn"
+          },
+          {
+            "hanzi": "书",
+            "pinyin": "shū"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          10,
+          116,
+          190,
+          221,
+          252,
+          279
+        ]
+      }
+    ],
+    "question": "Quanto costa il libro?",
+    "choices": [
+      "Otto yuan",
+      "Cento yuan",
+      "Dieci yuan"
+    ],
+    "answer": 2,
+    "wordIDs": [
+      10,
+      47,
+      105,
+      116,
+      164,
+      184,
+      190,
+      221,
+      252,
+      279
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Salute",
+    "lines": [
+      {
+        "hanzi": "我病了，今天想休息。",
+        "pinyin": "wǒ bìng le ， jīn tiān xiǎng xiū xi 。",
+        "italian": "Oggi non sto bene. Voglio riposare.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "病",
+            "pinyin": "bìng"
+          },
+          {
+            "hanzi": "了",
+            "pinyin": "le"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "今",
+            "pinyin": "jīn"
+          },
+          {
+            "hanzi": "天",
+            "pinyin": "tiān"
+          },
+          {
+            "hanzi": "想",
+            "pinyin": "xiǎng"
+          },
+          {
+            "hanzi": "休",
+            "pinyin": "xiū"
+          },
+          {
+            "hanzi": "息",
+            "pinyin": "xi"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          12,
+          94,
+          108,
+          221,
+          233,
+          246
+        ]
+      },
+      {
+        "hanzi": "你喝水吗？",
+        "pinyin": "nǐ hē shuǐ ma ？",
+        "italian": "Bevi dell’acqua?",
+        "tokens": [
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "喝",
+            "pinyin": "hē"
+          },
+          {
+            "hanzi": "水",
+            "pinyin": "shuǐ"
+          },
+          {
+            "hanzi": "吗",
+            "pinyin": "ma"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          77,
+          115,
+          146,
+          192
+        ]
+      }
+    ],
+    "question": "Che cosa vuole fare la prima persona?",
+    "choices": [
+      "Riposare",
+      "Studiare",
+      "Lavorare"
+    ],
+    "answer": 0,
+    "wordIDs": [
+      12,
+      77,
+      94,
+      108,
+      115,
+      146,
+      192,
+      221,
+      233,
+      246
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Tempo libero",
+    "lines": [
+      {
+        "hanzi": "你喜欢做什么？",
+        "pinyin": "nǐ xǐ huan zuò shén me ？",
+        "italian": "Che cosa ti piace fare?",
+        "tokens": [
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "喜",
+            "pinyin": "xǐ"
+          },
+          {
+            "hanzi": "欢",
+            "pinyin": "huan"
+          },
+          {
+            "hanzi": "做",
+            "pinyin": "zuò"
+          },
+          {
+            "hanzi": "什",
+            "pinyin": "shén"
+          },
+          {
+            "hanzi": "么",
+            "pinyin": "me"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          146,
+          182,
+          225,
+          299
+        ]
+      },
+      {
+        "hanzi": "我喜欢看电影，也喜欢唱歌。",
+        "pinyin": "wǒ xǐ huan kàn diàn yǐng ， yě xǐ huan chàng gē 。",
+        "italian": "Mi piace guardare film e anche cantare.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "喜",
+            "pinyin": "xǐ"
+          },
+          {
+            "hanzi": "欢",
+            "pinyin": "huan"
+          },
+          {
+            "hanzi": "看",
+            "pinyin": "kàn"
+          },
+          {
+            "hanzi": "电",
+            "pinyin": "diàn"
+          },
+          {
+            "hanzi": "影",
+            "pinyin": "yǐng"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě"
+          },
+          {
+            "hanzi": "喜",
+            "pinyin": "xǐ"
+          },
+          {
+            "hanzi": "欢",
+            "pinyin": "huan"
+          },
+          {
+            "hanzi": "唱",
+            "pinyin": "chàng"
+          },
+          {
+            "hanzi": "歌",
+            "pinyin": "gē"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          18,
+          38,
+          58,
+          99,
+          221,
+          225,
+          253
+        ]
+      }
+    ],
+    "question": "Quali attività le piacciono?",
+    "choices": [
+      "Leggere e nuotare",
+      "Guardare film e cantare",
+      "Lavorare e studiare"
+    ],
+    "answer": 1,
+    "wordIDs": [
+      18,
+      38,
+      58,
+      99,
+      146,
+      182,
+      221,
+      225,
+      253,
+      299
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Lo studio",
+    "lines": [
+      {
+        "hanzi": "你学习什么？",
+        "pinyin": "nǐ xué xí shén me ？",
+        "italian": "Che cosa studi?",
+        "tokens": [
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "学",
+            "pinyin": "xué"
+          },
+          {
+            "hanzi": "习",
+            "pinyin": "xí"
+          },
+          {
+            "hanzi": "什",
+            "pinyin": "shén"
+          },
+          {
+            "hanzi": "么",
+            "pinyin": "me"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          146,
+          182,
+          249
+        ]
+      },
+      {
+        "hanzi": "我学习汉语。我早上读书。",
+        "pinyin": "wǒ xué xí Hàn yǔ 。 wǒ zǎo shang dú shū 。",
+        "italian": "Studio cinese. Leggo la mattina.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "学",
+            "pinyin": "xué"
+          },
+          {
+            "hanzi": "习",
+            "pinyin": "xí"
+          },
+          {
+            "hanzi": "汉",
+            "pinyin": "Hàn"
+          },
+          {
+            "hanzi": "语",
+            "pinyin": "yǔ"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "早",
+            "pinyin": "zǎo"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shang"
+          },
+          {
+            "hanzi": "读",
+            "pinyin": "dú"
+          },
+          {
+            "hanzi": "书",
+            "pinyin": "shū"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          43,
+          69,
+          221,
+          249,
+          275
+        ]
+      }
+    ],
+    "question": "Quando legge?",
+    "choices": [
+      "La sera",
+      "Il pomeriggio",
+      "La mattina"
+    ],
+    "answer": 2,
+    "wordIDs": [
+      43,
+      69,
+      146,
+      182,
+      221,
+      249,
+      275
+    ]
+  },
+  {
+    "id": 13,
+    "title": "La scuola e il doposcuola",
+    "lines": [
+      {
+        "hanzi": "我们的老师在哪儿？",
+        "pinyin": "wǒ men de lǎo shī zài nǎ r ？",
+        "italian": "Dov’è il nostro insegnante?",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "们",
+            "pinyin": "men"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de"
+          },
+          {
+            "hanzi": "老",
+            "pinyin": "lǎo"
+          },
+          {
+            "hanzi": "师",
+            "pinyin": "shī"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài"
+          },
+          {
+            "hanzi": "哪",
+            "pinyin": "nǎ"
+          },
+          {
+            "hanzi": "儿",
+            "pinyin": "r"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          30,
+          107,
+          134,
+          222,
+          271
+        ]
+      },
+      {
+        "hanzi": "他在学校。他是我爸爸的朋友。",
+        "pinyin": "tā zài xué xiào 。 tā shì wǒ bà ba de péng you 。",
+        "italian": "È a scuola. È un amico di mio padre.",
+        "tokens": [
+          {
+            "hanzi": "他",
+            "pinyin": "tā"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài"
+          },
+          {
+            "hanzi": "学",
+            "pinyin": "xué"
+          },
+          {
+            "hanzi": "校",
+            "pinyin": "xiào"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "他",
+            "pinyin": "tā"
+          },
+          {
+            "hanzi": "是",
+            "pinyin": "shì"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "爸",
+            "pinyin": "bà"
+          },
+          {
+            "hanzi": "爸",
+            "pinyin": "ba"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de"
+          },
+          {
+            "hanzi": "朋",
+            "pinyin": "péng"
+          },
+          {
+            "hanzi": "友",
+            "pinyin": "you"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          3,
+          30,
+          156,
+          188,
+          200,
+          221,
+          250,
+          271
+        ]
+      }
+    ],
+    "question": "Dov’è l’insegnante?",
+    "choices": [
+      "A scuola",
+      "In ospedale",
+      "A casa"
+    ],
+    "answer": 0,
+    "wordIDs": [
+      3,
+      30,
+      107,
+      134,
+      156,
+      188,
+      200,
+      221,
+      222,
+      250,
+      271
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Il lavoro",
+    "lines": [
+      {
+        "hanzi": "你在哪儿工作？",
+        "pinyin": "nǐ zài nǎ r gōng zuò ？",
+        "italian": "Dove lavori?",
+        "tokens": [
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài"
+          },
+          {
+            "hanzi": "哪",
+            "pinyin": "nǎ"
+          },
+          {
+            "hanzi": "儿",
+            "pinyin": "r"
+          },
+          {
+            "hanzi": "工",
+            "pinyin": "gōng"
+          },
+          {
+            "hanzi": "作",
+            "pinyin": "zuò"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          63,
+          134,
+          146,
+          271
+        ]
+      },
+      {
+        "hanzi": "我在医院工作。我是医生。",
+        "pinyin": "wǒ zài yī yuàn gōng zuò 。 wǒ shì yī shēng 。",
+        "italian": "Lavoro in ospedale. Sono medico.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài"
+          },
+          {
+            "hanzi": "医",
+            "pinyin": "yī"
+          },
+          {
+            "hanzi": "院",
+            "pinyin": "yuàn"
+          },
+          {
+            "hanzi": "工",
+            "pinyin": "gōng"
+          },
+          {
+            "hanzi": "作",
+            "pinyin": "zuò"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "是",
+            "pinyin": "shì"
+          },
+          {
+            "hanzi": "医",
+            "pinyin": "yī"
+          },
+          {
+            "hanzi": "生",
+            "pinyin": "shēng"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          63,
+          188,
+          221,
+          256,
+          257,
+          271
+        ]
+      }
+    ],
+    "question": "Che lavoro fa la seconda persona?",
+    "choices": [
+      "Insegnante",
+      "Medico",
+      "Non lo dice"
+    ],
+    "answer": 1,
+    "wordIDs": [
+      63,
+      134,
+      146,
+      188,
+      221,
+      256,
+      257,
+      271
+    ]
+  },
+  {
+    "id": 15,
+    "title": "La cucina cinese",
+    "lines": [
+      {
+        "hanzi": "你喜欢吃饺子吗？",
+        "pinyin": "nǐ xǐ huan chī jiǎo zi ma ？",
+        "italian": "Ti piace mangiare ravioli?",
+        "tokens": [
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ"
+          },
+          {
+            "hanzi": "喜",
+            "pinyin": "xǐ"
+          },
+          {
+            "hanzi": "欢",
+            "pinyin": "huan"
+          },
+          {
+            "hanzi": "吃",
+            "pinyin": "chī"
+          },
+          {
+            "hanzi": "饺",
+            "pinyin": "jiǎo"
+          },
+          {
+            "hanzi": "子",
+            "pinyin": "zi"
+          },
+          {
+            "hanzi": "吗",
+            "pinyin": "ma"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          21,
+          90,
+          115,
+          146,
+          225
+        ]
+      },
+      {
+        "hanzi": "我喜欢吃饺子，也喜欢喝茶。",
+        "pinyin": "wǒ xǐ huan chī jiǎo zi ， yě xǐ huan hē chá 。",
+        "italian": "Mi piace mangiare ravioli e anche bere tè.",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ"
+          },
+          {
+            "hanzi": "喜",
+            "pinyin": "xǐ"
+          },
+          {
+            "hanzi": "欢",
+            "pinyin": "huan"
+          },
+          {
+            "hanzi": "吃",
+            "pinyin": "chī"
+          },
+          {
+            "hanzi": "饺",
+            "pinyin": "jiǎo"
+          },
+          {
+            "hanzi": "子",
+            "pinyin": "zi"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": ""
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě"
+          },
+          {
+            "hanzi": "喜",
+            "pinyin": "xǐ"
+          },
+          {
+            "hanzi": "欢",
+            "pinyin": "huan"
+          },
+          {
+            "hanzi": "喝",
+            "pinyin": "hē"
+          },
+          {
+            "hanzi": "茶",
+            "pinyin": "chá"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": ""
+          }
+        ],
+        "wordIDs": [
+          17,
+          21,
+          77,
+          90,
+          221,
+          225,
+          253
+        ]
+      }
+    ],
+    "question": "Che cosa le piace bere?",
+    "choices": [
+      "Latte",
+      "Caffè",
+      "Tè"
+    ],
+    "answer": 2,
+    "wordIDs": [
+      17,
+      21,
+      77,
+      90,
+      115,
+      146,
+      221,
+      225,
+      253
+    ]
+  }
+]

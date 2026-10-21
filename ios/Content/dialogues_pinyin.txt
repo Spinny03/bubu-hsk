@@ -1,0 +1,31 @@
+ex: 你好，我是学生。你呢？ | nǐ hǎo ， wǒ shì xué shēng 。 nǐ ne ？ | Ciao, sono studente. E tu?
+ex: 我也是学生。我学习汉语。 | wǒ yě shì xué shēng 。 wǒ xué xí Hàn yǔ 。 | Anch’io sono studente. Studio cinese.
+ex: 我们今天几点上课？ | wǒ men jīn tiān jǐ diǎn shàng kè ？ | A che ora abbiamo lezione oggi?
+ex: 我们八点上课。 | wǒ men bā diǎn shàng kè 。 | Abbiamo lezione alle otto.
+ex: 你的杯子在哪儿？ | nǐ de bēi zi zài nǎ r ？ | Dov’è il tuo bicchiere?
+ex: 在桌子上。我的杯子很小。 | zài zhuō zi shàng 。 wǒ de bēi zi hěn xiǎo 。 | È sul tavolo. Il mio bicchiere è piccolo.
+ex: 今天冷吗？ | jīn tiān lěng ma ？ | Oggi fa freddo?
+ex: 今天不冷。今天下雨。 | jīn tiān bù lěng 。 jīn tiān xià yǔ 。 | Oggi non fa freddo. Piove.
+ex: 学校在哪儿？ | xué xiào zài nǎ r ？ | Dov’è la scuola?
+ex: 学校在医院前边。 | xué xiào zài yī yuàn qián biān 。 | La scuola è davanti all’ospedale.
+ex: 谢谢你。 | xiè xie nǐ 。 | Grazie.
+ex: 不客气。再见！ | bú kè qi 。 zài jiàn ！ | Prego. Arrivederci!
+ex: 早上你吃什么？ | zǎo shang nǐ chī shén me ？ | Che cosa mangi la mattina?
+ex: 我吃鸡蛋，喝牛奶。 | wǒ chī jī dàn ， hē niú nǎi 。 | Mangio uova e bevo latte.
+ex: 你怎么去公司？ | nǐ zěn me qù gōng sī ？ | Come vai in azienda?
+ex: 我坐出租车去公司。 | wǒ zuò chū zū chē qù gōng sī 。 | Vado in azienda in taxi.
+ex: 这本书多少钱？ | zhè běn shū duō shao qián ？ | Quanto costa questo libro?
+ex: 十块钱。 | shí kuài qián 。 | Dieci yuan.
+ex: 我要买这本书。 | wǒ yào mǎi zhè běn shū 。 | Voglio comprare questo libro.
+ex: 我病了，今天想休息。 | wǒ bìng le ， jīn tiān xiǎng xiū xi 。 | Oggi non sto bene. Voglio riposare.
+ex: 你喝水吗？ | nǐ hē shuǐ ma ？ | Bevi dell’acqua?
+ex: 你喜欢做什么？ | nǐ xǐ huan zuò shén me ？ | Che cosa ti piace fare?
+ex: 我喜欢看电影，也喜欢唱歌。 | wǒ xǐ huan kàn diàn yǐng ， yě xǐ huan chàng gē 。 | Mi piace guardare film e anche cantare.
+ex: 你学习什么？ | nǐ xué xí shén me ？ | Che cosa studi?
+ex: 我学习汉语。我早上读书。 | wǒ xué xí Hàn yǔ 。 wǒ zǎo shang dú shū 。 | Studio cinese. Leggo la mattina.
+ex: 我们的老师在哪儿？ | wǒ men de lǎo shī zài nǎ r ？ | Dov’è il nostro insegnante?
+ex: 他在学校。他是我爸爸的朋友。 | tā zài xué xiào 。 tā shì wǒ bà ba de péng you 。 | È a scuola. È un amico di mio padre.
+ex: 你在哪儿工作？ | nǐ zài nǎ r gōng zuò ？ | Dove lavori?
+ex: 我在医院工作。我是医生。 | wǒ zài yī yuàn gōng zuò 。 wǒ shì yī shēng 。 | Lavoro in ospedale. Sono medico.
+ex: 你喜欢吃饺子吗？ | nǐ xǐ huan chī jiǎo zi ma ？ | Ti piace mangiare ravioli?
+ex: 我喜欢吃饺子，也喜欢喝茶。 | wǒ xǐ huan chī jiǎo zi ， yě xǐ huan hē chá 。 | Mi piace mangiare ravioli e anche bere tè.
