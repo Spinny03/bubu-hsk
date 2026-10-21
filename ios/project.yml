@@ -24,8 +24,8 @@ targets:
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: it.spinny.bubu
-        # Assets.xcassets contiene solo i disegni dei caratteri: l'app non ha ancora un'icona.
-        ASSETCATALOG_COMPILER_APPICON_NAME: ""
+        # Icona a livelli di Icon Composer (AppIcon.icon): vetro liquido su iOS 26, immagini statiche generate per iOS 17–18.
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         MARKETING_VERSION: '0.1.0'
         CURRENT_PROJECT_VERSION: 1
         GENERATE_INFOPLIST_FILE: YES
