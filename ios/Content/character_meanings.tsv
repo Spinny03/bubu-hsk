@@ -1,0 +1,256 @@
+# Significato breve e immagine di ogni carattere. Colonne: carattere, significato, immagine, origine.
+# origine «parola»: significato ed emoji della parola di un carattere nel catalogo; «bubu»: scritto per questo progetto, da rivedere.
+# immagine «asset:nome»: disegno originale in Bubu/Assets.xcassets (glyph-nome).
+爱	amare, voler bene	❤️	parola
+八	otto	8️⃣	parola
+爸	papà	👨‍👧	bubu
+吧	particella: proposta, supposizione	🗨️	parola, immagine bubu
+白	bianco	⚪	bubu
+百	cento	💯	parola
+班	classe; turno (上班 shàngbān, andare al lavoro)	🧑‍💼	bubu
+半	metà, mezzo	🌓	parola
+包	borsa, pacco; avvolgere	👜	bubu
+杯	tazza, bicchiere	🥛	bubu
+本	classificatore per libri	📚	parola
+边	lato, bordo, parte	🖼️	parola, immagine bubu
+便	comodo; (便宜 piányi) economico	🪙	bubu
+病	malattia; ammalarsi	🤒	parola
+不	non, no	🚫	parola
+菜	piatto, pietanza; verdura	🥬	parola
+茶	tè	🍵	parola
+常	spesso, solito	🔂	bubu
+唱	cantare	🎤	parola
+超	superare; (超市 chāoshì) supermercato	⏫	bubu
+车	veicolo, auto (辆 liàng)	🚗	parola
+吃	mangiare	😋	parola
+出	uscire	🚪	bubu
+穿	indossare, vestirsi	👕	parola
+床	letto	🛏️	bubu
+打	colpire; fare (打电话 dǎ diànhuà, telefonare)	👊	bubu
+大	grande; più vecchio	🐘	parola
+蛋	uovo	🥚	bubu
+到	arrivare; fino a	🏁	parola
+道	strada, via; (知道 zhīdào) sapere	🛣️	bubu
+得	ottenere; (觉得 juéde) ritenere	🏆	bubu
+的	particella: possesso, attributo	asset:de	parola, immagine bubu
+弟	fratello minore	👦	bubu
+第	prefisso per numeri ordinali	🥇	parola
+点	ora (dell'orologio); punto	🕐	parola
+电	elettricità	⚡	bubu
+东	est	🌄	bubu
+都	tutti, tutto; già	asset:dou	parola, immagine bubu
+读	leggere (ad alta voce); studiare	📖	parola
+对	giusto, corretto; verso, a	✅	parola
+多	molto, molti; quanto	📈	parola, immagine bubu
+儿	figlio, bambino	👶	bubu
+二	due	2️⃣	parola
+饭	riso cotto; pasto	🍚	parola
+房	casa, stanza	🏘️	bubu
+飞	volare	🕊️	bubu
+非	non; (非常 fēicháng) molto	❎	bubu
+分	dividere; minuto; punto, voto	➗	parola
+服	vestiti; servire	👔	bubu
+高	alto	🦒	bubu
+哥	fratello maggiore	🧑	bubu
+歌	canzone (首 shǒu)	🎵	parola
+个	classificatore generico	asset:ge	parola, immagine bubu
+给	dare; a, per	🎁	parola
+工	lavoro, operaio	🔧	bubu
+公	pubblico; (公司 gōngsī) azienda	🏢	bubu
+狗	cane (只 zhǐ, 条 tiáo)	🐕	parola
+关	chiudere; (关系 guānxi) relazione	🔒	bubu
+贵	caro, costoso	💰	parola
+国	paese, nazione	🗺️	parola, immagine bubu
+果	frutto; risultato	🍇	bubu
+还	ancora; anche	⏳	parola, immagine bubu
+孩	bambino	🧒	bubu
+汉	cinese (lingua, popolo)	🏮	bubu
+好	buono, bene	👍	parola
+号	numero; giorno del mese	#️⃣	parola
+喝	bere	🥤	parola
+和	e, con	➕	parola
+很	molto	‼️	parola, immagine bubu
+后	dietro; dopo	🔙	parola
+候	attendere; (时候 shíhou) momento	🕰️	bubu
+话	parole, discorso	💬	bubu
+欢	felice; (喜欢 xǐhuan) piacere	😊	bubu
+回	tornare; volta (class.)	↩️	parola
+会	sapere (fare); potere (è probabile)	🤹	parola, immagine bubu
+火	fuoco	🔥	bubu
+机	macchina; (飞机 fēijī) aereo	⚙️	bubu
+鸡	pollo	🐔	bubu
+几	quanti?; alcuni	❓	parola
+家	casa, famiglia	🏠	parola
+间	spazio, intervallo; (房间 fángjiān) stanza	↔️	bubu
+见	vedere, incontrare	👀	parola
+件	classificatore: vestiti, faccende	asset:jian	parola, immagine bubu
+叫	chiamare; chiamarsi; gridare	📣	parola
+姐	sorella maggiore	👱‍♀️	bubu
+今	oggi, adesso	📆	bubu
+九	nove	9️⃣	parola
+觉	sentire; (睡觉 shuìjiào) dormire	💭	bubu
+开	aprire; accendere; guidare	🔓	parola
+看	guardare, vedere; leggere	👀	parola
+可	potere; (可以 kěyǐ) è possibile	👌	bubu
+客	ospite, cliente	🧳	bubu
+课	lezione, corso (节 jié, 门 mén)	📚	parola
+口	bocca; class. per persone	👄	parola
+块	pezzo; yuan (colloquiale)	💴	parola
+来	venire	👋	parola
+老	vecchio; (老师 lǎoshī) insegnante	👴	bubu
+了	particella: azione compiuta	asset:le	parola, immagine bubu
+冷	freddo	🥶	parola
+里	dentro, in	📥	parola, immagine bubu
+两	due (con classificatori)	✌️	parola
+亮	luminoso; (漂亮 piàoliang) bello	✨	bubu
+零	zero	0️⃣	parola
+六	sei	6️⃣	parola
+妈	mamma	👩‍👧	bubu
+吗	particella interrogativa	❓	parola
+买	comprare	🛒	parola
+卖	vendere	🏷️	parola
+忙	occupato, indaffarato	🏃	parola
+猫	gatto (只 zhǐ)	🐱	parola
+么	in domande come 什么 shénme, 怎么 zěnme	⁉️	bubu
+没	non (avere); (没有 méiyǒu) non c’è	🫙	bubu
+妹	sorella minore	👧	bubu
+们	suffisso plurale (persone)	👥	parola
+米	riso (crudo); metro	🌾	bubu
+面	viso; superficie; (面条 miàntiáo) pasta	🍜	bubu
+名	nome	📛	bubu
+明	luminoso; (明天 míngtiān) domani	💡	bubu
+哪	quale?, dove?	❓	parola
+那	quello, quella; allora	👉	parola
+奶	latte; (奶奶 nǎinai) nonna	🍼	bubu
+男	maschio, maschile	♂️	parola
+脑	cervello; (电脑 diànnǎo) computer	🧠	bubu
+呢	particella: «e...?», enfasi	asset:ne	parola, immagine bubu
+能	potere, essere in grado di	💪	parola
+你	tu	🫵	parola
+年	anno	📅	parola
+您	Lei (forma di cortesia)	🙇	parola
+牛	bue, mucca	🐄	bubu
+女	femmina, femminile	♀️	parola
+朋	amico	🧑‍🤝‍🧑	bubu
+漂	galleggiare; (漂亮 piàoliang) bello	💐	bubu
+苹	(苹果 píngguǒ) mela	🍏	bubu
+七	sette	7️⃣	parola
+期	periodo; (星期 xīngqī) settimana	🗓️	bubu
+起	alzarsi; (一起 yìqǐ) insieme	🧍	bubu
+气	aria, vapore; (天气 tiānqì) tempo atmosferico	🌬️	bubu
+千	mille	asset:qian	parola, immagine bubu
+前	davanti; prima	🔜	parola, immagine bubu
+钱	soldi, denaro	💰	parola
+请	per favore; invitare, chiedere	🙏	parola
+去	andare	🚶	parola
+热	caldo; riscaldare	🥵	parola
+人	persona, gente	🧑	parola
+认	riconoscere; (认识 rènshi) conoscere	🪪	bubu
+日	giorno; sole	☀️	parola
+三	tre	3️⃣	parola
+商	commercio; (商店 shāngdiàn) negozio	🏬	bubu
+上	sopra; salire; precedente	⬆️	parola
+少	poco, pochi; mancare	🤏	parola
+谁	chi?	❓	parola
+什	(什么 shénme) che cosa	❓	bubu
+生	nascere, vita; (学生 xuésheng) studente	🌱	bubu
+师	maestro, insegnante	🧑‍🏫	bubu
+十	dieci	🔟	parola
+时	tempo, ora	⏱️	bubu
+识	conoscere, sapere	🤓	bubu
+士	persona istruita	🎓	bubu
+市	mercato; città	🏙️	bubu
+事	faccenda, cosa (件 jiàn)	📋	parola, immagine bubu
+视	guardare; (电视 diànshì) televisione	📺	bubu
+是	essere; sì	✅	parola
+手	mano	✋	bubu
+书	libro (本 běn)	📖	parola
+水	acqua	💧	parola
+睡	dormire	😴	parola
+说	dire, parlare	🗣️	parola
+司	dirigere; (公司 gōngsī) azienda	💼	bubu
+四	quattro	4️⃣	parola
+岁	anni (di età)	🎂	parola
+他	lui	👨	parola
+它	esso, essa (cose, animali)	🐾	parola, immagine bubu
+她	lei	👩	parola
+太	troppo; molto	⚠️	parola, immagine bubu
+题	argomento; (问题 wèntí) domanda, problema	📝	bubu
+天	giorno; cielo	🌤️	parola, immagine bubu
+条	classificatore per cose lunghe: pesci, strade, pantaloni	asset:tiao	bubu
+听	ascoltare, sentire	👂	parola
+同	uguale; (同学 tóngxué) compagno di classe	🟰	bubu
+外	fuori, esterno; straniero	🏕️	parola, immagine bubu
+玩	giocare, divertirsi	🎮	parola, immagine bubu
+晚	sera; tardi	🌙	parola
+喂	pronto? (al telefono); ehi	📞	parola
+文	scrittura, lingua; (中文 Zhōngwén) cinese	🖋️	bubu
+问	chiedere, domandare	🙋	parola
+我	io, me	asset:wo	parola, immagine bubu
+五	cinque	5️⃣	parola
+午	mezzogiorno; (下午 xiàwǔ) pomeriggio	🕛	bubu
+西	ovest; (东西 dōngxi) cosa, oggetto	🌇	bubu
+息	riposo; (休息 xiūxi) riposarsi	🛋️	bubu
+习	esercitarsi; (学习 xuéxí) studiare	🏋️	bubu
+喜	gioia; (喜欢 xǐhuan) piacere	🥰	bubu
+系	legame; (关系 guānxi) relazione	🔗	bubu
+下	sotto; scendere; prossimo	⬇️	parola
+先	prima; (先生 xiānsheng) signore	⏮️	bubu
+现	apparire; (现在 xiànzài) adesso	⌚	bubu
+想	pensare; volere; sentire la mancanza	🤔	parola
+小	piccolo	🤏	parola
+校	scuola	🏫	bubu
+些	alcuni, un po' (cl.)	🫘	parola, immagine bubu
+写	scrivere	✍️	parola
+谢	ringraziare	💝	bubu
+新	nuovo	🆕	parola
+星	stella; (星期 xīngqī) settimana	⭐	bubu
+兴	(高兴 gāoxìng) contento	😄	bubu
+休	riposare	🏖️	bubu
+学	studiare, imparare	📖	parola
+雪	neve	❄️	parola
+样	forma, modo; (怎么样 zěnmeyàng) come	🧩	bubu
+要	volere; dovere; stare per	🤲	parola, immagine bubu
+也	anche	asset:ye	parola, immagine bubu
+一	uno	1️⃣	parola
+衣	abito, vestito	👗	bubu
+医	medico, cura	🩺	bubu
+宜	adatto; (便宜 piányi) economico	🆗	bubu
+以	con, per mezzo di; (可以 kěyǐ) potere	↪️	bubu
+椅	sedia	💺	bubu
+影	ombra; (电影 diànyǐng) film	🎬	bubu
+友	amico	🤝	bubu
+有	avere; esserci	🫴	parola, immagine bubu
+雨	pioggia (场 chǎng)	☔	parola
+语	lingua; (汉语 Hànyǔ) cinese	🌐	bubu
+元	yuan (unità monetaria)	💴	parola
+院	cortile; (医院 yīyuàn) ospedale	🏥	bubu
+月	mese; luna	🌕	parola
+再	di nuovo, ancora; poi	🔁	parola
+在	essere (in un luogo); in, a	📍	parola
+早	presto; buongiorno!	🌅	parola
+怎	come?, perché?	❔	bubu
+找	cercare	🔍	parola
+这	questo, questa	👇	parola
+真	vero; davvero	💎	parola, immagine bubu
+正	giusto, dritto; (正在 zhèngzài) stare facendo	✔️	bubu
+知	sapere, conoscere; (知道 zhīdào) sapere	🦉	bubu
+只	classificatore: animali, uno di un paio	asset:zhi	parola, immagine bubu
+中	centro, in mezzo; (中国 Zhōngguó) Cina	🎯	bubu
+钟	orologio, campana; (点钟 diǎnzhōng) ora	🔔	bubu
+住	abitare, alloggiare	🏠	parola
+桌	tavolo	asset:zhuo	bubu
+子	figlio; suffisso di nomi (桌子 zhuōzi)	🐣	bubu
+字	carattere (cinese), parola	🔤	parola, immagine bubu
+租	affittare	🔑	bubu
+昨	(昨天 zuótiān) ieri	⏪	bubu
+作	fare, lavorare; (工作 gōngzuò) lavoro	⚒️	bubu
+坐	sedersi; prendere (un mezzo)	🪑	parola
+做	fare	🛠️	parola
+比	confrontare; più di	⚖️	bubu
+地	terra, luogo	🌍	bubu
+过	passare, attraversare	🌉	bubu
+为	per; (为什么 wèi shénme) perché	🤷	bubu
+长	lungo (cháng); crescere (zhǎng)	📏	bubu
+店	negozio	🏪	parola
+饺	(饺子 jiǎozi) ravioli	🥟	bubu
