@@ -37,6 +37,28 @@ final class NavigationTests: XCTestCase {
         XCTAssertTrue(app.navigationBars["Grammatica"].waitForExistence(timeout: 5))
         capture("07-grammatica")
     }
+    func testExamModes() {
+        let app=XCUIApplication();app.launchArguments=["--uitesting"];app.launch()
+        app.buttons["level-1"].tap();app.swipeUp()
+        app.buttons["exam-landing"].tap()
+        XCTAssertTrue(app.buttons["start-exam"].waitForExistence(timeout:5))
+        capture("08-esame-modalita")
+        app.segmentedControls.buttons["Allenamento"].tap()
+        app.buttons["start-exam"].tap()
+        XCTAssertTrue(app.buttons["replay-audio"].waitForExistence(timeout:5))
+        capture("09-allenamento")
+        app.buttons["exam-option-A"].tap()
+        app.swipeUp()
+        XCTAssertTrue(app.otherElements["exam-feedback"].exists || app.staticTexts["Risposta corretta"].exists || app.staticTexts["Risposta: B"].exists || app.staticTexts["Risposta: C"].exists)
+        capture("10-correzione")
+        app.buttons["Esci"].tap();app.alerts.buttons["Interrompi"].tap()
+        app.segmentedControls.buttons["Simulazione"].tap()
+        app.buttons["start-exam"].tap()
+        XCTAssertTrue(app.staticTexts["exam-countdown"].waitForExistence(timeout:5))
+        XCTAssertFalse(app.buttons["replay-audio"].exists)
+        XCTAssertFalse(app.otherElements["exam-feedback"].exists)
+        capture("11-simulazione")
+    }
     func capture(_ name: String) {
         let a = XCTAttachment(screenshot: XCUIScreen.main.screenshot()); a.name = name; a.lifetime = .keepAlways; add(a)
     }

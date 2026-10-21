@@ -50,3 +50,21 @@ Rigenerazione e verifiche:
 ```
 
 Entrambi i controlli danno zero segnalazioni sul nuovo corpus. Test: obbligo dei toni, letture alternative, salvataggio di eventi e scadenze, ripetizioni immediate, 70 collegamenti alle fonti; UI: fronte senza emoji, retro dopo la risposta, rifiuto del pinyin senza tono, navigazione grammatica. Voci di sistema e appropriatezza pedagogica di tutti gli estratti richiedono ancora revisione umana.
+
+## Blocco 3: esame, piazzamento e banca originale
+
+- Simulazione: avvio temporizzato, due letture automatiche, pause 10/15 secondi configurabili, nessun riascolto né feedback; variante carta con 3 minuti per trascrivere le risposte. Lettura: 20 minuti, navigazione, segnalibri e risposte mancanti. Le interruzioni invalidano la prova per la stima.
+- Allenamento: riascolto, voce rallentata e correzione subito dopo la risposta. Il fattore di velocità di AVSpeechSynthesizer è provvisorio, non una misura acustica certificata.
+- Piazzamento: 20 quesiti (10 ascolto, 10 lettura), limite 15 minuti, risultati separati, tutte le unità accessibili.
+- 800 varianti originali costruite da schemi in `Scripts/build_exam_bank.py`; 8 prove riservate non sovrapposte (320 quesiti), 480 di allenamento. Il lessico è controllato contro le 300 parole; banca e contenuti IA sono disattivabili nel piano. Le varianti NON equivalgono a 800 item calibrati: la revisione umana non è stata eseguita.
+- La stima usa una distribuzione beta-binomiale per parte e un intervallo predittivo all’80% su 40 risposte. Considera solo la prima prova completata valida per ogni forma. È dichiarata sperimentale e poco affidabile; il 60% è esclusivamente una soglia provvisoria. Non include ancora un modello di difficoltà tarato né una previsione individuale alla data d’esame.
+
+```sh
+.venv/bin/python ios/Scripts/build_exam_bank.py
+.venv/bin/python check_pinyin.py ios/Content/exam_pinyin.txt
+.venv/bin/python check_cs_pinyin.py ios/Content/exam_pinyin.txt
+```
+
+Zero segnalazioni nei due controlli. Test: 800 ID unici, separazione 320/480, otto parti da cinque, banche condivise di sei opzioni e esempio consumato, politiche di navigazione e feedback, salvataggio, invalidazione per interruzione, intervalli e piazzamento 10+10. Un test accelerato attraversa tutta la variante carta e verifica passaggio alla lettura e consegna; il percorso accelerato è disponibile solo nelle build DEBUG e non è esposto nell’interfaccia.
+
+Non eseguita una sessione completa di 40 minuti con ascolto umano. Audio Apple, immagini simboliche e pause configurate richiedono confronto sul dispositivo prima di presentare il simulatore come riproduzione acustica fedele.

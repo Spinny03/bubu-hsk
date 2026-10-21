@@ -29,7 +29,7 @@ struct GrammarDetailView: View {
             ForEach(lesson.examples, id: \.self) { example in
                 Panel { ChineseText(hanzi: example.hanzi, pinyin: example.pinyin); Text(example.italian); Button { speech.speak(example.hanzi) } label: { Label("Ascolta", systemImage: "speaker.wave.2") } }
             }
-            NavigationLink { StudySessionView(content: content, initialQueue: [.init(contentID: String(lesson.id), kind: "grammar")]) } label: { Label("Verifica la comprensione", systemImage: "checkmark.circle").frame(maxWidth: .infinity).padding(10) }.buttonStyle(.borderedProminent)
+            NavigationLink { StudySessionView(content: content, initialQueue: [.init(contentID: String(lesson.id), kind: "grammar")]) } label: { Label("Verifica la comprensione", systemImage: "checkmark.circle").frame(maxWidth: .infinity).padding(10) }.buttonStyle(.borderedProminent).foregroundStyle(.white)
             Text("Fonte: \(lesson.source)\nSezione: \(lesson.sourceHeading)\nProgramma, pagina PDF \(lesson.syllabusPage). Il quiz verifica la comprensione dell’esempio, non certifica tutta la struttura.").font(.caption).foregroundStyle(.secondary)
         }.navigationTitle("Grammatica").navigationBarTitleDisplayMode(.inline).onDisappear { speech.stop() }
     }

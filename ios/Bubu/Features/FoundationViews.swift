@@ -38,6 +38,7 @@ struct HomeView: View {
                     Text("Un solo ripasso per parole e abilità.").font(.subheadline)
                 }.foregroundStyle(.white).padding(18).background(Palette.jade, in: RoundedRectangle(cornerRadius: 20))
             }.buttonStyle(.plain)
+            if !placementDone { NavigationLink { ExamLandingView(content: content, initialMode: .placement) } label: { ActionRow(title: "Sai già un po’ di cinese?", detail: "Test iniziale · ascolto e lettura · 10–15 min", icon: "location.magnifyingglass") }.buttonStyle(.plain).accessibilityIdentifier("placement") }
             SectionTitle(title: "Scegli il tuo livello", detail: "Programma 2025")
             ForEach(Array([300, 500, 1000, 2000, 3600, 5400, 11000].enumerated()), id: \.offset) { i, count in
                 NavigationLink { if i == 0 { LevelView(content: content) } else { FutureLevelView(level: i == 6 ? "7–9" : "\(i+1)", count: count) } } label: {
@@ -72,6 +73,7 @@ struct LevelView: View {
                 Text("Le verifiche contano. Aprire una lezione non basta.").font(.caption).foregroundStyle(.secondary)
             }
             ReadinessView()
+            NavigationLink { ExamLandingView(content: content) } label: { Panel { ActionRow(title: "Esame simulato", detail: "Simulazione rigorosa o allenamento", icon: "checklist") } }.buttonStyle(.plain).accessibilityIdentifier("exam-landing")
             NavigationLink { UnitsView(content: content) } label: { Panel { ActionRow(title: "Il percorso", detail: "15 compiti, dalle presentazioni alla cucina", icon: "point.topleft.down.to.point.bottomright.curvepath") } }.buttonStyle(.plain)
             Panel {
                 NavigationLink { WordsView(content: content) } label: { ActionRow(title: "Parole", detail: "300 parole · pinyin e significato", icon: "character.book.closed") }
@@ -91,11 +93,28 @@ struct LevelView: View {
 }
 struct ReadinessView: View {
     @Query private var attempts: [ExamAttempt]
+    var scores: [(correct: Int,total: Int)]? {
+        guard let bank=ExamBank.shared else { return nil }
+        var seen=Set<Int>(), results=Array(repeating:(correct:0,total:0),count:8)
+        for attempt in attempts.filter({$0.mode==ExamMode.simulation.rawValue && $0.completed != nil && $0.valid}).sorted(by:{$0.started<$1.started}) {
+            guard let snapshot=try? JSONDecoder().decode(ExamSnapshot.self,from:attempt.answers),!seen.contains(snapshot.formID),let form=bank.forms.first(where:{$0.id==snapshot.formID}) else {continue}
+            seen.insert(snapshot.formID)
+            for q in form.questions { results[q.part-1].total += 1;if snapshot.choices[q.id]==q.answer{results[q.part-1].correct += 1} }
+        }
+        return seen.isEmpty ? nil : results
+    }
     var body: some View {
         Panel {
             Label("Preparazione all’esame", systemImage: "chart.bar.xaxis").font(.headline)
-            Text("Ancora da stimare").font(.title2.bold()).foregroundStyle(Palette.red)
-            Text("Completa una simulazione per ottenere un intervallo di risposte corrette su 40. Nessuna scala o soglia ufficiale disponibile al 19/10/2026.").font(.caption).foregroundStyle(.secondary)
+            if let scores {
+                let interval=ScoreInterval.predict(partScores:scores)
+                Text("\(interval.lower)–\(interval.upper) risposte su 40").font(.title2.bold()).foregroundStyle(Palette.red)
+                Text("Intervallo predittivo all’80%, sperimentale. Banca non calibrata: stima poco affidabile, non un risultato ufficiale.").font(.caption)
+                Text("Probabilità stimata di almeno 24/40: \(Int(interval.provisionalProbability*100))%. Il 60% è solo una soglia provvisoria, non ufficiale.").font(.caption).foregroundStyle(.secondary)
+            } else {
+                Text("Ancora da stimare").font(.title2.bold()).foregroundStyle(Palette.red)
+                Text("Completa una simulazione per ottenere un intervallo di risposte corrette su 40. Nessuna scala o soglia ufficiale disponibile al 19/10/2026.").font(.caption).foregroundStyle(.secondary)
+            }
         }
     }
 }
@@ -161,7 +180,7 @@ struct WordDetail: View {
     var body: some View {
         Page {
             Panel { ChineseText(hanzi: word.hanzi, pinyin: word.pinyin, large: true); Text("\(word.emoji) \(word.italian)").font(.title2); Text("Unità \(word.unit)").foregroundStyle(.secondary); Button { speech.speak(word.hanzi) } label: { Label("Ascolta", systemImage: "speaker.wave.2") } }
-            NavigationLink("Verifica questa parola") { StudySessionView(content: content, initialQueue: ["meaning", "audio", "pinyin"].map { ReviewItem(contentID: String(word.id), kind: $0) }) }.buttonStyle(.borderedProminent)
+            NavigationLink("Verifica questa parola") { StudySessionView(content: content, initialQueue: ["meaning", "audio", "pinyin"].map { ReviewItem(contentID: String(word.id), kind: $0) }) }.buttonStyle(.borderedProminent).foregroundStyle(.white)
             if let error = speech.error { Text(error).foregroundStyle(Palette.red) }
         }.navigationTitle("Parola").navigationBarTitleDisplayMode(.inline).onDisappear { speech.stop() }
     }
@@ -187,7 +206,7 @@ struct ReviewLanding: View {
             Panel {
                 Text(due.isEmpty ? "Puoi imparare qualcosa di nuovo" : "\(due.count) carte da riprendere").font(.title2.bold())
                 Text("Parole, ascolto, pinyin, caratteri e grammatica. Le scadenze seguono quello che ricordi davvero.").foregroundStyle(.secondary)
-                NavigationLink { StudySessionView(content: content, initialQueue: StudyEngine.queue(cards: cards, words: content.words)) } label: { Label(due.isEmpty ? "Inizia a studiare" : "Inizia il ripasso", systemImage: "play.fill") }.buttonStyle(.borderedProminent).accessibilityIdentifier("start-review")
+                NavigationLink { StudySessionView(content: content, initialQueue: StudyEngine.queue(cards: cards, words: content.words)) } label: { Label(due.isEmpty ? "Inizia a studiare" : "Inizia il ripasso", systemImage: "play.fill") }.buttonStyle(.borderedProminent).foregroundStyle(.white).accessibilityIdentifier("start-review")
             }
             Panel { Text("Come funziona").font(.headline); Text("Rispondi prima di vedere la soluzione. Se sbagli, la carta torna presto; se ricordi, l’intervallo cresce. Non perdi nulla se salti un giorno."); Text("FSRS 6 · ricordo desiderato 90%. La copertura richiede risposte corrette in almeno due giorni distinti.").font(.caption).foregroundStyle(.secondary) }
         }.navigationTitle("Ripasso").navigationBarTitleDisplayMode(.inline)
@@ -199,6 +218,7 @@ struct PlanView: View {
     @AppStorage("hasExamDate") private var hasDate = false
     @AppStorage("examTimestamp") private var timestamp = Date().addingTimeInterval(90*86400).timeIntervalSince1970
     @AppStorage("tonePalette") private var palette = "Standard"
+    @AppStorage("allowGeneratedContent") private var allowGenerated = true
     var body: some View {
         Form {
             Section("Il tuo esame") {
@@ -213,6 +233,7 @@ struct PlanView: View {
                 HStack { ForEach(Array(["mā 1°", "má 2°", "mǎ 3°", "mà 4°"].enumerated()), id: \.offset) { i, s in Text(s).foregroundStyle(Palette.tone(i+1, mode: palette)); Spacer() } }
                 Text("I segni di tono restano sempre visibili.").font(.caption)
             }
+            Section("Contenuti di pratica") { Toggle("Mostra le domande originali IA", isOn: $allowGenerated); Text("La banca d’esame richiede ancora revisione linguistica umana.").font(.caption) }
             Section("I tuoi dati") { Text("Contenuti e progressi sono salvati sul dispositivo. Nessun account richiesto."); Text("Voce di sistema provvisoria: non ancora revisionata da un parlante madrelingua.").font(.caption) }
         }.navigationTitle("Il mio piano")
     }

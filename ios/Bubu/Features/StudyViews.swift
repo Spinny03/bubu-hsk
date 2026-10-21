@@ -29,7 +29,7 @@ struct StudySessionView: View {
                     Panel {
                         if !answered && item.kind == "audio" {
                             Text("Ascolta e scegli il significato.").font(.title2.bold())
-                            Button { speech.speak(word.hanzi) } label: { Label("Ascolta", systemImage: "speaker.wave.2.fill").frame(maxWidth: .infinity, minHeight: 70) }.buttonStyle(.borderedProminent)
+                            Button { speech.speak(word.hanzi) } label: { Label("Ascolta", systemImage: "speaker.wave.2.fill").frame(maxWidth: .infinity, minHeight: 70) }.buttonStyle(.borderedProminent).foregroundStyle(.white)
                         } else if !answered && item.kind == "pinyin" {
                             Text("Scrivi il pinyin con i toni").font(.headline)
                             Text(word.italian).font(.title2.bold())
@@ -53,7 +53,7 @@ struct StudySessionView: View {
                         }
                     }
                 } else if let character, item.kind == "character" {
-                    Panel { Text("Quale carattere senti?").font(.headline); Button("Ascolta") { speech.speak(character.hanzi) }.buttonStyle(.borderedProminent) }
+                    Panel { Text("Quale carattere senti?").font(.headline); Button("Ascolta") { speech.speak(character.hanzi) }.buttonStyle(.borderedProminent).foregroundStyle(.white) }
                     ForEach(characterOptions) { c in Button { answer(c.id == character.id, response: c.hanzi) } label: { ChineseText(hanzi: c.hanzi, pinyin: c.pinyin).frame(maxWidth: .infinity, alignment: .leading).padding(12).background(.white, in: RoundedRectangle(cornerRadius: 12)) }.buttonStyle(.plain).disabled(answered) }
                     if answered { ChineseText(hanzi: character.hanzi, pinyin: character.pinyin) }
                 } else if item.kind == "grammar", let lesson = GrammarCatalog.shared?.lessons.first(where: { String($0.id) == item.contentID }) {
@@ -69,7 +69,7 @@ struct StudySessionView: View {
                         Text(correct ? "Il prossimo ripasso è stato programmato." : "Confronta la risposta con la tua. La carta tornerà nei ripassi.").font(.subheadline)
                         if item.kind == "pinyin", let word { Text("Hai scritto: \(response)\nPinyin atteso: \(word.pinyin)").font(.subheadline) }
                     }
-                    Button("Continua") { next() }.buttonStyle(.borderedProminent).frame(maxWidth: .infinity).accessibilityIdentifier("continue-review")
+                    Button("Continua") { next() }.buttonStyle(.borderedProminent).foregroundStyle(.white).frame(maxWidth: .infinity).accessibilityIdentifier("continue-review")
                 }
                 if let error { Text(error).foregroundStyle(Palette.red); Button("Riprova a salvare") { answer(correct, response: response) } }
                 if let error = speech.error { Text(error).foregroundStyle(Palette.red) }
@@ -86,7 +86,7 @@ struct StudySessionView: View {
             ForEach(["ā á ǎ à", "ē é ě è", "ī í ǐ ì", "ō ó ǒ ò", "ū ú ǔ ù", "ǖ ǘ ǚ ǜ"], id: \.self) { row in
                 HStack { ForEach(row.split(separator: " "), id: \.self) { tone in Button(String(tone)) { response += tone }.frame(maxWidth: .infinity, minHeight: 44).background(.white, in: RoundedRectangle(cornerRadius: 8)) } }
             }
-            Button("Verifica") { if let word { answer(StudyEngine.acceptsPinyin(response, expected: word.pinyin), response: response) } }.buttonStyle(.borderedProminent).disabled(response.trimmingCharacters(in: .whitespaces).isEmpty)
+            Button("Verifica") { if let word { answer(StudyEngine.acceptsPinyin(response, expected: word.pinyin), response: response) } }.buttonStyle(.borderedProminent).foregroundStyle(.white).disabled(response.trimmingCharacters(in: .whitespaces).isEmpty)
         }
     }
     func label(_ kind: String) -> String {

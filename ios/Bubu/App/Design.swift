@@ -31,7 +31,7 @@ struct SourceFooter: View {
         VStack(spacing: 2) {
             Text("Programma: 考试大纲 kǎoshì dàgāng 2025-11")
             Text("Formato: 样题 yàngtí 2025-12 · Non affiliata né approvata da CTI o CLEC")
-        }.font(.system(size: 10)).foregroundStyle(.secondary).multilineTextAlignment(.center)
+        }.font(.caption2).foregroundStyle(Color(hex: 0x565B57)).multilineTextAlignment(.center)
             .frame(maxWidth: .infinity).padding(.horizontal, 10).padding(.vertical, 5).background(Palette.paper)
     }
 }

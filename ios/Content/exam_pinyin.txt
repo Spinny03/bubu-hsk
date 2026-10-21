@@ -1,0 +1,1230 @@
+ex: 一个 | yí gè | uno
+ex: 一块钱。 | yī kuài qián 。 | uno yuan.
+ex: 一点。 | yī diǎn 。 | Alle uno.
+ex: 三个 | sān gè | tre
+ex: 三十一岁。 | sān shí yī suì 。 | 31 anni.
+ex: 三十七岁。 | sān shí qī suì 。 | 37 anni.
+ex: 三十三岁。 | sān shí sān suì 。 | 33 anni.
+ex: 三十九岁。 | sān shí jiǔ suì 。 | 39 anni.
+ex: 三十二岁。 | sān shí èr suì 。 | 32 anni.
+ex: 三十五岁。 | sān shí wǔ suì 。 | 35 anni.
+ex: 三十八岁。 | sān shí bā suì 。 | 38 anni.
+ex: 三十六岁。 | sān shí liù suì 。 | 36 anni.
+ex: 三十四岁。 | sān shí sì suì 。 | 34 anni.
+ex: 三十岁。 | sān shí suì 。 | 30 anni.
+ex: 三十岁。 | sān shí suì 。 | Trent’anni.
+ex: 三块钱。 | sān kuài qián 。 | tre yuan.
+ex: 三点。 | sān diǎn 。 | Alle tre.
+ex: 上午 | shàng wǔ | mattina
+ex: 下午 | xià wǔ | pomeriggio
+ex: 不冷，很热。 | bù lěng ， hěn rè 。 | Non fa freddo, fa caldo.
+ex: 两个 | liǎng gè | due
+ex: 两块钱。 | liǎng kuài qián 。 | due yuan.
+ex: 两点。 | liǎng diǎn 。 | Alle due.
+ex: 中午 | zhōng wǔ | mezzogiorno
+ex: 五个 | wǔ gè | cinque
+ex: 五块钱。 | wǔ kuài qián 。 | Cinque yuan.
+ex: 五块钱。 | wǔ kuài qián 。 | cinque yuan.
+ex: 五点。 | wǔ diǎn 。 | Alle cinque.
+ex: 今天上午冷吗？ | jīn tiān shàng wǔ lěng ma ？ | Fa freddo questa mattina?
+ex: 今天上午妈妈想吃什么？ | jīn tiān shàng wǔ mā ma xiǎng chī shén me ？ | Che cosa vuole mangiare la mamma questa mattina?
+ex: 今天上午妹妹想吃什么？ | jīn tiān shàng wǔ mèi mei xiǎng chī shén me ？ | Che cosa vuole mangiare la sorella minore questa mattina?
+ex: 今天上午我的妈妈想吃什么？ | jīn tiān shàng wǔ wǒ de mā ma xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia la mamma questa mattina?
+ex: 今天上午我的妹妹想吃什么？ | jīn tiān shàng wǔ wǒ de mèi mei xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia la sorella minore questa mattina?
+ex: 今天下午冷吗？ | jīn tiān xià wǔ lěng ma ？ | Fa freddo oggi pomeriggio?
+ex: 今天下午我的爸爸想吃什么？ | jīn tiān xià wǔ wǒ de bà ba xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia il papà oggi pomeriggio?
+ex: 今天下午我的老师想吃什么？ | jīn tiān xià wǔ wǒ de lǎo shī xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia l’insegnante oggi pomeriggio?
+ex: 今天下午爸爸想吃什么？ | jīn tiān xià wǔ bà ba xiǎng chī shén me ？ | Che cosa vuole mangiare il papà oggi pomeriggio?
+ex: 今天下午老师想吃什么？ | jīn tiān xià wǔ lǎo shī xiǎng chī shén me ？ | Che cosa vuole mangiare l’insegnante oggi pomeriggio?
+ex: 今天晚上冷吗？ | jīn tiān wǎn shang lěng ma ？ | Fa freddo questa sera?
+ex: 今天晚上哥哥想吃什么？ | jīn tiān wǎn shang gē ge xiǎng chī shén me ？ | Che cosa vuole mangiare il fratello maggiore questa sera?
+ex: 今天晚上我的哥哥想吃什么？ | jīn tiān wǎn shang wǒ de gē ge xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia il fratello maggiore questa sera?
+ex: 今天晚上我的朋友想吃什么？ | jīn tiān wǎn shang wǒ de péng you xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia l’amico questa sera?
+ex: 今天晚上朋友想吃什么？ | jīn tiān wǎn shang péng you xiǎng chī shén me ？ | Che cosa vuole mangiare l’amico questa sera?
+ex: 八点去。 | bā diǎn qù 。 | Va alle otto.
+ex: 公司 | gōng sī | azienda
+ex: 医生买三个电脑。 | yī shēng mǎi sān gè diàn nǎo 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 医生买三只猫。 | yī shēng mǎi sān zhī māo 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 医生今天上午去学校，晚上回家。 | yī shēng jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il medico va a scuola la mattina, torna a casa la sera.
+ex: 医生今天不喝茶，喝水。 | yī shēng jīn tiān bù hē chá ， hē shuǐ 。 | il medico oggi non beve tè, beve acqua.
+ex: 医生今天什么时候回家？ | yī shēng jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 医生今天做什么？ | yī shēng jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 医生今天去哪儿？ | yī shēng jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 医生今天去商店，明天去家。 | yī shēng jīn tiān qù shāng diàn ， míng tiān qù jiā 。 | il medico va a/in negozio oggi, a/in casa l’altro giorno.
+ex: 医生今天喝什么？ | yī shēng jīn tiān hē shén me ？ | Che cosa beve?
+ex: 医生今天看书，哥哥今天看电视。 | yī shēng jīn tiān kàn shū ， gē ge jīn tiān kàn diàn shì 。 | il medico legge e il fratello maggiore guarda la televisione nel giorno indicato.
+ex: 医生今年几岁？ | yī shēng jīn nián jǐ suì ？ | Quanti anni ha il medico?
+ex: 医生在哪儿工作？ | yī shēng zài nǎ r gōng zuò ？ | Dove lavora il medico?
+ex: 医生家有几口人？ | yī shēng jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il medico?
+ex: 医生明天下午买三个手机。 | yī shēng míng tiān xià wǔ mǎi sān gè shǒu jī 。 | il medico compra 3 cellulari domani pomeriggio.
+ex: 医生明天下午买两个杯子。 | yī shēng míng tiān xià wǔ mǎi liǎng gè bēi zi 。 | il medico compra 2 bicchieri domani pomeriggio.
+ex: 医生明天下午买五只狗。 | yī shēng míng tiān xià wǔ mǎi wǔ zhī gǒu 。 | il medico compra 5 cani domani pomeriggio.
+ex: 医生明天下午买五只猫。 | yī shēng míng tiān xià wǔ mǎi wǔ zhī māo 。 | il medico compra 5 gatti domani pomeriggio.
+ex: 医生明天下午买四个电脑。 | yī shēng míng tiān xià wǔ mǎi sì gè diàn nǎo 。 | il medico compra 4 computer domani pomeriggio.
+ex: 医生明天下午几点去商店？ | yī shēng míng tiān xià wǔ jǐ diǎn qù shāng diàn ？ | A che ora va il medico a/in negozio domani pomeriggio?
+ex: 医生明天下午去学校，下午回家。 | yī shēng míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il medico va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 医生明天下午想（ ）茶。 | yī shēng míng tiān xià wǔ xiǎng （   ） chá 。 | il medico vuole bere tè domani pomeriggio.
+ex: 医生明天下午（ ）商店。 | yī shēng míng tiān xià wǔ （   ） shāng diàn 。 | il medico si trova a/in negozio domani pomeriggio.
+ex: 医生明天不喝茶，喝水。 | yī shēng míng tiān bù hē chá ， hē shuǐ 。 | il medico domani non beve tè, beve acqua.
+ex: 医生明天什么时候回家？ | yī shēng míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 医生明天做什么？ | yī shēng míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 医生明天几点上课？ | yī shēng míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 医生明天去哪儿？ | yī shēng míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 医生明天去饭店，今天去学校。 | yī shēng míng tiān qù fàn diàn ， jīn tiān qù xué xiào 。 | il medico va a/in ristorante domani, a/in scuola l’altro giorno.
+ex: 医生明天喝什么？ | yī shēng míng tiān hē shén me ？ | Che cosa beve?
+ex: 医生明天在哪儿？ | yī shēng míng tiān zài nǎ r ？ | Dove si trova il medico?
+ex: 医生明天看书，哥哥明天看电视。 | yī shēng míng tiān kàn shū ， gē ge míng tiān kàn diàn shì 。 | il medico legge e il fratello maggiore guarda la televisione nel giorno indicato.
+ex: 医生有一个苹果，哥哥有三个苹果。 | yī shēng yǒu yí gè píng guǒ ， gē ge yǒu sān gè píng guǒ 。 | il medico ha uno mele, il fratello maggiore ne ha tre.
+ex: 医生有一只猫。 | yī shēng yǒu yì zhī māo 。 | il medico ha uno gatti.
+ex: 医生有三个手机。 | yī shēng yǒu sān gè shǒu jī 。 | il medico ha tre cellulari.
+ex: 医生有两个杯子。 | yī shēng yǒu liǎng gè bēi zi 。 | il medico ha due bicchieri.
+ex: 医生有五个苹果，哥哥有两个苹果。 | yī shēng yǒu wǔ gè píng guǒ ， gē ge yǒu liǎng gè píng guǒ 。 | il medico ha cinque mele, il fratello maggiore ne ha due.
+ex: 医生有五件衣服。 | yī shēng yǒu wǔ jiàn yī fu 。 | Esempio: il medico ha 5 vestiti.
+ex: 医生有五只狗。 | yī shēng yǒu wǔ zhī gǒu 。 | il medico ha cinque cani.
+ex: 医生有几个苹果？ | yī shēng yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 医生有四个电脑。 | yī shēng yǒu sì gè diàn nǎo 。 | il medico ha quattro computer.
+ex: 医生有手机吗？ | yī shēng yǒu shǒu jī ma ？ | il medico ha cellulari?
+ex: 医生有杯子吗？ | yī shēng yǒu bēi zi ma ？ | il medico ha bicchieri?
+ex: 医生有狗吗？ | yī shēng yǒu gǒu ma ？ | il medico ha cani?
+ex: 医生有猫吗？ | yī shēng yǒu māo ma ？ | il medico ha gatti?
+ex: 医生有电脑吗？ | yī shēng yǒu diàn nǎo ma ？ | il medico ha computer?
+ex: 医生的书多少钱？ | yī shēng de shū duō shao qián ？ | Quanto costa il libro?
+ex: 医生的杯子多少钱？ | yī shēng de bēi zi duō shao qián ？ | Quanto costa l’oggetto di il medico?
+ex: 医生的猫（ ）大。 | yī shēng de māo （   ） dà 。 | L’oggetto di il medico è grande.
+ex: 医生问：这个猫是谁的？ | yī shēng wèn ： zhè ge māo shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 医生（ ）五个杯子。 | yī shēng （   ） wǔ gè bēi zi 。 | il medico ha cinque bicchieri.
+ex: 医生（ ）哥哥都是学生。 | yī shēng （   ） gē ge dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 医院 | yī yuàn | ospedale
+ex: 十块钱。 | shí kuài qián 。 | Dieci yuan.
+ex: 十岁。 | shí suì 。 | Dieci anni di età.
+ex: 十点。 | shí diǎn 。 | Le dieci.
+ex: 去学校。 | qù xué xiào 。 | Va a scuola.
+ex: 同学买两个手机。 | tóng xué mǎi liǎng gè shǒu jī 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 同学买两只狗。 | tóng xué mǎi liǎng zhī gǒu 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 同学今天上午去学校，晚上回家。 | tóng xué jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il compagno di classe va a scuola la mattina, torna a casa la sera.
+ex: 同学今天不喝茶，喝水。 | tóng xué jīn tiān bù hē chá ， hē shuǐ 。 | il compagno di classe oggi non beve tè, beve acqua.
+ex: 同学今天什么时候回家？ | tóng xué jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 同学今天做什么？ | tóng xué jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 同学今天去公司，明天去饭店。 | tóng xué jīn tiān qù gōng sī ， míng tiān qù fàn diàn 。 | il compagno di classe va a/in azienda oggi, a/in ristorante l’altro giorno.
+ex: 同学今天去哪儿？ | tóng xué jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 同学今天喝什么？ | tóng xué jīn tiān hē shén me ？ | Che cosa beve?
+ex: 同学今天看书，爸爸今天看电视。 | tóng xué jīn tiān kàn shū ， bà ba jīn tiān kàn diàn shì 。 | il compagno di classe legge e il papà guarda la televisione nel giorno indicato.
+ex: 同学今年几岁？ | tóng xué jīn nián jǐ suì ？ | Quanti anni ha il compagno di classe?
+ex: 同学在哪儿工作？ | tóng xué zài nǎ r gōng zuò ？ | Dove lavora il compagno di classe?
+ex: 同学家有几口人？ | tóng xué jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il compagno di classe?
+ex: 同学明天上午买一本书。 | tóng xué míng tiān shàng wǔ mǎi yì běn shū 。 | il compagno di classe compra 1 libri domani mattina.
+ex: 同学明天上午买三个手机。 | tóng xué míng tiān shàng wǔ mǎi sān gè shǒu jī 。 | il compagno di classe compra 3 cellulari domani mattina.
+ex: 同学明天上午买两个杯子。 | tóng xué míng tiān shàng wǔ mǎi liǎng gè bēi zi 。 | il compagno di classe compra 2 bicchieri domani mattina.
+ex: 同学明天上午买四个电脑。 | tóng xué míng tiān shàng wǔ mǎi sì gè diàn nǎo 。 | il compagno di classe compra 4 computer domani mattina.
+ex: 同学明天上午买四只狗。 | tóng xué míng tiān shàng wǔ mǎi sì zhī gǒu 。 | il compagno di classe compra 4 cani domani mattina.
+ex: 同学明天上午几点去公司？ | tóng xué míng tiān shàng wǔ jǐ diǎn qù gōng sī ？ | A che ora va il compagno di classe a/in azienda domani mattina?
+ex: 同学明天上午想（ ）茶。 | tóng xué míng tiān shàng wǔ xiǎng （   ） chá 。 | il compagno di classe vuole bere tè domani mattina.
+ex: 同学明天上午（ ）公司。 | tóng xué míng tiān shàng wǔ （   ） gōng sī 。 | il compagno di classe si trova a/in azienda domani mattina.
+ex: 同学明天下午去学校，下午回家。 | tóng xué míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il compagno di classe va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 同学明天不喝茶，喝水。 | tóng xué míng tiān bù hē chá ， hē shuǐ 。 | il compagno di classe domani non beve tè, beve acqua.
+ex: 同学明天什么时候回家？ | tóng xué míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 同学明天做什么？ | tóng xué míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 同学明天几点上课？ | tóng xué míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 同学明天去哪儿？ | tóng xué míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 同学明天去商店，今天去家。 | tóng xué míng tiān qù shāng diàn ， jīn tiān qù jiā 。 | il compagno di classe va a/in negozio domani, a/in casa l’altro giorno.
+ex: 同学明天喝什么？ | tóng xué míng tiān hē shén me ？ | Che cosa beve?
+ex: 同学明天在哪儿？ | tóng xué míng tiān zài nǎ r ？ | Dove si trova il compagno di classe?
+ex: 同学明天看书，爸爸明天看电视。 | tóng xué míng tiān kàn shū ， bà ba míng tiān kàn diàn shì 。 | il compagno di classe legge e il papà guarda la televisione nel giorno indicato.
+ex: 同学有一只狗。 | tóng xué yǒu yì zhī gǒu 。 | il compagno di classe ha uno cani.
+ex: 同学有三个杯子。 | tóng xué yǒu sān gè bēi zi 。 | il compagno di classe ha tre bicchieri.
+ex: 同学有两本书。 | tóng xué yǒu liǎng běn shū 。 | il compagno di classe ha due libri.
+ex: 同学有书吗？ | tóng xué yǒu shū ma ？ | il compagno di classe ha libri?
+ex: 同学有五个电脑。 | tóng xué yǒu wǔ gè diàn nǎo 。 | il compagno di classe ha cinque computer.
+ex: 同学有五个苹果，爸爸有两个苹果。 | tóng xué yǒu wǔ gè píng guǒ ， bà ba yǒu liǎng gè píng guǒ 。 | il compagno di classe ha cinque mele, il papà ne ha due.
+ex: 同学有几个苹果？ | tóng xué yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 同学有四个手机。 | tóng xué yǒu sì gè shǒu jī 。 | il compagno di classe ha quattro cellulari.
+ex: 同学有四个苹果，爸爸有一个苹果。 | tóng xué yǒu sì gè píng guǒ ， bà ba yǒu yí gè píng guǒ 。 | il compagno di classe ha quattro mele, il papà ne ha uno.
+ex: 同学有四只猫。 | tóng xué yǒu sì zhī māo 。 | Esempio: il compagno di classe ha 4 gatti.
+ex: 同学有手机吗？ | tóng xué yǒu shǒu jī ma ？ | il compagno di classe ha cellulari?
+ex: 同学有杯子吗？ | tóng xué yǒu bēi zi ma ？ | il compagno di classe ha bicchieri?
+ex: 同学有狗吗？ | tóng xué yǒu gǒu ma ？ | il compagno di classe ha cani?
+ex: 同学有电脑吗？ | tóng xué yǒu diàn nǎo ma ？ | il compagno di classe ha computer?
+ex: 同学的书多少钱？ | tóng xué de shū duō shao qián ？ | Quanto costa il libro?
+ex: 同学的书多少钱？ | tóng xué de shū duō shao qián ？ | Quanto costa l’oggetto di il compagno di classe?
+ex: 同学的狗（ ）大。 | tóng xué de gǒu （   ） dà 。 | L’oggetto di il compagno di classe è grande.
+ex: 同学问：这个狗是谁的？ | tóng xué wèn ： zhè ge gǒu shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 同学（ ）四个杯子。 | tóng xué （   ） sì gè bēi zi 。 | il compagno di classe ha quattro bicchieri.
+ex: 同学（ ）爸爸都是学生。 | tóng xué （   ） bà ba dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 和 | hé | e
+ex: 哥哥买一件衣服。 | gē ge mǎi yí jiàn yī fu 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 哥哥买一本书。 | gē ge mǎi yì běn shū 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 哥哥今天上午去学校，晚上回家。 | gē ge jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il fratello maggiore va a scuola la mattina, torna a casa la sera.
+ex: 哥哥今天不喝茶，喝水。 | gē ge jīn tiān bù hē chá ， hē shuǐ 。 | il fratello maggiore oggi non beve tè, beve acqua.
+ex: 哥哥今天什么时候回家？ | gē ge jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 哥哥今天做什么？ | gē ge jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 哥哥今天去公司，明天去饭店。 | gē ge jīn tiān qù gōng sī ， míng tiān qù fàn diàn 。 | il fratello maggiore va a/in azienda oggi, a/in ristorante l’altro giorno.
+ex: 哥哥今天去哪儿？ | gē ge jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 哥哥今天喝什么？ | gē ge jīn tiān hē shén me ？ | Che cosa beve?
+ex: 哥哥今天晚上买一个电脑。 | gē ge jīn tiān wǎn shang mǎi yí gè diàn nǎo 。 | il fratello maggiore compra 1 computer questa sera.
+ex: 哥哥今天晚上买三件衣服。 | gē ge jīn tiān wǎn shang mǎi sān jiàn yī fu 。 | il fratello maggiore compra 3 vestiti questa sera.
+ex: 哥哥今天晚上买三只猫。 | gē ge jīn tiān wǎn shang mǎi sān zhī māo 。 | il fratello maggiore compra 3 gatti questa sera.
+ex: 哥哥今天晚上买两只狗。 | gē ge jīn tiān wǎn shang mǎi liǎng zhī gǒu 。 | il fratello maggiore compra 2 cani questa sera.
+ex: 哥哥今天晚上买五个手机。 | gē ge jīn tiān wǎn shang mǎi wǔ gè shǒu jī 。 | il fratello maggiore compra 5 cellulari questa sera.
+ex: 哥哥今天晚上几点去公司？ | gē ge jīn tiān wǎn shang jǐ diǎn qù gōng sī ？ | A che ora va il fratello maggiore a/in azienda questa sera?
+ex: 哥哥今天晚上想（ ）茶。 | gē ge jīn tiān wǎn shang xiǎng （   ） chá 。 | il fratello maggiore vuole bere tè questa sera.
+ex: 哥哥今天晚上（ ）公司。 | gē ge jīn tiān wǎn shang （   ） gōng sī 。 | il fratello maggiore si trova a/in azienda questa sera.
+ex: 哥哥今天看书，妹妹今天看电视。 | gē ge jīn tiān kàn shū ， mèi mei jīn tiān kàn diàn shì 。 | il fratello maggiore legge e la sorella minore guarda la televisione nel giorno indicato.
+ex: 哥哥今年几岁？ | gē ge jīn nián jǐ suì ？ | Quanti anni ha il fratello maggiore?
+ex: 哥哥在哪儿工作？ | gē ge zài nǎ r gōng zuò ？ | Dove lavora il fratello maggiore?
+ex: 哥哥家有几口人？ | gē ge jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il fratello maggiore?
+ex: 哥哥明天下午去学校，下午回家。 | gē ge míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il fratello maggiore va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 哥哥明天不喝茶，喝水。 | gē ge míng tiān bù hē chá ， hē shuǐ 。 | il fratello maggiore domani non beve tè, beve acqua.
+ex: 哥哥明天什么时候回家？ | gē ge míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 哥哥明天做什么？ | gē ge míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 哥哥明天几点上课？ | gē ge míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 哥哥明天去哪儿？ | gē ge míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 哥哥明天去商店，今天去家。 | gē ge míng tiān qù shāng diàn ， jīn tiān qù jiā 。 | il fratello maggiore va a/in negozio domani, a/in casa l’altro giorno.
+ex: 哥哥明天喝什么？ | gē ge míng tiān hē shén me ？ | Che cosa beve?
+ex: 哥哥明天在哪儿？ | gē ge míng tiān zài nǎ r ？ | Dove si trova il fratello maggiore?
+ex: 哥哥明天看书，妹妹明天看电视。 | gē ge míng tiān kàn shū ， mèi mei míng tiān kàn diàn shì 。 | il fratello maggiore legge e la sorella minore guarda la televisione nel giorno indicato.
+ex: 哥哥有一个手机。 | gē ge yǒu yí gè shǒu jī 。 | il fratello maggiore ha uno cellulari.
+ex: 哥哥有三个椅子。 | gē ge yǒu sān gè yǐ zi 。 | Esempio: il fratello maggiore ha 3 sedie.
+ex: 哥哥有三个苹果，妹妹有五个苹果。 | gē ge yǒu sān gè píng guǒ ， mèi mei yǒu wǔ gè píng guǒ 。 | il fratello maggiore ha tre mele, la sorella minore ne ha cinque.
+ex: 哥哥有三只狗。 | gē ge yǒu sān zhī gǒu 。 | il fratello maggiore ha tre cani.
+ex: 哥哥有两个电脑。 | gē ge yǒu liǎng gè diàn nǎo 。 | il fratello maggiore ha due computer.
+ex: 哥哥有五件衣服。 | gē ge yǒu wǔ jiàn yī fu 。 | il fratello maggiore ha cinque vestiti.
+ex: 哥哥有几个苹果？ | gē ge yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 哥哥有四个苹果，妹妹有一个苹果。 | gē ge yǒu sì gè píng guǒ ， mèi mei yǒu yí gè píng guǒ 。 | il fratello maggiore ha quattro mele, la sorella minore ne ha uno.
+ex: 哥哥有四只猫。 | gē ge yǒu sì zhī māo 。 | il fratello maggiore ha quattro gatti.
+ex: 哥哥有手机吗？ | gē ge yǒu shǒu jī ma ？ | il fratello maggiore ha cellulari?
+ex: 哥哥有狗吗？ | gē ge yǒu gǒu ma ？ | il fratello maggiore ha cani?
+ex: 哥哥有猫吗？ | gē ge yǒu māo ma ？ | il fratello maggiore ha gatti?
+ex: 哥哥有电脑吗？ | gē ge yǒu diàn nǎo ma ？ | il fratello maggiore ha computer?
+ex: 哥哥有衣服吗？ | gē ge yǒu yī fu ma ？ | il fratello maggiore ha vestiti?
+ex: 哥哥的书多少钱？ | gē ge de shū duō shao qián ？ | Quanto costa il libro?
+ex: 哥哥的手机多少钱？ | gē ge de shǒu jī duō shao qián ？ | Quanto costa l’oggetto di il fratello maggiore?
+ex: 哥哥的衣服（ ）大。 | gē ge de yī fu （   ） dà 。 | L’oggetto di il fratello maggiore è grande.
+ex: 哥哥问：这个衣服是谁的？ | gē ge wèn ： zhè ge yī fu shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 哥哥（ ）三个杯子。 | gē ge （   ） sān gè bēi zi 。 | il fratello maggiore ha tre bicchieri.
+ex: 哥哥（ ）妹妹都是学生。 | gē ge （   ） mèi mei dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 商店 | shāng diàn | negozio
+ex: 喝 | hē | bere
+ex: 四个 | sì gè | quattro
+ex: 四十一岁。 | sì shí yī suì 。 | 41 anni.
+ex: 四十七岁。 | sì shí qī suì 。 | 47 anni.
+ex: 四十三岁。 | sì shí sān suì 。 | 43 anni.
+ex: 四十九岁。 | sì shí jiǔ suì 。 | 49 anni.
+ex: 四十二岁。 | sì shí èr suì 。 | 42 anni.
+ex: 四十五岁。 | sì shí wǔ suì 。 | 45 anni.
+ex: 四十八岁。 | sì shí bā suì 。 | 48 anni.
+ex: 四十六岁。 | sì shí liù suì 。 | 46 anni.
+ex: 四十四岁。 | sì shí sì suì 。 | 44 anni.
+ex: 四十岁。 | sì shí suì 。 | 40 anni.
+ex: 四块钱。 | sì kuài qián 。 | quattro yuan.
+ex: 四点。 | sì diǎn 。 | Alle quattro.
+ex: 在 | zài | essere in
+ex: 在公司。 | zài gōng sī 。 | È a/in azienda.
+ex: 在公司工作。 | zài gōng sī gōng zuò 。 | Lavora a/in azienda.
+ex: 在医院。 | zài yī yuàn 。 | È a/in ospedale.
+ex: 在医院工作。 | zài yī yuàn gōng zuò 。 | Lavora a/in ospedale.
+ex: 在商店。 | zài shāng diàn 。 | È a/in negozio.
+ex: 在商店工作。 | zài shāng diàn gōng zuò 。 | Lavora a/in negozio.
+ex: 在学校。 | zài xué xiào 。 | È a/in scuola.
+ex: 在学校工作。 | zài xué xiào gōng zuò 。 | Lavora a/in scuola.
+ex: 在家。 | zài jiā 。 | È a/in casa.
+ex: 在家工作。 | zài jiā gōng zuò 。 | Lavora a/in casa.
+ex: 在饭店。 | zài fàn diàn 。 | È a/in ristorante.
+ex: 在饭店工作。 | zài fàn diàn gōng zuò 。 | Lavora a/in ristorante.
+ex: 妈妈买四件衣服。 | mā ma mǎi sì jiàn yī fu 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 妈妈买四只狗。 | mā ma mǎi sì zhī gǒu 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 妈妈今天上午买一个电脑。 | mā ma jīn tiān shàng wǔ mǎi yí gè diàn nǎo 。 | la mamma compra 1 computer questa mattina.
+ex: 妈妈今天上午买一只狗。 | mā ma jīn tiān shàng wǔ mǎi yì zhī gǒu 。 | la mamma compra 1 cani questa mattina.
+ex: 妈妈今天上午买三本书。 | mā ma jīn tiān shàng wǔ mǎi sān běn shū 。 | la mamma compra 3 libri questa mattina.
+ex: 妈妈今天上午买五个手机。 | mā ma jīn tiān shàng wǔ mǎi wǔ gè shǒu jī 。 | la mamma compra 5 cellulari questa mattina.
+ex: 妈妈今天上午买四个杯子。 | mā ma jīn tiān shàng wǔ mǎi sì gè bēi zi 。 | la mamma compra 4 bicchieri questa mattina.
+ex: 妈妈今天上午几点去学校？ | mā ma jīn tiān shàng wǔ jǐ diǎn qù xué xiào ？ | A che ora va la mamma a/in scuola questa mattina?
+ex: 妈妈今天上午去学校，晚上回家。 | mā ma jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | la mamma va a scuola la mattina, torna a casa la sera.
+ex: 妈妈今天上午想（ ）茶。 | mā ma jīn tiān shàng wǔ xiǎng （   ） chá 。 | la mamma vuole bere tè questa mattina.
+ex: 妈妈今天上午（ ）学校。 | mā ma jīn tiān shàng wǔ （   ） xué xiào 。 | la mamma si trova a/in scuola questa mattina.
+ex: 妈妈今天不喝茶，喝水。 | mā ma jīn tiān bù hē chá ， hē shuǐ 。 | la mamma oggi non beve tè, beve acqua.
+ex: 妈妈今天什么时候回家？ | mā ma jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 妈妈今天做什么？ | mā ma jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 妈妈今天去哪儿？ | mā ma jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 妈妈今天去学校，明天去公司。 | mā ma jīn tiān qù xué xiào ， míng tiān qù gōng sī 。 | la mamma va a/in scuola oggi, a/in azienda l’altro giorno.
+ex: 妈妈今天喝什么？ | mā ma jīn tiān hē shén me ？ | Che cosa beve?
+ex: 妈妈今天看书，姐姐今天看电视。 | mā ma jīn tiān kàn shū ， jiě jie jīn tiān kàn diàn shì 。 | la mamma legge e la sorella maggiore guarda la televisione nel giorno indicato.
+ex: 妈妈今年几岁？ | mā ma jīn nián jǐ suì ？ | Quanti anni ha la mamma?
+ex: 妈妈在哪儿工作？ | mā ma zài nǎ r gōng zuò ？ | Dove lavora la mamma?
+ex: 妈妈家有几口人？ | mā ma jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di la mamma?
+ex: 妈妈明天下午去学校，下午回家。 | mā ma míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | la mamma va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 妈妈明天不喝茶，喝水。 | mā ma míng tiān bù hē chá ， hē shuǐ 。 | la mamma domani non beve tè, beve acqua.
+ex: 妈妈明天什么时候回家？ | mā ma míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 妈妈明天做什么？ | mā ma míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 妈妈明天几点上课？ | mā ma míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 妈妈明天去医院，今天去商店。 | mā ma míng tiān qù yī yuàn ， jīn tiān qù shāng diàn 。 | la mamma va a/in ospedale domani, a/in negozio l’altro giorno.
+ex: 妈妈明天去哪儿？ | mā ma míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 妈妈明天喝什么？ | mā ma míng tiān hē shén me ？ | Che cosa beve?
+ex: 妈妈明天在哪儿？ | mā ma míng tiān zài nǎ r ？ | Dove si trova la mamma?
+ex: 妈妈明天看书，姐姐明天看电视。 | mā ma míng tiān kàn shū ， jiě jie míng tiān kàn diàn shì 。 | la mamma legge e la sorella maggiore guarda la televisione nel giorno indicato.
+ex: 妈妈有一个苹果，姐姐有三个苹果。 | mā ma yǒu yí gè píng guǒ ， jiě jie yǒu sān gè píng guǒ 。 | la mamma ha uno mele, la sorella maggiore ne ha tre.
+ex: 妈妈有一只猫。 | mā ma yǒu yì zhī māo 。 | Esempio: la mamma ha 1 gatti.
+ex: 妈妈有一本书。 | mā ma yǒu yì běn shū 。 | la mamma ha uno libri.
+ex: 妈妈有三个手机。 | mā ma yǒu sān gè shǒu jī 。 | la mamma ha tre cellulari.
+ex: 妈妈有两个杯子。 | mā ma yǒu liǎng gè bēi zi 。 | la mamma ha due bicchieri.
+ex: 妈妈有两个苹果，姐姐有四个苹果。 | mā ma yǒu liǎng gè píng guǒ ， jiě jie yǒu sì gè píng guǒ 。 | la mamma ha due mele, la sorella maggiore ne ha quattro.
+ex: 妈妈有书吗？ | mā ma yǒu shū ma ？ | la mamma ha libri?
+ex: 妈妈有五只狗。 | mā ma yǒu wǔ zhī gǒu 。 | la mamma ha cinque cani.
+ex: 妈妈有几个苹果？ | mā ma yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 妈妈有四个电脑。 | mā ma yǒu sì gè diàn nǎo 。 | la mamma ha quattro computer.
+ex: 妈妈有手机吗？ | mā ma yǒu shǒu jī ma ？ | la mamma ha cellulari?
+ex: 妈妈有杯子吗？ | mā ma yǒu bēi zi ma ？ | la mamma ha bicchieri?
+ex: 妈妈有狗吗？ | mā ma yǒu gǒu ma ？ | la mamma ha cani?
+ex: 妈妈有电脑吗？ | mā ma yǒu diàn nǎo ma ？ | la mamma ha computer?
+ex: 妈妈的书多少钱？ | mā ma de shū duō shao qián ？ | Quanto costa il libro?
+ex: 妈妈的书多少钱？ | mā ma de shū duō shao qián ？ | Quanto costa l’oggetto di la mamma?
+ex: 妈妈的狗（ ）大。 | mā ma de gǒu （   ） dà 。 | L’oggetto di la mamma è grande.
+ex: 妈妈问：这个狗是谁的？ | mā ma wèn ： zhè ge gǒu shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 妈妈（ ）一个杯子。 | mā ma （   ） yí gè bēi zi 。 | la mamma ha uno bicchieri.
+ex: 妈妈（ ）姐姐都是学生。 | mā ma （   ） jiě jie dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 妹妹买四个杯子。 | mèi mei mǎi sì gè bēi zi 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 妹妹买四个椅子。 | mèi mei mǎi sì gè yǐ zi 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 妹妹今天上午买一个杯子。 | mèi mei jīn tiān shàng wǔ mǎi yí gè bēi zi 。 | la sorella minore compra 1 bicchieri questa mattina.
+ex: 妹妹今天上午买一本书。 | mèi mei jīn tiān shàng wǔ mǎi yì běn shū 。 | la sorella minore compra 1 libri questa mattina.
+ex: 妹妹今天上午买三只猫。 | mèi mei jīn tiān shàng wǔ mǎi sān zhī māo 。 | la sorella minore compra 3 gatti questa mattina.
+ex: 妹妹今天上午买五个椅子。 | mèi mei jīn tiān shàng wǔ mǎi wǔ gè yǐ zi 。 | la sorella minore compra 5 sedie questa mattina.
+ex: 妹妹今天上午买四件衣服。 | mèi mei jīn tiān shàng wǔ mǎi sì jiàn yī fu 。 | la sorella minore compra 4 vestiti questa mattina.
+ex: 妹妹今天上午几点去家？ | mèi mei jīn tiān shàng wǔ jǐ diǎn qù jiā ？ | A che ora va la sorella minore a/in casa questa mattina?
+ex: 妹妹今天上午去学校，晚上回家。 | mèi mei jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | la sorella minore va a scuola la mattina, torna a casa la sera.
+ex: 妹妹今天上午想（ ）茶。 | mèi mei jīn tiān shàng wǔ xiǎng （   ） chá 。 | la sorella minore vuole bere tè questa mattina.
+ex: 妹妹今天上午（ ）家。 | mèi mei jīn tiān shàng wǔ （   ） jiā 。 | la sorella minore si trova a/in casa questa mattina.
+ex: 妹妹今天不喝茶，喝水。 | mèi mei jīn tiān bù hē chá ， hē shuǐ 。 | la sorella minore oggi non beve tè, beve acqua.
+ex: 妹妹今天什么时候回家？ | mèi mei jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 妹妹今天做什么？ | mèi mei jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 妹妹今天去哪儿？ | mèi mei jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 妹妹今天去家，明天去医院。 | mèi mei jīn tiān qù jiā ， míng tiān qù yī yuàn 。 | la sorella minore va a/in casa oggi, a/in ospedale l’altro giorno.
+ex: 妹妹今天喝什么？ | mèi mei jīn tiān hē shén me ？ | Che cosa beve?
+ex: 妹妹今天看书，同学今天看电视。 | mèi mei jīn tiān kàn shū ， tóng xué jīn tiān kàn diàn shì 。 | la sorella minore legge e il compagno di classe guarda la televisione nel giorno indicato.
+ex: 妹妹今年几岁？ | mèi mei jīn nián jǐ suì ？ | Quanti anni ha la sorella minore?
+ex: 妹妹在哪儿工作？ | mèi mei zài nǎ r gōng zuò ？ | Dove lavora la sorella minore?
+ex: 妹妹家有几口人？ | mèi mei jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di la sorella minore?
+ex: 妹妹明天下午去学校，下午回家。 | mèi mei míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | la sorella minore va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 妹妹明天不喝茶，喝水。 | mèi mei míng tiān bù hē chá ， hē shuǐ 。 | la sorella minore domani non beve tè, beve acqua.
+ex: 妹妹明天什么时候回家？ | mèi mei míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 妹妹明天做什么？ | mèi mei míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 妹妹明天几点上课？ | mèi mei míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 妹妹明天去哪儿？ | mèi mei míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 妹妹明天去学校，今天去公司。 | mèi mei míng tiān qù xué xiào ， jīn tiān qù gōng sī 。 | la sorella minore va a/in scuola domani, a/in azienda l’altro giorno.
+ex: 妹妹明天喝什么？ | mèi mei míng tiān hē shén me ？ | Che cosa beve?
+ex: 妹妹明天在哪儿？ | mèi mei míng tiān zài nǎ r ？ | Dove si trova la sorella minore?
+ex: 妹妹明天看书，同学明天看电视。 | mèi mei míng tiān kàn shū ， tóng xué míng tiān kàn diàn shì 。 | la sorella minore legge e il compagno di classe guarda la televisione nel giorno indicato.
+ex: 妹妹有一个手机。 | mèi mei yǒu yí gè shǒu jī 。 | Esempio: la sorella minore ha 1 cellulari.
+ex: 妹妹有一个苹果，同学有三个苹果。 | mèi mei yǒu yí gè píng guǒ ， tóng xué yǒu sān gè píng guǒ 。 | la sorella minore ha uno mele, il compagno di classe ne ha tre.
+ex: 妹妹有一只猫。 | mèi mei yǒu yì zhī māo 。 | la sorella minore ha uno gatti.
+ex: 妹妹有三个椅子。 | mèi mei yǒu sān gè yǐ zi 。 | la sorella minore ha tre sedie.
+ex: 妹妹有两个苹果，同学有四个苹果。 | mèi mei yǒu liǎng gè píng guǒ ， tóng xué yǒu sì gè píng guǒ 。 | la sorella minore ha due mele, il compagno di classe ne ha quattro.
+ex: 妹妹有两件衣服。 | mèi mei yǒu liǎng jiàn yī fu 。 | la sorella minore ha due vestiti.
+ex: 妹妹有书吗？ | mèi mei yǒu shū ma ？ | la sorella minore ha libri?
+ex: 妹妹有五个杯子。 | mèi mei yǒu wǔ gè bēi zi 。 | la sorella minore ha cinque bicchieri.
+ex: 妹妹有几个苹果？ | mèi mei yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 妹妹有四本书。 | mèi mei yǒu sì běn shū 。 | la sorella minore ha quattro libri.
+ex: 妹妹有杯子吗？ | mèi mei yǒu bēi zi ma ？ | la sorella minore ha bicchieri?
+ex: 妹妹有椅子吗？ | mèi mei yǒu yǐ zi ma ？ | la sorella minore ha sedie?
+ex: 妹妹有猫吗？ | mèi mei yǒu māo ma ？ | la sorella minore ha gatti?
+ex: 妹妹有衣服吗？ | mèi mei yǒu yī fu ma ？ | la sorella minore ha vestiti?
+ex: 妹妹的书多少钱？ | mèi mei de shū duō shao qián ？ | Quanto costa il libro?
+ex: 妹妹的杯子（ ）大。 | mèi mei de bēi zi （   ） dà 。 | L’oggetto di la sorella minore è grande.
+ex: 妹妹的猫多少钱？ | mèi mei de māo duō shao qián ？ | Quanto costa l’oggetto di la sorella minore?
+ex: 妹妹问：这个杯子是谁的？ | mèi mei wèn ： zhè ge bēi zi shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 妹妹（ ）一个杯子。 | mèi mei （   ） yí gè bēi zi 。 | la sorella minore ha uno bicchieri.
+ex: 妹妹（ ）同学都是学生。 | mèi mei （   ） tóng xué dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 姐姐买两个椅子。 | jiě jie mǎi liǎng gè yǐ zi 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 姐姐买两只猫。 | jiě jie mǎi liǎng zhī māo 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 姐姐今天上午去学校，晚上回家。 | jiě jie jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | la sorella maggiore va a scuola la mattina, torna a casa la sera.
+ex: 姐姐今天不喝茶，喝水。 | jiě jie jīn tiān bù hē chá ， hē shuǐ 。 | la sorella maggiore oggi non beve tè, beve acqua.
+ex: 姐姐今天什么时候回家？ | jiě jie jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 姐姐今天做什么？ | jiě jie jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 姐姐今天去哪儿？ | jiě jie jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 姐姐今天去商店，明天去家。 | jiě jie jīn tiān qù shāng diàn ， míng tiān qù jiā 。 | la sorella maggiore va a/in negozio oggi, a/in casa l’altro giorno.
+ex: 姐姐今天喝什么？ | jiě jie jīn tiān hē shén me ？ | Che cosa beve?
+ex: 姐姐今天看书，老师今天看电视。 | jiě jie jīn tiān kàn shū ， lǎo shī jīn tiān kàn diàn shì 。 | la sorella maggiore legge e l’insegnante guarda la televisione nel giorno indicato.
+ex: 姐姐今年几岁？ | jiě jie jīn nián jǐ suì ？ | Quanti anni ha la sorella maggiore?
+ex: 姐姐在哪儿工作？ | jiě jie zài nǎ r gōng zuò ？ | Dove lavora la sorella maggiore?
+ex: 姐姐家有几口人？ | jiě jie jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di la sorella maggiore?
+ex: 姐姐明天上午买一个电脑。 | jiě jie míng tiān shàng wǔ mǎi yí gè diàn nǎo 。 | la sorella maggiore compra 1 computer domani mattina.
+ex: 姐姐明天上午买三只猫。 | jiě jie míng tiān shàng wǔ mǎi sān zhī māo 。 | la sorella maggiore compra 3 gatti domani mattina.
+ex: 姐姐明天上午买两只狗。 | jiě jie míng tiān shàng wǔ mǎi liǎng zhī gǒu 。 | la sorella maggiore compra 2 cani domani mattina.
+ex: 姐姐明天上午买四个椅子。 | jiě jie míng tiān shàng wǔ mǎi sì gè yǐ zi 。 | la sorella maggiore compra 4 sedie domani mattina.
+ex: 姐姐明天上午买四件衣服。 | jiě jie míng tiān shàng wǔ mǎi sì jiàn yī fu 。 | la sorella maggiore compra 4 vestiti domani mattina.
+ex: 姐姐明天上午几点去商店？ | jiě jie míng tiān shàng wǔ jǐ diǎn qù shāng diàn ？ | A che ora va la sorella maggiore a/in negozio domani mattina?
+ex: 姐姐明天上午想（ ）茶。 | jiě jie míng tiān shàng wǔ xiǎng （   ） chá 。 | la sorella maggiore vuole bere tè domani mattina.
+ex: 姐姐明天上午（ ）商店。 | jiě jie míng tiān shàng wǔ （   ） shāng diàn 。 | la sorella maggiore si trova a/in negozio domani mattina.
+ex: 姐姐明天下午去学校，下午回家。 | jiě jie míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | la sorella maggiore va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 姐姐明天不喝茶，喝水。 | jiě jie míng tiān bù hē chá ， hē shuǐ 。 | la sorella maggiore domani non beve tè, beve acqua.
+ex: 姐姐明天什么时候回家？ | jiě jie míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 姐姐明天做什么？ | jiě jie míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 姐姐明天几点上课？ | jiě jie míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 姐姐明天去哪儿？ | jiě jie míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 姐姐明天去饭店，今天去学校。 | jiě jie míng tiān qù fàn diàn ， jīn tiān qù xué xiào 。 | la sorella maggiore va a/in ristorante domani, a/in scuola l’altro giorno.
+ex: 姐姐明天喝什么？ | jiě jie míng tiān hē shén me ？ | Che cosa beve?
+ex: 姐姐明天在哪儿？ | jiě jie míng tiān zài nǎ r ？ | Dove si trova la sorella maggiore?
+ex: 姐姐明天看书，老师明天看电视。 | jiě jie míng tiān kàn shū ， lǎo shī míng tiān kàn diàn shì 。 | la sorella maggiore legge e l’insegnante guarda la televisione nel giorno indicato.
+ex: 姐姐有一个电脑。 | jiě jie yǒu yí gè diàn nǎo 。 | la sorella maggiore ha uno computer.
+ex: 姐姐有三只猫。 | jiě jie yǒu sān zhī māo 。 | la sorella maggiore ha tre gatti.
+ex: 姐姐有两只狗。 | jiě jie yǒu liǎng zhī gǒu 。 | la sorella maggiore ha due cani.
+ex: 姐姐有五个椅子。 | jiě jie yǒu wǔ gè yǐ zi 。 | la sorella maggiore ha cinque sedie.
+ex: 姐姐有五个苹果，老师有两个苹果。 | jiě jie yǒu wǔ gè píng guǒ ， lǎo shī yǒu liǎng gè píng guǒ 。 | la sorella maggiore ha cinque mele, l’insegnante ne ha due.
+ex: 姐姐有几个苹果？ | jiě jie yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 姐姐有四个苹果，老师有一个苹果。 | jiě jie yǒu sì gè píng guǒ ， lǎo shī yǒu yí gè píng guǒ 。 | la sorella maggiore ha quattro mele, l’insegnante ne ha uno.
+ex: 姐姐有四件衣服。 | jiě jie yǒu sì jiàn yī fu 。 | la sorella maggiore ha quattro vestiti.
+ex: 姐姐有四本书。 | jiě jie yǒu sì běn shū 。 | Esempio: la sorella maggiore ha 4 libri.
+ex: 姐姐有椅子吗？ | jiě jie yǒu yǐ zi ma ？ | la sorella maggiore ha sedie?
+ex: 姐姐有狗吗？ | jiě jie yǒu gǒu ma ？ | la sorella maggiore ha cani?
+ex: 姐姐有猫吗？ | jiě jie yǒu māo ma ？ | la sorella maggiore ha gatti?
+ex: 姐姐有电脑吗？ | jiě jie yǒu diàn nǎo ma ？ | la sorella maggiore ha computer?
+ex: 姐姐有衣服吗？ | jiě jie yǒu yī fu ma ？ | la sorella maggiore ha vestiti?
+ex: 姐姐的书多少钱？ | jiě jie de shū duō shao qián ？ | Quanto costa il libro?
+ex: 姐姐的椅子（ ）大。 | jiě jie de yǐ zi （   ） dà 。 | L’oggetto di la sorella maggiore è grande.
+ex: 姐姐的电脑多少钱？ | jiě jie de diàn nǎo duō shao qián ？ | Quanto costa l’oggetto di la sorella maggiore?
+ex: 姐姐问：这个椅子是谁的？ | jiě jie wèn ： zhè ge yǐ zi shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 姐姐（ ）四个杯子。 | jiě jie （   ） sì gè bēi zi 。 | la sorella maggiore ha quattro bicchieri.
+ex: 姐姐（ ）老师都是学生。 | jiě jie （   ） lǎo shī dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 学校 | xué xiào | scuola
+ex: 家 | jiā | casa
+ex: 弟弟买三件衣服。 | dì di mǎi sān jiàn yī fu 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 弟弟买三本书。 | dì di mǎi sān běn shū 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 弟弟今天上午去学校，晚上回家。 | dì di jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il fratello minore va a scuola la mattina, torna a casa la sera.
+ex: 弟弟今天不喝茶，喝水。 | dì di jīn tiān bù hē chá ， hē shuǐ 。 | il fratello minore oggi non beve tè, beve acqua.
+ex: 弟弟今天什么时候回家？ | dì di jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 弟弟今天做什么？ | dì di jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 弟弟今天去哪儿？ | dì di jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 弟弟今天去饭店，明天去学校。 | dì di jīn tiān qù fàn diàn ， míng tiān qù xué xiào 。 | il fratello minore va a/in ristorante oggi, a/in scuola l’altro giorno.
+ex: 弟弟今天喝什么？ | dì di jīn tiān hē shén me ？ | Che cosa beve?
+ex: 弟弟今天看书，朋友今天看电视。 | dì di jīn tiān kàn shū ， péng you jīn tiān kàn diàn shì 。 | il fratello minore legge e l’amico guarda la televisione nel giorno indicato.
+ex: 弟弟今年几岁？ | dì di jīn nián jǐ suì ？ | Quanti anni ha il fratello minore?
+ex: 弟弟在哪儿工作？ | dì di zài nǎ r gōng zuò ？ | Dove lavora il fratello minore?
+ex: 弟弟家有几口人？ | dì di jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il fratello minore?
+ex: 弟弟明天下午买三只猫。 | dì di míng tiān xià wǔ mǎi sān zhī māo 。 | il fratello minore compra 3 gatti domani pomeriggio.
+ex: 弟弟明天下午买两只狗。 | dì di míng tiān xià wǔ mǎi liǎng zhī gǒu 。 | il fratello minore compra 2 cani domani pomeriggio.
+ex: 弟弟明天下午买五个椅子。 | dì di míng tiān xià wǔ mǎi wǔ gè yǐ zi 。 | il fratello minore compra 5 sedie domani pomeriggio.
+ex: 弟弟明天下午买五本书。 | dì di míng tiān xià wǔ mǎi wǔ běn shū 。 | il fratello minore compra 5 libri domani pomeriggio.
+ex: 弟弟明天下午买四件衣服。 | dì di míng tiān xià wǔ mǎi sì jiàn yī fu 。 | il fratello minore compra 4 vestiti domani pomeriggio.
+ex: 弟弟明天下午几点去饭店？ | dì di míng tiān xià wǔ jǐ diǎn qù fàn diàn ？ | A che ora va il fratello minore a/in ristorante domani pomeriggio?
+ex: 弟弟明天下午去学校，下午回家。 | dì di míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il fratello minore va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 弟弟明天下午想（ ）茶。 | dì di míng tiān xià wǔ xiǎng （   ） chá 。 | il fratello minore vuole bere tè domani pomeriggio.
+ex: 弟弟明天下午（ ）饭店。 | dì di míng tiān xià wǔ （   ） fàn diàn 。 | il fratello minore si trova a/in ristorante domani pomeriggio.
+ex: 弟弟明天不喝茶，喝水。 | dì di míng tiān bù hē chá ， hē shuǐ 。 | il fratello minore domani non beve tè, beve acqua.
+ex: 弟弟明天什么时候回家？ | dì di míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 弟弟明天做什么？ | dì di míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 弟弟明天几点上课？ | dì di míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 弟弟明天去哪儿？ | dì di míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 弟弟明天去家，今天去医院。 | dì di míng tiān qù jiā ， jīn tiān qù yī yuàn 。 | il fratello minore va a/in casa domani, a/in ospedale l’altro giorno.
+ex: 弟弟明天喝什么？ | dì di míng tiān hē shén me ？ | Che cosa beve?
+ex: 弟弟明天在哪儿？ | dì di míng tiān zài nǎ r ？ | Dove si trova il fratello minore?
+ex: 弟弟明天看书，朋友明天看电视。 | dì di míng tiān kàn shū ， péng you míng tiān kàn diàn shì 。 | il fratello minore legge e l’amico guarda la televisione nel giorno indicato.
+ex: 弟弟有一个苹果，朋友有三个苹果。 | dì di yǒu yí gè píng guǒ ， péng you yǒu sān gè píng guǒ 。 | il fratello minore ha uno mele, l’amico ne ha tre.
+ex: 弟弟有一只狗。 | dì di yǒu yì zhī gǒu 。 | il fratello minore ha uno cani.
+ex: 弟弟有三件衣服。 | dì di yǒu sān jiàn yī fu 。 | il fratello minore ha tre vestiti.
+ex: 弟弟有两只猫。 | dì di yǒu liǎng zhī māo 。 | il fratello minore ha due gatti.
+ex: 弟弟有书吗？ | dì di yǒu shū ma ？ | il fratello minore ha libri?
+ex: 弟弟有五个杯子。 | dì di yǒu wǔ gè bēi zi 。 | Esempio: il fratello minore ha 5 bicchieri.
+ex: 弟弟有五个苹果，朋友有两个苹果。 | dì di yǒu wǔ gè píng guǒ ， péng you yǒu liǎng gè píng guǒ 。 | il fratello minore ha cinque mele, l’amico ne ha due.
+ex: 弟弟有五本书。 | dì di yǒu wǔ běn shū 。 | il fratello minore ha cinque libri.
+ex: 弟弟有几个苹果？ | dì di yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 弟弟有四个椅子。 | dì di yǒu sì gè yǐ zi 。 | il fratello minore ha quattro sedie.
+ex: 弟弟有椅子吗？ | dì di yǒu yǐ zi ma ？ | il fratello minore ha sedie?
+ex: 弟弟有狗吗？ | dì di yǒu gǒu ma ？ | il fratello minore ha cani?
+ex: 弟弟有猫吗？ | dì di yǒu māo ma ？ | il fratello minore ha gatti?
+ex: 弟弟有衣服吗？ | dì di yǒu yī fu ma ？ | il fratello minore ha vestiti?
+ex: 弟弟的书多少钱？ | dì di de shū duō shao qián ？ | Quanto costa il libro?
+ex: 弟弟的书（ ）大。 | dì di de shū （   ） dà 。 | L’oggetto di il fratello minore è grande.
+ex: 弟弟的狗多少钱？ | dì di de gǒu duō shao qián ？ | Quanto costa l’oggetto di il fratello minore?
+ex: 弟弟问：这个书是谁的？ | dì di wèn ： zhè ge shū shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 弟弟（ ）五个杯子。 | dì di （   ） wǔ gè bēi zi 。 | il fratello minore ha cinque bicchieri.
+ex: 弟弟（ ）朋友都是学生。 | dì di （   ） péng you dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 很 | hěn | molto
+ex: 想吃面条儿。 | xiǎng chī miàn tiáo r 。 | Vuole mangiare spaghetti.
+ex: 想喝水。 | xiǎng hē shuǐ 。 | Vuole bere acqua.
+ex: 想看书。 | xiǎng kàn shū 。 | Vuole leggere.
+ex: 我的医生今天上午去学校，晚上回家。 | wǒ de yī shēng jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia il medico va a scuola la mattina, torna a casa la sera.
+ex: 我的医生今天不喝茶，喝水。 | wǒ de yī shēng jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il medico oggi non beve tè, beve acqua.
+ex: 我的医生今天什么时候回家？ | wǒ de yī shēng jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的医生今天做什么？ | wǒ de yī shēng jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的医生今天去医院，明天去商店。 | wǒ de yī shēng jīn tiān qù yī yuàn ， míng tiān qù shāng diàn 。 | il mio / la mia il medico va a/in ospedale oggi, a/in negozio l’altro giorno.
+ex: 我的医生今天去哪儿？ | wǒ de yī shēng jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的医生今天喝什么？ | wǒ de yī shēng jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的医生今天看书，哥哥今天看电视。 | wǒ de yī shēng jīn tiān kàn shū ， gē ge jīn tiān kàn diàn shì 。 | il mio / la mia il medico legge e il fratello maggiore guarda la televisione nel giorno indicato.
+ex: 我的医生今年几岁？ | wǒ de yī shēng jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia il medico?
+ex: 我的医生在哪儿工作？ | wǒ de yī shēng zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia il medico?
+ex: 我的医生家有几口人？ | wǒ de yī shēng jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia il medico?
+ex: 我的医生明天下午买三只狗。 | wǒ de yī shēng míng tiān xià wǔ mǎi sān zhī gǒu 。 | il mio / la mia il medico compra 3 cani domani pomeriggio.
+ex: 我的医生明天下午买两个电脑。 | wǒ de yī shēng míng tiān xià wǔ mǎi liǎng gè diàn nǎo 。 | il mio / la mia il medico compra 2 computer domani pomeriggio.
+ex: 我的医生明天下午买五个椅子。 | wǒ de yī shēng míng tiān xià wǔ mǎi wǔ gè yǐ zi 。 | il mio / la mia il medico compra 5 sedie domani pomeriggio.
+ex: 我的医生明天下午买五件衣服。 | wǒ de yī shēng míng tiān xià wǔ mǎi wǔ jiàn yī fu 。 | il mio / la mia il medico compra 5 vestiti domani pomeriggio.
+ex: 我的医生明天下午买四只猫。 | wǒ de yī shēng míng tiān xià wǔ mǎi sì zhī māo 。 | il mio / la mia il medico compra 4 gatti domani pomeriggio.
+ex: 我的医生明天下午几点去医院？ | wǒ de yī shēng míng tiān xià wǔ jǐ diǎn qù yī yuàn ？ | A che ora va il mio / la mia il medico a/in ospedale domani pomeriggio?
+ex: 我的医生明天下午去学校，下午回家。 | wǒ de yī shēng míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia il medico va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的医生明天下午想（ ）茶。 | wǒ de yī shēng míng tiān xià wǔ xiǎng （   ） chá 。 | il mio / la mia il medico vuole bere tè domani pomeriggio.
+ex: 我的医生明天下午（ ）医院。 | wǒ de yī shēng míng tiān xià wǔ （   ） yī yuàn 。 | il mio / la mia il medico si trova a/in ospedale domani pomeriggio.
+ex: 我的医生明天不喝茶，喝水。 | wǒ de yī shēng míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il medico domani non beve tè, beve acqua.
+ex: 我的医生明天什么时候回家？ | wǒ de yī shēng míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的医生明天做什么？ | wǒ de yī shēng míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的医生明天几点上课？ | wǒ de yī shēng míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的医生明天去公司，今天去饭店。 | wǒ de yī shēng míng tiān qù gōng sī ， jīn tiān qù fàn diàn 。 | il mio / la mia il medico va a/in azienda domani, a/in ristorante l’altro giorno.
+ex: 我的医生明天去哪儿？ | wǒ de yī shēng míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的医生明天喝什么？ | wǒ de yī shēng míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的医生明天在哪儿？ | wǒ de yī shēng míng tiān zài nǎ r ？ | Dove si trova il mio / la mia il medico?
+ex: 我的医生明天看书，哥哥明天看电视。 | wǒ de yī shēng míng tiān kàn shū ， gē ge míng tiān kàn diàn shì 。 | il mio / la mia il medico legge e il fratello maggiore guarda la televisione nel giorno indicato.
+ex: 我的医生有一个苹果，哥哥有三个苹果。 | wǒ de yī shēng yǒu yí gè píng guǒ ， gē ge yǒu sān gè píng guǒ 。 | il mio / la mia il medico ha uno mele, il fratello maggiore ne ha tre.
+ex: 我的医生有一件衣服。 | wǒ de yī shēng yǒu yí jiàn yī fu 。 | il mio / la mia il medico ha uno vestiti.
+ex: 我的医生有三个电脑。 | wǒ de yī shēng yǒu sān gè diàn nǎo 。 | il mio / la mia il medico ha tre computer.
+ex: 我的医生有两个椅子。 | wǒ de yī shēng yǒu liǎng gè yǐ zi 。 | il mio / la mia il medico ha due sedie.
+ex: 我的医生有五个苹果，哥哥有两个苹果。 | wǒ de yī shēng yǒu wǔ gè píng guǒ ， gē ge yǒu liǎng gè píng guǒ 。 | il mio / la mia il medico ha cinque mele, il fratello maggiore ne ha due.
+ex: 我的医生有五只猫。 | wǒ de yī shēng yǒu wǔ zhī māo 。 | il mio / la mia il medico ha cinque gatti.
+ex: 我的医生有五本书。 | wǒ de yī shēng yǒu wǔ běn shū 。 | Esempio: il mio / la mia il medico ha 5 libri.
+ex: 我的医生有几个苹果？ | wǒ de yī shēng yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的医生有四只狗。 | wǒ de yī shēng yǒu sì zhī gǒu 。 | il mio / la mia il medico ha quattro cani.
+ex: 我的医生有椅子吗？ | wǒ de yī shēng yǒu yǐ zi ma ？ | il mio / la mia il medico ha sedie?
+ex: 我的医生有狗吗？ | wǒ de yī shēng yǒu gǒu ma ？ | il mio / la mia il medico ha cani?
+ex: 我的医生有猫吗？ | wǒ de yī shēng yǒu māo ma ？ | il mio / la mia il medico ha gatti?
+ex: 我的医生有电脑吗？ | wǒ de yī shēng yǒu diàn nǎo ma ？ | il mio / la mia il medico ha computer?
+ex: 我的医生有衣服吗？ | wǒ de yī shēng yǒu yī fu ma ？ | il mio / la mia il medico ha vestiti?
+ex: 我的医生的书多少钱？ | wǒ de yī shēng de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的医生的椅子（ ）大。 | wǒ de yī shēng de yǐ zi （   ） dà 。 | L’oggetto di il mio / la mia il medico è grande.
+ex: 我的医生的电脑多少钱？ | wǒ de yī shēng de diàn nǎo duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia il medico?
+ex: 我的医生问：这个椅子是谁的？ | wǒ de yī shēng wèn ： zhè ge yǐ zi shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的医生（ ）五个杯子。 | wǒ de yī shēng （   ） wǔ gè bēi zi 。 | il mio / la mia il medico ha cinque bicchieri.
+ex: 我的医生（ ）哥哥都是学生。 | wǒ de yī shēng （   ） gē ge dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 我的同学今天上午去学校，晚上回家。 | wǒ de tóng xué jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia il compagno di classe va a scuola la mattina, torna a casa la sera.
+ex: 我的同学今天不喝茶，喝水。 | wǒ de tóng xué jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il compagno di classe oggi non beve tè, beve acqua.
+ex: 我的同学今天什么时候回家？ | wǒ de tóng xué jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的同学今天做什么？ | wǒ de tóng xué jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的同学今天去哪儿？ | wǒ de tóng xué jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的同学今天去学校，明天去公司。 | wǒ de tóng xué jīn tiān qù xué xiào ， míng tiān qù gōng sī 。 | il mio / la mia il compagno di classe va a/in scuola oggi, a/in azienda l’altro giorno.
+ex: 我的同学今天喝什么？ | wǒ de tóng xué jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的同学今天看书，爸爸今天看电视。 | wǒ de tóng xué jīn tiān kàn shū ， bà ba jīn tiān kàn diàn shì 。 | il mio / la mia il compagno di classe legge e il papà guarda la televisione nel giorno indicato.
+ex: 我的同学今年几岁？ | wǒ de tóng xué jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia il compagno di classe?
+ex: 我的同学在哪儿工作？ | wǒ de tóng xué zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia il compagno di classe?
+ex: 我的同学家有几口人？ | wǒ de tóng xué jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia il compagno di classe?
+ex: 我的同学明天上午买一个手机。 | wǒ de tóng xué míng tiān shàng wǔ mǎi yí gè shǒu jī 。 | il mio / la mia il compagno di classe compra 1 cellulari domani mattina.
+ex: 我的同学明天上午买三只狗。 | wǒ de tóng xué míng tiān shàng wǔ mǎi sān zhī gǒu 。 | il mio / la mia il compagno di classe compra 3 cani domani mattina.
+ex: 我的同学明天上午买两个电脑。 | wǒ de tóng xué míng tiān shàng wǔ mǎi liǎng gè diàn nǎo 。 | il mio / la mia il compagno di classe compra 2 computer domani mattina.
+ex: 我的同学明天上午买四件衣服。 | wǒ de tóng xué míng tiān shàng wǔ mǎi sì jiàn yī fu 。 | il mio / la mia il compagno di classe compra 4 vestiti domani mattina.
+ex: 我的同学明天上午买四只猫。 | wǒ de tóng xué míng tiān shàng wǔ mǎi sì zhī māo 。 | il mio / la mia il compagno di classe compra 4 gatti domani mattina.
+ex: 我的同学明天上午几点去学校？ | wǒ de tóng xué míng tiān shàng wǔ jǐ diǎn qù xué xiào ？ | A che ora va il mio / la mia il compagno di classe a/in scuola domani mattina?
+ex: 我的同学明天上午想（ ）茶。 | wǒ de tóng xué míng tiān shàng wǔ xiǎng （   ） chá 。 | il mio / la mia il compagno di classe vuole bere tè domani mattina.
+ex: 我的同学明天上午（ ）学校。 | wǒ de tóng xué míng tiān shàng wǔ （   ） xué xiào 。 | il mio / la mia il compagno di classe si trova a/in scuola domani mattina.
+ex: 我的同学明天下午去学校，下午回家。 | wǒ de tóng xué míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia il compagno di classe va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的同学明天不喝茶，喝水。 | wǒ de tóng xué míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il compagno di classe domani non beve tè, beve acqua.
+ex: 我的同学明天什么时候回家？ | wǒ de tóng xué míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的同学明天做什么？ | wǒ de tóng xué míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的同学明天几点上课？ | wǒ de tóng xué míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的同学明天去医院，今天去商店。 | wǒ de tóng xué míng tiān qù yī yuàn ， jīn tiān qù shāng diàn 。 | il mio / la mia il compagno di classe va a/in ospedale domani, a/in negozio l’altro giorno.
+ex: 我的同学明天去哪儿？ | wǒ de tóng xué míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的同学明天喝什么？ | wǒ de tóng xué míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的同学明天在哪儿？ | wǒ de tóng xué míng tiān zài nǎ r ？ | Dove si trova il mio / la mia il compagno di classe?
+ex: 我的同学明天看书，爸爸明天看电视。 | wǒ de tóng xué míng tiān kàn shū ， bà ba míng tiān kàn diàn shì 。 | il mio / la mia il compagno di classe legge e il papà guarda la televisione nel giorno indicato.
+ex: 我的同学有一只猫。 | wǒ de tóng xué yǒu yì zhī māo 。 | il mio / la mia il compagno di classe ha uno gatti.
+ex: 我的同学有三个手机。 | wǒ de tóng xué yǒu sān gè shǒu jī 。 | il mio / la mia il compagno di classe ha tre cellulari.
+ex: 我的同学有两件衣服。 | wǒ de tóng xué yǒu liǎng jiàn yī fu 。 | il mio / la mia il compagno di classe ha due vestiti.
+ex: 我的同学有五个苹果，爸爸有两个苹果。 | wǒ de tóng xué yǒu wǔ gè píng guǒ ， bà ba yǒu liǎng gè píng guǒ 。 | il mio / la mia il compagno di classe ha cinque mele, il papà ne ha due.
+ex: 我的同学有五只狗。 | wǒ de tóng xué yǒu wǔ zhī gǒu 。 | il mio / la mia il compagno di classe ha cinque cani.
+ex: 我的同学有几个苹果？ | wǒ de tóng xué yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的同学有四个椅子。 | wǒ de tóng xué yǒu sì gè yǐ zi 。 | Esempio: il mio / la mia il compagno di classe ha 4 sedie.
+ex: 我的同学有四个电脑。 | wǒ de tóng xué yǒu sì gè diàn nǎo 。 | il mio / la mia il compagno di classe ha quattro computer.
+ex: 我的同学有四个苹果，爸爸有一个苹果。 | wǒ de tóng xué yǒu sì gè píng guǒ ， bà ba yǒu yí gè píng guǒ 。 | il mio / la mia il compagno di classe ha quattro mele, il papà ne ha uno.
+ex: 我的同学有手机吗？ | wǒ de tóng xué yǒu shǒu jī ma ？ | il mio / la mia il compagno di classe ha cellulari?
+ex: 我的同学有狗吗？ | wǒ de tóng xué yǒu gǒu ma ？ | il mio / la mia il compagno di classe ha cani?
+ex: 我的同学有猫吗？ | wǒ de tóng xué yǒu māo ma ？ | il mio / la mia il compagno di classe ha gatti?
+ex: 我的同学有电脑吗？ | wǒ de tóng xué yǒu diàn nǎo ma ？ | il mio / la mia il compagno di classe ha computer?
+ex: 我的同学有衣服吗？ | wǒ de tóng xué yǒu yī fu ma ？ | il mio / la mia il compagno di classe ha vestiti?
+ex: 我的同学的书多少钱？ | wǒ de tóng xué de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的同学的手机多少钱？ | wǒ de tóng xué de shǒu jī duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia il compagno di classe?
+ex: 我的同学的衣服（ ）大。 | wǒ de tóng xué de yī fu （   ） dà 。 | L’oggetto di il mio / la mia il compagno di classe è grande.
+ex: 我的同学问：这个衣服是谁的？ | wǒ de tóng xué wèn ： zhè ge yī fu shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的同学（ ）四个杯子。 | wǒ de tóng xué （   ） sì gè bēi zi 。 | il mio / la mia il compagno di classe ha quattro bicchieri.
+ex: 我的同学（ ）爸爸都是学生。 | wǒ de tóng xué （   ） bà ba dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 我的哥哥今天上午去学校，晚上回家。 | wǒ de gē ge jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia il fratello maggiore va a scuola la mattina, torna a casa la sera.
+ex: 我的哥哥今天不喝茶，喝水。 | wǒ de gē ge jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il fratello maggiore oggi non beve tè, beve acqua.
+ex: 我的哥哥今天什么时候回家？ | wǒ de gē ge jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的哥哥今天做什么？ | wǒ de gē ge jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的哥哥今天去哪儿？ | wǒ de gē ge jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的哥哥今天去学校，明天去公司。 | wǒ de gē ge jīn tiān qù xué xiào ， míng tiān qù gōng sī 。 | il mio / la mia il fratello maggiore va a/in scuola oggi, a/in azienda l’altro giorno.
+ex: 我的哥哥今天喝什么？ | wǒ de gē ge jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的哥哥今天晚上买一只猫。 | wǒ de gē ge jīn tiān wǎn shang mǎi yì zhī māo 。 | il mio / la mia il fratello maggiore compra 1 gatti questa sera.
+ex: 我的哥哥今天晚上买三个椅子。 | wǒ de gē ge jīn tiān wǎn shang mǎi sān gè yǐ zi 。 | il mio / la mia il fratello maggiore compra 3 sedie questa sera.
+ex: 我的哥哥今天晚上买三本书。 | wǒ de gē ge jīn tiān wǎn shang mǎi sān běn shū 。 | il mio / la mia il fratello maggiore compra 3 libri questa sera.
+ex: 我的哥哥今天晚上买两件衣服。 | wǒ de gē ge jīn tiān wǎn shang mǎi liǎng jiàn yī fu 。 | il mio / la mia il fratello maggiore compra 2 vestiti questa sera.
+ex: 我的哥哥今天晚上买五只狗。 | wǒ de gē ge jīn tiān wǎn shang mǎi wǔ zhī gǒu 。 | il mio / la mia il fratello maggiore compra 5 cani questa sera.
+ex: 我的哥哥今天晚上几点去学校？ | wǒ de gē ge jīn tiān wǎn shang jǐ diǎn qù xué xiào ？ | A che ora va il mio / la mia il fratello maggiore a/in scuola questa sera?
+ex: 我的哥哥今天晚上想（ ）茶。 | wǒ de gē ge jīn tiān wǎn shang xiǎng （   ） chá 。 | il mio / la mia il fratello maggiore vuole bere tè questa sera.
+ex: 我的哥哥今天晚上（ ）学校。 | wǒ de gē ge jīn tiān wǎn shang （   ） xué xiào 。 | il mio / la mia il fratello maggiore si trova a/in scuola questa sera.
+ex: 我的哥哥今天看书，妹妹今天看电视。 | wǒ de gē ge jīn tiān kàn shū ， mèi mei jīn tiān kàn diàn shì 。 | il mio / la mia il fratello maggiore legge e la sorella minore guarda la televisione nel giorno indicato.
+ex: 我的哥哥今年几岁？ | wǒ de gē ge jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia il fratello maggiore?
+ex: 我的哥哥在哪儿工作？ | wǒ de gē ge zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia il fratello maggiore?
+ex: 我的哥哥家有几口人？ | wǒ de gē ge jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia il fratello maggiore?
+ex: 我的哥哥明天下午去学校，下午回家。 | wǒ de gē ge míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia il fratello maggiore va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的哥哥明天不喝茶，喝水。 | wǒ de gē ge míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il fratello maggiore domani non beve tè, beve acqua.
+ex: 我的哥哥明天什么时候回家？ | wǒ de gē ge míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的哥哥明天做什么？ | wǒ de gē ge míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的哥哥明天几点上课？ | wǒ de gē ge míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的哥哥明天去医院，今天去商店。 | wǒ de gē ge míng tiān qù yī yuàn ， jīn tiān qù shāng diàn 。 | il mio / la mia il fratello maggiore va a/in ospedale domani, a/in negozio l’altro giorno.
+ex: 我的哥哥明天去哪儿？ | wǒ de gē ge míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的哥哥明天喝什么？ | wǒ de gē ge míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的哥哥明天在哪儿？ | wǒ de gē ge míng tiān zài nǎ r ？ | Dove si trova il mio / la mia il fratello maggiore?
+ex: 我的哥哥明天看书，妹妹明天看电视。 | wǒ de gē ge míng tiān kàn shū ， mèi mei míng tiān kàn diàn shì 。 | il mio / la mia il fratello maggiore legge e la sorella minore guarda la televisione nel giorno indicato.
+ex: 我的哥哥有一本书。 | wǒ de gē ge yǒu yì běn shū 。 | il mio / la mia il fratello maggiore ha uno libri.
+ex: 我的哥哥有三个杯子。 | wǒ de gē ge yǒu sān gè bēi zi 。 | Esempio: il mio / la mia il fratello maggiore ha 3 bicchieri.
+ex: 我的哥哥有三个苹果，妹妹有五个苹果。 | wǒ de gē ge yǒu sān gè píng guǒ ， mèi mei yǒu wǔ gè píng guǒ 。 | il mio / la mia il fratello maggiore ha tre mele, la sorella minore ne ha cinque.
+ex: 我的哥哥有三只猫。 | wǒ de gē ge yǒu sān zhī māo 。 | il mio / la mia il fratello maggiore ha tre gatti.
+ex: 我的哥哥有两只狗。 | wǒ de gē ge yǒu liǎng zhī gǒu 。 | il mio / la mia il fratello maggiore ha due cani.
+ex: 我的哥哥有书吗？ | wǒ de gē ge yǒu shū ma ？ | il mio / la mia il fratello maggiore ha libri?
+ex: 我的哥哥有五个椅子。 | wǒ de gē ge yǒu wǔ gè yǐ zi 。 | il mio / la mia il fratello maggiore ha cinque sedie.
+ex: 我的哥哥有几个苹果？ | wǒ de gē ge yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的哥哥有四个苹果，妹妹有一个苹果。 | wǒ de gē ge yǒu sì gè píng guǒ ， mèi mei yǒu yí gè píng guǒ 。 | il mio / la mia il fratello maggiore ha quattro mele, la sorella minore ne ha uno.
+ex: 我的哥哥有四件衣服。 | wǒ de gē ge yǒu sì jiàn yī fu 。 | il mio / la mia il fratello maggiore ha quattro vestiti.
+ex: 我的哥哥有椅子吗？ | wǒ de gē ge yǒu yǐ zi ma ？ | il mio / la mia il fratello maggiore ha sedie?
+ex: 我的哥哥有狗吗？ | wǒ de gē ge yǒu gǒu ma ？ | il mio / la mia il fratello maggiore ha cani?
+ex: 我的哥哥有猫吗？ | wǒ de gē ge yǒu māo ma ？ | il mio / la mia il fratello maggiore ha gatti?
+ex: 我的哥哥有衣服吗？ | wǒ de gē ge yǒu yī fu ma ？ | il mio / la mia il fratello maggiore ha vestiti?
+ex: 我的哥哥的书多少钱？ | wǒ de gē ge de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的哥哥的书（ ）大。 | wǒ de gē ge de shū （   ） dà 。 | L’oggetto di il mio / la mia il fratello maggiore è grande.
+ex: 我的哥哥的狗多少钱？ | wǒ de gē ge de gǒu duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia il fratello maggiore?
+ex: 我的哥哥问：这个书是谁的？ | wǒ de gē ge wèn ： zhè ge shū shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的哥哥（ ）三个杯子。 | wǒ de gē ge （   ） sān gè bēi zi 。 | il mio / la mia il fratello maggiore ha tre bicchieri.
+ex: 我的哥哥（ ）妹妹都是学生。 | wǒ de gē ge （   ） mèi mei dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 我的妈妈今天上午买一件衣服。 | wǒ de mā ma jīn tiān shàng wǔ mǎi yí jiàn yī fu 。 | il mio / la mia la mamma compra 1 vestiti questa mattina.
+ex: 我的妈妈今天上午买一只猫。 | wǒ de mā ma jīn tiān shàng wǔ mǎi yì zhī māo 。 | il mio / la mia la mamma compra 1 gatti questa mattina.
+ex: 我的妈妈今天上午买三个手机。 | wǒ de mā ma jīn tiān shàng wǔ mǎi sān gè shǒu jī 。 | il mio / la mia la mamma compra 3 cellulari questa mattina.
+ex: 我的妈妈今天上午买五只狗。 | wǒ de mā ma jīn tiān shàng wǔ mǎi wǔ zhī gǒu 。 | il mio / la mia la mamma compra 5 cani questa mattina.
+ex: 我的妈妈今天上午买四个电脑。 | wǒ de mā ma jīn tiān shàng wǔ mǎi sì gè diàn nǎo 。 | il mio / la mia la mamma compra 4 computer questa mattina.
+ex: 我的妈妈今天上午几点去饭店？ | wǒ de mā ma jīn tiān shàng wǔ jǐ diǎn qù fàn diàn ？ | A che ora va il mio / la mia la mamma a/in ristorante questa mattina?
+ex: 我的妈妈今天上午去学校，晚上回家。 | wǒ de mā ma jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia la mamma va a scuola la mattina, torna a casa la sera.
+ex: 我的妈妈今天上午想（ ）茶。 | wǒ de mā ma jīn tiān shàng wǔ xiǎng （   ） chá 。 | il mio / la mia la mamma vuole bere tè questa mattina.
+ex: 我的妈妈今天上午（ ）饭店。 | wǒ de mā ma jīn tiān shàng wǔ （   ） fàn diàn 。 | il mio / la mia la mamma si trova a/in ristorante questa mattina.
+ex: 我的妈妈今天不喝茶，喝水。 | wǒ de mā ma jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia la mamma oggi non beve tè, beve acqua.
+ex: 我的妈妈今天什么时候回家？ | wǒ de mā ma jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的妈妈今天做什么？ | wǒ de mā ma jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的妈妈今天去哪儿？ | wǒ de mā ma jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的妈妈今天去饭店，明天去学校。 | wǒ de mā ma jīn tiān qù fàn diàn ， míng tiān qù xué xiào 。 | il mio / la mia la mamma va a/in ristorante oggi, a/in scuola l’altro giorno.
+ex: 我的妈妈今天喝什么？ | wǒ de mā ma jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的妈妈今天看书，姐姐今天看电视。 | wǒ de mā ma jīn tiān kàn shū ， jiě jie jīn tiān kàn diàn shì 。 | il mio / la mia la mamma legge e la sorella maggiore guarda la televisione nel giorno indicato.
+ex: 我的妈妈今年几岁？ | wǒ de mā ma jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia la mamma?
+ex: 我的妈妈在哪儿工作？ | wǒ de mā ma zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia la mamma?
+ex: 我的妈妈家有几口人？ | wǒ de mā ma jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia la mamma?
+ex: 我的妈妈明天下午去学校，下午回家。 | wǒ de mā ma míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia la mamma va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的妈妈明天不喝茶，喝水。 | wǒ de mā ma míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia la mamma domani non beve tè, beve acqua.
+ex: 我的妈妈明天什么时候回家？ | wǒ de mā ma míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的妈妈明天做什么？ | wǒ de mā ma míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的妈妈明天几点上课？ | wǒ de mā ma míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的妈妈明天去哪儿？ | wǒ de mā ma míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的妈妈明天去家，今天去医院。 | wǒ de mā ma míng tiān qù jiā ， jīn tiān qù yī yuàn 。 | il mio / la mia la mamma va a/in casa domani, a/in ospedale l’altro giorno.
+ex: 我的妈妈明天喝什么？ | wǒ de mā ma míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的妈妈明天在哪儿？ | wǒ de mā ma míng tiān zài nǎ r ？ | Dove si trova il mio / la mia la mamma?
+ex: 我的妈妈明天看书，姐姐明天看电视。 | wǒ de mā ma míng tiān kàn shū ， jiě jie míng tiān kàn diàn shì 。 | il mio / la mia la mamma legge e la sorella maggiore guarda la televisione nel giorno indicato.
+ex: 我的妈妈有一个椅子。 | wǒ de mā ma yǒu yí gè yǐ zi 。 | Esempio: il mio / la mia la mamma ha 1 sedie.
+ex: 我的妈妈有一个苹果，姐姐有三个苹果。 | wǒ de mā ma yǒu yí gè píng guǒ ， jiě jie yǒu sān gè píng guǒ 。 | il mio / la mia la mamma ha uno mele, la sorella maggiore ne ha tre.
+ex: 我的妈妈有一件衣服。 | wǒ de mā ma yǒu yí jiàn yī fu 。 | il mio / la mia la mamma ha uno vestiti.
+ex: 我的妈妈有三个电脑。 | wǒ de mā ma yǒu sān gè diàn nǎo 。 | il mio / la mia la mamma ha tre computer.
+ex: 我的妈妈有两个手机。 | wǒ de mā ma yǒu liǎng gè shǒu jī 。 | il mio / la mia la mamma ha due cellulari.
+ex: 我的妈妈有两个苹果，姐姐有四个苹果。 | wǒ de mā ma yǒu liǎng gè píng guǒ ， jiě jie yǒu sì gè píng guǒ 。 | il mio / la mia la mamma ha due mele, la sorella maggiore ne ha quattro.
+ex: 我的妈妈有五只猫。 | wǒ de mā ma yǒu wǔ zhī māo 。 | il mio / la mia la mamma ha cinque gatti.
+ex: 我的妈妈有几个苹果？ | wǒ de mā ma yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的妈妈有四只狗。 | wǒ de mā ma yǒu sì zhī gǒu 。 | il mio / la mia la mamma ha quattro cani.
+ex: 我的妈妈有手机吗？ | wǒ de mā ma yǒu shǒu jī ma ？ | il mio / la mia la mamma ha cellulari?
+ex: 我的妈妈有狗吗？ | wǒ de mā ma yǒu gǒu ma ？ | il mio / la mia la mamma ha cani?
+ex: 我的妈妈有猫吗？ | wǒ de mā ma yǒu māo ma ？ | il mio / la mia la mamma ha gatti?
+ex: 我的妈妈有电脑吗？ | wǒ de mā ma yǒu diàn nǎo ma ？ | il mio / la mia la mamma ha computer?
+ex: 我的妈妈有衣服吗？ | wǒ de mā ma yǒu yī fu ma ？ | il mio / la mia la mamma ha vestiti?
+ex: 我的妈妈的书多少钱？ | wǒ de mā ma de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的妈妈的手机多少钱？ | wǒ de mā ma de shǒu jī duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia la mamma?
+ex: 我的妈妈的衣服（ ）大。 | wǒ de mā ma de yī fu （   ） dà 。 | L’oggetto di il mio / la mia la mamma è grande.
+ex: 我的妈妈问：这个衣服是谁的？ | wǒ de mā ma wèn ： zhè ge yī fu shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的妈妈（ ）一个杯子。 | wǒ de mā ma （   ） yí gè bēi zi 。 | il mio / la mia la mamma ha uno bicchieri.
+ex: 我的妈妈（ ）姐姐都是学生。 | wǒ de mā ma （   ） jiě jie dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 我的妹妹今天上午买一个手机。 | wǒ de mèi mei jīn tiān shàng wǔ mǎi yí gè shǒu jī 。 | il mio / la mia la sorella minore compra 1 cellulari questa mattina.
+ex: 我的妹妹今天上午买一个电脑。 | wǒ de mèi mei jīn tiān shàng wǔ mǎi yí gè diàn nǎo 。 | il mio / la mia la sorella minore compra 1 computer questa mattina.
+ex: 我的妹妹今天上午买三个椅子。 | wǒ de mèi mei jīn tiān shàng wǔ mǎi sān gè yǐ zi 。 | il mio / la mia la sorella minore compra 3 sedie questa mattina.
+ex: 我的妹妹今天上午买五个杯子。 | wǒ de mèi mei jīn tiān shàng wǔ mǎi wǔ gè bēi zi 。 | il mio / la mia la sorella minore compra 5 bicchieri questa mattina.
+ex: 我的妹妹今天上午买四本书。 | wǒ de mèi mei jīn tiān shàng wǔ mǎi sì běn shū 。 | il mio / la mia la sorella minore compra 4 libri questa mattina.
+ex: 我的妹妹今天上午几点去商店？ | wǒ de mèi mei jīn tiān shàng wǔ jǐ diǎn qù shāng diàn ？ | A che ora va il mio / la mia la sorella minore a/in negozio questa mattina?
+ex: 我的妹妹今天上午去学校，晚上回家。 | wǒ de mèi mei jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia la sorella minore va a scuola la mattina, torna a casa la sera.
+ex: 我的妹妹今天上午想（ ）茶。 | wǒ de mèi mei jīn tiān shàng wǔ xiǎng （   ） chá 。 | il mio / la mia la sorella minore vuole bere tè questa mattina.
+ex: 我的妹妹今天上午（ ）商店。 | wǒ de mèi mei jīn tiān shàng wǔ （   ） shāng diàn 。 | il mio / la mia la sorella minore si trova a/in negozio questa mattina.
+ex: 我的妹妹今天不喝茶，喝水。 | wǒ de mèi mei jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia la sorella minore oggi non beve tè, beve acqua.
+ex: 我的妹妹今天什么时候回家？ | wǒ de mèi mei jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的妹妹今天做什么？ | wǒ de mèi mei jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的妹妹今天去哪儿？ | wǒ de mèi mei jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的妹妹今天去商店，明天去家。 | wǒ de mèi mei jīn tiān qù shāng diàn ， míng tiān qù jiā 。 | il mio / la mia la sorella minore va a/in negozio oggi, a/in casa l’altro giorno.
+ex: 我的妹妹今天喝什么？ | wǒ de mèi mei jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的妹妹今天看书，同学今天看电视。 | wǒ de mèi mei jīn tiān kàn shū ， tóng xué jīn tiān kàn diàn shì 。 | il mio / la mia la sorella minore legge e il compagno di classe guarda la televisione nel giorno indicato.
+ex: 我的妹妹今年几岁？ | wǒ de mèi mei jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia la sorella minore?
+ex: 我的妹妹在哪儿工作？ | wǒ de mèi mei zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia la sorella minore?
+ex: 我的妹妹家有几口人？ | wǒ de mèi mei jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia la sorella minore?
+ex: 我的妹妹明天下午去学校，下午回家。 | wǒ de mèi mei míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia la sorella minore va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的妹妹明天不喝茶，喝水。 | wǒ de mèi mei míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia la sorella minore domani non beve tè, beve acqua.
+ex: 我的妹妹明天什么时候回家？ | wǒ de mèi mei míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的妹妹明天做什么？ | wǒ de mèi mei míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的妹妹明天几点上课？ | wǒ de mèi mei míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的妹妹明天去哪儿？ | wǒ de mèi mei míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的妹妹明天去饭店，今天去学校。 | wǒ de mèi mei míng tiān qù fàn diàn ， jīn tiān qù xué xiào 。 | il mio / la mia la sorella minore va a/in ristorante domani, a/in scuola l’altro giorno.
+ex: 我的妹妹明天喝什么？ | wǒ de mèi mei míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的妹妹明天在哪儿？ | wǒ de mèi mei míng tiān zài nǎ r ？ | Dove si trova il mio / la mia la sorella minore?
+ex: 我的妹妹明天看书，同学明天看电视。 | wǒ de mèi mei míng tiān kàn shū ， tóng xué míng tiān kàn diàn shì 。 | il mio / la mia la sorella minore legge e il compagno di classe guarda la televisione nel giorno indicato.
+ex: 我的妹妹有一个电脑。 | wǒ de mèi mei yǒu yí gè diàn nǎo 。 | il mio / la mia la sorella minore ha uno computer.
+ex: 我的妹妹有一个苹果，同学有三个苹果。 | wǒ de mèi mei yǒu yí gè píng guǒ ， tóng xué yǒu sān gè píng guǒ 。 | il mio / la mia la sorella minore ha uno mele, il compagno di classe ne ha tre.
+ex: 我的妹妹有一只狗。 | wǒ de mèi mei yǒu yì zhī gǒu 。 | Esempio: il mio / la mia la sorella minore ha 1 cani.
+ex: 我的妹妹有三本书。 | wǒ de mèi mei yǒu sān běn shū 。 | il mio / la mia la sorella minore ha tre libri.
+ex: 我的妹妹有两个椅子。 | wǒ de mèi mei yǒu liǎng gè yǐ zi 。 | il mio / la mia la sorella minore ha due sedie.
+ex: 我的妹妹有两个苹果，同学有四个苹果。 | wǒ de mèi mei yǒu liǎng gè píng guǒ ， tóng xué yǒu sì gè píng guǒ 。 | il mio / la mia la sorella minore ha due mele, il compagno di classe ne ha quattro.
+ex: 我的妹妹有书吗？ | wǒ de mèi mei yǒu shū ma ？ | il mio / la mia la sorella minore ha libri?
+ex: 我的妹妹有五个手机。 | wǒ de mèi mei yǒu wǔ gè shǒu jī 。 | il mio / la mia la sorella minore ha cinque cellulari.
+ex: 我的妹妹有几个苹果？ | wǒ de mèi mei yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的妹妹有四个杯子。 | wǒ de mèi mei yǒu sì gè bēi zi 。 | il mio / la mia la sorella minore ha quattro bicchieri.
+ex: 我的妹妹有手机吗？ | wǒ de mèi mei yǒu shǒu jī ma ？ | il mio / la mia la sorella minore ha cellulari?
+ex: 我的妹妹有杯子吗？ | wǒ de mèi mei yǒu bēi zi ma ？ | il mio / la mia la sorella minore ha bicchieri?
+ex: 我的妹妹有椅子吗？ | wǒ de mèi mei yǒu yǐ zi ma ？ | il mio / la mia la sorella minore ha sedie?
+ex: 我的妹妹有电脑吗？ | wǒ de mèi mei yǒu diàn nǎo ma ？ | il mio / la mia la sorella minore ha computer?
+ex: 我的妹妹的书多少钱？ | wǒ de mèi mei de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的妹妹的椅子多少钱？ | wǒ de mèi mei de yǐ zi duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia la sorella minore?
+ex: 我的妹妹的电脑（ ）大。 | wǒ de mèi mei de diàn nǎo （   ） dà 。 | L’oggetto di il mio / la mia la sorella minore è grande.
+ex: 我的妹妹问：这个电脑是谁的？ | wǒ de mèi mei wèn ： zhè ge diàn nǎo shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的妹妹（ ）一个杯子。 | wǒ de mèi mei （   ） yí gè bēi zi 。 | il mio / la mia la sorella minore ha uno bicchieri.
+ex: 我的妹妹（ ）同学都是学生。 | wǒ de mèi mei （   ） tóng xué dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 我的姐姐今天上午去学校，晚上回家。 | wǒ de jiě jie jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia la sorella maggiore va a scuola la mattina, torna a casa la sera.
+ex: 我的姐姐今天不喝茶，喝水。 | wǒ de jiě jie jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia la sorella maggiore oggi non beve tè, beve acqua.
+ex: 我的姐姐今天什么时候回家？ | wǒ de jiě jie jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的姐姐今天做什么？ | wǒ de jiě jie jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的姐姐今天去医院，明天去商店。 | wǒ de jiě jie jīn tiān qù yī yuàn ， míng tiān qù shāng diàn 。 | il mio / la mia la sorella maggiore va a/in ospedale oggi, a/in negozio l’altro giorno.
+ex: 我的姐姐今天去哪儿？ | wǒ de jiě jie jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的姐姐今天喝什么？ | wǒ de jiě jie jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的姐姐今天看书，老师今天看电视。 | wǒ de jiě jie jīn tiān kàn shū ， lǎo shī jīn tiān kàn diàn shì 。 | il mio / la mia la sorella maggiore legge e l’insegnante guarda la televisione nel giorno indicato.
+ex: 我的姐姐今年几岁？ | wǒ de jiě jie jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia la sorella maggiore?
+ex: 我的姐姐在哪儿工作？ | wǒ de jiě jie zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia la sorella maggiore?
+ex: 我的姐姐家有几口人？ | wǒ de jiě jie jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia la sorella maggiore?
+ex: 我的姐姐明天上午买一只猫。 | wǒ de jiě jie míng tiān shàng wǔ mǎi yì zhī māo 。 | il mio / la mia la sorella maggiore compra 1 gatti domani mattina.
+ex: 我的姐姐明天上午买三个椅子。 | wǒ de jiě jie míng tiān shàng wǔ mǎi sān gè yǐ zi 。 | il mio / la mia la sorella maggiore compra 3 sedie domani mattina.
+ex: 我的姐姐明天上午买两件衣服。 | wǒ de jiě jie míng tiān shàng wǔ mǎi liǎng jiàn yī fu 。 | il mio / la mia la sorella maggiore compra 2 vestiti domani mattina.
+ex: 我的姐姐明天上午买四个杯子。 | wǒ de jiě jie míng tiān shàng wǔ mǎi sì gè bēi zi 。 | il mio / la mia la sorella maggiore compra 4 bicchieri domani mattina.
+ex: 我的姐姐明天上午买四本书。 | wǒ de jiě jie míng tiān shàng wǔ mǎi sì běn shū 。 | il mio / la mia la sorella maggiore compra 4 libri domani mattina.
+ex: 我的姐姐明天上午几点去医院？ | wǒ de jiě jie míng tiān shàng wǔ jǐ diǎn qù yī yuàn ？ | A che ora va il mio / la mia la sorella maggiore a/in ospedale domani mattina?
+ex: 我的姐姐明天上午想（ ）茶。 | wǒ de jiě jie míng tiān shàng wǔ xiǎng （   ） chá 。 | il mio / la mia la sorella maggiore vuole bere tè domani mattina.
+ex: 我的姐姐明天上午（ ）医院。 | wǒ de jiě jie míng tiān shàng wǔ （   ） yī yuàn 。 | il mio / la mia la sorella maggiore si trova a/in ospedale domani mattina.
+ex: 我的姐姐明天下午去学校，下午回家。 | wǒ de jiě jie míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia la sorella maggiore va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的姐姐明天不喝茶，喝水。 | wǒ de jiě jie míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia la sorella maggiore domani non beve tè, beve acqua.
+ex: 我的姐姐明天什么时候回家？ | wǒ de jiě jie míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的姐姐明天做什么？ | wǒ de jiě jie míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的姐姐明天几点上课？ | wǒ de jiě jie míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的姐姐明天去公司，今天去饭店。 | wǒ de jiě jie míng tiān qù gōng sī ， jīn tiān qù fàn diàn 。 | il mio / la mia la sorella maggiore va a/in azienda domani, a/in ristorante l’altro giorno.
+ex: 我的姐姐明天去哪儿？ | wǒ de jiě jie míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的姐姐明天喝什么？ | wǒ de jiě jie míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的姐姐明天在哪儿？ | wǒ de jiě jie míng tiān zài nǎ r ？ | Dove si trova il mio / la mia la sorella maggiore?
+ex: 我的姐姐明天看书，老师明天看电视。 | wǒ de jiě jie míng tiān kàn shū ， lǎo shī míng tiān kàn diàn shì 。 | il mio / la mia la sorella maggiore legge e l’insegnante guarda la televisione nel giorno indicato.
+ex: 我的姐姐有一个杯子。 | wǒ de jiě jie yǒu yí gè bēi zi 。 | il mio / la mia la sorella maggiore ha uno bicchieri.
+ex: 我的姐姐有三件衣服。 | wǒ de jiě jie yǒu sān jiàn yī fu 。 | il mio / la mia la sorella maggiore ha tre vestiti.
+ex: 我的姐姐有两只猫。 | wǒ de jiě jie yǒu liǎng zhī māo 。 | il mio / la mia la sorella maggiore ha due gatti.
+ex: 我的姐姐有书吗？ | wǒ de jiě jie yǒu shū ma ？ | il mio / la mia la sorella maggiore ha libri?
+ex: 我的姐姐有五个苹果，老师有两个苹果。 | wǒ de jiě jie yǒu wǔ gè píng guǒ ， lǎo shī yǒu liǎng gè píng guǒ 。 | il mio / la mia la sorella maggiore ha cinque mele, l’insegnante ne ha due.
+ex: 我的姐姐有五本书。 | wǒ de jiě jie yǒu wǔ běn shū 。 | il mio / la mia la sorella maggiore ha cinque libri.
+ex: 我的姐姐有几个苹果？ | wǒ de jiě jie yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的姐姐有四个手机。 | wǒ de jiě jie yǒu sì gè shǒu jī 。 | Esempio: il mio / la mia la sorella maggiore ha 4 cellulari.
+ex: 我的姐姐有四个椅子。 | wǒ de jiě jie yǒu sì gè yǐ zi 。 | il mio / la mia la sorella maggiore ha quattro sedie.
+ex: 我的姐姐有四个苹果，老师有一个苹果。 | wǒ de jiě jie yǒu sì gè píng guǒ ， lǎo shī yǒu yí gè píng guǒ 。 | il mio / la mia la sorella maggiore ha quattro mele, l’insegnante ne ha uno.
+ex: 我的姐姐有杯子吗？ | wǒ de jiě jie yǒu bēi zi ma ？ | il mio / la mia la sorella maggiore ha bicchieri?
+ex: 我的姐姐有椅子吗？ | wǒ de jiě jie yǒu yǐ zi ma ？ | il mio / la mia la sorella maggiore ha sedie?
+ex: 我的姐姐有猫吗？ | wǒ de jiě jie yǒu māo ma ？ | il mio / la mia la sorella maggiore ha gatti?
+ex: 我的姐姐有衣服吗？ | wǒ de jiě jie yǒu yī fu ma ？ | il mio / la mia la sorella maggiore ha vestiti?
+ex: 我的姐姐的书多少钱？ | wǒ de jiě jie de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的姐姐的杯子（ ）大。 | wǒ de jiě jie de bēi zi （   ） dà 。 | L’oggetto di il mio / la mia la sorella maggiore è grande.
+ex: 我的姐姐的猫多少钱？ | wǒ de jiě jie de māo duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia la sorella maggiore?
+ex: 我的姐姐问：这个杯子是谁的？ | wǒ de jiě jie wèn ： zhè ge bēi zi shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的姐姐（ ）四个杯子。 | wǒ de jiě jie （   ） sì gè bēi zi 。 | il mio / la mia la sorella maggiore ha quattro bicchieri.
+ex: 我的姐姐（ ）老师都是学生。 | wǒ de jiě jie （   ） lǎo shī dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 我的弟弟今天上午去学校，晚上回家。 | wǒ de dì di jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia il fratello minore va a scuola la mattina, torna a casa la sera.
+ex: 我的弟弟今天不喝茶，喝水。 | wǒ de dì di jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il fratello minore oggi non beve tè, beve acqua.
+ex: 我的弟弟今天什么时候回家？ | wǒ de dì di jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的弟弟今天做什么？ | wǒ de dì di jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的弟弟今天去公司，明天去饭店。 | wǒ de dì di jīn tiān qù gōng sī ， míng tiān qù fàn diàn 。 | il mio / la mia il fratello minore va a/in azienda oggi, a/in ristorante l’altro giorno.
+ex: 我的弟弟今天去哪儿？ | wǒ de dì di jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的弟弟今天喝什么？ | wǒ de dì di jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的弟弟今天看书，朋友今天看电视。 | wǒ de dì di jīn tiān kàn shū ， péng you jīn tiān kàn diàn shì 。 | il mio / la mia il fratello minore legge e l’amico guarda la televisione nel giorno indicato.
+ex: 我的弟弟今年几岁？ | wǒ de dì di jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia il fratello minore?
+ex: 我的弟弟在哪儿工作？ | wǒ de dì di zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia il fratello minore?
+ex: 我的弟弟家有几口人？ | wǒ de dì di jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia il fratello minore?
+ex: 我的弟弟明天下午买三个椅子。 | wǒ de dì di míng tiān xià wǔ mǎi sān gè yǐ zi 。 | il mio / la mia il fratello minore compra 3 sedie domani pomeriggio.
+ex: 我的弟弟明天下午买两件衣服。 | wǒ de dì di míng tiān xià wǔ mǎi liǎng jiàn yī fu 。 | il mio / la mia il fratello minore compra 2 vestiti domani pomeriggio.
+ex: 我的弟弟明天下午买五个手机。 | wǒ de dì di míng tiān xià wǔ mǎi wǔ gè shǒu jī 。 | il mio / la mia il fratello minore compra 5 cellulari domani pomeriggio.
+ex: 我的弟弟明天下午买五个杯子。 | wǒ de dì di míng tiān xià wǔ mǎi wǔ gè bēi zi 。 | il mio / la mia il fratello minore compra 5 bicchieri domani pomeriggio.
+ex: 我的弟弟明天下午买四本书。 | wǒ de dì di míng tiān xià wǔ mǎi sì běn shū 。 | il mio / la mia il fratello minore compra 4 libri domani pomeriggio.
+ex: 我的弟弟明天下午几点去公司？ | wǒ de dì di míng tiān xià wǔ jǐ diǎn qù gōng sī ？ | A che ora va il mio / la mia il fratello minore a/in azienda domani pomeriggio?
+ex: 我的弟弟明天下午去学校，下午回家。 | wǒ de dì di míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia il fratello minore va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的弟弟明天下午想（ ）茶。 | wǒ de dì di míng tiān xià wǔ xiǎng （   ） chá 。 | il mio / la mia il fratello minore vuole bere tè domani pomeriggio.
+ex: 我的弟弟明天下午（ ）公司。 | wǒ de dì di míng tiān xià wǔ （   ） gōng sī 。 | il mio / la mia il fratello minore si trova a/in azienda domani pomeriggio.
+ex: 我的弟弟明天不喝茶，喝水。 | wǒ de dì di míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il fratello minore domani non beve tè, beve acqua.
+ex: 我的弟弟明天什么时候回家？ | wǒ de dì di míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的弟弟明天做什么？ | wǒ de dì di míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的弟弟明天几点上课？ | wǒ de dì di míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的弟弟明天去哪儿？ | wǒ de dì di míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的弟弟明天去商店，今天去家。 | wǒ de dì di míng tiān qù shāng diàn ， jīn tiān qù jiā 。 | il mio / la mia il fratello minore va a/in negozio domani, a/in casa l’altro giorno.
+ex: 我的弟弟明天喝什么？ | wǒ de dì di míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的弟弟明天在哪儿？ | wǒ de dì di míng tiān zài nǎ r ？ | Dove si trova il mio / la mia il fratello minore?
+ex: 我的弟弟明天看书，朋友明天看电视。 | wǒ de dì di míng tiān kàn shū ， péng you míng tiān kàn diàn shì 。 | il mio / la mia il fratello minore legge e l’amico guarda la televisione nel giorno indicato.
+ex: 我的弟弟有一个手机。 | wǒ de dì di yǒu yí gè shǒu jī 。 | il mio / la mia il fratello minore ha uno cellulari.
+ex: 我的弟弟有一个苹果，朋友有三个苹果。 | wǒ de dì di yǒu yí gè píng guǒ ， péng you yǒu sān gè píng guǒ 。 | il mio / la mia il fratello minore ha uno mele, l’amico ne ha tre.
+ex: 我的弟弟有三个椅子。 | wǒ de dì di yǒu sān gè yǐ zi 。 | il mio / la mia il fratello minore ha tre sedie.
+ex: 我的弟弟有两件衣服。 | wǒ de dì di yǒu liǎng jiàn yī fu 。 | il mio / la mia il fratello minore ha due vestiti.
+ex: 我的弟弟有书吗？ | wǒ de dì di yǒu shū ma ？ | il mio / la mia il fratello minore ha libri?
+ex: 我的弟弟有五个杯子。 | wǒ de dì di yǒu wǔ gè bēi zi 。 | il mio / la mia il fratello minore ha cinque bicchieri.
+ex: 我的弟弟有五个电脑。 | wǒ de dì di yǒu wǔ gè diàn nǎo 。 | Esempio: il mio / la mia il fratello minore ha 5 computer.
+ex: 我的弟弟有五个苹果，朋友有两个苹果。 | wǒ de dì di yǒu wǔ gè píng guǒ ， péng you yǒu liǎng gè píng guǒ 。 | il mio / la mia il fratello minore ha cinque mele, l’amico ne ha due.
+ex: 我的弟弟有几个苹果？ | wǒ de dì di yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的弟弟有四本书。 | wǒ de dì di yǒu sì běn shū 。 | il mio / la mia il fratello minore ha quattro libri.
+ex: 我的弟弟有手机吗？ | wǒ de dì di yǒu shǒu jī ma ？ | il mio / la mia il fratello minore ha cellulari?
+ex: 我的弟弟有杯子吗？ | wǒ de dì di yǒu bēi zi ma ？ | il mio / la mia il fratello minore ha bicchieri?
+ex: 我的弟弟有椅子吗？ | wǒ de dì di yǒu yǐ zi ma ？ | il mio / la mia il fratello minore ha sedie?
+ex: 我的弟弟有衣服吗？ | wǒ de dì di yǒu yī fu ma ？ | il mio / la mia il fratello minore ha vestiti?
+ex: 我的弟弟的书多少钱？ | wǒ de dì di de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的弟弟的手机（ ）大。 | wǒ de dì di de shǒu jī （   ） dà 。 | L’oggetto di il mio / la mia il fratello minore è grande.
+ex: 我的弟弟的衣服多少钱？ | wǒ de dì di de yī fu duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia il fratello minore?
+ex: 我的弟弟问：这个手机是谁的？ | wǒ de dì di wèn ： zhè ge shǒu jī shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的弟弟（ ）五个杯子。 | wǒ de dì di （   ） wǔ gè bēi zi 。 | il mio / la mia il fratello minore ha cinque bicchieri.
+ex: 我的弟弟（ ）朋友都是学生。 | wǒ de dì di （   ） péng you dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 我的朋友今天上午去学校，晚上回家。 | wǒ de péng you jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia l’amico va a scuola la mattina, torna a casa la sera.
+ex: 我的朋友今天不喝茶，喝水。 | wǒ de péng you jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia l’amico oggi non beve tè, beve acqua.
+ex: 我的朋友今天什么时候回家？ | wǒ de péng you jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的朋友今天做什么？ | wǒ de péng you jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的朋友今天去哪儿？ | wǒ de péng you jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的朋友今天去家，明天去医院。 | wǒ de péng you jīn tiān qù jiā ， míng tiān qù yī yuàn 。 | il mio / la mia l’amico va a/in casa oggi, a/in ospedale l’altro giorno.
+ex: 我的朋友今天喝什么？ | wǒ de péng you jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的朋友今天晚上买一个手机。 | wǒ de péng you jīn tiān wǎn shang mǎi yí gè shǒu jī 。 | il mio / la mia l’amico compra 1 cellulari questa sera.
+ex: 我的朋友今天晚上买三只狗。 | wǒ de péng you jīn tiān wǎn shang mǎi sān zhī gǒu 。 | il mio / la mia l’amico compra 3 cani questa sera.
+ex: 我的朋友今天晚上买三只猫。 | wǒ de péng you jīn tiān wǎn shang mǎi sān zhī māo 。 | il mio / la mia l’amico compra 3 gatti questa sera.
+ex: 我的朋友今天晚上买两个电脑。 | wǒ de péng you jīn tiān wǎn shang mǎi liǎng gè diàn nǎo 。 | il mio / la mia l’amico compra 2 computer questa sera.
+ex: 我的朋友今天晚上买五个杯子。 | wǒ de péng you jīn tiān wǎn shang mǎi wǔ gè bēi zi 。 | il mio / la mia l’amico compra 5 bicchieri questa sera.
+ex: 我的朋友今天晚上几点去家？ | wǒ de péng you jīn tiān wǎn shang jǐ diǎn qù jiā ？ | A che ora va il mio / la mia l’amico a/in casa questa sera?
+ex: 我的朋友今天晚上想（ ）茶。 | wǒ de péng you jīn tiān wǎn shang xiǎng （   ） chá 。 | il mio / la mia l’amico vuole bere tè questa sera.
+ex: 我的朋友今天晚上（ ）家。 | wǒ de péng you jīn tiān wǎn shang （   ） jiā 。 | il mio / la mia l’amico si trova a/in casa questa sera.
+ex: 我的朋友今天看书，妈妈今天看电视。 | wǒ de péng you jīn tiān kàn shū ， mā ma jīn tiān kàn diàn shì 。 | il mio / la mia l’amico legge e la mamma guarda la televisione nel giorno indicato.
+ex: 我的朋友今年几岁？ | wǒ de péng you jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia l’amico?
+ex: 我的朋友在哪儿工作？ | wǒ de péng you zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia l’amico?
+ex: 我的朋友家有几口人？ | wǒ de péng you jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia l’amico?
+ex: 我的朋友明天下午去学校，下午回家。 | wǒ de péng you míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia l’amico va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的朋友明天不喝茶，喝水。 | wǒ de péng you míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia l’amico domani non beve tè, beve acqua.
+ex: 我的朋友明天什么时候回家？ | wǒ de péng you míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的朋友明天做什么？ | wǒ de péng you míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的朋友明天几点上课？ | wǒ de péng you míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的朋友明天去哪儿？ | wǒ de péng you míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的朋友明天去学校，今天去公司。 | wǒ de péng you míng tiān qù xué xiào ， jīn tiān qù gōng sī 。 | il mio / la mia l’amico va a/in scuola domani, a/in azienda l’altro giorno.
+ex: 我的朋友明天喝什么？ | wǒ de péng you míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的朋友明天在哪儿？ | wǒ de péng you míng tiān zài nǎ r ？ | Dove si trova il mio / la mia l’amico?
+ex: 我的朋友明天看书，妈妈明天看电视。 | wǒ de péng you míng tiān kàn shū ， mā ma míng tiān kàn diàn shì 。 | il mio / la mia l’amico legge e la mamma guarda la televisione nel giorno indicato.
+ex: 我的朋友有一只狗。 | wǒ de péng you yǒu yì zhī gǒu 。 | il mio / la mia l’amico ha uno cani.
+ex: 我的朋友有三个杯子。 | wǒ de péng you yǒu sān gè bēi zi 。 | il mio / la mia l’amico ha tre bicchieri.
+ex: 我的朋友有三个苹果，妈妈有五个苹果。 | wǒ de péng you yǒu sān gè píng guǒ ， mā ma yǒu wǔ gè píng guǒ 。 | il mio / la mia l’amico ha tre mele, la mamma ne ha cinque.
+ex: 我的朋友有三件衣服。 | wǒ de péng you yǒu sān jiàn yī fu 。 | Esempio: il mio / la mia l’amico ha 3 vestiti.
+ex: 我的朋友有两只猫。 | wǒ de péng you yǒu liǎng zhī māo 。 | il mio / la mia l’amico ha due gatti.
+ex: 我的朋友有五个电脑。 | wǒ de péng you yǒu wǔ gè diàn nǎo 。 | il mio / la mia l’amico ha cinque computer.
+ex: 我的朋友有几个苹果？ | wǒ de péng you yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的朋友有四个手机。 | wǒ de péng you yǒu sì gè shǒu jī 。 | il mio / la mia l’amico ha quattro cellulari.
+ex: 我的朋友有四个苹果，妈妈有一个苹果。 | wǒ de péng you yǒu sì gè píng guǒ ， mā ma yǒu yí gè píng guǒ 。 | il mio / la mia l’amico ha quattro mele, la mamma ne ha uno.
+ex: 我的朋友有手机吗？ | wǒ de péng you yǒu shǒu jī ma ？ | il mio / la mia l’amico ha cellulari?
+ex: 我的朋友有杯子吗？ | wǒ de péng you yǒu bēi zi ma ？ | il mio / la mia l’amico ha bicchieri?
+ex: 我的朋友有狗吗？ | wǒ de péng you yǒu gǒu ma ？ | il mio / la mia l’amico ha cani?
+ex: 我的朋友有猫吗？ | wǒ de péng you yǒu māo ma ？ | il mio / la mia l’amico ha gatti?
+ex: 我的朋友有电脑吗？ | wǒ de péng you yǒu diàn nǎo ma ？ | il mio / la mia l’amico ha computer?
+ex: 我的朋友的书多少钱？ | wǒ de péng you de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的朋友的杯子多少钱？ | wǒ de péng you de bēi zi duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia l’amico?
+ex: 我的朋友的猫（ ）大。 | wǒ de péng you de māo （   ） dà 。 | L’oggetto di il mio / la mia l’amico è grande.
+ex: 我的朋友问：这个猫是谁的？ | wǒ de péng you wèn ： zhè ge māo shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的朋友（ ）三个杯子。 | wǒ de péng you （   ） sān gè bēi zi 。 | il mio / la mia l’amico ha tre bicchieri.
+ex: 我的朋友（ ）妈妈都是学生。 | wǒ de péng you （   ） mā ma dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 我的爸爸今天上午去学校，晚上回家。 | wǒ de bà ba jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia il papà va a scuola la mattina, torna a casa la sera.
+ex: 我的爸爸今天下午买一只猫。 | wǒ de bà ba jīn tiān xià wǔ mǎi yì zhī māo 。 | il mio / la mia il papà compra 1 gatti oggi pomeriggio.
+ex: 我的爸爸今天下午买两个椅子。 | wǒ de bà ba jīn tiān xià wǔ mǎi liǎng gè yǐ zi 。 | il mio / la mia il papà compra 2 sedie oggi pomeriggio.
+ex: 我的爸爸今天下午买两件衣服。 | wǒ de bà ba jīn tiān xià wǔ mǎi liǎng jiàn yī fu 。 | il mio / la mia il papà compra 2 vestiti oggi pomeriggio.
+ex: 我的爸爸今天下午买五只狗。 | wǒ de bà ba jīn tiān xià wǔ mǎi wǔ zhī gǒu 。 | il mio / la mia il papà compra 5 cani oggi pomeriggio.
+ex: 我的爸爸今天下午买四个电脑。 | wǒ de bà ba jīn tiān xià wǔ mǎi sì gè diàn nǎo 。 | il mio / la mia il papà compra 4 computer oggi pomeriggio.
+ex: 我的爸爸今天下午几点去家？ | wǒ de bà ba jīn tiān xià wǔ jǐ diǎn qù jiā ？ | A che ora va il mio / la mia il papà a/in casa oggi pomeriggio?
+ex: 我的爸爸今天下午想（ ）茶。 | wǒ de bà ba jīn tiān xià wǔ xiǎng （   ） chá 。 | il mio / la mia il papà vuole bere tè oggi pomeriggio.
+ex: 我的爸爸今天下午（ ）家。 | wǒ de bà ba jīn tiān xià wǔ （   ） jiā 。 | il mio / la mia il papà si trova a/in casa oggi pomeriggio.
+ex: 我的爸爸今天不喝茶，喝水。 | wǒ de bà ba jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il papà oggi non beve tè, beve acqua.
+ex: 我的爸爸今天什么时候回家？ | wǒ de bà ba jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的爸爸今天做什么？ | wǒ de bà ba jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的爸爸今天去哪儿？ | wǒ de bà ba jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的爸爸今天去家，明天去医院。 | wǒ de bà ba jīn tiān qù jiā ， míng tiān qù yī yuàn 。 | il mio / la mia il papà va a/in casa oggi, a/in ospedale l’altro giorno.
+ex: 我的爸爸今天喝什么？ | wǒ de bà ba jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的爸爸今天看书，弟弟今天看电视。 | wǒ de bà ba jīn tiān kàn shū ， dì di jīn tiān kàn diàn shì 。 | il mio / la mia il papà legge e il fratello minore guarda la televisione nel giorno indicato.
+ex: 我的爸爸今年几岁？ | wǒ de bà ba jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia il papà?
+ex: 我的爸爸在哪儿工作？ | wǒ de bà ba zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia il papà?
+ex: 我的爸爸家有几口人？ | wǒ de bà ba jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia il papà?
+ex: 我的爸爸明天下午去学校，下午回家。 | wǒ de bà ba míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia il papà va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的爸爸明天不喝茶，喝水。 | wǒ de bà ba míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia il papà domani non beve tè, beve acqua.
+ex: 我的爸爸明天什么时候回家？ | wǒ de bà ba míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的爸爸明天做什么？ | wǒ de bà ba míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的爸爸明天几点上课？ | wǒ de bà ba míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的爸爸明天去哪儿？ | wǒ de bà ba míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的爸爸明天去学校，今天去公司。 | wǒ de bà ba míng tiān qù xué xiào ， jīn tiān qù gōng sī 。 | il mio / la mia il papà va a/in scuola domani, a/in azienda l’altro giorno.
+ex: 我的爸爸明天喝什么？ | wǒ de bà ba míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的爸爸明天在哪儿？ | wǒ de bà ba míng tiān zài nǎ r ？ | Dove si trova il mio / la mia il papà?
+ex: 我的爸爸明天看书，弟弟明天看电视。 | wǒ de bà ba míng tiān kàn shū ， dì di míng tiān kàn diàn shì 。 | il mio / la mia il papà legge e il fratello minore guarda la televisione nel giorno indicato.
+ex: 我的爸爸有一个椅子。 | wǒ de bà ba yǒu yí gè yǐ zi 。 | il mio / la mia il papà ha uno sedie.
+ex: 我的爸爸有三个苹果，弟弟有五个苹果。 | wǒ de bà ba yǒu sān gè píng guǒ ， dì di yǒu wǔ gè píng guǒ 。 | il mio / la mia il papà ha tre mele, il fratello minore ne ha cinque.
+ex: 我的爸爸有三只狗。 | wǒ de bà ba yǒu sān zhī gǒu 。 | il mio / la mia il papà ha tre cani.
+ex: 我的爸爸有两个电脑。 | wǒ de bà ba yǒu liǎng gè diàn nǎo 。 | il mio / la mia il papà ha due computer.
+ex: 我的爸爸有两个苹果，弟弟有四个苹果。 | wǒ de bà ba yǒu liǎng gè píng guǒ ， dì di yǒu sì gè píng guǒ 。 | il mio / la mia il papà ha due mele, il fratello minore ne ha quattro.
+ex: 我的爸爸有两本书。 | wǒ de bà ba yǒu liǎng běn shū 。 | Esempio: il mio / la mia il papà ha 2 libri.
+ex: 我的爸爸有五件衣服。 | wǒ de bà ba yǒu wǔ jiàn yī fu 。 | il mio / la mia il papà ha cinque vestiti.
+ex: 我的爸爸有几个苹果？ | wǒ de bà ba yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的爸爸有四只猫。 | wǒ de bà ba yǒu sì zhī māo 。 | il mio / la mia il papà ha quattro gatti.
+ex: 我的爸爸有椅子吗？ | wǒ de bà ba yǒu yǐ zi ma ？ | il mio / la mia il papà ha sedie?
+ex: 我的爸爸有狗吗？ | wǒ de bà ba yǒu gǒu ma ？ | il mio / la mia il papà ha cani?
+ex: 我的爸爸有猫吗？ | wǒ de bà ba yǒu māo ma ？ | il mio / la mia il papà ha gatti?
+ex: 我的爸爸有电脑吗？ | wǒ de bà ba yǒu diàn nǎo ma ？ | il mio / la mia il papà ha computer?
+ex: 我的爸爸有衣服吗？ | wǒ de bà ba yǒu yī fu ma ？ | il mio / la mia il papà ha vestiti?
+ex: 我的爸爸的书多少钱？ | wǒ de bà ba de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的爸爸的椅子（ ）大。 | wǒ de bà ba de yǐ zi （   ） dà 。 | L’oggetto di il mio / la mia il papà è grande.
+ex: 我的爸爸的电脑多少钱？ | wǒ de bà ba de diàn nǎo duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia il papà?
+ex: 我的爸爸问：这个椅子是谁的？ | wǒ de bà ba wèn ： zhè ge yǐ zi shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的爸爸（ ）两个杯子。 | wǒ de bà ba （   ） liǎng gè bēi zi 。 | il mio / la mia il papà ha due bicchieri.
+ex: 我的爸爸（ ）弟弟都是学生。 | wǒ de bà ba （   ） dì di dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 我的老师今天上午去学校，晚上回家。 | wǒ de lǎo shī jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il mio / la mia l’insegnante va a scuola la mattina, torna a casa la sera.
+ex: 我的老师今天下午买一个手机。 | wǒ de lǎo shī jīn tiān xià wǔ mǎi yí gè shǒu jī 。 | il mio / la mia l’insegnante compra 1 cellulari oggi pomeriggio.
+ex: 我的老师今天下午买两个电脑。 | wǒ de lǎo shī jīn tiān xià wǔ mǎi liǎng gè diàn nǎo 。 | il mio / la mia l’insegnante compra 2 computer oggi pomeriggio.
+ex: 我的老师今天下午买两只狗。 | wǒ de lǎo shī jīn tiān xià wǔ mǎi liǎng zhī gǒu 。 | il mio / la mia l’insegnante compra 2 cani oggi pomeriggio.
+ex: 我的老师今天下午买五个杯子。 | wǒ de lǎo shī jīn tiān xià wǔ mǎi wǔ gè bēi zi 。 | il mio / la mia l’insegnante compra 5 bicchieri oggi pomeriggio.
+ex: 我的老师今天下午买四本书。 | wǒ de lǎo shī jīn tiān xià wǔ mǎi sì běn shū 。 | il mio / la mia l’insegnante compra 4 libri oggi pomeriggio.
+ex: 我的老师今天下午几点去饭店？ | wǒ de lǎo shī jīn tiān xià wǔ jǐ diǎn qù fàn diàn ？ | A che ora va il mio / la mia l’insegnante a/in ristorante oggi pomeriggio?
+ex: 我的老师今天下午想（ ）茶。 | wǒ de lǎo shī jīn tiān xià wǔ xiǎng （   ） chá 。 | il mio / la mia l’insegnante vuole bere tè oggi pomeriggio.
+ex: 我的老师今天下午（ ）饭店。 | wǒ de lǎo shī jīn tiān xià wǔ （   ） fàn diàn 。 | il mio / la mia l’insegnante si trova a/in ristorante oggi pomeriggio.
+ex: 我的老师今天不喝茶，喝水。 | wǒ de lǎo shī jīn tiān bù hē chá ， hē shuǐ 。 | il mio / la mia l’insegnante oggi non beve tè, beve acqua.
+ex: 我的老师今天什么时候回家？ | wǒ de lǎo shī jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的老师今天做什么？ | wǒ de lǎo shī jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的老师今天去哪儿？ | wǒ de lǎo shī jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的老师今天去饭店，明天去学校。 | wǒ de lǎo shī jīn tiān qù fàn diàn ， míng tiān qù xué xiào 。 | il mio / la mia l’insegnante va a/in ristorante oggi, a/in scuola l’altro giorno.
+ex: 我的老师今天喝什么？ | wǒ de lǎo shī jīn tiān hē shén me ？ | Che cosa beve?
+ex: 我的老师今天看书，医生今天看电视。 | wǒ de lǎo shī jīn tiān kàn shū ， yī shēng jīn tiān kàn diàn shì 。 | il mio / la mia l’insegnante legge e il medico guarda la televisione nel giorno indicato.
+ex: 我的老师今年几岁？ | wǒ de lǎo shī jīn nián jǐ suì ？ | Quanti anni ha il mio / la mia l’insegnante?
+ex: 我的老师在哪儿工作？ | wǒ de lǎo shī zài nǎ r gōng zuò ？ | Dove lavora il mio / la mia l’insegnante?
+ex: 我的老师家有几口人？ | wǒ de lǎo shī jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il mio / la mia l’insegnante?
+ex: 我的老师明天下午去学校，下午回家。 | wǒ de lǎo shī míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il mio / la mia l’insegnante va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 我的老师明天不喝茶，喝水。 | wǒ de lǎo shī míng tiān bù hē chá ， hē shuǐ 。 | il mio / la mia l’insegnante domani non beve tè, beve acqua.
+ex: 我的老师明天什么时候回家？ | wǒ de lǎo shī míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 我的老师明天做什么？ | wǒ de lǎo shī míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 我的老师明天几点上课？ | wǒ de lǎo shī míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 我的老师明天去哪儿？ | wǒ de lǎo shī míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 我的老师明天去家，今天去医院。 | wǒ de lǎo shī míng tiān qù jiā ， jīn tiān qù yī yuàn 。 | il mio / la mia l’insegnante va a/in casa domani, a/in ospedale l’altro giorno.
+ex: 我的老师明天喝什么？ | wǒ de lǎo shī míng tiān hē shén me ？ | Che cosa beve?
+ex: 我的老师明天在哪儿？ | wǒ de lǎo shī míng tiān zài nǎ r ？ | Dove si trova il mio / la mia l’insegnante?
+ex: 我的老师明天看书，医生明天看电视。 | wǒ de lǎo shī míng tiān kàn shū ， yī shēng míng tiān kàn diàn shì 。 | il mio / la mia l’insegnante legge e il medico guarda la televisione nel giorno indicato.
+ex: 我的老师有一个电脑。 | wǒ de lǎo shī yǒu yí gè diàn nǎo 。 | il mio / la mia l’insegnante ha uno computer.
+ex: 我的老师有三个苹果，医生有五个苹果。 | wǒ de lǎo shī yǒu sān gè píng guǒ ， yī shēng yǒu wǔ gè píng guǒ 。 | il mio / la mia l’insegnante ha tre mele, il medico ne ha cinque.
+ex: 我的老师有三本书。 | wǒ de lǎo shī yǒu sān běn shū 。 | il mio / la mia l’insegnante ha tre libri.
+ex: 我的老师有两个苹果，医生有四个苹果。 | wǒ de lǎo shī yǒu liǎng gè píng guǒ ， yī shēng yǒu sì gè píng guǒ 。 | il mio / la mia l’insegnante ha due mele, il medico ne ha quattro.
+ex: 我的老师有两只狗。 | wǒ de lǎo shī yǒu liǎng zhī gǒu 。 | il mio / la mia l’insegnante ha due cani.
+ex: 我的老师有两只猫。 | wǒ de lǎo shī yǒu liǎng zhī māo 。 | Esempio: il mio / la mia l’insegnante ha 2 gatti.
+ex: 我的老师有书吗？ | wǒ de lǎo shī yǒu shū ma ？ | il mio / la mia l’insegnante ha libri?
+ex: 我的老师有五个手机。 | wǒ de lǎo shī yǒu wǔ gè shǒu jī 。 | il mio / la mia l’insegnante ha cinque cellulari.
+ex: 我的老师有几个苹果？ | wǒ de lǎo shī yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 我的老师有四个杯子。 | wǒ de lǎo shī yǒu sì gè bēi zi 。 | il mio / la mia l’insegnante ha quattro bicchieri.
+ex: 我的老师有手机吗？ | wǒ de lǎo shī yǒu shǒu jī ma ？ | il mio / la mia l’insegnante ha cellulari?
+ex: 我的老师有杯子吗？ | wǒ de lǎo shī yǒu bēi zi ma ？ | il mio / la mia l’insegnante ha bicchieri?
+ex: 我的老师有狗吗？ | wǒ de lǎo shī yǒu gǒu ma ？ | il mio / la mia l’insegnante ha cani?
+ex: 我的老师有电脑吗？ | wǒ de lǎo shī yǒu diàn nǎo ma ？ | il mio / la mia l’insegnante ha computer?
+ex: 我的老师的书多少钱？ | wǒ de lǎo shī de shū duō shao qián ？ | Quanto costa il libro?
+ex: 我的老师的书多少钱？ | wǒ de lǎo shī de shū duō shao qián ？ | Quanto costa l’oggetto di il mio / la mia l’insegnante?
+ex: 我的老师的狗（ ）大。 | wǒ de lǎo shī de gǒu （   ） dà 。 | L’oggetto di il mio / la mia l’insegnante è grande.
+ex: 我的老师问：这个狗是谁的？ | wǒ de lǎo shī wèn ： zhè ge gǒu shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 我的老师（ ）两个杯子。 | wǒ de lǎo shī （   ） liǎng gè bēi zi 。 | il mio / la mia l’insegnante ha due bicchieri.
+ex: 我的老师（ ）医生都是学生。 | wǒ de lǎo shī （   ） yī shēng dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 明天上午冷吗？ | míng tiān shàng wǔ lěng ma ？ | Fa freddo domani mattina?
+ex: 明天上午同学想吃什么？ | míng tiān shàng wǔ tóng xué xiǎng chī shén me ？ | Che cosa vuole mangiare il compagno di classe domani mattina?
+ex: 明天上午姐姐想吃什么？ | míng tiān shàng wǔ jiě jie xiǎng chī shén me ？ | Che cosa vuole mangiare la sorella maggiore domani mattina?
+ex: 明天上午我的同学想吃什么？ | míng tiān shàng wǔ wǒ de tóng xué xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia il compagno di classe domani mattina?
+ex: 明天上午我的姐姐想吃什么？ | míng tiān shàng wǔ wǒ de jiě jie xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia la sorella maggiore domani mattina?
+ex: 明天下午冷吗？ | míng tiān xià wǔ lěng ma ？ | Fa freddo domani pomeriggio?
+ex: 明天下午医生想吃什么？ | míng tiān xià wǔ yī shēng xiǎng chī shén me ？ | Che cosa vuole mangiare il medico domani pomeriggio?
+ex: 明天下午弟弟想吃什么？ | míng tiān xià wǔ dì di xiǎng chī shén me ？ | Che cosa vuole mangiare il fratello minore domani pomeriggio?
+ex: 明天下午我的医生想吃什么？ | míng tiān xià wǔ wǒ de yī shēng xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia il medico domani pomeriggio?
+ex: 明天下午我的弟弟想吃什么？ | míng tiān xià wǔ wǒ de dì di xiǎng chī shén me ？ | Che cosa vuole mangiare il mio / la mia il fratello minore domani pomeriggio?
+ex: 是学生。 | shì xué shēng 。 | È studente.
+ex: 是我的。 | shì wǒ de 。 | È mio.
+ex: 晚上 | wǎn shang | sera
+ex: 有 | yǒu | avere
+ex: 有四口人。 | yǒu sì kǒu rén 。 | Ci sono quattro persone.
+ex: 有四本书。 | yǒu sì běn shū 。 | Ci sono quattro libri.
+ex: 有，医生有一个手机。 | yǒu ， yī shēng yǒu yí gè shǒu jī 。 | Sì, ne ha 1.
+ex: 有，医生有三只狗。 | yǒu ， yī shēng yǒu sān zhī gǒu 。 | Sì, ne ha 3.
+ex: 有，医生有两个电脑。 | yǒu ， yī shēng yǒu liǎng gè diàn nǎo 。 | Sì, ne ha 2.
+ex: 有，医生有五个杯子。 | yǒu ， yī shēng yǒu wǔ gè bēi zi 。 | Sì, ne ha 5.
+ex: 有，医生有四只猫。 | yǒu ， yī shēng yǒu sì zhī māo 。 | Sì, ne ha 4.
+ex: 有，同学有一个手机。 | yǒu ， tóng xué yǒu yí gè shǒu jī 。 | Sì, ne ha 1.
+ex: 有，同学有三只狗。 | yǒu ， tóng xué yǒu sān zhī gǒu 。 | Sì, ne ha 3.
+ex: 有，同学有两个电脑。 | yǒu ， tóng xué yǒu liǎng gè diàn nǎo 。 | Sì, ne ha 2.
+ex: 有，同学有五个杯子。 | yǒu ， tóng xué yǒu wǔ gè bēi zi 。 | Sì, ne ha 5.
+ex: 有，同学有四本书。 | yǒu ， tóng xué yǒu sì běn shū 。 | Sì, ne ha 4.
+ex: 有，哥哥有一只猫。 | yǒu ， gē ge yǒu yì zhī māo 。 | Sì, ne ha 1.
+ex: 有，哥哥有三个手机。 | yǒu ， gē ge yǒu sān gè shǒu jī 。 | Sì, ne ha 3.
+ex: 有，哥哥有两件衣服。 | yǒu ， gē ge yǒu liǎng jiàn yī fu 。 | Sì, ne ha 2.
+ex: 有，哥哥有五只狗。 | yǒu ， gē ge yǒu wǔ zhī gǒu 。 | Sì, ne ha 5.
+ex: 有，哥哥有四个电脑。 | yǒu ， gē ge yǒu sì gè diàn nǎo 。 | Sì, ne ha 4.
+ex: 有，妈妈有一本书。 | yǒu ， mā ma yǒu yì běn shū 。 | Sì, ne ha 1.
+ex: 有，妈妈有三个手机。 | yǒu ， mā ma yǒu sān gè shǒu jī 。 | Sì, ne ha 3.
+ex: 有，妈妈有两个杯子。 | yǒu ， mā ma yǒu liǎng gè bēi zi 。 | Sì, ne ha 2.
+ex: 有，妈妈有五只狗。 | yǒu ， mā ma yǒu wǔ zhī gǒu 。 | Sì, ne ha 5.
+ex: 有，妈妈有四个电脑。 | yǒu ， mā ma yǒu sì gè diàn nǎo 。 | Sì, ne ha 4.
+ex: 有，妹妹有一只猫。 | yǒu ， mèi mei yǒu yì zhī māo 。 | Sì, ne ha 1.
+ex: 有，妹妹有三个椅子。 | yǒu ， mèi mei yǒu sān gè yǐ zi 。 | Sì, ne ha 3.
+ex: 有，妹妹有两件衣服。 | yǒu ， mèi mei yǒu liǎng jiàn yī fu 。 | Sì, ne ha 2.
+ex: 有，妹妹有五个杯子。 | yǒu ， mèi mei yǒu wǔ gè bēi zi 。 | Sì, ne ha 5.
+ex: 有，妹妹有四本书。 | yǒu ， mèi mei yǒu sì běn shū 。 | Sì, ne ha 4.
+ex: 有，姐姐有一只猫。 | yǒu ， jiě jie yǒu yì zhī māo 。 | Sì, ne ha 1.
+ex: 有，姐姐有三个椅子。 | yǒu ， jiě jie yǒu sān gè yǐ zi 。 | Sì, ne ha 3.
+ex: 有，姐姐有两件衣服。 | yǒu ， jiě jie yǒu liǎng jiàn yī fu 。 | Sì, ne ha 2.
+ex: 有，姐姐有五只狗。 | yǒu ， jiě jie yǒu wǔ zhī gǒu 。 | Sì, ne ha 5.
+ex: 有，姐姐有四个电脑。 | yǒu ， jiě jie yǒu sì gè diàn nǎo 。 | Sì, ne ha 4.
+ex: 有，弟弟有一只猫。 | yǒu ， dì di yǒu yì zhī māo 。 | Sì, ne ha 1.
+ex: 有，弟弟有三个椅子。 | yǒu ， dì di yǒu sān gè yǐ zi 。 | Sì, ne ha 3.
+ex: 有，弟弟有两件衣服。 | yǒu ， dì di yǒu liǎng jiàn yī fu 。 | Sì, ne ha 2.
+ex: 有，弟弟有五只狗。 | yǒu ， dì di yǒu wǔ zhī gǒu 。 | Sì, ne ha 5.
+ex: 有，弟弟有四本书。 | yǒu ， dì di yǒu sì běn shū 。 | Sì, ne ha 4.
+ex: 有，我的医生有一只狗。 | yǒu ， wǒ de yī shēng yǒu yì zhī gǒu 。 | Sì, ne ha 1.
+ex: 有，我的医生有三件衣服。 | yǒu ， wǒ de yī shēng yǒu sān jiàn yī fu 。 | Sì, ne ha 3.
+ex: 有，我的医生有两只猫。 | yǒu ， wǒ de yī shēng yǒu liǎng zhī māo 。 | Sì, ne ha 2.
+ex: 有，我的医生有五个电脑。 | yǒu ， wǒ de yī shēng yǒu wǔ gè diàn nǎo 。 | Sì, ne ha 5.
+ex: 有，我的医生有四个椅子。 | yǒu ， wǒ de yī shēng yǒu sì gè yǐ zi 。 | Sì, ne ha 4.
+ex: 有，我的同学有一只狗。 | yǒu ， wǒ de tóng xué yǒu yì zhī gǒu 。 | Sì, ne ha 1.
+ex: 有，我的同学有三件衣服。 | yǒu ， wǒ de tóng xué yǒu sān jiàn yī fu 。 | Sì, ne ha 3.
+ex: 有，我的同学有两只猫。 | yǒu ， wǒ de tóng xué yǒu liǎng zhī māo 。 | Sì, ne ha 2.
+ex: 有，我的同学有五个电脑。 | yǒu ， wǒ de tóng xué yǒu wǔ gè diàn nǎo 。 | Sì, ne ha 5.
+ex: 有，我的同学有四个手机。 | yǒu ， wǒ de tóng xué yǒu sì gè shǒu jī 。 | Sì, ne ha 4.
+ex: 有，我的哥哥有一个椅子。 | yǒu ， wǒ de gē ge yǒu yí gè yǐ zi 。 | Sì, ne ha 1.
+ex: 有，我的哥哥有三只狗。 | yǒu ， wǒ de gē ge yǒu sān zhī gǒu 。 | Sì, ne ha 3.
+ex: 有，我的哥哥有两本书。 | yǒu ， wǒ de gē ge yǒu liǎng běn shū 。 | Sì, ne ha 2.
+ex: 有，我的哥哥有五件衣服。 | yǒu ， wǒ de gē ge yǒu wǔ jiàn yī fu 。 | Sì, ne ha 5.
+ex: 有，我的哥哥有四只猫。 | yǒu ， wǒ de gē ge yǒu sì zhī māo 。 | Sì, ne ha 4.
+ex: 有，我的妈妈有一个手机。 | yǒu ， wǒ de mā ma yǒu yí gè shǒu jī 。 | Sì, ne ha 1.
+ex: 有，我的妈妈有三只狗。 | yǒu ， wǒ de mā ma yǒu sān zhī gǒu 。 | Sì, ne ha 3.
+ex: 有，我的妈妈有两个电脑。 | yǒu ， wǒ de mā ma yǒu liǎng gè diàn nǎo 。 | Sì, ne ha 2.
+ex: 有，我的妈妈有五件衣服。 | yǒu ， wǒ de mā ma yǒu wǔ jiàn yī fu 。 | Sì, ne ha 5.
+ex: 有，我的妈妈有四只猫。 | yǒu ， wǒ de mā ma yǒu sì zhī māo 。 | Sì, ne ha 4.
+ex: 有，我的妹妹有一个椅子。 | yǒu ， wǒ de mèi mei yǒu yí gè yǐ zi 。 | Sì, ne ha 1.
+ex: 有，我的妹妹有三个杯子。 | yǒu ， wǒ de mèi mei yǒu sān gè bēi zi 。 | Sì, ne ha 3.
+ex: 有，我的妹妹有两本书。 | yǒu ， wǒ de mèi mei yǒu liǎng běn shū 。 | Sì, ne ha 2.
+ex: 有，我的妹妹有五个电脑。 | yǒu ， wǒ de mèi mei yǒu wǔ gè diàn nǎo 。 | Sì, ne ha 5.
+ex: 有，我的妹妹有四个手机。 | yǒu ， wǒ de mèi mei yǒu sì gè shǒu jī 。 | Sì, ne ha 4.
+ex: 有，我的姐姐有一个椅子。 | yǒu ， wǒ de jiě jie yǒu yí gè yǐ zi 。 | Sì, ne ha 1.
+ex: 有，我的姐姐有三个杯子。 | yǒu ， wǒ de jiě jie yǒu sān gè bēi zi 。 | Sì, ne ha 3.
+ex: 有，我的姐姐有两本书。 | yǒu ， wǒ de jiě jie yǒu liǎng běn shū 。 | Sì, ne ha 2.
+ex: 有，我的姐姐有五件衣服。 | yǒu ， wǒ de jiě jie yǒu wǔ jiàn yī fu 。 | Sì, ne ha 5.
+ex: 有，我的姐姐有四只猫。 | yǒu ， wǒ de jiě jie yǒu sì zhī māo 。 | Sì, ne ha 4.
+ex: 有，我的弟弟有一个椅子。 | yǒu ， wǒ de dì di yǒu yí gè yǐ zi 。 | Sì, ne ha 1.
+ex: 有，我的弟弟有三个杯子。 | yǒu ， wǒ de dì di yǒu sān gè bēi zi 。 | Sì, ne ha 3.
+ex: 有，我的弟弟有两本书。 | yǒu ， wǒ de dì di yǒu liǎng běn shū 。 | Sì, ne ha 2.
+ex: 有，我的弟弟有五件衣服。 | yǒu ， wǒ de dì di yǒu wǔ jiàn yī fu 。 | Sì, ne ha 5.
+ex: 有，我的弟弟有四个手机。 | yǒu ， wǒ de dì di yǒu sì gè shǒu jī 。 | Sì, ne ha 4.
+ex: 有，我的朋友有一只狗。 | yǒu ， wǒ de péng you yǒu yì zhī gǒu 。 | Sì, ne ha 1.
+ex: 有，我的朋友有三个杯子。 | yǒu ， wǒ de péng you yǒu sān gè bēi zi 。 | Sì, ne ha 3.
+ex: 有，我的朋友有两只猫。 | yǒu ， wǒ de péng you yǒu liǎng zhī māo 。 | Sì, ne ha 2.
+ex: 有，我的朋友有五个电脑。 | yǒu ， wǒ de péng you yǒu wǔ gè diàn nǎo 。 | Sì, ne ha 5.
+ex: 有，我的朋友有四个手机。 | yǒu ， wǒ de péng you yǒu sì gè shǒu jī 。 | Sì, ne ha 4.
+ex: 有，我的爸爸有一个椅子。 | yǒu ， wǒ de bà ba yǒu yí gè yǐ zi 。 | Sì, ne ha 1.
+ex: 有，我的爸爸有三只狗。 | yǒu ， wǒ de bà ba yǒu sān zhī gǒu 。 | Sì, ne ha 3.
+ex: 有，我的爸爸有两个电脑。 | yǒu ， wǒ de bà ba yǒu liǎng gè diàn nǎo 。 | Sì, ne ha 2.
+ex: 有，我的爸爸有五件衣服。 | yǒu ， wǒ de bà ba yǒu wǔ jiàn yī fu 。 | Sì, ne ha 5.
+ex: 有，我的爸爸有四只猫。 | yǒu ， wǒ de bà ba yǒu sì zhī māo 。 | Sì, ne ha 4.
+ex: 有，我的老师有一只狗。 | yǒu ， wǒ de lǎo shī yǒu yì zhī gǒu 。 | Sì, ne ha 1.
+ex: 有，我的老师有三个杯子。 | yǒu ， wǒ de lǎo shī yǒu sān gè bēi zi 。 | Sì, ne ha 3.
+ex: 有，我的老师有两本书。 | yǒu ， wǒ de lǎo shī yǒu liǎng běn shū 。 | Sì, ne ha 2.
+ex: 有，我的老师有五个电脑。 | yǒu ， wǒ de lǎo shī yǒu wǔ gè diàn nǎo 。 | Sì, ne ha 5.
+ex: 有，我的老师有四个手机。 | yǒu ， wǒ de lǎo shī yǒu sì gè shǒu jī 。 | Sì, ne ha 4.
+ex: 有，朋友有一个手机。 | yǒu ， péng you yǒu yí gè shǒu jī 。 | Sì, ne ha 1.
+ex: 有，朋友有三个椅子。 | yǒu ， péng you yǒu sān gè yǐ zi 。 | Sì, ne ha 3.
+ex: 有，朋友有两个电脑。 | yǒu ， péng you yǒu liǎng gè diàn nǎo 。 | Sì, ne ha 2.
+ex: 有，朋友有五个杯子。 | yǒu ， péng you yǒu wǔ gè bēi zi 。 | Sì, ne ha 5.
+ex: 有，朋友有四本书。 | yǒu ， péng you yǒu sì běn shū 。 | Sì, ne ha 4.
+ex: 有，爸爸有一只猫。 | yǒu ， bà ba yǒu yì zhī māo 。 | Sì, ne ha 1.
+ex: 有，爸爸有三个手机。 | yǒu ， bà ba yǒu sān gè shǒu jī 。 | Sì, ne ha 3.
+ex: 有，爸爸有两个杯子。 | yǒu ， bà ba yǒu liǎng gè bēi zi 。 | Sì, ne ha 2.
+ex: 有，爸爸有五只狗。 | yǒu ， bà ba yǒu wǔ zhī gǒu 。 | Sì, ne ha 5.
+ex: 有，爸爸有四个电脑。 | yǒu ， bà ba yǒu sì gè diàn nǎo 。 | Sì, ne ha 4.
+ex: 有，老师有一个手机。 | yǒu ， lǎo shī yǒu yí gè shǒu jī 。 | Sì, ne ha 1.
+ex: 有，老师有三个椅子。 | yǒu ， lǎo shī yǒu sān gè yǐ zi 。 | Sì, ne ha 3.
+ex: 有，老师有两件衣服。 | yǒu ， lǎo shī yǒu liǎng jiàn yī fu 。 | Sì, ne ha 2.
+ex: 有，老师有五个杯子。 | yǒu ， lǎo shī yǒu wǔ gè bēi zi 。 | Sì, ne ha 5.
+ex: 有，老师有四本书。 | yǒu ， lǎo shī yǒu sì běn shū 。 | Sì, ne ha 4.
+ex: 朋友买一个杯子。 | péng you mǎi yí gè bēi zi 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 朋友买一个电脑。 | péng you mǎi yí gè diàn nǎo 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 朋友今天上午去学校，晚上回家。 | péng you jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | l’amico va a scuola la mattina, torna a casa la sera.
+ex: 朋友今天不喝茶，喝水。 | péng you jīn tiān bù hē chá ， hē shuǐ 。 | l’amico oggi non beve tè, beve acqua.
+ex: 朋友今天什么时候回家？ | péng you jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 朋友今天做什么？ | péng you jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 朋友今天去医院，明天去商店。 | péng you jīn tiān qù yī yuàn ， míng tiān qù shāng diàn 。 | l’amico va a/in ospedale oggi, a/in negozio l’altro giorno.
+ex: 朋友今天去哪儿？ | péng you jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 朋友今天喝什么？ | péng you jīn tiān hē shén me ？ | Che cosa beve?
+ex: 朋友今天晚上买一本书。 | péng you jīn tiān wǎn shang mǎi yì běn shū 。 | l’amico compra 1 libri questa sera.
+ex: 朋友今天晚上买三个手机。 | péng you jīn tiān wǎn shang mǎi sān gè shǒu jī 。 | l’amico compra 3 cellulari questa sera.
+ex: 朋友今天晚上买三个电脑。 | péng you jīn tiān wǎn shang mǎi sān gè diàn nǎo 。 | l’amico compra 3 computer questa sera.
+ex: 朋友今天晚上买两个杯子。 | péng you jīn tiān wǎn shang mǎi liǎng gè bēi zi 。 | l’amico compra 2 bicchieri questa sera.
+ex: 朋友今天晚上买五个椅子。 | péng you jīn tiān wǎn shang mǎi wǔ gè yǐ zi 。 | l’amico compra 5 sedie questa sera.
+ex: 朋友今天晚上几点去医院？ | péng you jīn tiān wǎn shang jǐ diǎn qù yī yuàn ？ | A che ora va l’amico a/in ospedale questa sera?
+ex: 朋友今天晚上想（ ）茶。 | péng you jīn tiān wǎn shang xiǎng （   ） chá 。 | l’amico vuole bere tè questa sera.
+ex: 朋友今天晚上（ ）医院。 | péng you jīn tiān wǎn shang （   ） yī yuàn 。 | l’amico si trova a/in ospedale questa sera.
+ex: 朋友今天看书，妈妈今天看电视。 | péng you jīn tiān kàn shū ， mā ma jīn tiān kàn diàn shì 。 | l’amico legge e la mamma guarda la televisione nel giorno indicato.
+ex: 朋友今年几岁？ | péng you jīn nián jǐ suì ？ | Quanti anni ha l’amico?
+ex: 朋友在哪儿工作？ | péng you zài nǎ r gōng zuò ？ | Dove lavora l’amico?
+ex: 朋友家有几口人？ | péng you jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di l’amico?
+ex: 朋友明天下午去学校，下午回家。 | péng you míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | l’amico va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 朋友明天不喝茶，喝水。 | péng you míng tiān bù hē chá ， hē shuǐ 。 | l’amico domani non beve tè, beve acqua.
+ex: 朋友明天什么时候回家？ | péng you míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 朋友明天做什么？ | péng you míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 朋友明天几点上课？ | péng you míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 朋友明天去公司，今天去饭店。 | péng you míng tiān qù gōng sī ， jīn tiān qù fàn diàn 。 | l’amico va a/in azienda domani, a/in ristorante l’altro giorno.
+ex: 朋友明天去哪儿？ | péng you míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 朋友明天喝什么？ | péng you míng tiān hē shén me ？ | Che cosa beve?
+ex: 朋友明天在哪儿？ | péng you míng tiān zài nǎ r ？ | Dove si trova l’amico?
+ex: 朋友明天看书，妈妈明天看电视。 | péng you míng tiān kàn shū ， mā ma míng tiān kàn diàn shì 。 | l’amico legge e la mamma guarda la televisione nel giorno indicato.
+ex: 朋友有一个椅子。 | péng you yǒu yí gè yǐ zi 。 | l’amico ha uno sedie.
+ex: 朋友有三个杯子。 | péng you yǒu sān gè bēi zi 。 | l’amico ha tre bicchieri.
+ex: 朋友有三个苹果，妈妈有五个苹果。 | péng you yǒu sān gè píng guǒ ， mā ma yǒu wǔ gè píng guǒ 。 | l’amico ha tre mele, la mamma ne ha cinque.
+ex: 朋友有三只狗。 | péng you yǒu sān zhī gǒu 。 | Esempio: l’amico ha 3 cani.
+ex: 朋友有两本书。 | péng you yǒu liǎng běn shū 。 | l’amico ha due libri.
+ex: 朋友有书吗？ | péng you yǒu shū ma ？ | l’amico ha libri?
+ex: 朋友有五个电脑。 | péng you yǒu wǔ gè diàn nǎo 。 | l’amico ha cinque computer.
+ex: 朋友有几个苹果？ | péng you yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 朋友有四个手机。 | péng you yǒu sì gè shǒu jī 。 | l’amico ha quattro cellulari.
+ex: 朋友有四个苹果，妈妈有一个苹果。 | péng you yǒu sì gè píng guǒ ， mā ma yǒu yí gè píng guǒ 。 | l’amico ha quattro mele, la mamma ne ha uno.
+ex: 朋友有手机吗？ | péng you yǒu shǒu jī ma ？ | l’amico ha cellulari?
+ex: 朋友有杯子吗？ | péng you yǒu bēi zi ma ？ | l’amico ha bicchieri?
+ex: 朋友有椅子吗？ | péng you yǒu yǐ zi ma ？ | l’amico ha sedie?
+ex: 朋友有电脑吗？ | péng you yǒu diàn nǎo ma ？ | l’amico ha computer?
+ex: 朋友的书多少钱？ | péng you de shū duō shao qián ？ | Quanto costa il libro?
+ex: 朋友的椅子多少钱？ | péng you de yǐ zi duō shao qián ？ | Quanto costa l’oggetto di l’amico?
+ex: 朋友的电脑（ ）大。 | péng you de diàn nǎo （   ） dà 。 | L’oggetto di l’amico è grande.
+ex: 朋友问：这个电脑是谁的？ | péng you wèn ： zhè ge diàn nǎo shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 朋友（ ）三个杯子。 | péng you （   ） sān gè bēi zi 。 | l’amico ha tre bicchieri.
+ex: 朋友（ ）妈妈都是学生。 | péng you （   ） mā ma dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 本 | běn | classificatore per libri
+ex: 水 | shuǐ | acqua
+ex: 爸爸买五个椅子。 | bà ba mǎi wǔ gè yǐ zi 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 爸爸买五只猫。 | bà ba mǎi wǔ zhī māo 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 爸爸今天上午去学校，晚上回家。 | bà ba jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | il papà va a scuola la mattina, torna a casa la sera.
+ex: 爸爸今天下午买一个电脑。 | bà ba jīn tiān xià wǔ mǎi yí gè diàn nǎo 。 | il papà compra 1 computer oggi pomeriggio.
+ex: 爸爸今天下午买两只狗。 | bà ba jīn tiān xià wǔ mǎi liǎng zhī gǒu 。 | il papà compra 2 cani oggi pomeriggio.
+ex: 爸爸今天下午买两只猫。 | bà ba jīn tiān xià wǔ mǎi liǎng zhī māo 。 | il papà compra 2 gatti oggi pomeriggio.
+ex: 爸爸今天下午买五个手机。 | bà ba jīn tiān xià wǔ mǎi wǔ gè shǒu jī 。 | il papà compra 5 cellulari oggi pomeriggio.
+ex: 爸爸今天下午买四个杯子。 | bà ba jīn tiān xià wǔ mǎi sì gè bēi zi 。 | il papà compra 4 bicchieri oggi pomeriggio.
+ex: 爸爸今天下午几点去医院？ | bà ba jīn tiān xià wǔ jǐ diǎn qù yī yuàn ？ | A che ora va il papà a/in ospedale oggi pomeriggio?
+ex: 爸爸今天下午想（ ）茶。 | bà ba jīn tiān xià wǔ xiǎng （   ） chá 。 | il papà vuole bere tè oggi pomeriggio.
+ex: 爸爸今天下午（ ）医院。 | bà ba jīn tiān xià wǔ （   ） yī yuàn 。 | il papà si trova a/in ospedale oggi pomeriggio.
+ex: 爸爸今天不喝茶，喝水。 | bà ba jīn tiān bù hē chá ， hē shuǐ 。 | il papà oggi non beve tè, beve acqua.
+ex: 爸爸今天什么时候回家？ | bà ba jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 爸爸今天做什么？ | bà ba jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 爸爸今天去医院，明天去商店。 | bà ba jīn tiān qù yī yuàn ， míng tiān qù shāng diàn 。 | il papà va a/in ospedale oggi, a/in negozio l’altro giorno.
+ex: 爸爸今天去哪儿？ | bà ba jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 爸爸今天喝什么？ | bà ba jīn tiān hē shén me ？ | Che cosa beve?
+ex: 爸爸今天看书，弟弟今天看电视。 | bà ba jīn tiān kàn shū ， dì di jīn tiān kàn diàn shì 。 | il papà legge e il fratello minore guarda la televisione nel giorno indicato.
+ex: 爸爸今年几岁？ | bà ba jīn nián jǐ suì ？ | Quanti anni ha il papà?
+ex: 爸爸在哪儿工作？ | bà ba zài nǎ r gōng zuò ？ | Dove lavora il papà?
+ex: 爸爸家有几口人？ | bà ba jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di il papà?
+ex: 爸爸明天下午去学校，下午回家。 | bà ba míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | il papà va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 爸爸明天不喝茶，喝水。 | bà ba míng tiān bù hē chá ， hē shuǐ 。 | il papà domani non beve tè, beve acqua.
+ex: 爸爸明天什么时候回家？ | bà ba míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 爸爸明天做什么？ | bà ba míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 爸爸明天几点上课？ | bà ba míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 爸爸明天去公司，今天去饭店。 | bà ba míng tiān qù gōng sī ， jīn tiān qù fàn diàn 。 | il papà va a/in azienda domani, a/in ristorante l’altro giorno.
+ex: 爸爸明天去哪儿？ | bà ba míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 爸爸明天喝什么？ | bà ba míng tiān hē shén me ？ | Che cosa beve?
+ex: 爸爸明天在哪儿？ | bà ba míng tiān zài nǎ r ？ | Dove si trova il papà?
+ex: 爸爸明天看书，弟弟明天看电视。 | bà ba míng tiān kàn shū ， dì di míng tiān kàn diàn shì 。 | il papà legge e il fratello minore guarda la televisione nel giorno indicato.
+ex: 爸爸有一个杯子。 | bà ba yǒu yí gè bēi zi 。 | il papà ha uno bicchieri.
+ex: 爸爸有三个电脑。 | bà ba yǒu sān gè diàn nǎo 。 | il papà ha tre computer.
+ex: 爸爸有三个苹果，弟弟有五个苹果。 | bà ba yǒu sān gè píng guǒ ， dì di yǒu wǔ gè píng guǒ 。 | il papà ha tre mele, il fratello minore ne ha cinque.
+ex: 爸爸有两个手机。 | bà ba yǒu liǎng gè shǒu jī 。 | il papà ha due cellulari.
+ex: 爸爸有两个苹果，弟弟有四个苹果。 | bà ba yǒu liǎng gè píng guǒ ， dì di yǒu sì gè píng guǒ 。 | il papà ha due mele, il fratello minore ne ha quattro.
+ex: 爸爸有两件衣服。 | bà ba yǒu liǎng jiàn yī fu 。 | Esempio: il papà ha 2 vestiti.
+ex: 爸爸有五只猫。 | bà ba yǒu wǔ zhī māo 。 | il papà ha cinque gatti.
+ex: 爸爸有几个苹果？ | bà ba yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 爸爸有四只狗。 | bà ba yǒu sì zhī gǒu 。 | il papà ha quattro cani.
+ex: 爸爸有手机吗？ | bà ba yǒu shǒu jī ma ？ | il papà ha cellulari?
+ex: 爸爸有杯子吗？ | bà ba yǒu bēi zi ma ？ | il papà ha bicchieri?
+ex: 爸爸有狗吗？ | bà ba yǒu gǒu ma ？ | il papà ha cani?
+ex: 爸爸有猫吗？ | bà ba yǒu māo ma ？ | il papà ha gatti?
+ex: 爸爸有电脑吗？ | bà ba yǒu diàn nǎo ma ？ | il papà ha computer?
+ex: 爸爸的书多少钱？ | bà ba de shū duō shao qián ？ | Quanto costa il libro?
+ex: 爸爸的杯子多少钱？ | bà ba de bēi zi duō shao qián ？ | Quanto costa l’oggetto di il papà?
+ex: 爸爸的猫（ ）大。 | bà ba de māo （   ） dà 。 | L’oggetto di il papà è grande.
+ex: 爸爸问：这个猫是谁的？ | bà ba wèn ： zhè ge māo shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 爸爸（ ）两个杯子。 | bà ba （   ） liǎng gè bēi zi 。 | il papà ha due bicchieri.
+ex: 爸爸（ ）弟弟都是学生。 | bà ba （   ） dì di dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 牛奶 | niú nǎi | latte
+ex: 现在四点。 | xiàn zài sì diǎn 。 | Ora sono le quattro.
+ex: 看书 | kàn shū | legge
+ex: 看电视 | kàn diàn shì | guarda la televisione
+ex: 睡觉 | shuì jiào | dorme
+ex: 老师买五个手机。 | lǎo shī mǎi wǔ gè shǒu jī 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 老师买五本书。 | lǎo shī mǎi wǔ běn shū 。 | Esempio: compra gli oggetti rappresentati in F.
+ex: 老师今天上午去学校，晚上回家。 | lǎo shī jīn tiān shàng wǔ qù xué xiào ， wǎn shang huí jiā 。 | l’insegnante va a scuola la mattina, torna a casa la sera.
+ex: 老师今天下午买一本书。 | lǎo shī jīn tiān xià wǔ mǎi yì běn shū 。 | l’insegnante compra 1 libri oggi pomeriggio.
+ex: 老师今天下午买两个手机。 | lǎo shī jīn tiān xià wǔ mǎi liǎng gè shǒu jī 。 | l’insegnante compra 2 cellulari oggi pomeriggio.
+ex: 老师今天下午买两个杯子。 | lǎo shī jīn tiān xià wǔ mǎi liǎng gè bēi zi 。 | l’insegnante compra 2 bicchieri oggi pomeriggio.
+ex: 老师今天下午买五个椅子。 | lǎo shī jīn tiān xià wǔ mǎi wǔ gè yǐ zi 。 | l’insegnante compra 5 sedie oggi pomeriggio.
+ex: 老师今天下午买四件衣服。 | lǎo shī jīn tiān xià wǔ mǎi sì jiàn yī fu 。 | l’insegnante compra 4 vestiti oggi pomeriggio.
+ex: 老师今天下午几点去学校？ | lǎo shī jīn tiān xià wǔ jǐ diǎn qù xué xiào ？ | A che ora va l’insegnante a/in scuola oggi pomeriggio?
+ex: 老师今天下午想（ ）茶。 | lǎo shī jīn tiān xià wǔ xiǎng （   ） chá 。 | l’insegnante vuole bere tè oggi pomeriggio.
+ex: 老师今天下午（ ）学校。 | lǎo shī jīn tiān xià wǔ （   ） xué xiào 。 | l’insegnante si trova a/in scuola oggi pomeriggio.
+ex: 老师今天不喝茶，喝水。 | lǎo shī jīn tiān bù hē chá ， hē shuǐ 。 | l’insegnante oggi non beve tè, beve acqua.
+ex: 老师今天什么时候回家？ | lǎo shī jīn tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 老师今天做什么？ | lǎo shī jīn tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 老师今天去哪儿？ | lǎo shī jīn tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 老师今天去学校，明天去公司。 | lǎo shī jīn tiān qù xué xiào ， míng tiān qù gōng sī 。 | l’insegnante va a/in scuola oggi, a/in azienda l’altro giorno.
+ex: 老师今天喝什么？ | lǎo shī jīn tiān hē shén me ？ | Che cosa beve?
+ex: 老师今天看书，医生今天看电视。 | lǎo shī jīn tiān kàn shū ， yī shēng jīn tiān kàn diàn shì 。 | l’insegnante legge e il medico guarda la televisione nel giorno indicato.
+ex: 老师今年几岁？ | lǎo shī jīn nián jǐ suì ？ | Quanti anni ha l’insegnante?
+ex: 老师在哪儿工作？ | lǎo shī zài nǎ r gōng zuò ？ | Dove lavora l’insegnante?
+ex: 老师家有几口人？ | lǎo shī jiā yǒu jǐ kǒu rén ？ | Quante persone ci sono nella famiglia di l’insegnante?
+ex: 老师明天下午去学校，下午回家。 | lǎo shī míng tiān xià wǔ qù xué xiào ， xià wǔ huí jiā 。 | l’insegnante va a scuola il pomeriggio, torna a casa il pomeriggio.
+ex: 老师明天不喝茶，喝水。 | lǎo shī míng tiān bù hē chá ， hē shuǐ 。 | l’insegnante domani non beve tè, beve acqua.
+ex: 老师明天什么时候回家？ | lǎo shī míng tiān shén me shí hou huí jiā ？ | Quando torna a casa?
+ex: 老师明天做什么？ | lǎo shī míng tiān zuò shén me ？ | Che cosa fa la prima persona?
+ex: 老师明天几点上课？ | lǎo shī míng tiān jǐ diǎn shàng kè ？ | A che ora inizia la lezione?
+ex: 老师明天去医院，今天去商店。 | lǎo shī míng tiān qù yī yuàn ， jīn tiān qù shāng diàn 。 | l’insegnante va a/in ospedale domani, a/in negozio l’altro giorno.
+ex: 老师明天去哪儿？ | lǎo shī míng tiān qù nǎ r ？ | Dove va nel giorno richiesto?
+ex: 老师明天喝什么？ | lǎo shī míng tiān hē shén me ？ | Che cosa beve?
+ex: 老师明天在哪儿？ | lǎo shī míng tiān zài nǎ r ？ | Dove si trova l’insegnante?
+ex: 老师明天看书，医生明天看电视。 | lǎo shī míng tiān kàn shū ， yī shēng míng tiān kàn diàn shì 。 | l’insegnante legge e il medico guarda la televisione nel giorno indicato.
+ex: 老师有一件衣服。 | lǎo shī yǒu yí jiàn yī fu 。 | l’insegnante ha uno vestiti.
+ex: 老师有三个苹果，医生有五个苹果。 | lǎo shī yǒu sān gè píng guǒ ， yī shēng yǒu wǔ gè píng guǒ 。 | l’insegnante ha tre mele, il medico ne ha cinque.
+ex: 老师有三本书。 | lǎo shī yǒu sān běn shū 。 | l’insegnante ha tre libri.
+ex: 老师有两个椅子。 | lǎo shī yǒu liǎng gè yǐ zi 。 | l’insegnante ha due sedie.
+ex: 老师有两个电脑。 | lǎo shī yǒu liǎng gè diàn nǎo 。 | Esempio: l’insegnante ha 2 computer.
+ex: 老师有两个苹果，医生有四个苹果。 | lǎo shī yǒu liǎng gè píng guǒ ， yī shēng yǒu sì gè píng guǒ 。 | l’insegnante ha due mele, il medico ne ha quattro.
+ex: 老师有书吗？ | lǎo shī yǒu shū ma ？ | l’insegnante ha libri?
+ex: 老师有五个手机。 | lǎo shī yǒu wǔ gè shǒu jī 。 | l’insegnante ha cinque cellulari.
+ex: 老师有几个苹果？ | lǎo shī yǒu jǐ gè píng guǒ ？ | Quante mele ha la persona richiesta?
+ex: 老师有四个杯子。 | lǎo shī yǒu sì gè bēi zi 。 | l’insegnante ha quattro bicchieri.
+ex: 老师有手机吗？ | lǎo shī yǒu shǒu jī ma ？ | l’insegnante ha cellulari?
+ex: 老师有杯子吗？ | lǎo shī yǒu bēi zi ma ？ | l’insegnante ha bicchieri?
+ex: 老师有椅子吗？ | lǎo shī yǒu yǐ zi ma ？ | l’insegnante ha sedie?
+ex: 老师有衣服吗？ | lǎo shī yǒu yī fu ma ？ | l’insegnante ha vestiti?
+ex: 老师的书多少钱？ | lǎo shī de shū duō shao qián ？ | Quanto costa il libro?
+ex: 老师的手机（ ）大。 | lǎo shī de shǒu jī （   ） dà 。 | L’oggetto di l’insegnante è grande.
+ex: 老师的衣服多少钱？ | lǎo shī de yī fu duō shao qián ？ | Quanto costa l’oggetto di l’insegnante?
+ex: 老师问：这个手机是谁的？ | lǎo shī wèn ： zhè ge shǒu jī shì shéi de ？ | Di chi è l’oggetto indicato?
+ex: 老师（ ）两个杯子。 | lǎo shī （   ） liǎng gè bēi zi 。 | l’insegnante ha due bicchieri.
+ex: 老师（ ）医生都是学生。 | lǎo shī （   ） yī shēng dōu shì xué shēng 。 | Esempio: le due persone sono entrambe studenti.
+ex: 茶 | chá | tè
+ex: 这是医生的五（ ）书。 | zhè shì yī shēng de wǔ （   ） shū 。 | Questi sono i libri di il medico.
+ex: 这是同学的四（ ）书。 | zhè shì tóng xué de sì （   ） shū 。 | Questi sono i libri di il compagno di classe.
+ex: 这是哥哥的三（ ）书。 | zhè shì gē ge de sān （   ） shū 。 | Questi sono i libri di il fratello maggiore.
+ex: 这是妈妈的一（ ）书。 | zhè shì mā ma de yī （   ） shū 。 | Questi sono i libri di la mamma.
+ex: 这是妹妹的一（ ）书。 | zhè shì mèi mei de yī （   ） shū 。 | Questi sono i libri di la sorella minore.
+ex: 这是姐姐的四（ ）书。 | zhè shì jiě jie de sì （   ） shū 。 | Questi sono i libri di la sorella maggiore.
+ex: 这是弟弟的五（ ）书。 | zhè shì dì di de wǔ （   ） shū 。 | Questi sono i libri di il fratello minore.
+ex: 这是我的医生的五（ ）书。 | zhè shì wǒ de yī shēng de wǔ （   ） shū 。 | Questi sono i libri di il mio / la mia il medico.
+ex: 这是我的同学的四（ ）书。 | zhè shì wǒ de tóng xué de sì （   ） shū 。 | Questi sono i libri di il mio / la mia il compagno di classe.
+ex: 这是我的哥哥的三（ ）书。 | zhè shì wǒ de gē ge de sān （   ） shū 。 | Questi sono i libri di il mio / la mia il fratello maggiore.
+ex: 这是我的妈妈的一（ ）书。 | zhè shì wǒ de mā ma de yī （   ） shū 。 | Questi sono i libri di il mio / la mia la mamma.
+ex: 这是我的妹妹的一（ ）书。 | zhè shì wǒ de mèi mei de yī （   ） shū 。 | Questi sono i libri di il mio / la mia la sorella minore.
+ex: 这是我的姐姐的四（ ）书。 | zhè shì wǒ de jiě jie de sì （   ） shū 。 | Questi sono i libri di il mio / la mia la sorella maggiore.
+ex: 这是我的弟弟的五（ ）书。 | zhè shì wǒ de dì di de wǔ （   ） shū 。 | Questi sono i libri di il mio / la mia il fratello minore.
+ex: 这是我的朋友的三（ ）书。 | zhè shì wǒ de péng you de sān （   ） shū 。 | Questi sono i libri di il mio / la mia l’amico.
+ex: 这是我的爸爸的两（ ）书。 | zhè shì wǒ de bà ba de liǎng （   ） shū 。 | Questi sono i libri di il mio / la mia il papà.
+ex: 这是我的老师的两（ ）书。 | zhè shì wǒ de lǎo shī de liǎng （   ） shū 。 | Questi sono i libri di il mio / la mia l’insegnante.
+ex: 这是朋友的三（ ）书。 | zhè shì péng you de sān （   ） shū 。 | Questi sono i libri di l’amico.
+ex: 这是爸爸的两（ ）书。 | zhè shì bà ba de liǎng （   ） shū 。 | Questi sono i libri di il papà.
+ex: 这是老师的两（ ）书。 | zhè shì lǎo shī de liǎng （   ） shū 。 | Questi sono i libri di l’insegnante.
+ex: 饭店 | fàn diàn | ristorante
