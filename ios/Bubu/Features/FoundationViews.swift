@@ -162,6 +162,8 @@ struct LevelView: View {
                 RowGroup {
                     NavigationLink { WordsView(content: content) } label: { ActionRow(title: "Parole", detail: "300 parole · pinyin e significato", icon: "character.book.closed") }
                     RowDivider()
+                    NavigationLink { PinyinIPAView(content: content) } label: { ActionRow(title: "Pinyin e IPA", detail: "Come suonano lettere e toni", icon: "mouth") }.accessibilityIdentifier("pinyin-ipa")
+                    RowDivider()
                     NavigationLink { GrammarListView(content: content) } label: { ActionRow(title: "Grammatica", detail: "70 righe collegate ai testi del libro", icon: "text.book.closed") }
                     RowDivider()
                     NavigationLink { CharactersView(content: content) } label: { ActionRow(title: "Caratteri", detail: "246 da riconoscere · 100 da scrivere", icon: "square.grid.2x2") }
@@ -430,6 +432,7 @@ struct WordDetail: View {
                     if !wordClass.isEmpty { Tag(text: wordClass) }
                 }
             }.padding(.horizontal, 4)
+            WordIPASection(content: content, word: word)
             NavigationLink { StudySessionView(content: content, initialQueue: ["meaning", "audio", "pinyin"].map { ReviewItem(contentID: String(word.id), kind: $0) }) } label: {
                 Label("Verifica questa parola", systemImage: "checkmark.circle")
             }.buttonStyle(.primary)

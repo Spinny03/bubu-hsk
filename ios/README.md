@@ -113,4 +113,20 @@ Verificato: suite completa **17 test superati, zero errori** su iPhone 17 Pro / 
 
 Da verificare: VoiceOver parlato su dispositivo, taglie di accessibilità più grandi su tutte le schermate, iPad, iOS 17 reale e risultato della simulazione completa con la stima a intervallo popolata.
 
+## Blocco 6: pinyin e IPA
+
+Nuova sezione «Pinyin e IPA» in HSK 1 → Studia, collegata al dettaglio di ogni parola.
+
+- Tabelle di 23 iniziali e 39 finali con trascrizione IPA, gruppo articolatorio e indicazione pratica per chi parla italiano; un punto rosso segnala i suoni che un italiano tende a leggere come nella propria lingua (b/p, d/t, g/k, j, q, x, zh, c, e, ü, -i, iu, ui, un, ian…).
+- Toni con le lettere di Chao e il grafico dei cinque livelli nei colori scelti nel piano; 3° tono basso dentro la parola, 3°+3° → 2°+3°, tono neutro secondo il tono precedente.
+- Scheda di ogni suono con descrizione e fino a otto parole HSK 1 che lo contengono, ciascuna con IPA e ascolto.
+- Convertitore dal pinyin all’IPA: accetta segni di tono o numeri (`xie4xie5`), scompone ogni sillaba in iniziale, finale e tono e, se la grafia corrisponde, apre la parola.
+- Nel dettaglio parola, sezione «Pronuncia» con trascrizione completa e sillabe collegate alle schede dei suoni.
+
+Logica in `Core/PinyinIPA.swift`, senza dipendenze: segmentazione con apostrofi e regola delle sillabe che iniziano per vocale, controllo delle combinazioni iniziale-finale, grafie y/w e ü, sillabe apicali, erhua delle parole HSK 1. Trascrizione larga del cinese standard secondo Wikipedia «Pinyin» (oldid 1379787349), «Standard Chinese phonology» (oldid 1380933413) ed «Erhua» (oldid 1380844942), basate su Lee & Zee 2003, Duanmu 2007, Lin 2007; confronto con «Help:IPA/Mandarin» (oldid 1370474013); toni secondo Chao 1968. Il 3° tono a metà parola è scritto [˨˩] per convenzione didattica: le fonti non danno un valore unico (Help:IPA/Mandarin scrive [˩]). L’erhua è trascritto solo per le finali verificate nella voce «Erhua».
+
+Dove stanno i dati: le tabelle (suoni, indicazioni in italiano, toni) sono costanti in `Core/PinyinIPA.swift`, come `ToneExercise`; la trascrizione di ogni parola è calcolata dal pinyin del catalogo e non viene salvata. La sezione non aggiunge dati utente: il testo del convertitore resta in memoria. Le fonti sono elencate anche in «Licenze e componenti». Le varianti regionali sono escluse e alcune parole hanno eccezioni di tono che la regola non copre.
+
+Test: tutte le 300 parole (con entrambe le grafie di 谁) e i 246 caratteri si scompongono in una sillaba per carattere, erhua compreso; trascrizioni di riferimento (hǎo, nǐ hǎo, lǎoshī, zì, xué, qù, nǚ’ér, zhèr, yǒudiǎnr, miàntiáor…); grafie non valide rifiutate; numeri convertiti in segni di tono. Test UI: convertitore, parola collegata e scheda del suono, con screenshot 21–23.
+
 Sviluppi ulteriori del report: calibrazione della difficoltà e previsione alla data d’esame, consolidamento finale guidato, scomposizioni didattiche dei caratteri, esercizi specifici HSK 2 e simulatore orale completo HSK 3. L’MVP non presenta queste capacità come già disponibili.
