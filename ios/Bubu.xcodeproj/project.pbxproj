@@ -31,6 +31,7 @@
 		652B1B4D261CFA8A9B91B9A7 /* Content.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9AF8DD32D7E749F149ABBC0 /* Content.swift */; };
 		75BBCF6040E51A3E1650F9AC /* FoundationViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264BBC6F2B13F23FA365218 /* FoundationViews.swift */; };
 		77E0A9D8BCA932CD98E6F370 /* Progress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE067E847EBFA61C788207A /* Progress.swift */; };
+		7A4DC467E531DDE9C194E99F /* AppIcon.icon in Resources */ = {isa = PBXBuildFile; fileRef = C24ABB79BC947A8DE0638C11 /* AppIcon.icon */; };
 		7C544CC99B0F085E8FCBAAD2 /* NavigationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6625EB342CF943FC21A2937 /* NavigationTests.swift */; };
 		8055E8E733D13E8ACC41F1A8 /* character-meanings.json in Resources */ = {isa = PBXBuildFile; fileRef = 14976C9407B7FECEFFE1D5A8 /* character-meanings.json */; };
 		8117A950403A1C2F0A5DD291 /* provenance.json in Resources */ = {isa = PBXBuildFile; fileRef = 98FC10DAC2096FE22D4D8EB2 /* provenance.json */; };
@@ -38,14 +39,18 @@
 		8AA3D818F58E5FA6AC499311 /* Dialogue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C4D51215C7F6905ED76B46 /* Dialogue.swift */; };
 		939BC2B112F793E835EA8BDA /* RadicalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE6FEE0EB2759C1AB39285C7 /* RadicalTests.swift */; };
 		95C17F3282AE503AACF7F576 /* RadicalViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFDD70F8F5E2C28D1A308C9F /* RadicalViews.swift */; };
+		96B68C582FE4DABD481CD067 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CDAEEC65934501A58FC4FEC /* Game.swift */; };
 		9A7D42750C7EE2C715FF60BE /* StudyEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C1829FBB97DAD65CCAF60E /* StudyEngine.swift */; };
 		9DE751AE29387937D5113EF5 /* PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9001CC641CED5E8F967D9A9A /* PracticeTests.swift */; };
 		A704EFEFE56EFF5D9FD866DA /* Pitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7FC108112B8F512463C0AC /* Pitch.swift */; };
+		B4F355025CE79A9EBF686FB2 /* GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8CC856AD78E0B0809C74C6 /* GameTests.swift */; };
 		B56DEA4CA5885EB24F67D011 /* PinyinIPATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF12B918B878808B3FEE2A7 /* PinyinIPATests.swift */; };
 		B5FFF4909338BD2A8B5650C6 /* LICENSE-UNICODE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 54746AA730E48A1B734825D1 /* LICENSE-UNICODE.txt */; };
 		C11C5BB6F996989D6BD4941A /* Design.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7BAC8FB16386A7E164C21B /* Design.swift */; };
 		C44FB818ED1890A9D6DC16EB /* Handwriting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A41A660A79071A91F8E85E4 /* Handwriting.swift */; };
 		CCB8AF397E97F012958319F3 /* Exam.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2BD9C91BAFACFE1202E6DB /* Exam.swift */; };
+		CCE26AA202C496BF16475D13 /* game-words.json in Resources */ = {isa = PBXBuildFile; fileRef = A9B6948B8A3838823B72E847 /* game-words.json */; };
+		D194E2FCF0B939F67FB11AFC /* GameViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1CE4A1F1D370C8F11659DD /* GameViews.swift */; };
 		D32AEC30C50BD966B3B68ECB /* dialogues.json in Resources */ = {isa = PBXBuildFile; fileRef = 9CC7C3CD8032B919FFCAB2E3 /* dialogues.json */; };
 		E3CDA2E5A764B67008412CF4 /* curriculum.json in Resources */ = {isa = PBXBuildFile; fileRef = 141C3C3C9F6F746EA6BE64D2 /* curriculum.json */; };
 		E4E6CAB73F7140471E9B7419 /* ToneViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 525FCCDA0980FC91478642C3 /* ToneViews.swift */; };
@@ -76,6 +81,7 @@
 		0E941EEB027EE93214F31497 /* StudyViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyViews.swift; sourceTree = "<group>"; };
 		141C3C3C9F6F746EA6BE64D2 /* curriculum.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = curriculum.json; sourceTree = "<group>"; };
 		14976C9407B7FECEFFE1D5A8 /* character-meanings.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "character-meanings.json"; sourceTree = "<group>"; };
+		1CDAEEC65934501A58FC4FEC /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		202FD51652213DC2571F3CD7 /* grammar.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = grammar.json; sourceTree = "<group>"; };
 		2C7FC108112B8F512463C0AC /* Pitch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pitch.swift; sourceTree = "<group>"; };
 		2CE067E847EBFA61C788207A /* Progress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Progress.swift; sourceTree = "<group>"; };
@@ -87,6 +93,7 @@
 		54C1829FBB97DAD65CCAF60E /* StudyEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyEngine.swift; sourceTree = "<group>"; };
 		57310ACAB176E2B8CE2FD508 /* strokes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = strokes.json; sourceTree = "<group>"; };
 		5A70B3718BA0D29839706159 /* Bubu.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = Bubu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C8CC856AD78E0B0809C74C6 /* GameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameTests.swift; sourceTree = "<group>"; };
 		5CD7A868ADF644A685A597B7 /* BubuTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = BubuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		661A105EEF26694A6DE08A8B /* ExamSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamSession.swift; sourceTree = "<group>"; };
 		6A439F89140ECC2A69083AF0 /* ContentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentTests.swift; sourceTree = "<group>"; };
@@ -101,11 +108,14 @@
 		98FC10DAC2096FE22D4D8EB2 /* provenance.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = provenance.json; sourceTree = "<group>"; };
 		9CC7C3CD8032B919FFCAB2E3 /* dialogues.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = dialogues.json; sourceTree = "<group>"; };
 		A9AF8DD32D7E749F149ABBC0 /* Content.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Content.swift; sourceTree = "<group>"; };
+		A9B6948B8A3838823B72E847 /* game-words.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "game-words.json"; sourceTree = "<group>"; };
+		AD1CE4A1F1D370C8F11659DD /* GameViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViews.swift; sourceTree = "<group>"; };
 		B53CF136E707008E6C66D915 /* Radicals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Radicals.swift; sourceTree = "<group>"; };
 		BAB0957AB7FB61234D2A6C75 /* DialogueViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialogueViews.swift; sourceTree = "<group>"; };
 		BB366FAEB290546BA8889C3A /* PinyinIPAViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinyinIPAViews.swift; sourceTree = "<group>"; };
 		BE6FEE0EB2759C1AB39285C7 /* RadicalTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadicalTests.swift; sourceTree = "<group>"; };
 		C0AF4E60340741AFA8428A6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C24ABB79BC947A8DE0638C11 /* AppIcon.icon */ = {isa = PBXFileReference; lastKnownFileType = wrapper.icon; path = AppIcon.icon; sourceTree = "<group>"; };
 		CEF4EDE8F56B3E780DF30FA9 /* PinyinIPA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinyinIPA.swift; sourceTree = "<group>"; };
 		D0BF4708E9B4170AA8CA3CC5 /* ExamTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamTests.swift; sourceTree = "<group>"; };
 		DD87628EAA858FE8E42CD382 /* ExamViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamViews.swift; sourceTree = "<group>"; };
@@ -156,6 +166,7 @@
 		4033DD4DBC294F4B3BE0D5F7 /* Bubu */ = {
 			isa = PBXGroup;
 			children = (
+				C24ABB79BC947A8DE0638C11 /* AppIcon.icon */,
 				C0AF4E60340741AFA8428A6C /* Assets.xcassets */,
 				63F08BD330F7CCFA4A7FE9C5 /* App */,
 				8555387421CCF9BD12B8BE84 /* Core */,
@@ -181,6 +192,7 @@
 				41C4D51215C7F6905ED76B46 /* Dialogue.swift */,
 				FA2BD9C91BAFACFE1202E6DB /* Exam.swift */,
 				661A105EEF26694A6DE08A8B /* ExamSession.swift */,
+				1CDAEEC65934501A58FC4FEC /* Game.swift */,
 				8DC671689A043485FABCCE8E /* Grammar.swift */,
 				0A41A660A79071A91F8E85E4 /* Handwriting.swift */,
 				7D5809366B18936E83A84536 /* OralRecorder.swift */,
@@ -207,6 +219,7 @@
 			children = (
 				6A439F89140ECC2A69083AF0 /* ContentTests.swift */,
 				D0BF4708E9B4170AA8CA3CC5 /* ExamTests.swift */,
+				5C8CC856AD78E0B0809C74C6 /* GameTests.swift */,
 				FAF12B918B878808B3FEE2A7 /* PinyinIPATests.swift */,
 				9001CC641CED5E8F967D9A9A /* PracticeTests.swift */,
 				BE6FEE0EB2759C1AB39285C7 /* RadicalTests.swift */,
@@ -223,6 +236,7 @@
 				141C3C3C9F6F746EA6BE64D2 /* curriculum.json */,
 				9CC7C3CD8032B919FFCAB2E3 /* dialogues.json */,
 				E2770A6860687AC45E8AA18A /* exam-bank.json */,
+				A9B6948B8A3838823B72E847 /* game-words.json */,
 				202FD51652213DC2571F3CD7 /* grammar.json */,
 				E84EB49B65395C134845442B /* LICENSE-FSRS.txt */,
 				54746AA730E48A1B734825D1 /* LICENSE-UNICODE.txt */,
@@ -239,6 +253,7 @@
 				BAB0957AB7FB61234D2A6C75 /* DialogueViews.swift */,
 				DD87628EAA858FE8E42CD382 /* ExamViews.swift */,
 				E264BBC6F2B13F23FA365218 /* FoundationViews.swift */,
+				AD1CE4A1F1D370C8F11659DD /* GameViews.swift */,
 				314D1CA186DD139A56E7E566 /* GrammarViews.swift */,
 				2E3EBD21A808A13B08FCDB10 /* OralViews.swift */,
 				BB366FAEB290546BA8889C3A /* PinyinIPAViews.swift */,
@@ -363,6 +378,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				037BB4661147419BF9C65A93 /* ARPHICPL.txt in Resources */,
+				7A4DC467E531DDE9C194E99F /* AppIcon.icon in Resources */,
 				48406B1C069112B471039C62 /* Assets.xcassets in Resources */,
 				0F59F3A242DB34074BBB6167 /* LICENSE-FSRS.txt in Resources */,
 				B5FFF4909338BD2A8B5650C6 /* LICENSE-UNICODE.txt in Resources */,
@@ -370,6 +386,7 @@
 				E3CDA2E5A764B67008412CF4 /* curriculum.json in Resources */,
 				D32AEC30C50BD966B3B68ECB /* dialogues.json in Resources */,
 				F330717CA7663AAD311C9DC0 /* exam-bank.json in Resources */,
+				CCE26AA202C496BF16475D13 /* game-words.json in Resources */,
 				01F8D5BE29A271BC320D88FA /* grammar.json in Resources */,
 				8117A950403A1C2F0A5DD291 /* provenance.json in Resources */,
 				63C24AFBC63022BE51FC2C6B /* radicals.json in Resources */,
@@ -401,6 +418,8 @@
 				35D51BD36D0E7C4367A57100 /* ExamSession.swift in Sources */,
 				1017C3829A972D477081C4C8 /* ExamViews.swift in Sources */,
 				75BBCF6040E51A3E1650F9AC /* FoundationViews.swift in Sources */,
+				96B68C582FE4DABD481CD067 /* Game.swift in Sources */,
+				D194E2FCF0B939F67FB11AFC /* GameViews.swift in Sources */,
 				F0A997FFB5AA84108CE56F65 /* Grammar.swift in Sources */,
 				F30A68547BE99C2FF5F4EDCE /* GrammarViews.swift in Sources */,
 				C44FB818ED1890A9D6DC16EB /* Handwriting.swift in Sources */,
@@ -426,6 +445,7 @@
 			files = (
 				5E033465F61AA8122AA90F76 /* ContentTests.swift in Sources */,
 				0019A26241C6467AD172FECD /* ExamTests.swift in Sources */,
+				B4F355025CE79A9EBF686FB2 /* GameTests.swift in Sources */,
 				B56DEA4CA5885EB24F67D011 /* PinyinIPATests.swift in Sources */,
 				9DE751AE29387937D5113EF5 /* PracticeTests.swift in Sources */,
 				939BC2B112F793E835EA8BDA /* RadicalTests.swift in Sources */,
@@ -536,7 +556,7 @@
 		2CF719162D092D0A514AE7B3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -576,7 +596,7 @@
 		93CD404528781FFE44310A41 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;

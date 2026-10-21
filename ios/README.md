@@ -165,4 +165,15 @@ Dati: `Content/character_meanings.tsv` → `Resources/character-meanings.json` (
 
 Lo script verifica che tutti i 253 caratteri abbiano significato e immagine, che i disegni esistano e che i significati presi dalle parole coincidano con il catalogo. L’asset catalog non contiene ancora l’icona dell’app (`ASSETCATALOG_COMPILER_APPICON_NAME` vuoto in `project.yml`).
 
+## Blocco 9: Sfida e icona
+
+**Sfida** (home → «Sfida»): un carattere o una parola, quattro risposte, una serie senza fine.
+- Livello HSK 1, 2, 3 o tutti; risposta con il significato in italiano o con il pinyin.
+- I tre distrattori sono casuali tra le parole dello stesso livello e sempre diversi tra loro; le ultime 12 parole non si ripetono.
+- Il carattere appare da solo; pinyin e significato compaiono appena si risponde. Risposta giusta: la serie cresce e si passa da soli al seguente. Errore: si vede la risposta corretta, la serie torna a zero e si prosegue dopo pochi secondi o con «Avanti».
+- Si conserva soltanto il record, separato per livello e modo (`UserDefaults`, chiavi `game.best.<livello>.<modo>`). Nessun effetto su ripasso FSRS e copertura.
+- Parole: `Resources/game-words.json` da `Scripts/import_game.py`. 300 + 200 + 500 parole della lista ufficiale 2025 (hanzi, pinyin e livello verificati su `hsk2025.json`), traduzioni del progetto in `hsk2025/final/`. Per l’HSK 1 valgono le traduzioni del catalogo dell’app; nelle traduzioni HSK 2–3 i caratteri cinesi ricevono il pinyin accanto. Corretto anche il classificatore 只, che pypinyin legge zhǐ: si legge zhī (vale anche per 狗 e 猫 nel catalogo).
+
+**Icona**: documento Icon Composer `Bubu/AppIcon.icon`, coerente con il sigillo dell’app. Fondo rosso sigillo pieno, due livelli in vetro liquido: il bordo del timbro e 步步 in colonna con i tratti kai di `hanzi-writer-data` (Arphic), ispessiti per restare leggibili a 60 punti. Varianti chiara, scura, trasparente e colorata generate dal sistema; per iOS 17–18 Xcode produce immagini statiche. Verificata con `ictool` e nel bundle (`CFBundleIconName = AppIcon`).
+
 Sviluppi ulteriori del report: calibrazione della difficoltà e previsione alla data d’esame, consolidamento finale guidato, scomposizioni didattiche dei caratteri, esercizi specifici HSK 2 e simulatore orale completo HSK 3. L’MVP non presenta queste capacità come già disponibili.

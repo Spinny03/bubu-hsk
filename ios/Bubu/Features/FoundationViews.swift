@@ -23,6 +23,8 @@ struct HomeView: View {
     let content: Curriculum
     @Query private var cards: [StudyCard]
     @AppStorage("placementDone") private var placementDone = false
+    /// Miglior serie della Sfida su tutti i livelli e modi.
+    var bestGame: Int { GameEngine.levels.flatMap { level in GameMode.allCases.map { UserDefaults.standard.integer(forKey: GameEngine.bestKey(level: level, mode: $0)) } }.max() ?? 0 }
     private let nextLevels: [(name: String, words: Int)] = [("2", 500), ("3", 1000), ("4", 2000), ("5", 3600), ("6", 5400), ("7–9", 11000)]
     var body: some View {
         Page(spacing: 24) {
@@ -40,6 +42,9 @@ struct HomeView: View {
                     RowGroup { ActionRow(title: "Sai già un po’ di cinese?", detail: "Ascolto e lettura · 10–15\u{00A0}min", icon: "location.magnifyingglass") }
                 }.buttonStyle(.plain).accessibilityIdentifier("placement")
             }
+            NavigationLink { GameView() } label: {
+                RowGroup { ActionRow(title: "Sfida", detail: "Un carattere, quattro risposte: serie senza fine", icon: "bolt.fill", trailing: bestGame > 0 ? "Record \(bestGame)" : nil) }
+            }.buttonStyle(.plain).accessibilityIdentifier("game")
             VStack(alignment: .leading, spacing: 10) {
                 SectionTitle(title: "Il tuo livello", detail: "Programma 2025")
                 NavigationLink { LevelView(content: content) } label: { currentLevel }
