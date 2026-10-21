@@ -23,7 +23,11 @@ final class NavigationTests: XCTestCase {
         XCTAssertTrue(app.staticTexts["card-back"].waitForExistence(timeout: 5))
         capture("05-ripasso-retro")
         app.buttons["continue-review"].tap()
-        app.buttons["answer-1"].tap()
+        let wrong = app.buttons.matching(NSPredicate(format: "identifier BEGINSWITH 'answer-' AND identifier != 'answer-1'")).firstMatch
+        XCTAssertTrue(wrong.waitForExistence(timeout: 5))
+        wrong.tap()
+        XCTAssertTrue(app.staticTexts["Da rivedere"].waitForExistence(timeout: 5))
+        capture("19-ripasso-errore")
         app.buttons["continue-review"].tap()
         XCTAssertTrue(app.textFields["pinyin-input"].waitForExistence(timeout: 5))
         capture("06-pinyin")
@@ -31,6 +35,9 @@ final class NavigationTests: XCTestCase {
         app.swipeUp()
         app.buttons["Verifica"].tap()
         XCTAssertTrue(app.staticTexts["Da rivedere"].waitForExistence(timeout: 5))
+        capture("20-pinyin-correzione")
+        // Durante il ripasso la barra delle schede è nascosta: si torna indietro prima di cambiare scheda.
+        app.navigationBars.buttons.firstMatch.tap()
         app.tabBars.buttons["Livelli"].tap()
         app.buttons["level-1"].tap(); app.swipeUp()
         app.buttons.matching(NSPredicate(format: "label CONTAINS %@", "70 righe")).firstMatch.tap()

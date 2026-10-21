@@ -8,8 +8,11 @@ struct StudySessionView: View {
     @State private var correctCount = 0
     @State private var assessmentSaved = false
     @Environment(\.modelContext) private var context
+    @Environment(\.dismiss) private var dismiss
+    @AppStorage("tonePalette") private var palette = "Standard"
     @StateObject private var speech = SpeechPlayer()
     @State private var queue: [ReviewItem] = []
+    @State private var loaded = false
     @State private var index = 0
     @State private var response = ""
     @State private var answered = false
@@ -27,80 +30,176 @@ struct StudySessionView: View {
     }
     var character: Hanzi? { content.characters.first { $0.id == item?.contentID } }
     var body: some View {
-        Page {
-            if let item {
-                HStack { Text("\(index+1) di \(queue.count)").font(.caption.bold()); Spacer(); Text(label(item.kind)).font(.caption).foregroundStyle(Palette.jade) }
-                ProgressView(value: Double(index), total: Double(max(1,queue.count))).tint(Palette.jade)
-                if let word {
-                    Panel {
-                        if !answered && item.kind == "audio" {
-                            Text("Ascolta e scegli il significato.").font(.title2.bold())
-                            Button { speech.speak(word.hanzi) } label: { Label("Ascolta", systemImage: "speaker.wave.2.fill").frame(maxWidth: .infinity, minHeight: 70) }.buttonStyle(.borderedProminent).foregroundStyle(.white)
-                        } else if !answered && item.kind == "pinyin" {
-                            Text("Scrivi il pinyin con i toni").font(.headline)
-                            Text(word.italian).font(.title2.bold())
-                        } else {
-                            ChineseText(hanzi: word.hanzi, pinyin: word.pinyin, large: true)
-                        }
-                        if answered {
-                            Text("\(word.emoji) \(word.italian)").font(.title2).accessibilityIdentifier("card-back")
-                            Button { speech.speak(word.hanzi) } label: { Label("Ascolta la parola", systemImage: "speaker.wave.2") }
-                        }
+        ScrollViewReader { proxy in
+            Page(spacing: 16) {
+                if let item {
+                    header(item)
+                    if let word { wordExercise(item, word) }
+                    else if let character, item.kind == "character" { characterExercise(character) }
+                    else if item.kind == "grammar", let lesson = GrammarCatalog.shared?.lessons.first(where: { String($0.id) == item.contentID }) {
+                        GrammarExercise(lesson: lesson) { result, response in answer(result, response: response) }.id(item.id)
+                    } else if item.kind == "tone", let exercise = ToneExercise.all.first(where: { $0.id == item.contentID }) {
+                        ToneQuiz(exercise: exercise, answered: answered) { result, response in answer(result, response: response) }.id(item.id)
+                    } else {
+                        Text("Contenuto non disponibile per questa carta.")
+                        Button("Prosegui") { next() }.buttonStyle(.secondary)
                     }
-                    if !answered {
-                        if item.kind == "pinyin" { pinyinInput }
-                        else {
-                            ForEach(options) { option in
-                                Button { answer(option.id == word.id, response: option.italian) } label: {
-                                    Text(option.italian).frame(maxWidth: .infinity, alignment: .leading).padding(14)
-                                        .background(.white, in: RoundedRectangle(cornerRadius: 12))
-                                }.buttonStyle(.plain).accessibilityIdentifier("answer-\(option.id)")
-                            }
-                        }
+                    if !answered { Toggle("Non sono sicuro", isOn: $uncertain).toggleStyle(.chip) }
+                    if answered { feedback(item) }
+                    if let error {
+                        Text(error).font(.footnote).foregroundStyle(Palette.red)
+                        Button("Riprova a salvare") { answer(correct, response: response) }.buttonStyle(.secondary)
                     }
-                } else if let character, item.kind == "character" {
-                    Panel { Text("Quale carattere senti?").font(.headline); Button("Ascolta") { speech.speak(character.hanzi) }.buttonStyle(.borderedProminent).foregroundStyle(.white) }
-                    ForEach(characterOptions) { c in Button { answer(c.id == character.id, response: c.hanzi) } label: { ChineseText(hanzi: c.hanzi, pinyin: c.pinyin).frame(maxWidth: .infinity, alignment: .leading).padding(12).background(.white, in: RoundedRectangle(cornerRadius: 12)) }.buttonStyle(.plain).disabled(answered) }
-                    if answered { ChineseText(hanzi: character.hanzi, pinyin: character.pinyin) }
-                } else if item.kind == "grammar", let lesson = GrammarCatalog.shared?.lessons.first(where: { String($0.id) == item.contentID }) {
-                    GrammarExercise(lesson: lesson) { result, response in answer(result, response: response) }.id(item.id)
-                } else if item.kind == "tone", let exercise = ToneExercise.all.first(where: { $0.id == item.contentID }) {
-                    ToneQuiz(exercise: exercise, answered: answered) { result, response in answer(result, response: response) }
-                } else {
-                    Text("Contenuto non disponibile per questa carta.")
-                    Button("Prosegui") { next() }
+                    if let error = speech.error { Text(error).font(.footnote).foregroundStyle(Palette.red) }
+                } else if loaded {
+                    completion
                 }
-                if !answered { Toggle("Non sono sicuro", isOn: $uncertain).font(.subheadline) }
-                if answered {
-                    Panel {
-                        Label(correct ? "Risposta corretta" : "Da rivedere", systemImage: correct ? "checkmark.circle" : "arrow.uturn.backward").foregroundStyle(correct ? Palette.jade : Palette.red).font(.headline)
-                        Text(correct ? "Il prossimo ripasso è stato programmato." : "Confronta la risposta con la tua. La carta tornerà nei ripassi.").font(.subheadline)
-                        if item.kind == "pinyin", let word { Text("Hai scritto: \(response)\nPinyin atteso: \(word.pinyin)").font(.subheadline) }
-                    }
-                    Button("Continua") { next() }.buttonStyle(.borderedProminent).foregroundStyle(.white).frame(maxWidth: .infinity).accessibilityIdentifier("continue-review")
-                }
-                if let error { Text(error).foregroundStyle(Palette.red); Button("Riprova a salvare") { answer(correct, response: response) } }
-                if let error = speech.error { Text(error).foregroundStyle(Palette.red) }
-            } else {
-                if unitAssessment != nil { Panel { Text("Mini-test: \(correctCount)/\(queue.count)").font(.headline); Text(correctCount * 10 >= queue.count * 8 ? "Puoi passare alla prossima unità. Continua comunque i ripassi." : "Riprendi le parole che ti hanno fermato, poi riprova."); Text("Criterio didattico: almeno 8 risposte su 10. Non è una soglia d’esame.").font(.caption) } }
-                Panel { Image(systemName: "checkmark.circle").font(.largeTitle).foregroundStyle(Palette.jade); Text("Ripasso completato").font(.title2.bold()); Text("Le risposte sono salvate. Le carte torneranno quando sarà utile riprenderle.") }
-                if let error { Text(error).foregroundStyle(Palette.red); Button("Salva il mini-test") { saveAssessment() } }
             }
-        }.navigationTitle("Ripasso").navigationBarTitleDisplayMode(.inline)
-            .onAppear { if queue.isEmpty { queue = initialQueue; prepare() } }
-            .onDisappear { speech.stop() }
+            .animation(.easeOut(duration: 0.2), value: answered)
+            .onChange(of: answered) { _, value in
+                // Attende il layout della correzione, poi porta «Continua» nello schermo.
+                if value { DispatchQueue.main.asyncAfter(deadline: .now() + 0.25) { withAnimation(.easeOut(duration: 0.3)) { proxy.scrollTo("continue", anchor: .bottom) } } }
+            }
+            .onChange(of: index) { _, _ in proxy.scrollTo("top", anchor: .top) }
+        }
+        .navigationTitle(unitAssessment.map { "Mini-test · unità \($0)" } ?? "Ripasso").navigationBarTitleDisplayMode(.inline)
+        .toolbar(.hidden, for: .tabBar)
+        .onAppear { if !loaded { queue = initialQueue; loaded = true; prepare() } }
+        .onDisappear { speech.stop() }
     }
-    var pinyinInput: some View {
+    func header(_ item: ReviewItem) -> some View {
         VStack(alignment: .leading, spacing: 10) {
-            TextField("Es. nǐ hǎo", text: $response).textFieldStyle(.roundedBorder).textInputAutocapitalization(.never).autocorrectionDisabled().focused($typing).accessibilityIdentifier("pinyin-input")
-            ForEach(["ā á ǎ à", "ē é ě è", "ī í ǐ ì", "ō ó ǒ ò", "ū ú ǔ ù", "ǖ ǘ ǚ ǜ"], id: \.self) { row in
-                HStack { ForEach(row.split(separator: " "), id: \.self) { tone in Button(String(tone)) { response += tone }.frame(maxWidth: .infinity, minHeight: 44).background(.white, in: RoundedRectangle(cornerRadius: 8)) } }
+            HStack {
+                Tag(text: label(item.kind))
+                Spacer()
+                Text("\(index+1) di \(queue.count)").font(.footnote.weight(.semibold)).monospacedDigit().foregroundStyle(Palette.inkSoft)
             }
-            Button("Verifica") { if let word { answer(StudyEngine.acceptsPinyin(response, expected: word.pinyin), response: response) } }.buttonStyle(.borderedProminent).foregroundStyle(.white).disabled(response.trimmingCharacters(in: .whitespaces).isEmpty)
+            Meter(value: Double(index) / Double(max(1, queue.count)), tint: Palette.ink, height: 4)
+        }.id("top")
+    }
+    @ViewBuilder func wordExercise(_ item: ReviewItem, _ word: Word) -> some View {
+        Panel(padding: 20, spacing: 18) {
+            Text(prompt(item.kind)).font(.subheadline.weight(.medium)).foregroundStyle(Palette.inkSoft).frame(maxWidth: .infinity)
+            if !answered && item.kind == "audio" {
+                AudioButton(speaking: speech.isSpeaking) { speech.speak(word.hanzi) }.frame(maxWidth: .infinity)
+            } else if !answered && item.kind == "pinyin" {
+                Text(word.italian).font(.title2.weight(.semibold)).multilineTextAlignment(.center).frame(maxWidth: .infinity)
+            } else {
+                HanziHero(hanzi: word.hanzi, pinyin: word.pinyin)
+            }
+            if answered {
+                Rectangle().fill(Palette.line).frame(height: 0.5)
+                HStack(spacing: 12) {
+                    Text("\(word.emoji) \(word.italian)").font(.title3.weight(.semibold)).accessibilityIdentifier("card-back")
+                    Spacer(minLength: 8)
+                    Button { speech.speak(word.hanzi) } label: { Image(systemName: "speaker.wave.2.fill") }
+                        .buttonStyle(.secondaryCompact).accessibilityLabel("Ascolta la parola")
+                }
+            }
+        }
+        if item.kind == "pinyin" {
+            if !answered { pinyinInput }
+        } else {
+            VStack(spacing: 10) {
+                ForEach(options) { option in
+                    ChoiceButton(state: state(option.id == word.id, chosen: option.italian == response)) { answer(option.id == word.id, response: option.italian) } label: {
+                        Text(option.italian)
+                    }
+                    .disabled(answered).accessibilityIdentifier("answer-\(option.id)")
+                }
+            }
         }
     }
+    @ViewBuilder func characterExercise(_ character: Hanzi) -> some View {
+        Panel(padding: 20, spacing: 16) {
+            Text("Quale carattere senti?").font(.subheadline.weight(.medium)).foregroundStyle(Palette.inkSoft).frame(maxWidth: .infinity)
+            AudioButton(speaking: speech.isSpeaking) { speech.speak(character.hanzi) }.frame(maxWidth: .infinity)
+        }
+        LazyVGrid(columns: [GridItem(.flexible(), spacing: 10), GridItem(.flexible())], spacing: 10) {
+            ForEach(characterOptions) { option in
+                ChoiceButton(state: state(option.id == character.id, chosen: option.hanzi == response), alignment: .center) { answer(option.id == character.id, response: option.hanzi) } label: {
+                    ChineseText(hanzi: option.hanzi, pinyin: option.pinyin, size: .card, alignment: .center)
+                }.disabled(answered)
+            }
+        }
+    }
+    var pinyinInput: some View {
+        VStack(spacing: 12) {
+            TextField("Es. nǐ hǎo", text: $response)
+                .font(.title3).textInputAutocapitalization(.never).autocorrectionDisabled().focused($typing)
+                .padding(.horizontal, 16).frame(minHeight: 54)
+                .background(Palette.surface, in: RoundedRectangle(cornerRadius: 14, style: .continuous))
+                .overlay(RoundedRectangle(cornerRadius: 14, style: .continuous).strokeBorder(typing ? Palette.ink : Palette.line, lineWidth: typing ? 2 : 1))
+                .onSubmit { verifyPinyin() }
+                .accessibilityIdentifier("pinyin-input")
+            Grid(horizontalSpacing: 6, verticalSpacing: 6) {
+                ForEach(Array(["āēīōūǖ", "áéíóúǘ", "ǎěǐǒǔǚ", "àèìòùǜ"].enumerated()), id: \.offset) { tone, row in
+                    GridRow {
+                        ForEach(Array(row), id: \.self) { mark in
+                            Button { response += String(mark) } label: {
+                                Text(String(mark)).font(.title3).foregroundStyle(Palette.tone(tone+1, mode: palette))
+                                    .frame(maxWidth: .infinity, minHeight: 44)
+                                    .background(Palette.surface, in: RoundedRectangle(cornerRadius: 10, style: .continuous))
+                                    .contentShape(Rectangle())
+                            }
+                            .buttonStyle(.plain).accessibilityLabel("\(mark), \(tone+1)° tono")
+                        }
+                    }
+                }
+            }
+            Button("Verifica") { verifyPinyin() }.buttonStyle(.primary).disabled(response.trimmingCharacters(in: .whitespaces).isEmpty)
+        }
+    }
+    @ViewBuilder func feedback(_ item: ReviewItem) -> some View {
+        FeedbackBanner(correct: correct, title: correct ? "Risposta corretta" : "Da rivedere") {
+            Text(correct ? (uncertain ? "Segnata come incerta: tornerà un po’ prima." : "Il prossimo ripasso è stato programmato.") : "Confronta la risposta con la tua. La carta tornerà nei ripassi.")
+            if item.kind == "pinyin", let word {
+                Grid(alignment: .leading, horizontalSpacing: 12, verticalSpacing: 4) {
+                    GridRow { Text("Hai scritto").foregroundStyle(Palette.inkSoft); Text(response).font(.body.weight(.semibold)) }
+                    GridRow { Text("Pinyin atteso").foregroundStyle(Palette.inkSoft); Text(word.pinyin).font(.body.weight(.semibold)) }
+                }
+            }
+        }
+        Button("Continua") { next() }.buttonStyle(.primary).accessibilityIdentifier("continue-review").id("continue")
+    }
+    @ViewBuilder var completion: some View {
+        VStack(spacing: 12) {
+            Image(systemName: queue.isEmpty ? "tray" : "checkmark.seal.fill").font(.system(size: 48)).foregroundStyle(queue.isEmpty ? Palette.inkSoft : Palette.jade).accessibilityHidden(true)
+            Text(queue.isEmpty ? "Niente da ripassare adesso" : "Ripasso completato").font(.screenTitle).multilineTextAlignment(.center)
+            Text(queue.isEmpty ? "Le carte torneranno quando sarà utile riprenderle." : "Le risposte sono salvate. Le carte torneranno quando sarà utile riprenderle.")
+                .font(.subheadline).foregroundStyle(Palette.inkSoft).multilineTextAlignment(.center)
+        }.frame(maxWidth: .infinity).padding(.top, 32).padding(.bottom, 8)
+        if unitAssessment != nil && !queue.isEmpty {
+            Panel(spacing: 8) {
+                HStack(alignment: .firstTextBaseline) {
+                    Text("Mini-test").font(.headline)
+                    Spacer()
+                    Text("\(correctCount)/\(queue.count)").font(.title3.weight(.semibold)).monospacedDigit()
+                }
+                Text(correctCount * 10 >= queue.count * 8 ? "Puoi passare alla prossima unità. Continua comunque i ripassi." : "Riprendi le parole che ti hanno fermato, poi riprova.")
+                Text("Criterio didattico: almeno 8 risposte su 10. Non è una soglia d’esame.").font(.footnote).foregroundStyle(Palette.inkSoft)
+            }
+        }
+        if let error {
+            Text(error).font(.footnote).foregroundStyle(Palette.red)
+            Button("Salva il mini-test") { saveAssessment() }.buttonStyle(.secondary)
+        }
+        Button("Fine") { dismiss() }.buttonStyle(.primary)
+    }
+    func prompt(_ kind: String) -> String {
+        switch kind { case "audio": return "Ascolta e scegli il significato."; case "pinyin": return "Scrivi il pinyin con i toni"; default: return "Che cosa significa?" }
+    }
     func label(_ kind: String) -> String {
-        switch kind { case "audio": return "ASCOLTO → SIGNIFICATO"; case "pinyin": return "RICHIAMO DEL PINYIN"; case "grammar": return "GRAMMATICA"; case "character": return "RICONOSCIMENTO"; case "tone": return "TONI NELLE PAROLE"; default: return "CINESE → SIGNIFICATO" }
+        switch kind { case "audio": return "Ascolto → significato"; case "pinyin": return "Richiamo del pinyin"; case "grammar": return "Grammatica"; case "character": return "Riconoscimento"; case "tone": return "Toni nelle parole"; default: return "Cinese → significato" }
+    }
+    func state(_ isAnswer: Bool, chosen: Bool) -> ChoiceState {
+        guard answered else { return .idle }
+        if isAnswer { return .correct }
+        return chosen ? .wrong : .dimmed
+    }
+    func verifyPinyin() {
+        guard let word, !response.trimmingCharacters(in: .whitespaces).isEmpty else { return }
+        answer(StudyEngine.acceptsPinyin(response, expected: word.pinyin), response: response)
     }
     func answer(_ result: Bool, response: String) {
         guard !answered, let item else { return }
@@ -109,6 +208,7 @@ struct StudySessionView: View {
             try StudyEngine.record(item, correct: result, uncertain: uncertain, response: response, duration: Date().timeIntervalSince(started), context: context)
             answered = true; error = nil
             if result { correctCount += 1 }
+            AccessibilityNotification.Announcement(result ? "Risposta corretta" : "Da rivedere").post()
         } catch { self.error = "Risposta non salvata: \(error.localizedDescription)" }
     }
     func saveAssessment() {
