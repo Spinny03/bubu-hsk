@@ -31,6 +31,9 @@ def main():
         units.append(dict(id=u['n'],title=u['it'],hanzi=u['cn'],pinyin=u['cnpy'],goals=goals))
     assert len(units)==15 and set(w['unit'] for w in words)==set(range(1,16))
     readings={c['c']:c['py'] for c in prototype['chars']}
+    # Le letture del prototipo vengono dalle parole: in 便宜 piányi o 朋友 péngyou il secondo carattere è neutro.
+    # Da solo il carattere ha il tono di dizionario (Unicode 18.0 Unihan, kMandarin); le particelle restano neutre.
+    readings.update({'得':'dé','服':'fú','候':'hòu','欢':'huān','亮':'liàng','识':'shí','西':'xī','息':'xī','系':'xì','宜':'yí','友':'yǒu','子':'zǐ'})
     writing=[c['char'] for c in official['writing_chars'] if c['list']=='一级）~（二级']
     assert len(writing)==100
     chars=[dict(id=c,hanzi=c,pinyin=readings.get(c) or lazy_pinyin(c,style=Style.TONE)[0],writing=c in writing) for c in official['recognition_chars']['一级']]
