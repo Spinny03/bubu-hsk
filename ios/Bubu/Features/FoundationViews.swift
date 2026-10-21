@@ -8,7 +8,7 @@ struct RootView: View {
         VStack(spacing: 0) {
         TabView(selection: $selected) {
             NavigationStack { HomeView(content: content) }.tabItem { Label("Livelli", systemImage: "square.stack.3d.up") }.tag(0)
-            NavigationStack { ReviewLanding(content: content) }.tabItem { Label("Ripasso", systemImage: "arrow.trianglehead.2.clockwise.rotate.90") }.tag(1)
+            NavigationStack { ReviewLanding(content: content) }.tabItem { Label("Ripasso", systemImage: "arrow.triangle.2.circlepath") }.tag(1)
             NavigationStack { PlanView() }.tabItem { Label("Il mio piano", systemImage: "calendar") }.tag(2)
         }
         SourceFooter()
@@ -59,7 +59,7 @@ struct HomeView: View {
 struct LevelView: View {
     let content: Curriculum
     @Query private var cards: [StudyCard]
-    var learned: Int { Set(cards.filter { $0.kind == "meaning" && $0.successes >= 2 && $0.lastCorrect }.map(\.contentID)).count }
+    var learned: Int { content.words.filter { word in ["meaning", "audio", "pinyin"].allSatisfy { kind in cards.contains { $0.contentID == String(word.id) && $0.kind == kind && $0.successes >= 2 && $0.lastCorrect } } }.count }
     var body: some View {
         Page {
             Text("Le basi per capire\ne farti capire.").font(.system(.largeTitle, design: .serif).bold())
@@ -75,6 +75,8 @@ struct LevelView: View {
             NavigationLink { UnitsView(content: content) } label: { Panel { ActionRow(title: "Il percorso", detail: "15 compiti, dalle presentazioni alla cucina", icon: "point.topleft.down.to.point.bottomright.curvepath") } }.buttonStyle(.plain)
             Panel {
                 NavigationLink { WordsView(content: content) } label: { ActionRow(title: "Parole", detail: "300 parole · pinyin e significato", icon: "character.book.closed") }
+                Divider()
+                NavigationLink { GrammarListView(content: content) } label: { ActionRow(title: "Grammatica", detail: "70 righe collegate ai testi del libro", icon: "text.book.closed") }
                 Divider()
                 NavigationLink { CharactersView(content: content) } label: { ActionRow(title: "Caratteri", detail: "246 da riconoscere · 100 da scrivere", icon: "pencil.tip") }
             }.buttonStyle(.plain)
@@ -131,6 +133,7 @@ struct UnitView: View {
             NavigationLink { WordsView(content: content, unit: unit.id) } label: {
                 Panel { ActionRow(title: "Le parole dell’unità", detail: "Studia e verifica quello che ricordi", icon: "rectangle.on.rectangle") }
             }.buttonStyle(.plain)
+            NavigationLink { GrammarListView(content: content, unit: unit.id) } label: { Panel { ActionRow(title: "Grammatica dell’unità", detail: "Spiegazione, esempi e verifica", icon: "text.book.closed") } }.buttonStyle(.plain)
         }.navigationTitle("Unità \(unit.id)").navigationBarTitleDisplayMode(.inline)
     }
 }
@@ -138,35 +141,56 @@ struct WordsView: View {
     let content: Curriculum
     var unit: Int? = nil
     @State private var search = ""
+    @Query private var cards: [StudyCard]
     var words: [Word] { content.words.filter { (unit == nil || $0.unit == unit) && (search.isEmpty || "\($0.hanzi) \($0.pinyin) \($0.italian)".folding(options: [.diacriticInsensitive, .caseInsensitive], locale: .current).contains(search.folding(options: [.diacriticInsensitive, .caseInsensitive], locale: .current))) } }
     var body: some View {
-        List(words) { word in
-            NavigationLink { WordDetail(word: word) } label: {
+        List {
+            NavigationLink { StudySessionView(content: content, initialQueue: StudyEngine.queue(cards: cards, words: content.words, unit: unit)) } label: { Label("Studia queste parole", systemImage: "play.fill") }.accessibilityIdentifier("study-words")
+            ForEach(words) { word in
+            NavigationLink { WordDetail(content: content, word: word) } label: {
                 HStack { ChineseText(hanzi: word.hanzi, pinyin: word.pinyin).frame(width: 125, alignment: .leading); Text(word.italian).font(.subheadline) }.padding(.vertical, 4)
             }
+        }
         }.searchable(text: $search, prompt: "Cinese, pinyin o italiano").navigationTitle(unit.map { "Parole · unità \($0)" } ?? "300 parole")
     }
 }
 struct WordDetail: View {
+    let content: Curriculum
     let word: Word
+    @StateObject private var speech = SpeechPlayer()
     var body: some View {
-        Page { Panel { ChineseText(hanzi: word.hanzi, pinyin: word.pinyin, large: true); Text("\(word.emoji) \(word.italian)").font(.title2); Text("Unità \(word.unit)").foregroundStyle(.secondary) } }
-            .navigationTitle("Parola").navigationBarTitleDisplayMode(.inline)
+        Page {
+            Panel { ChineseText(hanzi: word.hanzi, pinyin: word.pinyin, large: true); Text("\(word.emoji) \(word.italian)").font(.title2); Text("Unità \(word.unit)").foregroundStyle(.secondary); Button { speech.speak(word.hanzi) } label: { Label("Ascolta", systemImage: "speaker.wave.2") } }
+            NavigationLink("Verifica questa parola") { StudySessionView(content: content, initialQueue: ["meaning", "audio", "pinyin"].map { ReviewItem(contentID: String(word.id), kind: $0) }) }.buttonStyle(.borderedProminent)
+            if let error = speech.error { Text(error).foregroundStyle(Palette.red) }
+        }.navigationTitle("Parola").navigationBarTitleDisplayMode(.inline).onDisappear { speech.stop() }
     }
 }
 struct CharactersView: View {
     let content: Curriculum
     var body: some View {
-        List(content.characters) { character in
-            HStack { ChineseText(hanzi: character.hanzi, pinyin: character.pinyin); Spacer(); if character.writing { Text("Anche da scrivere").font(.caption).foregroundStyle(.secondary) } }
+        List {
+            NavigationLink { StudySessionView(content: content, initialQueue: Array(content.characters.prefix(10)).map { ReviewItem(contentID: $0.id, kind: "character") }) } label: { Label("Verifica il riconoscimento", systemImage: "play.fill") }
+            ForEach(content.characters) { character in
+                HStack { ChineseText(hanzi: character.hanzi, pinyin: character.pinyin); Spacer(); if character.writing { Text("Anche da scrivere").font(.caption).foregroundStyle(.secondary) } }
+            }
         }.navigationTitle("246 caratteri")
     }
 }
 struct ReviewLanding: View {
     let content: Curriculum
+    @Query private var cards: [StudyCard]
+    var due: [StudyCard] { cards.filter { $0.due <= .now } }
     var body: some View {
-        Page { Text("Il tuo ripasso").font(.system(.largeTitle, design: .serif).bold()); Panel { Text("Nessuna carta in scadenza").font(.headline); Text("Inizia dalle parole della prima unità. I ripassi compariranno qui dopo le verifiche."); NavigationLink("Apri la prima unità") { UnitView(content: content, unit: content.units[0]) } } }
-            .navigationTitle("Ripasso").navigationBarTitleDisplayMode(.inline)
+        Page {
+            Text("Un ripasso,\ntutte le tue abilità.").font(.system(.largeTitle, design: .serif).bold())
+            Panel {
+                Text(due.isEmpty ? "Puoi imparare qualcosa di nuovo" : "\(due.count) carte da riprendere").font(.title2.bold())
+                Text("Parole, ascolto, pinyin, caratteri e grammatica. Le scadenze seguono quello che ricordi davvero.").foregroundStyle(.secondary)
+                NavigationLink { StudySessionView(content: content, initialQueue: StudyEngine.queue(cards: cards, words: content.words)) } label: { Label(due.isEmpty ? "Inizia a studiare" : "Inizia il ripasso", systemImage: "play.fill") }.buttonStyle(.borderedProminent).accessibilityIdentifier("start-review")
+            }
+            Panel { Text("Come funziona").font(.headline); Text("Rispondi prima di vedere la soluzione. Se sbagli, la carta torna presto; se ricordi, l’intervallo cresce. Non perdi nulla se salti un giorno."); Text("FSRS 6 · ricordo desiderato 90%. La copertura richiede risposte corrette in almeno due giorni distinti.").font(.caption).foregroundStyle(.secondary) }
+        }.navigationTitle("Ripasso").navigationBarTitleDisplayMode(.inline)
     }
 }
 struct PlanView: View {

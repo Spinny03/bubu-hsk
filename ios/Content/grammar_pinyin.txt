@@ -1,0 +1,548 @@
+Prefissi: piccolo e numeri ordinali
+Il lessico cinese si forma in larga parte combinando unità minime dotate di significato. Conoscere i meccanismi di formazione delle parole (构词法 gòucífǎ) aiuta a memorizzare il vocabolario, a capire parole mai viste e a evitare errori di costruzione: alcuni tipi di parole composte, per esempio, non possono reggere un oggetto. Questo capitolo descrive i morfemi, le parole composte, i prefissi e i suffissi, l'儿化 ér huà, la reduplicazione, le abbreviazioni, i 成语 chéng yǔ e i prestiti.
+
+In cinese si distinguono due nozioni che in italiano tendono a confondersi:
+La formazione delle parole
+ex: 这双鞋的大小正合适。 | Zhè shuāng xié de dàxiǎo zhèng héshì. | Questo paio di scarpe è proprio della misura giusta.
+ex: 他在北京做买卖。 | Tā zài Běijīng zuò mǎimai. | Fa affari a Pechino.
+ex: 我喝红茶，不喝绿茶。 | Wǒ hē hóngchá, bù hē lǜchá. | Bevo tè nero, non tè verde. (lett. tè rosso)
+Suffissi: plurale e posizione
+我们 wǒmen può includere o escludere l'ascoltatore; 咱们 zánmen lo include sempre («noi, io e te / io e voi») ed è tipico del parlato, soprattutto nel nord.
+我们 wǒ men e 咱们 zán men
+ex: 咱们走吧！ | Zánmen zǒu ba! | Andiamo! (tu compreso)
+ex: 今天晚上咱们一起吃饭吧。 | Jīntiān wǎnshang zánmen yìqǐ chī fàn ba. | Stasera mangiamo insieme.
+ex: 我们明天去长城，你们呢？ | Wǒmen míngtiān qù Chángchéng, nǐmen ne? | Noi domani andiamo alla Grande Muraglia, e voi?
+Parole di posizione
+Le parole di localizzazione (方位词 fāngwèicí) indicano una posizione nello spazio (sopra, sotto, dentro, davanti…) e, per estensione, nel tempo o in un ambito astratto. A differenza dell'italiano, che usa preposizioni poste prima del nome (*sul* tavolo, *nella* stanza), il cinese colloca il localizzatore dopo il nome: 桌子上 zhuōzi shang, lett. «tavolo-sopra».
+
+Le forme monosillabiche si attaccano direttamente al nome, senza 的 de. Dopo un nome, 上 shàng e 里 lǐ sono normalmente atoni: zhuōzi shang, fángjiān li.
+Le parole di localizzazione
+ex: 书在桌子上。 | Shū zài zhuōzi shang. | Il libro è sul tavolo. (lett. libro essere-a tavolo-sopra)
+ex: 他在房间里看书。 | Tā zài fángjiān li kàn shū. | Sta leggendo in camera.
+ex: 猫在床下。 | Māo zài chuáng xià. | Il gatto è sotto il letto.
+Saper fare e riuscire
+会 huì, 要 yào e 想 xiǎng possono anche essere verbi pieni con un oggetto nominale: 会 huì «conoscere (una lingua, un'abilità)», 要 yào «volere, chiedere», 想 xiǎng «sentire la mancanza di».
+会 huì, 要 yào, 想 xiǎng come verbi pieni
+ex: 我会汉语。 | Wǒ huì Hànyǔ. | So il cinese.
+ex: 我要一杯咖啡。 | Wǒ yào yì bēi kāfēi. | Prendo un caffè.
+ex: 我想妈妈了。 | Wǒ xiǎng māma le. | Mi manca la mamma.
+Desiderare e volere
+要 yào è uno dei verbi più polivalenti del cinese. Come modale esprime:
+
+Come verbo pieno significa «volere, chiedere» (+ nome) e «richiedere, metterci» (+ durata o prezzo).
+要 yào e 想 xiǎng
+ex: 我要学好汉语。 | Wǒ yào xuéhǎo Hànyǔ. | Voglio imparare bene il cinese.
+ex: 你感冒了，要多喝水。 | Nǐ gǎnmào le, yào duō hē shuǐ. | Hai il raffreddore: devi bere molta acqua.
+ex: 学外语要多听多说。 | Xué wàiyǔ yào duō tīng duō shuō. | Per imparare una lingua straniera bisogna ascoltare e parlare molto.
+Chiedere il permesso
+Tutti e tre possono tradurre «potere», e 会 huì traduce anche «sapere». La scelta dipende dalla fonte della possibilità: un'abilità appresa (会 huì), una capacità fisica o le circostanze (能 néng), un permesso (可以 kě yǐ).
+会 huì, 能 néng, 可以 kě yǐ
+ex: 我会说三种语言。 | Wǒ huì shuō sān zhǒng yǔyán. | So parlare tre lingue.
+ex: 你会开车吗？ | Nǐ huì kāichē ma? | Sai guidare?
+ex: 我女儿已经会写自己的名字了。 | Wǒ nǚ'ér yǐjīng huì xiě zìjǐ de míngzi le. | Mia figlia sa già scrivere il suo nome.
+Verbi separabili
+I verbi separabili (离合词 líhécí, lett. «parole che si separano e si riuniscono») sono verbi bisillabici formati, in origine, da un verbo + il suo oggetto: in 睡觉 shuìjiào «dormire» 睡 shuì è «dormire» e 觉 jué è «il sonno»; in 见面 jiànmiàn «incontrarsi» 见 jiàn è «vedere» e 面 miàn è «la faccia». Quando le due sillabe sono unite si comportano come un'unica parola, ma tra di esse si possono inserire particelle aspettuali, complementi, espressioni di quantità e attributi, proprio come tra un verbo e il suo oggetto.
+
+Dalla loro struttura deriva anche la regola più importante: poiché la seconda sillaba è già un oggetto, i verbi separabili non possono reggere un altro oggetto diretto.
+I verbi separabili (离合词 lí hé cí)
+ex: 我们见过面。 | Wǒmen jiàn guo miàn. | Ci siamo già incontrati.
+ex: 他结了婚以后就搬走了。 | Tā jié le hūn yǐhòu jiù bānzǒu le. | Dopo essersi sposato si è trasferito.
+ex: 你洗了澡再睡吧。 | Nǐ xǐ le zǎo zài shuì ba. | Fatti la doccia prima di andare a dormire.
+Pronomi interrogativi
+I pronomi interrogativi servono a formare le domande aperte, quelle che chiedono un'informazione precisa (chi, che cosa, dove, quando…). Qui ne vediamo forma e significato; la costruzione delle domande in generale è trattata nel capitolo «Le frasi interrogative».
+
+In cinese il pronome interrogativo occupa la stessa posizione che avrà la risposta: non si sposta all'inizio della frase come in italiano e l'ordine delle parole non cambia. Per rispondere basta sostituire il pronome con l'informazione richiesta.
+I pronomi interrogativi
+ex: A：你去哪儿？B：我去银行。 | A: Nǐ qù nǎr? B: Wǒ qù yínháng. | A: Dove vai? B: Vado in banca. (lett. tu andare dove?)
+ex: A：谁是你们的老师？B：李老师是我们的老师。 | A: Shéi shì nǐmen de lǎoshī? B: Lǐ lǎoshī shì wǒmen de lǎoshī. | A: Chi è il vostro insegnante? B: È il professor Li.
+ex: A：你什么时候回来？B：我下个月回来。 | A: Nǐ shénme shíhou huílai? B: Wǒ xià ge yuè huílai. | A: Quando torni? B: Torno il mese prossimo.
+Pronomi personali
+他 tā, 她 tā e 它 tā si pronunciano allo stesso modo, tā: la distinzione esiste solo nella scrittura. Il plurale si forma sempre con il suffisso 们 men.
+
+Il pronome oggetto occupa la stessa posizione di un nome oggetto, cioè dopo il verbo; non si anticipa mai come i pronomi atoni italiani (*ti* amo, *lo* conosco).
+I pronomi personali
+ex: 我认识他。 | Wǒ rènshi tā. | Io lo conosco.
+ex: 他认识我。 | Tā rènshi wǒ. | Lui mi conosce.
+ex: 我明天给你打电话。 | Wǒ míngtiān gěi nǐ dǎ diànhuà. | Domani ti telefono.
+Dimostrativi
+Da soli, 这 zhè e 那 nà si usano soprattutto come soggetto, in particolare davanti a 是 shì. Come oggetto si usano invece 这个 zhè ge e 那个 nà ge.
+
+All'inizio di una frase 那 nà può anche significare «allora, in tal caso»: 那我们走吧 nà wǒ men zǒu ba。 «Allora andiamo.» (vedi il capitolo «Frasi causali, ipotetiche e condizionali»).
+这 zhè e 那 nà usati da soli
+ex: 这是我的书。 | Zhè shì wǒ de shū. | Questo è il mio libro.
+ex: 那是什么？ | Nà shì shénme? | Che cos'è quello?
+ex: 这是我朋友马可。 | Zhè shì wǒ péngyou Mǎkě. | Questo è il mio amico Marco.
+Numeri cardinali
+I numerali (数词 shùcí) cinesi formano un sistema molto regolare: conoscendo le cifre da zero a dieci e poche unità superiori (百 bǎi «cento», 千 qiān «mille», 万 wàn «diecimila», 亿 yì «cento milioni») si può costruire qualsiasi numero. Richiedono attenzione soprattutto tre punti: l'uso di 零 líng per gli zeri interni, il raggruppamento delle cifre per quattro (万 wàn, 亿 yì) anziché per tre come in italiano, e la scelta tra 二 èr e 两 liǎng. Ricordiamo inoltre che tra un numerale e un nome è sempre necessario un classificatore (vedi il capitolo «I classificatori»).
+
+I numeri da 11 a 99 si formano per semplice combinazione, come se si dicesse «dieci-uno», «due-dieci», «due-dieci-uno».
+I numeri
+ex: 我今年二十五岁。 | Wǒ jīnnián èrshíwǔ suì. | Quest'anno ho venticinque anni.
+ex: 我们班有十八个学生。 | Wǒmen bān yǒu shíbā ge xuésheng. | Nella nostra classe ci sono diciotto studenti.
+ex: 这本书四十九块。 | Zhè běn shū sìshíjiǔ kuài. | Questo libro costa quarantanove yuan.
+Classificatori per gli oggetti
+I classificatori (量词 liàngcí), detti anche «parole di misura», sono uno dei tratti più caratteristici del cinese. Anche l'italiano ne possiede qualcosa: diciamo *tre fogli di carta*, *due paia di scarpe*, *un bicchiere d'acqua*. In cinese, però, questo tipo di costruzione è sistematico e riguarda tutti i nomi: non si può dire «tre libri» senza inserire una parola come 本 běn tra il numero e il nome. Si distinguono i classificatori nominali (名量词 míngliàngcí), che accompagnano i nomi, e i classificatori verbali (动量词 dòngliàngcí), che contano le azioni.
+
+Tra un numerale e il nome, ma anche dopo i dimostrativi 这 zhè e 那 nà, gli interrogativi 哪 nǎ e 几 jǐ e il pronome 每 měi, il classificatore è obbligatorio. Ogni nome ha il suo classificatore tipico, spesso legato alla forma o alla categoria dell'oggetto.
+I classificatori
+ex: 我买了三本书。 | Wǒ mǎi le sān běn shū. | Ho comprato tre libri.
+ex: 这本书是谁的？ | Zhè běn shū shì shéi de? | Di chi è questo libro?
+ex: 你要哪本书？ | Nǐ yào nǎ běn shū? | Quale libro vuoi?
+Contenitori come classificatori
+Le unità di misura (度量词 dùliàngcí) seguono direttamente il numerale, senza 个 gè. Accanto alle unità metriche (公斤 gōng jīn, 米 mǐ, 公里 gōng lǐ, 升 shēng) si usano ancora molto quelle tradizionali cinesi (斤 jīn, 两 liǎng, 里 lǐ): al mercato, in particolare, frutta, verdura e carne si vendono a 斤 jīn.
+
+Num + unità + N indica una quantità (三斤苹果 sān jīn píng guǒ «tre jin di mele»); Num + unità + 的 de + N descrive una caratteristica (一个五斤的西瓜 yí gè wǔ jīn de xī guā «un'anguria da cinque jin»).
+Classificatori di misura e contenitori
+ex: 我买了两斤苹果。 | Wǒ mǎi le liǎng jīn píngguǒ. | Ho comprato un chilo di mele. (lett. due jin)
+ex: 这个箱子有二十公斤。 | Zhège xiāngzi yǒu èrshí gōngjīn. | Questa valigia pesa venti chili.
+ex: 他一米八。 | Tā yì mǐ bā. | È alto un metro e ottanta.
+Unità di tempo
+Le espressioni di tempo (时间词 shíjiāncí) comprendono le date, le ore, i giorni della settimana e le parole come 今天 jīn tiān, 去年 qù nián, 现在 xiàn zài. In cinese seguono due principi fondamentali: si procede sempre dall'unità più grande alla più piccola (anno, mese, giorno, ora), cioè all'opposto dell'italiano, e, quando indicano il momento di un'azione, si collocano prima del verbo, senza preposizioni (vedi i capitoli «Il sostantivo» e «L'ordine delle parole»).
+
+Lo stesso principio vale per gli indirizzi, che cominciano dal paese e finiscono con il numero civico: 中国北京市海淀区 zhōng guó běi jīng shì hǎi diàn qū… «Cina, città di Pechino, distretto di Haidian…».
+Le espressioni di tempo
+ex: 2026年10月18日星期日上午九点 | èr líng èr liù nián shí yuè shíbā rì xīngqīrì shàngwǔ jiǔ diǎn | domenica 18 ottobre 2026, alle nove del mattino
+ex: 我是1998年5月3号出生的。 | Wǒ shì yī jiǔ jiǔ bā nián wǔ yuè sān hào chūshēng de. | Sono nato il 3 maggio 1998.
+ex: 会议下星期三下午两点开始。 | Huìyì xià xīngqīsān xiàwǔ liǎng diǎn kāishǐ. | La riunione comincia mercoledì prossimo alle due del pomeriggio.
+Avverbi di grado
+Gli avverbi (副词 fùcí) cinesi sono parole invariabili che modificano un verbo, un aggettivo o l'intero predicato, esprimendo grado, tempo, frequenza, ambito, negazione o il giudizio di chi parla. A differenza dell'italiano, in cui l'avverbio gode di una certa libertà («Parlo bene il cinese», «Già l'ho visto», «L'ho già visto»), in cinese la posizione è molto rigida: l'avverbio sta quasi sempre dopo il soggetto e prima del verbo (o dell'aggettivo). Un piccolo gruppo di avverbi che commentano l'intera frase può stare anche davanti al soggetto.
+
+Gli avverbi cinesi non si formano da aggettivi con un suffisso come «-mente»: sono per lo più parole a sé (已经 yǐ jīng, 常常 cháng cháng, 也 yě). Gli aggettivi che descrivono il modo di un'azione si usano come avverbiali con la particella 地 dì (认真地学习 rèn zhēn dì xué xí «studiare con impegno»): vedi il capitolo «Le particelle strutturali 的 de, 地 dì, 得 dé».
+Gli avverbi
+ex: 我也是学生。 | Wǒ yě shì xuésheng. | Anch'io sono uno studente.
+ex: 他已经回家了。 | Tā yǐjīng huí jiā le. | È già tornato a casa.
+ex: 我们都喜欢吃中国菜。 | Wǒmen dōu xǐhuan chī Zhōngguó cài. | A tutti noi piace la cucina cinese.
+Tutti
+Gli avverbi (副词 fùcí) cinesi sono parole invariabili che modificano un verbo, un aggettivo o l'intero predicato, esprimendo grado, tempo, frequenza, ambito, negazione o il giudizio di chi parla. A differenza dell'italiano, in cui l'avverbio gode di una certa libertà («Parlo bene il cinese», «Già l'ho visto», «L'ho già visto»), in cinese la posizione è molto rigida: l'avverbio sta quasi sempre dopo il soggetto e prima del verbo (o dell'aggettivo). Un piccolo gruppo di avverbi che commentano l'intera frase può stare anche davanti al soggetto.
+
+Gli avverbi cinesi non si formano da aggettivi con un suffisso come «-mente»: sono per lo più parole a sé (已经 yǐ jīng, 常常 cháng cháng, 也 yě). Gli aggettivi che descrivono il modo di un'azione si usano come avverbiali con la particella 地 dì (认真地学习 rèn zhēn dì xué xí «studiare con impegno»): vedi il capitolo «Le particelle strutturali 的 de, 地 dì, 得 dé».
+Gli avverbi
+ex: 我也是学生。 | Wǒ yě shì xuésheng. | Anch'io sono uno studente.
+ex: 他已经回家了。 | Tā yǐjīng huí jiā le. | È già tornato a casa.
+ex: 我们都喜欢吃中国菜。 | Wǒmen dōu xǐhuan chī Zhōngguó cài. | A tutti noi piace la cucina cinese.
+Avverbi per azioni in corso
+Il cinese distingue con cura due situazioni che chi parla italiano tende a confondere quando traduce: l'azione in corso di svolgimento (aspetto progressivo: «sta leggendo») e lo stato che perdura come risultato di un'azione (aspetto durativo: «è seduto», «la porta è aperta»). La prima si esprime con gli avverbi 在 zài, 正在 zhèng zài, 正 zhèng e con la particella 呢 ne; la seconda con la particella aspettuale 着 zhe.
+
+Il progressivo non indica il presente: con un'espressione di tempo o una frase con ……的时候 de shí hòu si colloca nel passato o nel futuro, come l'italiano «stavo facendo» o «starò facendo».
+Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe
+ex: 他在看书。 | Tā zài kàn shū. | Sta leggendo.
+ex: 妈妈正在做饭呢。 | Māma zhèngzài zuò fàn ne. | La mamma sta preparando da mangiare.
+ex: 我们正开会呢，等一会儿再打给你。 | Wǒmen zhèng kāihuì ne, děng yíhuìr zài dǎ gěi nǐ. | Siamo in riunione proprio adesso, ti richiamo tra un po'.
+Fare di nuovo
+Tutti e tre possono tradursi «di nuovo, ancora», ma si distinguono per il rapporto con il tempo dell'azione ripetuta.
+
+又 yòu e 还 hái precedono il modale; 再 zài lo segue.
+又 yòu, 再 zài e 还 hái
+ex: 他昨天来了，今天又来了。 | Tā zuótiān lái le, jīntiān yòu lái le. | È venuto ieri, e oggi è venuto di nuovo.
+ex: 你怎么又迟到了？ | Nǐ zěnme yòu chídào le? | Come mai sei di nuovo in ritardo?
+ex: 明天又是星期一了。 | Míngtiān yòu shì xīngqīyī le. | Domani è di nuovo lunedì.
+Anche e ancora
+Gli avverbi (副词 fùcí) cinesi sono parole invariabili che modificano un verbo, un aggettivo o l'intero predicato, esprimendo grado, tempo, frequenza, ambito, negazione o il giudizio di chi parla. A differenza dell'italiano, in cui l'avverbio gode di una certa libertà («Parlo bene il cinese», «Già l'ho visto», «L'ho già visto»), in cinese la posizione è molto rigida: l'avverbio sta quasi sempre dopo il soggetto e prima del verbo (o dell'aggettivo). Un piccolo gruppo di avverbi che commentano l'intera frase può stare anche davanti al soggetto.
+
+Gli avverbi cinesi non si formano da aggettivi con un suffisso come «-mente»: sono per lo più parole a sé (已经 yǐ jīng, 常常 cháng cháng, 也 yě). Gli aggettivi che descrivono il modo di un'azione si usano come avverbiali con la particella 地 dì (认真地学习 rèn zhēn dì xué xí «studiare con impegno»): vedi il capitolo «Le particelle strutturali 的 de, 地 dì, 得 dé».
+Gli avverbi
+ex: 我也是学生。 | Wǒ yě shì xuésheng. | Anch'io sono uno studente.
+ex: 他已经回家了。 | Tā yǐjīng huí jiā le. | È già tornato a casa.
+ex: 我们都喜欢吃中国菜。 | Wǒmen dōu xǐhuan chī Zhōngguó cài. | A tutti noi piace la cucina cinese.
+Negazione
+不 bù nega la volontà, l'abitudine, le azioni future, le verità generali, gli stati e le qualità; si usa con 是 shì, con il verbo 在 zài, con i verbi modali, con gli aggettivi e con i verbi che indicano stati psicologici e di conoscenza. 没 méi(有 yǒu) nega il fatto: dice che un'azione non è avvenuta o non si è compiuta, o che un cambiamento non si è (ancora) verificato; è inoltre l'unica negazione di 有 yǒu.
+
+La differenza più importante è quella fra 不 bù + V, che nega la volontà, l'abitudine o un'azione futura, e 没 méi + V, che nega che un'azione sia avvenuta. In italiano la differenza è espressa soprattutto dal tempo verbale:
+不 bù e 没 méi(有 yǒu): le regole fondamentali
+ex: 我不去。 | Wǒ bú qù. | Non ci vado. (decisione, volontà)
+ex: 我没去。 | Wǒ méi qù. | Non ci sono andato. (fatto)
+ex: 他不吃肉。 | Tā bù chī ròu. | Non mangia carne. (abitudine: per esempio è vegetariano)
+Preposizione di tempo e luogo
+在 zài + luogo, davanti al verbo, indica dove si svolge l'azione. Il luogo deve essere un vero nome di luogo (北京 běi jīng, 学校 xué xiào, 银行 yín háng, 家 jiā) oppure un nome comune seguito da una parola di localizzazione (桌子上 zhuō zi shàng, 房间里 fáng jiān lǐ, 我旁边 wǒ páng biān). Con i nomi di persona e i pronomi si aggiunge 这儿 zhè ér / 那儿 nà ér (vedi il capitolo «Il sostantivo»).
+
+Il 在 zài preposizione non va confuso con il 在 zài avverbio di azione in corso (我在吃饭 wǒ zài chī fàn «sto mangiando»): vedi il capitolo «Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe».
+Il luogo: 在 zài
+ex: 他们在咖啡馆聊天。 | Tāmen zài kāfēiguǎn liáotiān. | Chiacchierano al caffè.
+ex: 孩子们在公园里玩儿。 | Háizimen zài gōngyuán li wánr. | I bambini giocano nel parco.
+ex: 我在网上买了一本书。 | Wǒ zài wǎngshang mǎi le yì běn shū. | Ho comprato un libro su internet.
+Preposizioni: con e verso
+跟 gēn, 和 hé, 同 tóng e 与 yǔ introducono la persona con cui si compie un'azione o con cui si ha un rapporto («con»). Hanno lo stesso significato ma registri diversi: 跟 gēn è il più colloquiale (soprattutto al nord), 和 hé è neutro, 同 tóng è più frequente al sud e nello scritto, 与 yǔ è decisamente scritto e formale (titoli, documenti).
+
+Si usano con 一起 yì qǐ «insieme» e con i verbi che richiedono un partner: 说 shuō, 谈 tán, 商量 shāng liáng «discutere», 结婚 jié hūn «sposarsi», 见面 jiàn miàn «incontrarsi», 吵架 chǎo jià «litigare», 聊天 liáo tiān «chiacchierare», 合作 hé zuò «collaborare», 有关系 yǒu guān xì «avere a che fare con». Si usano anche nei confronti di uguaglianza 跟 gēn……一样 yī yàng (vedi il capitolo «Le frasi comparative»).
+Compagnia e relazione: 跟 gēn, 和 hé, 同 tóng, 与 yǔ
+ex: 我想跟你一起去。 | Wǒ xiǎng gēn nǐ yìqǐ qù. | Vorrei venire con te.
+ex: 你跟他说了吗？ | Nǐ gēn tā shuō le ma? | Gliel'hai detto?
+ex: 她跟一个中国人结婚了。 | Tā gēn yí ge Zhōngguó rén jiéhūn le. | Ha sposato un cinese.
+Unire nomi con «e»
+In questo capitolo si trattano tre tipi di frasi complesse coordinate: le frasi coordinate in senso stretto (并列复句 bìngliè fùjù), che accostano fatti o qualità di pari importanza; le frasi successive (承接复句 chéngjiē fùjù), che presentano azioni in ordine cronologico; le frasi progressive (递进复句 dìjìn fùjù), in cui la seconda proposizione «va oltre» la prima. Per i principi generali (ordine delle proposizioni, posizione di congiunzioni e avverbi) vedi il capitolo «Le frasi complesse: principi generali».
+
+又……又…… yòu… yòu… unisce due qualità o due stati che coesistono nello stesso soggetto («e… e…», «sia… sia…»). Si usa soprattutto con aggettivi, ma anche con verbi: in questo caso descrive azioni che si alternano o si ripetono in una scena vivace, oppure due sentimenti contrastanti.
+Frasi coordinate, successive e progressive
+ex: 这个苹果又大又甜。 | Zhège píngguǒ yòu dà yòu tián. | Questa mela è grande e dolce.
+ex: 他又高又帅。 | Tā yòu gāo yòu shuài. | È alto e bello.
+ex: 我又累又饿。 | Wǒ yòu lèi yòu è. | Sono stanco e affamato.
+La particella del possesso
+Le particelle strutturali (结构助词 jiégòu zhùcí) sono parole grammaticali prive di significato proprio che segnalano il rapporto tra due elementi della frase. Il cinese standard ne ha tre, tutte pronunciate *de* in tono neutro ma scritte con caratteri diversi:
+
+Delle tre, 的 de è di gran lunga la più frequente: è in assoluto uno dei caratteri più comuni della lingua cinese.
+Le particelle strutturali 的 de, 地 dì, 得 dé
+ex: 我得走了。 | Wǒ děi zǒu le. | Devo andare.
+ex: 他得了第一名。 | Tā dé le dì-yī míng. | Si è classificato primo.
+ex: 他跑得很快。 | Tā pǎo de hěn kuài. | Corre veloce.
+La particella dell’azione compiuta
+了 le è la particella più frequente e, per chi studia il cinese, la più insidiosa. In realtà dietro la stessa forma si nascondono due particelle diverse:
+
+Quando il verbo si trova in fondo alla frase, le due particelle coincidono in un unico 了 le (他走了 tā zǒu le。«Se n'è andato.»): vedi la sezione «了 le₁ e 了 le₂ insieme».
+La particella 了 le
+ex: 我买了三本书。 | Wǒ mǎi le sān běn shū. | Ho comprato tre libri.
+ex: 我看了那部电影。 | Wǒ kàn le nà bù diànyǐng. | Ho visto quel film.
+ex: 玛丽亚喝了一杯咖啡。 | Mǎlìyà hē le yì bēi kāfēi. | Maria ha bevuto un caffè.
+Particelle a fine frase
+吗 ma trasforma una frase dichiarativa in una domanda sì/no (vedi il capitolo «Le frasi interrogative»). Si usa anche nelle domande retoriche con 难道 nán dào e 不是 bú shì.
+
+吗 ma non si usa nelle domande con pronome interrogativo, nelle domande affermativo-negative, in quelle alternative con 还是 hái shì e insieme a 呢 ne.
+吗 ma
+ex: 你是老师吗？ | Nǐ shì lǎoshī ma? | Sei un insegnante?
+ex: 你明天有空吗？ | Nǐ míngtiān yǒu kòng ma? | Domani sei libero?
+ex: 你不是很忙吗？怎么有时间来？ | Nǐ bú shì hěn máng ma? Zěnme yǒu shíjiān lái? | Ma non eri tanto occupato? Come mai hai il tempo di venire?
+Rispondere al telefono
+Le interiezioni hanno spesso varianti grafiche e di tono (哎 āi, 唉 āi, 诶 ei per richiamare l'attenzione; 哈哈 hāhā per la risata; 哼 hng per il disprezzo). Più che memorizzarne i toni, conviene imitare l'intonazione dei parlanti nativi.
+啊 e 喂 wèi
+ex: 啊？你再说一遍。 | Á? Nǐ zài shuō yí biàn. | Come? Ripeti, per favore.
+ex: 啊，下雪了！ | À, xià xuě le! | Oh, nevica!
+ex: 喂，你的东西掉了！ | Wèi, nǐ de dōngxi diào le! | Ehi, ti è caduta una cosa!
+Gruppi coordinati
+In questo capitolo si trattano tre tipi di frasi complesse coordinate: le frasi coordinate in senso stretto (并列复句 bìngliè fùjù), che accostano fatti o qualità di pari importanza; le frasi successive (承接复句 chéngjiē fùjù), che presentano azioni in ordine cronologico; le frasi progressive (递进复句 dìjìn fùjù), in cui la seconda proposizione «va oltre» la prima. Per i principi generali (ordine delle proposizioni, posizione di congiunzioni e avverbi) vedi il capitolo «Le frasi complesse: principi generali».
+
+又……又…… yòu… yòu… unisce due qualità o due stati che coesistono nello stesso soggetto («e… e…», «sia… sia…»). Si usa soprattutto con aggettivi, ma anche con verbi: in questo caso descrive azioni che si alternano o si ripetono in una scena vivace, oppure due sentimenti contrastanti.
+Frasi coordinate, successive e progressive
+ex: 这个苹果又大又甜。 | Zhège píngguǒ yòu dà yòu tián. | Questa mela è grande e dolce.
+ex: 他又高又帅。 | Tā yòu gāo yòu shuài. | È alto e bello.
+ex: 我又累又饿。 | Wǒ yòu lèi yòu è. | Sono stanco e affamato.
+Modificatore prima del nome
+Quando un nome è preceduto da più attributi, questi seguono un ordine abbastanza fisso. In linea generale gli elementi che delimitano e identificano (a chi appartiene? quale? quanti?) vengono prima, quelli che descrivono (com'è?) vengono dopo, e gli elementi più strettamente legati al nome, che ne indicano il tipo o il materiale, stanno immediatamente prima di esso.
+
+Naturalmente è raro che siano presenti tutti insieme. Ecco alcuni esempi, dal più semplice al più complesso:
+L'ordine degli attributi multipli
+ex: 他那件红色的毛衣 | tā nà jiàn hóngsè de máoyī | quel suo maglione rosso
+ex: 我的那两本新买的中文书 | wǒ de nà liǎng běn xīn mǎi de Zhōngwén shū | quei miei due libri di cinese comprati da poco
+ex: 桌子上那个蓝色的大杯子 | zhuōzi shang nàge lánsè de dà bēizi | quel grande bicchiere blu sul tavolo
+Verbo e oggetto
+Come in italiano, l'ordine di base è soggetto – verbo – oggetto.
+
+A differenza dell'italiano, però, l'oggetto segue il verbo anche quando è un pronome: non esiste nulla di simile ai pronomi atoni italiani che precedono il verbo («ti amo», «lo vedo»).
+L'ordine di base soggetto – verbo – oggetto
+ex: 我喝茶。 | Wǒ hē chá. | Bevo tè.
+ex: 玛丽亚学习汉语。 | Mǎlìyà xuéxí Hànyǔ. | Maria studia cinese.
+ex: 小王喜欢踢足球。 | Xiǎo Wáng xǐhuan tī zúqiú. | A Xiao Wang piace giocare a calcio.
+Soggetto e predicato
+Nella frase a predicato soggetto-predicato (主谓谓语句 zhǔwèi wèiyǔ jù) il predicato è a sua volta formato da un soggetto e da un predicato. Il primo elemento della frase funziona come un tema: indica la persona, la cosa o il luogo di cui si parla; il secondo soggetto ne specifica una parte, un aspetto o un ambito; il predicato finale dice qualcosa di questo secondo soggetto.
+
+In italiano queste frasi si traducono quasi sempre ristrutturandole: con il verbo «avere» («ho mal di testa»), con complementi di limitazione («sta bene di salute») o con altri giri di frase.
+Frasi a predicato soggetto-predicato
+ex: 他身体很好。 | Tā shēntǐ hěn hǎo. | Sta bene di salute. (lett. lui, corpo molto bene)
+ex: 我头疼。 | Wǒ tóu téng. | Ho mal di testa. (lett. io, testa fa male)
+ex: 她眼睛很大。 | Tā yǎnjing hěn dà. | Ha gli occhi grandi.
+Gruppi con quantità
+I classificatori (量词 liàngcí), detti anche «parole di misura», sono uno dei tratti più caratteristici del cinese. Anche l'italiano ne possiede qualcosa: diciamo *tre fogli di carta*, *due paia di scarpe*, *un bicchiere d'acqua*. In cinese, però, questo tipo di costruzione è sistematico e riguarda tutti i nomi: non si può dire «tre libri» senza inserire una parola come 本 běn tra il numero e il nome. Si distinguono i classificatori nominali (名量词 míngliàngcí), che accompagnano i nomi, e i classificatori verbali (动量词 dòngliàngcí), che contano le azioni.
+
+Tra un numerale e il nome, ma anche dopo i dimostrativi 这 zhè e 那 nà, gli interrogativi 哪 nǎ e 几 jǐ e il pronome 每 měi, il classificatore è obbligatorio. Ogni nome ha il suo classificatore tipico, spesso legato alla forma o alla categoria dell'oggetto.
+I classificatori
+ex: 我买了三本书。 | Wǒ mǎi le sān běn shū. | Ho comprato tre libri.
+ex: 这本书是谁的？ | Zhè běn shū shì shéi de? | Di chi è questo libro?
+ex: 你要哪本书？ | Nǐ yào nǎ běn shū? | Quale libro vuoi?
+Gruppi con preposizioni
+Le preposizioni cinesi (介词 jiècí) introducono un nome o un pronome per indicare luogo, direzione, tempo, destinatario, causa, scopo, strumento e altre relazioni. Insieme al nome formano un sintagma preposizionale (介词短语 jiècí duǎnyǔ) che, di norma, si colloca davanti al verbo, dopo il soggetto: «Lavoro in banca» diventa «io + in banca + lavoro».
+
+Quasi tutte le preposizioni cinesi derivano storicamente da verbi, e molte si usano ancora anche come verbi: 在 zài «trovarsi», 给 gěi «dare», 到 dào «arrivare», 跟 gēn «seguire», 对 duì «essere rivolto a», 离 lí «separarsi», 朝 cháo «essere rivolto verso». Per questo le grammatiche occidentali le chiamano spesso *coverbi* (verbi che accompagnano il verbo principale).
+Le preposizioni
+ex: 我在家。 | Wǒ zài jiā. | Sono a casa. (在 zài verbo)
+ex: 我在家吃饭。 | Wǒ zài jiā chī fàn. | Mangio a casa. (在 zài preposizione)
+ex: 他给我一本书。 | Tā gěi wǒ yì běn shū. | Mi dà un libro. (给 gěi verbo)
+Gruppi di posizione
+Le parole di localizzazione (方位词 fāngwèicí) indicano una posizione nello spazio (sopra, sotto, dentro, davanti…) e, per estensione, nel tempo o in un ambito astratto. A differenza dell'italiano, che usa preposizioni poste prima del nome (*sul* tavolo, *nella* stanza), il cinese colloca il localizzatore dopo il nome: 桌子上 zhuōzi shang, lett. «tavolo-sopra».
+
+Le forme monosillabiche si attaccano direttamente al nome, senza 的 de. Dopo un nome, 上 shàng e 里 lǐ sono normalmente atoni: zhuōzi shang, fángjiān li.
+Le parole di localizzazione
+ex: 书在桌子上。 | Shū zài zhuōzi shang. | Il libro è sul tavolo. (lett. libro essere-a tavolo-sopra)
+ex: 他在房间里看书。 | Tā zài fángjiān li kàn shū. | Sta leggendo in camera.
+ex: 猫在床下。 | Māo zài chuáng xià. | Il gatto è sotto il letto.
+Il soggetto
+Come in italiano, l'ordine di base è soggetto – verbo – oggetto.
+
+A differenza dell'italiano, però, l'oggetto segue il verbo anche quando è un pronome: non esiste nulla di simile ai pronomi atoni italiani che precedono il verbo («ti amo», «lo vedo»).
+L'ordine di base soggetto – verbo – oggetto
+ex: 我喝茶。 | Wǒ hē chá. | Bevo tè.
+ex: 玛丽亚学习汉语。 | Mǎlìyà xuéxí Hànyǔ. | Maria studia cinese.
+ex: 小王喜欢踢足球。 | Xiǎo Wáng xǐhuan tī zúqiú. | A Xiao Wang piace giocare a calcio.
+Predicato nominale
+Nella frase a predicato nominale (名词谓语句 míngcí wèiyǔ jù) un nome o un'espressione nominale fa da predicato direttamente, senza 是 shì. Non si tratta di una possibilità generale: il predicato nominale si usa quasi soltanto con espressioni di tempo e con espressioni numeriche, cioè per indicare date, giorni della settimana, ore, età, prezzi, quantità, e inoltre per la provenienza e il tempo atmosferico. Sono frasi brevi, tipiche della lingua parlata.
+
+Il 斤 jīn è un'unità di peso tradizionale ancora molto usata nei mercati: corrisponde a mezzo chilo. Vedi il capitolo «I classificatori».
+Frasi a predicato nominale
+ex: 今天星期六。 | Jīntiān xīngqīliù. | Oggi è sabato.
+ex: 明天十月十九号。 | Míngtiān shí yuè shíjiǔ hào. | Domani è il 19 ottobre.
+ex: 现在三点半。 | Xiànzài sān diǎn bàn. | Sono le tre e mezza.
+Predicato verbale o aggettivale
+Nella frase a predicato aggettivale (形容词谓语句 xíngróngcí wèiyǔ jù) l'aggettivo fa da predicato da solo, senza alcun verbo, come se fosse un verbo che significa «essere alto», «essere stanco». Nella frase affermativa l'aggettivo è di solito preceduto da 很 hěn o da un altro avverbio di grado.
+
+In questa posizione 很 hěn ha un significato molto debole e non va tradotto sempre con «molto»: 我很好 wǒ hěn hǎo significa semplicemente «sto bene». Se manca qualunque avverbio, l'aggettivo da solo assume un valore di confronto o di contrasto, implicito o esplicito:
+Frasi a predicato aggettivale
+ex: 我很好。 | Wǒ hěn hǎo. | Sto bene.
+ex: 今天很冷。 | Jīntiān hěn lěng. | Oggi fa freddo.
+ex: 汉语很有意思。 | Hànyǔ hěn yǒu yìsi. | Il cinese è interessante.
+L’oggetto
+Come in italiano, l'ordine di base è soggetto – verbo – oggetto.
+
+A differenza dell'italiano, però, l'oggetto segue il verbo anche quando è un pronome: non esiste nulla di simile ai pronomi atoni italiani che precedono il verbo («ti amo», «lo vedo»).
+L'ordine di base soggetto – verbo – oggetto
+ex: 我喝茶。 | Wǒ hē chá. | Bevo tè.
+ex: 玛丽亚学习汉语。 | Mǎlìyà xuéxí Hànyǔ. | Maria studia cinese.
+ex: 小王喜欢踢足球。 | Xiǎo Wáng xǐhuan tī zúqiú. | A Xiao Wang piace giocare a calcio.
+L’attributo
+Quando un nome è preceduto da più attributi, questi seguono un ordine abbastanza fisso. In linea generale gli elementi che delimitano e identificano (a chi appartiene? quale? quanti?) vengono prima, quelli che descrivono (com'è?) vengono dopo, e gli elementi più strettamente legati al nome, che ne indicano il tipo o il materiale, stanno immediatamente prima di esso.
+
+Naturalmente è raro che siano presenti tutti insieme. Ecco alcuni esempi, dal più semplice al più complesso:
+L'ordine degli attributi multipli
+ex: 他那件红色的毛衣 | tā nà jiàn hóngsè de máoyī | quel suo maglione rosso
+ex: 我的那两本新买的中文书 | wǒ de nà liǎng běn xīn mǎi de Zhōngwén shū | quei miei due libri di cinese comprati da poco
+ex: 桌子上那个蓝色的大杯子 | zhuōzi shang nàge lánsè de dà bēizi | quel grande bicchiere blu sul tavolo
+Tempo e luogo prima del verbo
+Le espressioni di tempo che indicano quando avviene l'azione e le espressioni di luogo che indicano dove avviene si mettono prima del verbo. L'ordine normale è: prima il tempo, poi il luogo, poi il verbo.
+
+L'espressione di tempo può stare subito dopo il soggetto o prima del soggetto, all'inizio della frase. Messa all'inizio, fa da cornice a tutta la frase e riceve un certo rilievo, soprattutto quando è lunga o quando si contrappone a un altro tempo. Non può invece stare in fondo alla frase, come succede spesso in italiano («Vado a Pechino domani»).
+Tempo e luogo
+ex: 我明天去北京。 | Wǒ míngtiān qù Běijīng. | Domani vado a Pechino.
+ex: 明天我去北京。 | Míngtiān wǒ qù Běijīng. | Domani vado a Pechino.
+ex: 我每天早上七点起床。 | Wǒ měi tiān zǎoshang qī diǎn qǐchuáng. | Mi alzo ogni mattina alle sette.
+Complemento di quantità
+I complementi di quantità «misurano» l'azione o la qualità espressa dal predicato: per quanto tempo dura un'azione (complemento di durata), quante volte si compie (complemento di frequenza), di quanto differisce una qualità (complemento di quantità differenziale). Tutti si collocano dopo il verbo o l'aggettivo, a differenza dell'italiano, dove queste indicazioni sono molto libere nella frase.
+
+Il complemento di durata (时量补语 shíliàng bǔyǔ) indica per quanto tempo si svolge un'azione o dura uno stato. Segue il verbo, con 了 le o 过 guò se l'azione è compiuta o vissuta.
+I complementi di quantità
+ex: 我等了半个小时。 | Wǒ děng le bàn ge xiǎoshí. | Ho aspettato mezz'ora.
+ex: 他每天睡八个小时。 | Tā měi tiān shuì bā ge xiǎoshí. | Dorme otto ore al giorno.
+ex: 我们休息一会儿吧。 | Wǒmen xiūxi yíhuìr ba. | Riposiamoci un po'.
+Frase con predicato verbale
+Nella frase a predicato soggetto-predicato (主谓谓语句 zhǔwèi wèiyǔ jù) il predicato è a sua volta formato da un soggetto e da un predicato. Il primo elemento della frase funziona come un tema: indica la persona, la cosa o il luogo di cui si parla; il secondo soggetto ne specifica una parte, un aspetto o un ambito; il predicato finale dice qualcosa di questo secondo soggetto.
+
+In italiano queste frasi si traducono quasi sempre ristrutturandole: con il verbo «avere» («ho mal di testa»), con complementi di limitazione («sta bene di salute») o con altri giri di frase.
+Frasi a predicato soggetto-predicato
+ex: 他身体很好。 | Tā shēntǐ hěn hǎo. | Sta bene di salute. (lett. lui, corpo molto bene)
+ex: 我头疼。 | Wǒ tóu téng. | Ho mal di testa. (lett. io, testa fa male)
+ex: 她眼睛很大。 | Tā yǎnjing hěn dà. | Ha gli occhi grandi.
+Frase con predicato aggettivale
+L'aggettivo (形容词 xíngróngcí) cinese è molto più vicino al verbo di quello italiano: non concorda in genere e numero, può fare da predicato senza alcun verbo «essere» e, come il verbo, si nega con 不 bù e prende 了 le per indicare un cambiamento. Per questo alcune grammatiche lo chiamano «verbo di qualità». Quando modifica un nome, invece, lo precede sempre.
+
+Nella frase con predicato aggettivale (形容词谓语句 xíngróngcí wèiyǔ jù) l'aggettivo segue direttamente il soggetto: «essere» non si traduce.
+L'aggettivo
+ex: 今天很冷。 | Jīntiān hěn lěng. | Oggi fa freddo.
+ex: 她很漂亮。 | Tā hěn piàoliang. | È carina.
+ex: 我最近很忙。 | Wǒ zuìjìn hěn máng. | Ultimamente sono molto impegnato.
+Frase con predicato nominale
+Nella frase a predicato nominale (名词谓语句 míngcí wèiyǔ jù) un nome o un'espressione nominale fa da predicato direttamente, senza 是 shì. Non si tratta di una possibilità generale: il predicato nominale si usa quasi soltanto con espressioni di tempo e con espressioni numeriche, cioè per indicare date, giorni della settimana, ore, età, prezzi, quantità, e inoltre per la provenienza e il tempo atmosferico. Sono frasi brevi, tipiche della lingua parlata.
+
+Il 斤 jīn è un'unità di peso tradizionale ancora molto usata nei mercati: corrisponde a mezzo chilo. Vedi il capitolo «I classificatori».
+Frasi a predicato nominale
+ex: 今天星期六。 | Jīntiān xīngqīliù. | Oggi è sabato.
+ex: 明天十月十九号。 | Míngtiān shí yuè shíjiǔ hào. | Domani è il 19 ottobre.
+ex: 现在三点半。 | Xiànzài sān diǎn bàn. | Sono le tre e mezza.
+Frasi senza soggetto espresso
+Il soggetto si omette quando è chiaro dal contesto, soprattutto nelle frasi coordinate, nelle risposte, negli ordini e nelle frasi che descrivono fenomeni naturali.
+
+I pronomi soggetto si usano in cinese più spesso che in italiano, perché il verbo non indica la persona: 我去 wǒ qù «vado», 你去 nǐ qù «vai». Si omettono quando il contesto è chiaro, ma una frase isolata come 去 qù non dice chi va.
+L'omissione del soggetto
+ex: 我昨天去了超市，买了很多东西。 | Wǒ zuótiān qù le chāoshì, mǎi le hěn duō dōngxi. | Ieri sono andato al supermercato e ho comprato un sacco di cose.
+ex: 下雨了。 | Xià yǔ le. | Si è messo a piovere.
+ex: A：你在做什么？B：看电视。 | A: Nǐ zài zuò shénme? B: Kàn diànshì. | A: Che cosa stai facendo? B: Guardo la televisione.
+Frase dichiarativa
+In una lingua senza desinenze l'ordine delle parole (语序 yǔxù) è il principale strumento grammaticale: indica chi compie l'azione, che cosa la subisce, quali elementi modificano quali altri. L'ordine cinese è molto più rigido di quello italiano e segue pochi principi generali, che questo capitolo presenta uno per uno.
+
+Come in italiano, l'ordine di base è soggetto – verbo – oggetto.
+L'ordine delle parole
+ex: 我喝茶。 | Wǒ hē chá. | Bevo tè.
+ex: 玛丽亚学习汉语。 | Mǎlìyà xuéxí Hànyǔ. | Maria studia cinese.
+ex: 小王喜欢踢足球。 | Xiǎo Wáng xǐhuan tī zúqiú. | A Xiao Wang piace giocare a calcio.
+Domande sì/no
+Le domande con 吗 ma, dette anche domande sì/no (是非问句 shìfēi wènjù), si formano aggiungendo 吗 ma a una frase affermativa o negativa, senza cambiare nient'altro. Sono il tipo di domanda più semplice e più frequente.
+
+Il cinese non ha una parola che corrisponda esattamente a «sì». Per rispondere affermativamente si ripete il verbo, l'aggettivo o il verbo modale della domanda (senza l'oggetto); per rispondere negativamente lo si nega con 不 bù o 没 méi.
+Domande con 吗 ma
+ex: 你是学生吗？ | Nǐ shì xuésheng ma? | Sei uno studente?
+ex: 你喜欢吃辣的吗？ | Nǐ xǐhuan chī là de ma? | Ti piace il piccante?
+ex: 你明天来吗？ | Nǐ míngtiān lái ma? | Vieni domani?
+Domande aperte
+I pronomi interrogativi servono a formare le domande aperte, quelle che chiedono un'informazione precisa (chi, che cosa, dove, quando…). Qui ne vediamo forma e significato; la costruzione delle domande in generale è trattata nel capitolo «Le frasi interrogative».
+
+In cinese il pronome interrogativo occupa la stessa posizione che avrà la risposta: non si sposta all'inizio della frase come in italiano e l'ordine delle parole non cambia. Per rispondere basta sostituire il pronome con l'informazione richiesta.
+I pronomi interrogativi
+ex: A：你去哪儿？B：我去银行。 | A: Nǐ qù nǎr? B: Wǒ qù yínháng. | A: Dove vai? B: Vado in banca. (lett. tu andare dove?)
+ex: A：谁是你们的老师？B：李老师是我们的老师。 | A: Shéi shì nǐmen de lǎoshī? B: Lǐ lǎoshī shì wǒmen de lǎoshī. | A: Chi è il vostro insegnante? B: È il professor Li.
+ex: A：你什么时候回来？B：我下个月回来。 | A: Nǐ shénme shíhou huílai? B: Wǒ xià ge yuè huílai. | A: Quando torni? B: Torno il mese prossimo.
+Domande affermativo-negative
+Per chiedere una misura (età, altezza, lunghezza, distanza, peso, durata) si usa 多 duō «quanto» seguito da un aggettivo; davanti a 多 duō si può mettere 有 yǒu. Si usano gli aggettivi che indicano il polo «positivo» della misura: 大 dà, 高 gāo, 长 zhǎng, 远 yuǎn, 重 zhòng, 宽 kuān, 深 shēn, 久 jiǔ.
+
+Nella risposta la misura precede l'aggettivo, che spesso si omette:
+Domande con 多 duō + aggettivo
+ex: 你今年多大？ | Nǐ jīnnián duō dà? | Quanti anni hai?
+ex: 你多高？ | Nǐ duō gāo? | Quanto sei alto?
+ex: 长江有多长？ | Cháng Jiāng yǒu duō cháng? | Quanto è lungo il Fiume Azzurro?
+Richieste e comandi
+Questo capitolo tratta due tipi di frase che servono non tanto a informare quanto ad agire sull'interlocutore o a esprimere un'emozione: le frasi imperative (祈使句 qíshǐjù), con cui si dà un ordine, si chiede, si invita, si consiglia o si vieta, e le frasi esclamative (感叹句 gǎntànjù), con cui si manifesta sorpresa, ammirazione, gioia, dolore o disappunto.
+
+Il cinese non ha un modo imperativo: il verbo resta invariato (vedi il capitolo «Il verbo»). Una frase è imperativa per la situazione, l'intonazione e una serie di elementi che ne regolano la forza: il soggetto 你 nǐ/您 nín/你们 nǐ men (spesso omesso), avverbi come 快 kuài, 请 qǐng, 千万 qiān wàn, 一定 yí dìng, particelle modali come 吧 ba e 啊 a, e forme che attenuano l'azione come 一下 yī xià o la reduplicazione del verbo.
+Le frasi imperative ed esclamative
+ex: 听我说！ | Tīng wǒ shuō! | Ascoltami!
+ex: 你过来。 | Nǐ guòlai. | Vieni qui.
+ex: 同学们，打开书，看第十页。 | Tóngxuémen, dǎkāi shū, kàn dì-shí yè. | Ragazzi, aprite il libro e guardate pagina dieci.
+Esclamazioni
+太 tài + Agg + 了 le è la struttura esclamativa più comune. Ha due valori: un giudizio positivo entusiasta («che bello!», «fantastico!») oppure un eccesso («troppo»), secondo il contesto e l'aggettivo.
+
+La forma negativa 不太 bù tài + Agg «non molto» non è un'esclamazione ma un'attenuazione, e non richiede 了 le (vedi il capitolo «Gli avverbi»):
+太 tài……了 le
+ex: 太好了！ | Tài hǎo le! | Fantastico!
+ex: 你的中文太棒了！ | Nǐ de Zhōngwén tài bàng le! | Il tuo cinese è eccezionale!
+ex: 太感谢你了！ | Tài gǎnxiè nǐ le! | Grazie infinite!
+Identità e categoria
+La frase semplice (单句 dānjù) è formata da un soggetto e da un predicato. In italiano il predicato contiene sempre un verbo: anche quando si attribuisce una qualità al soggetto si usa il verbo «essere» («Marco è alto»). In cinese, invece, il predicato può essere un verbo, ma anche un aggettivo, un nome o perfino un'intera frase, senza alcun verbo copulativo. Questo capitolo presenta i tipi di predicato e il verbo 是 shì, che corrisponde solo in parte all'italiano «essere».
+
+Secondo la natura del predicato la grammatica cinese distingue quattro tipi di frase:
+La frase semplice e il verbo 是 shì
+ex: 他来了。 | Tā lái le. | È arrivato.
+ex: 我喜欢听音乐。 | Wǒ xǐhuan tīng yīnyuè. | Mi piace ascoltare musica.
+ex: 我是意大利人。 | Wǒ shì Yìdàlìrén. | Sono italiano.
+Il possesso
+Quando indica possesso, 有 yǒu si comporta come un normale verbo transitivo: il possessore è il soggetto e ciò che si possiede è l'oggetto. Se l'oggetto è numerabile, è spesso preceduto da numerale e classificatore (vedi il capitolo «I classificatori»).
+
+Come «avere» in italiano, 有 yǒu esprime anche il rapporto fra un tutto e le sue parti, le relazioni di parentela e molti possessi astratti:
+有 yǒu e il possesso
+ex: 我有一个哥哥。 | Wǒ yǒu yí ge gēge. | Ho un fratello maggiore.
+ex: 小王有两只猫。 | Xiǎo Wáng yǒu liǎng zhī māo. | Xiao Wang ha due gatti.
+ex: 李老师有很多中文书。 | Lǐ lǎoshī yǒu hěn duō Zhōngwén shū. | Il professor Li ha molti libri in cinese.
+Identificare qualcosa in un luogo
+Oltre a 有 yǒu e 是 shì, molti altri verbi possono comparire in frasi che indicano che qualcosa esiste, compare o scompare in un luogo. Queste frasi si chiamano esistenziali (存现句 cúnxiànjù, lett. «frasi di esistenza e di comparsa»). La struttura è la stessa della frase con 有 yǒu: all'inizio c'è un'espressione di luogo (o di tempo), poi il verbo, accompagnato da 着 zhe, da 了 le o da un complemento, e infine il nome della persona o della cosa che esiste, compare o scompare.
+
+Il verbo indica il modo in cui qualcosa si trova in un luogo (in piedi, appeso, scritto, parcheggiato…) ed è seguito da 着 zhe, che esprime uno stato che dura (vedi il capitolo «Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe»). Verbi tipici sono 站 zhàn, 坐 zuò, 躺 tǎng, 住 zhù, 挂 guà, 放 fàng, 摆 bǎi, 贴 tiē, 写 xiě, 停 tíng, 种 zhǒng.
+Le frasi esistenziali (存现句 cún xiàn jù)
+ex: 门口站着一个人。 | Ménkǒu zhàn zhe yí ge rén. | Alla porta c'è una persona (in piedi).
+ex: 墙上挂着两张画。 | Qiáng shang guà zhe liǎng zhāng huà. | Alla parete sono appesi due quadri.
+ex: 桌子上放着一杯咖啡。 | Zhuōzi shang fàng zhe yì bēi kāfēi. | Sul tavolo c'è una tazza di caffè.
+Dire che cosa c’è
+Le frasi che cominciano con 有人 yǒu rén «qualcuno» o con 没 méi(有 yǒu)人 rén «nessuno» non hanno un soggetto vero e proprio: il soggetto indefinito è introdotto da 有 yǒu (vedi sopra «Altri usi di 有 yǒu»).
+有人 yǒu rén e 没人 méi rén
+ex: 有人敲门。 | Yǒu rén qiāo mén. | Qualcuno bussa alla porta.
+ex: 有人在吗？ | Yǒu rén zài ma? | C'è qualcuno?
+ex: 没人知道他去哪儿了。 | Méi rén zhīdao tā qù nǎr le. | Nessuno sa dove sia andato.
+Azioni in successione e scopo
+Il primo verbo indica un movimento (去 qù, 来 lái, 回 huí, 到 dào, 上 shàng), il secondo lo scopo del movimento. Per lo scopo immediato di uno spostamento non serve 为了 wèi le «per».
+
+Il luogo può mancare. 来 lái + V senza alcun movimento indica anche che il parlante «si incarica» di fare qualcosa.
+Lo scopo
+ex: 我去商店买东西。 | Wǒ qù shāngdiàn mǎi dōngxi. | Vado al negozio a fare acquisti.
+ex: 他来中国学习汉语。 | Tā lái Zhōngguó xuéxí Hànyǔ. | È venuto in Cina a studiare il cinese.
+ex: 我们去图书馆借书吧。 | Wǒmen qù túshūguǎn jiè shū ba. | Andiamo in biblioteca a prendere dei libri in prestito.
+Il mezzo di un’azione
+Il primo verbo, con il suo oggetto, indica il mezzo di trasporto, lo strumento o il modo; il secondo l'azione principale. In italiano il mezzo segue di solito il verbo («vado a Pechino in aereo»); in cinese lo precede sempre.
+
+Con 着 zhe dopo il primo verbo si indica il modo o lo stato che accompagna l'azione principale, come un gerundio italiano (vedi il capitolo «Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe»).
+Il mezzo e il modo
+ex: 他坐飞机去北京。 | Tā zuò fēijī qù Běijīng. | Va a Pechino in aereo.
+ex: 我每天骑自行车上班。 | Wǒ měi tiān qí zìxíngchē shàng bān. | Ogni giorno vado al lavoro in bicicletta.
+ex: 中国人用筷子吃饭。 | Zhōngguórén yòng kuàizi chī fàn. | I cinesi mangiano con le bacchette.
+Verbi con due oggetti
+Un verbo, da solo o con il suo oggetto, può fare da soggetto o da oggetto di un altro verbo senza alcun cambiamento di forma: non servono infinito, articolo o suffissi. Dove l'italiano usa l'infinito («nuotare è divertente», «mi piace leggere»), il cinese mette semplicemente il verbo.
+Il verbo come soggetto e come oggetto
+ex: 游泳很有意思。 | Yóuyǒng hěn yǒu yìsi. | Nuotare è molto divertente.
+ex: 学汉语不太难。 | Xué Hànyǔ bú tài nán. | Studiare il cinese non è molto difficile.
+ex: 抽烟对身体不好。 | Chōuyān duì shēntǐ bù hǎo. | Fumare fa male alla salute.
+Frasi unite senza congiunzioni
+Una frase complessa (复句 fùjù) è formata da due o più proposizioni (分句 fēnjù) legate da un rapporto logico: causa, condizione, contrasto, successione e così via. Si contrappone alla frase semplice (单句 dānjù), che contiene un solo predicato principale. Il rapporto tra le proposizioni può essere espresso da parole di collegamento, dette in cinese 关联词语 guānlián cíyǔ («parole correlative»), oppure può restare implicito e affidato al contesto.
+
+In questa parte della grammatica si descrivono prima i principi comuni a tutte le frasi complesse (ordine delle proposizioni, posizione delle congiunzioni e degli avverbi correlativi, paratassi), poi i singoli tipi di rapporto nei capitoli successivi.
+Le frasi complesse: principi generali
+ex: 因为下雨，所以比赛取消了。 | Yīnwèi xià yǔ, suǒyǐ bǐsài qǔxiāo le. | Siccome pioveva, la partita è stata annullata.
+ex: 如果明天不下雨，我们就去爬山。 | Rúguǒ míngtiān bú xià yǔ, wǒmen jiù qù pá shān. | Se domani non piove, andiamo a fare un'escursione in montagna.
+ex: 只要你努力，就一定能学好。 | Zhǐyào nǐ nǔlì, jiù yídìng néng xuéhǎo. | Basta che ti impegni, e imparerai di sicuro.
+Aggiungere con «anche»
+既 jì……又 yòu…… jì… yòu… ha lo stesso valore di 又 yòu……又 yòu……, ma è più formale e sottolinea che entrambe le cose sono vere («sia… sia…», «tanto… quanto…»). 既 jì……也 yě…… si usa soprattutto con verbi e sintagmi verbali.
+
+既 jì……又 yòu…… (coordinazione) non va confuso con 既然 jì rán……就 jiù…… («dal momento che…»), che è causale (vedi il capitolo «Frasi causali, ipotetiche e condizionali»).
+既 jì……又 yòu/也 yě……
+ex: 她既聪明又漂亮。 | Tā jì cōngming yòu piàoliang. | È tanto intelligente quanto bella.
+ex: 这种方法既省时间又省钱。 | Zhè zhǒng fāngfǎ jì shěng shíjiān yòu shěng qián. | Questo metodo fa risparmiare sia tempo sia denaro.
+ex: 学习汉语，既要多听，也要多说。 | Xuéxí Hànyǔ, jì yào duō tīng, yě yào duō shuō. | Per imparare il cinese bisogna sia ascoltare molto, sia parlare molto.
+Aggiungere con «ancora»
+In questo capitolo si trattano tre tipi di frasi complesse coordinate: le frasi coordinate in senso stretto (并列复句 bìngliè fùjù), che accostano fatti o qualità di pari importanza; le frasi successive (承接复句 chéngjiē fùjù), che presentano azioni in ordine cronologico; le frasi progressive (递进复句 dìjìn fùjù), in cui la seconda proposizione «va oltre» la prima. Per i principi generali (ordine delle proposizioni, posizione di congiunzioni e avverbi) vedi il capitolo «Le frasi complesse: principi generali».
+
+又……又…… yòu… yòu… unisce due qualità o due stati che coesistono nello stesso soggetto («e… e…», «sia… sia…»). Si usa soprattutto con aggettivi, ma anche con verbi: in questo caso descrive azioni che si alternano o si ripetono in una scena vivace, oppure due sentimenti contrastanti.
+Frasi coordinate, successive e progressive
+ex: 这个苹果又大又甜。 | Zhège píngguǒ yòu dà yòu tián. | Questa mela è grande e dolce.
+ex: 他又高又帅。 | Tā yòu gāo yòu shuài. | È alto e bello.
+ex: 我又累又饿。 | Wǒ yòu lèi yòu è. | Sono stanco e affamato.
+Azione compiuta
+了 le è la particella più frequente e, per chi studia il cinese, la più insidiosa. In realtà dietro la stessa forma si nascondono due particelle diverse:
+
+Quando il verbo si trova in fondo alla frase, le due particelle coincidono in un unico 了 le (他走了 tā zǒu le。«Se n'è andato.»): vedi la sezione «了 le₁ e 了 le₂ insieme».
+La particella 了 le
+ex: 我买了三本书。 | Wǒ mǎi le sān běn shū. | Ho comprato tre libri.
+ex: 我看了那部电影。 | Wǒ kàn le nà bù diànyǐng. | Ho visto quel film.
+ex: 玛丽亚喝了一杯咖啡。 | Mǎlìyà hē le yì bēi kāfēi. | Maria ha bevuto un caffè.
+Cambiamento di situazione
+Se dopo il verbo (o dopo il verbo con il suo complemento) non c'è nient'altro, 了 le₁ e 了 le₂ si fondono in un unico 了 le, che indica allo stesso tempo l'azione compiuta e la situazione nuova.
+
+Quando la frase contiene sia 了 le₁ dopo il verbo sia 了 le₂ in fondo, con in mezzo una durata o una quantità, il significato cambia in modo importante: la durata o la quantità indicate sono quelle raggiunte *fino a questo momento*, e di solito l'azione continua.
+了 le₁ e 了 le₂ insieme
+ex: 他走了。 | Tā zǒu le. | Se n'è andato.
+ex: 我明白了。 | Wǒ míngbai le. | Ho capito.
+ex: 客人都来了。 | Kèrén dōu lái le. | Gli ospiti sono arrivati tutti.
+Azione in corso
+Il cinese distingue con cura due situazioni che chi parla italiano tende a confondere quando traduce: l'azione in corso di svolgimento (aspetto progressivo: «sta leggendo») e lo stato che perdura come risultato di un'azione (aspetto durativo: «è seduto», «la porta è aperta»). La prima si esprime con gli avverbi 在 zài, 正在 zhèng zài, 正 zhèng e con la particella 呢 ne; la seconda con la particella aspettuale 着 zhe.
+
+Il progressivo non indica il presente: con un'espressione di tempo o una frase con ……的时候 de shí hòu si colloca nel passato o nel futuro, come l'italiano «stavo facendo» o «starò facendo».
+Azione in corso e stato continuato: 在 zài, 正在 zhèng zài, 着 zhe
+ex: 他在看书。 | Tā zài kàn shū. | Sta leggendo.
+ex: 妈妈正在做饭呢。 | Māma zhèngzài zuò fàn ne. | La mamma sta preparando da mangiare.
+ex: 我们正开会呢，等一会儿再打给你。 | Wǒmen zhèng kāihuì ne, děng yíhuìr zài dǎ gěi nǐ. | Siamo in riunione proprio adesso, ti richiamo tra un po'.
+Azione in corso con particella finale
+Il progressivo non indica il presente: con un'espressione di tempo o una frase con ……的时候 de shí hòu si colloca nel passato o nel futuro, come l'italiano «stavo facendo» o «starò facendo».
+
+Se il verbo è preceduto da 在 zài + luogo (preposizione), il 在 zài progressivo non si ripete: un solo 在 zài svolge entrambe le funzioni. Per sottolineare il progressivo si aggiunge 正 zhèng o 呢 ne.
+在 zài, 正在 zhèng zài, 正 zhèng + V (+ 呢 ne)
+ex: 他在看书。 | Tā zài kàn shū. | Sta leggendo.
+ex: 妈妈正在做饭呢。 | Māma zhèngzài zuò fàn ne. | La mamma sta preparando da mangiare.
+ex: 我们正开会呢，等一会儿再打给你。 | Wǒmen zhèng kāihuì ne, děng yíhuìr zài dǎ gěi nǐ. | Siamo in riunione proprio adesso, ti richiamo tra un po'.
+Particella per azione in corso
+嘛 ma presenta qualcosa come ovvio, evidente («…, no?», «si sa», «è chiaro»); nelle richieste esprime un'insistenza affettuosa o capricciosa («dai!»); dopo il tema segna una pausa.
+
+呗 bei, tipico del parlato del nord, presenta una soluzione come ovvia e semplice, spesso con una sfumatura di rassegnazione o di indifferenza: «e allora…», «basta…», «che problema c'è».
+嘛 ma, 呗 bei, 罢了 bà le, 而已 ér yǐ, 的 de, 着呢 zhe ne, 哦 ó
+ex: 他还是个孩子嘛，别对他太严格。 | Tā hái shì ge háizi ma, bié duì tā tài yángé. | È ancora un bambino, no? Non essere troppo severo con lui.
+ex: 有问题就问嘛。 | Yǒu wèntí jiù wèn ma. | Se hai dei dubbi, chiedi, no?
+ex: 我早就说过嘛！ | Wǒ zǎo jiù shuō guo ma! | Te l'avevo detto, no?
+Prezzi e denaro
+I numerali (数词 shùcí) cinesi formano un sistema molto regolare: conoscendo le cifre da zero a dieci e poche unità superiori (百 bǎi «cento», 千 qiān «mille», 万 wàn «diecimila», 亿 yì «cento milioni») si può costruire qualsiasi numero. Richiedono attenzione soprattutto tre punti: l'uso di 零 líng per gli zeri interni, il raggruppamento delle cifre per quattro (万 wàn, 亿 yì) anziché per tre come in italiano, e la scelta tra 二 èr e 两 liǎng. Ricordiamo inoltre che tra un numerale e un nome è sempre necessario un classificatore (vedi il capitolo «I classificatori»).
+
+I numeri da 11 a 99 si formano per semplice combinazione, come se si dicesse «dieci-uno», «due-dieci», «due-dieci-uno».
+I numeri
+ex: 我今年二十五岁。 | Wǒ jīnnián èrshíwǔ suì. | Quest'anno ho venticinque anni.
+ex: 我们班有十八个学生。 | Wǒmen bān yǒu shíbā ge xuésheng. | Nella nostra classe ci sono diciotto studenti.
+ex: 这本书四十九块。 | Zhè běn shū sìshíjiǔ kuài. | Questo libro costa quarantanove yuan.
+Numeri ordinali
+Gli ordinali si formano anteponendo al numero il prefisso 第 dì. Se segue un nome, tra l'ordinale e il nome si inserisce il classificatore, come con i cardinali. In pinyin 第 dì si unisce al numero con un trattino: dì-yī, dì-èr. Negli ordinali si usa sempre 二 èr, mai 两 liǎng, e 一 yī conserva il primo tono.
+
+Nei racconti 第二天 dì èr tiān significa «il giorno dopo»; non va confuso con 两天 liǎng tiān «due giorni» (durata).
+I numeri ordinali
+ex: 这是我第一次来中国。 | Zhè shì wǒ dì-yī cì lái Zhōngguó. | È la prima volta che vengo in Cina.
+ex: 他考了第一名。 | Tā kǎo le dì-yī míng. | È arrivato primo all'esame.
+ex: 第二天，我们去了长城。 | Dì-èr tiān, wǒmen qù le Chángchéng. | Il giorno dopo siamo andati alla Grande Muraglia.
+Anni, mesi e giorni
+Le espressioni di tempo (时间词 shíjiāncí) comprendono le date, le ore, i giorni della settimana e le parole come 今天 jīn tiān, 去年 qù nián, 现在 xiàn zài. In cinese seguono due principi fondamentali: si procede sempre dall'unità più grande alla più piccola (anno, mese, giorno, ora), cioè all'opposto dell'italiano, e, quando indicano il momento di un'azione, si collocano prima del verbo, senza preposizioni (vedi i capitoli «Il sostantivo» e «L'ordine delle parole»).
+
+Lo stesso principio vale per gli indirizzi, che cominciano dal paese e finiscono con il numero civico: 中国北京市海淀区 zhōng guó běi jīng shì hǎi diàn qū… «Cina, città di Pechino, distretto di Haidian…».
+Le espressioni di tempo
+ex: 2026年10月18日星期日上午九点 | èr líng èr liù nián shí yuè shíbā rì xīngqīrì shàngwǔ jiǔ diǎn | domenica 18 ottobre 2026, alle nove del mattino
+ex: 我是1998年5月3号出生的。 | Wǒ shì yī jiǔ jiǔ bā nián wǔ yuè sān hào chūshēng de. | Sono nato il 3 maggio 1998.
+ex: 会议下星期三下午两点开始。 | Huìyì xià xīngqīsān xiàwǔ liǎng diǎn kāishǐ. | La riunione comincia mercoledì prossimo alle due del pomeriggio.
+Ore e minuti
+L'ora si indica con 点 diǎn (o 点钟 diǎnzhōng per le ore intere), i minuti con 分 fēn, il quarto d'ora con 刻 kè e la mezz'ora con 半 bàn; 差 chà «mancare» corrisponde all'italiano «meno».
+
+La parte del giorno si colloca prima dell'ora, secondo il principio «dal più grande al più piccolo»: 晚上八点 wǎn shàng bā diǎn «le otto di sera».
+L'ora
+ex: 八点半 | bā diǎn bàn | le otto e mezza
+ex: 十二点 | shí'èr diǎn | le dodici
+ex: 我晚上八点下班。 | Wǒ wǎnshang bā diǎn xià bān. | Stacco dal lavoro alle otto di sera.

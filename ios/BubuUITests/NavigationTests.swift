@@ -12,6 +12,31 @@ final class NavigationTests: XCTestCase {
         XCTAssertTrue(app.staticTexts["15 modi di usare il cinese"].waitForExistence(timeout: 5))
         capture("03-percorso")
     }
+    func testObjectiveReviewAndGrammar() {
+        let app = XCUIApplication(); app.launchArguments = ["--uitesting"]; app.launch()
+        app.tabBars.buttons["Ripasso"].tap()
+        app.buttons["start-review"].tap()
+        XCTAssertTrue(app.buttons["answer-1"].waitForExistence(timeout: 5))
+        XCTAssertFalse(app.staticTexts["card-back"].exists)
+        capture("04-ripasso-fronte")
+        app.buttons["answer-1"].tap()
+        XCTAssertTrue(app.staticTexts["card-back"].waitForExistence(timeout: 5))
+        capture("05-ripasso-retro")
+        app.buttons["continue-review"].tap()
+        app.buttons["answer-1"].tap()
+        app.buttons["continue-review"].tap()
+        XCTAssertTrue(app.textFields["pinyin-input"].waitForExistence(timeout: 5))
+        capture("06-pinyin")
+        app.textFields["pinyin-input"].tap(); app.textFields["pinyin-input"].typeText("ai")
+        app.swipeUp()
+        app.buttons["Verifica"].tap()
+        XCTAssertTrue(app.staticTexts["Da rivedere"].waitForExistence(timeout: 5))
+        app.tabBars.buttons["Livelli"].tap()
+        app.buttons["level-1"].tap(); app.swipeUp()
+        app.buttons.matching(NSPredicate(format: "label CONTAINS %@", "70 righe")).firstMatch.tap()
+        XCTAssertTrue(app.navigationBars["Grammatica"].waitForExistence(timeout: 5))
+        capture("07-grammatica")
+    }
     func capture(_ name: String) {
         let a = XCTAttachment(screenshot: XCUIScreen.main.screenshot()); a.name = name; a.lifetime = .keepAlways; add(a)
     }
