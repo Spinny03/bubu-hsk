@@ -1,0 +1,12 @@
+{
+  "sources": {
+    "hsk2025/hsk2025.json": "3fc084ca4b9ebff7a7d70dd7697a705df093de08cf70eb9552f7cf3082993fe2",
+    "hsk2025/l1_units.txt": "30ae84602c21575326d5bab27fe2aaf91c0c3d4beb43d67a0978404696f40479"
+  },
+  "syllabus": "2025-11",
+  "format": "2025-12",
+  "words": 300,
+  "characters": 246,
+  "writing": 100,
+  "units": 15
+}
